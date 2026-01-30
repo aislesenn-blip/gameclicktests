@@ -1,16 +1,24 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed (World Record?)",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "КПС Тест - Проверка скорости клика (Рекорд?)",
+    "description": "Как быстро вы можете кликать мышкой? Пройдите 10-секундный КПС Тест. Соревнуйтесь с друзьями и бейте мировые рекорды."
   },
   "ui": {
-    "h1": "CPS TEST BLITZ",
-    "start_btn": "CLICK TO START",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail (Too Slow!)",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?"
+    "h1": "Проверь Скорость Клика Мгновенно",
+    "description": "Измерьте свои Клики в Секунду (КПС) с нашим сверхбыстрым инструментом проверки рефлексов. Создано для геймеров, спидраннеров и профессиональных игроков по всему миру.",
+    "start_btn": "Начать КПС Тест",
+    "modes": "Режимы",
+    "share_txt": "Мой результат {score} CPS на Palmtweets. Попробуй побить!",
+    "score": "СЧЕТ",
+    "timer": "ВРЕМЯ",
+    "active": "КЛИКАЙ!",
+    "try_again": "ПОВТОРИТЬ",
+    "share": "ПОДЕЛИТЬСЯ",
+    "start": "СТАРТ",
+    "result_msg": "Твоя скорость выше средней. Сможешь побить свой личный рекорд?",
+    "slow": "🐢 Черепаха",
+    "fast": "⚡ Профи",
+    "superhuman": "👑 БОГ"
   },
   "cps_default": {
     "seo": {
@@ -185,39 +193,44 @@
     "keyboard": "Тест Клавиатуры"
   },
   "tool_layout": {
-    "about": "Sobre",
-    "how_to": "Como Usar",
-    "rank_up": "Como Subir de Nível?",
-    "faq": "Perguntas Frequentes",
-    "related": "Ferramentas Relacionadas",
-    "step1": "Clique no botão iniciar ou na área designada.",
-    "step2": "Realize a ação o mais rápido/preciso possível.",
-    "step3": "Veja seu resultado e compartilhe com amigos.",
-    "rank_turtle": "Tartaruga (0-5 CPS):",
-    "rank_turtle_desc": "Você está clicando muito devagar!",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "Velocidade média de jogador.",
-    "rank_god": "Lenda (10+ CPS):",
-    "rank_god_desc": "Você domina técnicas avançadas."
+    "about": "О тесте",
+    "how_to": "Как использовать",
+    "rank_up": "Как повысить ранг?",
+    "faq": "Частые вопросы",
+    "related": "Похожие инструменты",
+    "step1": "Нажмите кнопку старта или в обозначенную область.",
+    "step2": "Выполняйте действие как можно быстрее и точнее.",
+    "step3": "Посмотрите результат и поделитесь с друзьями.",
+    "rank_turtle": "Черепаха (0-5 КПС):",
+    "rank_turtle_desc": "Ты кликаешь слишком медленно! Попробуй напрячь руку.",
+    "rank_pro": "Профи (5-10 КПС):",
+    "rank_pro_desc": "Средняя скорость геймера.",
+    "rank_god": "Бог (10+ КПС):",
+    "rank_god_desc": "Ты владеешь продвинутыми техниками."
   },
   "game": {
-    "timer": "TEMPO",
-    "score": "PONTOS",
-    "start": "COMEÇAR",
-    "active": "CLIQUE RÁPIDO!",
-    "try_again": "TENTAR DE NOVO",
-    "share": "COMPARTILHAR",
-    "click_to_start": "Clique para começar",
-    "wait_green": "Aguarde o Verde...",
-    "click_now": "CLIQUE!",
-    "too_soon": "Muito cedo!",
-    "superhuman": "⚡ Super-humano",
-    "fast": "🚀 Rápido",
-    "slow": "🐢 Lento",
-    "try_again_text": "Clique para tentar de novo",
-    "test_complete": "Teste Completo!",
-    "restart": "Reiniciar",
-    "last_key": "ÚLTIMA TECLA",
-    "reset": "RESETAR"
+    "timer": "ВРЕМЯ",
+    "score": "СЧЕТ",
+    "start": "СТАРТ",
+    "active": "КЛИКАЙ!",
+    "try_again": "ПОВТОРИТЬ",
+    "share": "ПОДЕЛИТЬСЯ",
+    "result_msg": "Твоя скорость выше средней. Сможешь побить свой личный рекорд?",
+    "slow": "🐢 Черепаха",
+    "fast": "⚡ Профи",
+    "superhuman": "👑 БОГ"
+  },
+  "footer": {
+    "tagline": "Самая быстрая в мире платформа для проверки рефлексов и скорости."
+  },
+  "seo_content": {
+    "h2_improve": "Как улучшить скорость клика",
+    "p_improve": "Улучшение скорости клика требует практики, техники и правильного оборудования. Начните с расслабления мышц руки, чтобы уменьшить напряжение. Используйте игровую мышь с переключателями с низкой задержкой. Практикуйтесь ежедневно по 10-15 минут для развития мышечной памяти.",
+    "h2_styles": "Butterfly clicking против Jitter clicking",
+    "p_styles": "Jitter clicking включает вибрацию мышц руки для быстрого клика, часто достигая 10-14 КПС. Butterfly clicking использует два пальца на одной кнопке, чередуя удары для достижения 15-20+ КПС. Butterfly обычно безопаснее для сухожилий, но требует мыши, поддерживающей двойной клик.",
+    "h2_record": "Какой мировой рекорд по КПС",
+    "p_record": "Мировой рекорд по КПС зависит от продолжительности. За 1 секунду некоторые игроки достигают 30+ КПС, используя Drag Clicking. Для стандартного теста на 10 секунд рекорды колеблются около 22-24 КПС с использованием продвинутых техник.",
+    "h2_useful": "Полезен ли тест КПС для геймеров?",
+    "p_useful": "Да. Высокий КПС критически важен в играх, таких как Minecraft (PvP bridging), OSU! и шутерах от первого лица, где используется полуавтоматическое оружие. Отслеживание вашего КПС помогает измерить ваше физическое улучшение и готовность к соревновательной игре."
   }
 }

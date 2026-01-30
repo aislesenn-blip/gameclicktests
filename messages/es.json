@@ -1,16 +1,24 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed (World Record?)",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "Test de Velocidad de Clic - Contador de Clicks (Gratis)",
+    "description": "¿Qué tan rápido puedes hacer clic? Haz el Test de CPS de 10 segundos. Desafía a tus amigos y bate el récord mundial. Compatible con Jitter y Butterfly Click."
   },
   "ui": {
-    "h1": "CPS TEST BLITZ",
-    "start_btn": "CLICK TO START",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail (Too Slow!)",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?"
+    "h1": "Prueba Tu Velocidad de Clic Al Instante",
+    "description": "Mide tus Clics Por Segundo (CPS) con nuestra herramienta de prueba de reflejos ultrarrápida. Creada para gamers, speed runners y jugadores competitivos de todo el mundo.",
+    "start_btn": "Iniciar Test CPS",
+    "modes": "Modos de Prueba",
+    "share_txt": "Hice {score} CPS en Palmtweets. ¿Puedes vencerme?",
+    "score": "PUNTOS",
+    "timer": "TIEMPO",
+    "active": "¡CLIC RÁPIDO!",
+    "try_again": "INTENTAR DE NUEVO",
+    "share": "COMPARTIR",
+    "start": "EMPEZAR",
+    "result_msg": "Tu velocidad está por encima del promedio. ¿Puedes superar tu récord personal?",
+    "slow": "🐢 Tortuga",
+    "fast": "⚡ Pro",
+    "superhuman": "👑 DIOS"
   },
   "cps_default": {
     "seo": {
@@ -186,38 +194,43 @@
   },
   "tool_layout": {
     "about": "Sobre",
-    "how_to": "Como Usar",
-    "rank_up": "Como Subir de Nível?",
-    "faq": "Perguntas Frequentes",
-    "related": "Ferramentas Relacionadas",
-    "step1": "Clique no botão iniciar ou na área designada.",
-    "step2": "Realize a ação o mais rápido/preciso possível.",
-    "step3": "Veja seu resultado e compartilhe com amigos.",
-    "rank_turtle": "Tartaruga (0-5 CPS):",
-    "rank_turtle_desc": "Você está clicando muito devagar!",
+    "how_to": "Cómo Usar",
+    "rank_up": "¿Cómo Subir de Rango?",
+    "faq": "Preguntas Frecuentes",
+    "related": "Herramientas Relacionadas",
+    "step1": "Haz clic en el botón de inicio o en el área designada.",
+    "step2": "Realiza la acción lo más rápido/preciso posible.",
+    "step3": "Mira tu resultado y compártelo con amigos.",
+    "rank_turtle": "Tortuga (0-5 CPS):",
+    "rank_turtle_desc": "¡Estás haciendo clic muy lento!",
     "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "Velocidade média de jogador.",
-    "rank_god": "Lenda (10+ CPS):",
-    "rank_god_desc": "Você domina técnicas avançadas."
+    "rank_pro_desc": "Velocidad media de jugador.",
+    "rank_god": "Dios (10+ CPS):",
+    "rank_god_desc": "Dominas técnicas avanzadas."
   },
   "game": {
-    "timer": "TEMPO",
-    "score": "PONTOS",
-    "start": "COMEÇAR",
-    "active": "CLIQUE RÁPIDO!",
-    "try_again": "TENTAR DE NOVO",
-    "share": "COMPARTILHAR",
-    "click_to_start": "Clique para começar",
-    "wait_green": "Aguarde o Verde...",
-    "click_now": "CLIQUE!",
-    "too_soon": "Muito cedo!",
-    "superhuman": "⚡ Super-humano",
-    "fast": "🚀 Rápido",
-    "slow": "🐢 Lento",
-    "try_again_text": "Clique para tentar de novo",
-    "test_complete": "Teste Completo!",
-    "restart": "Reiniciar",
-    "last_key": "ÚLTIMA TECLA",
-    "reset": "RESETAR"
+    "timer": "TIEMPO",
+    "score": "PUNTOS",
+    "start": "EMPEZAR",
+    "active": "¡CLIC RÁPIDO!",
+    "try_again": "INTENTAR DE NUEVO",
+    "share": "COMPARTIR",
+    "result_msg": "Tu velocidad está por encima del promedio. ¿Puedes superar tu récord personal?",
+    "slow": "🐢 Tortuga",
+    "fast": "⚡ Pro",
+    "superhuman": "👑 DIOS"
+  },
+  "footer": {
+    "tagline": "La plataforma de pruebas de velocidad y reflejos más rápida del mundo."
+  },
+  "seo_content": {
+    "h2_improve": "Cómo mejorar tu velocidad de clic",
+    "p_improve": "Mejorar tu velocidad de clic requiere práctica, técnica y el hardware adecuado. Comienza relajando los músculos de la mano para reducir la tensión. Usa un mouse gamer con switches de baja latencia. Practica diariamente durante 10-15 minutos para desarrollar memoria muscular.",
+    "h2_styles": "Butterfly clicking vs Jitter clicking",
+    "p_styles": "Jitter clicking implica vibrar los músculos del brazo para hacer clic rápido, alcanzando a menudo 10-14 CPS. Butterfly clicking usa dos dedos en un botón, alternando golpes para lograr 15-20+ CPS. Butterfly es generalmente más seguro para tus tendones pero requiere un mouse que soporte doble clic.",
+    "h2_record": "Cuál es el récord mundial de CPS",
+    "p_record": "El récord mundial de CPS varía según la duración. Para 1 segundo, algunos jugadores alcanzan 30+ CPS usando Drag Clicking. Para la prueba estándar de 10 segundos, los récords rondan los 22-24 CPS usando técnicas avanzadas.",
+    "h2_useful": "¿Es útil la prueba de CPS para gamers?",
+    "p_useful": "Sí. Un CPS alto es crítico en juegos como Minecraft (PvP bridging), OSU! y FPS donde se usan armas semiautomáticas. Rastrear tu CPS ayuda a medir tu mejora física y preparación para el juego competitivo."
   }
 }

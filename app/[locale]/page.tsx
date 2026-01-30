@@ -12,13 +12,15 @@ export function generateStaticParams() {
 export default function Home({ params: { locale } }: { params: { locale: string } }) {
   const t = useTranslations('ui');
   const tSeo = useTranslations('seo');
+  const tSeoContent = useTranslations('seo_content');
+  const tFaq = useTranslations('faq.cps');
 
   const jsonLd = SOFTWARE_APPLICATION_SCHEMA(tSeo('title'), tSeo('description'));
 
   const faqData = [
-    { question: "What is CPS Test?", answer: "CPS stands for Clicks Per Second. It is a measure of how fast you can click your mouse in a given time frame." },
-    { question: "What is a good CPS score?", answer: "The average human click speed is about 6-7 CPS. Professional gamers can achieve 12+ CPS using techniques like Jitter or Butterfly clicking." },
-    { question: "How to improve click speed?", answer: "Practice techniques like Jitter Clicking or Butterfly Clicking. Use a gaming mouse with good switches and lower debouncetime." }
+    { question: tFaq('q1.question'), answer: tFaq('q1.answer') },
+    { question: tFaq('q2.question'), answer: tFaq('q2.answer') },
+    { question: tFaq('q3.question'), answer: tFaq('q3.answer') }
   ];
   const faqSchema = FAQ_SCHEMA(faqData);
 
@@ -59,18 +61,17 @@ export default function Home({ params: { locale } }: { params: { locale: string 
 
       {/* Content / SEO Text */}
       <section className="prose prose-invert max-w-3xl mx-auto mt-12">
-        <h2 className="text-neon-green">About the CPS Test</h2>
-        <p>
-          The <strong>CPS Test</strong> (Clicks Per Second) is the ultimate way to measure your finger speed and mouse clicking capability.
-          Used by millions of gamers worldwide, specifically in Minecraft PvP communities, this tool helps you track your improvement over time.
-        </p>
+        <h2 className="text-neon-green">{tSeoContent('h2_improve')}</h2>
+        <p>{tSeoContent('p_improve')}</p>
 
-        <h3 className="text-neon-green">How to Rank Up?</h3>
-        <ul>
-          <li><strong>Turtle (0-5 CPS):</strong> You are clicking too slow! Try to tense your arm muscles.</li>
-          <li><strong>Pro (5-10 CPS):</strong> The average gamer speed. Good for casual play.</li>
-          <li><strong>Godlike (10+ CPS):</strong> You are mastering advanced techniques like Jitter or Butterfly clicking.</li>
-        </ul>
+        <h3 className="text-neon-green">{tSeoContent('h2_styles')}</h3>
+        <p>{tSeoContent('p_styles')}</p>
+
+        <h3 className="text-neon-green">{tSeoContent('h2_record')}</h3>
+        <p>{tSeoContent('p_record')}</p>
+
+        <h3 className="text-neon-green">{tSeoContent('h2_useful')}</h3>
+        <p>{tSeoContent('p_useful')}</p>
 
         <h3 className="text-neon-green">FAQ</h3>
         <dl className="space-y-4">

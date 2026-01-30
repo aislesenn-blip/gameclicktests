@@ -1,16 +1,24 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed (World Record?)",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "Teste de CPS - Qual é a sua Velocidade de Clique?",
+    "description": "Teste de Click rápido. Verifique quantos clicks por segundo (CPS) você consegue fazer. Modo Jitter e Butterfly disponíveis. Rank Mundial."
   },
   "ui": {
-    "h1": "CPS TEST BLITZ",
-    "start_btn": "CLICK TO START",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail (Too Slow!)",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?"
+    "h1": "Teste Sua Velocidade de Clique Instantaneamente",
+    "description": "Meça seus Cliques Por Segundo (CPS) com nossa ferramenta de teste de reflexo ultra-rápida. Feito para gamers, speed runners e jogadores competitivos em todo o mundo.",
+    "start_btn": "Iniciar Teste CPS",
+    "modes": "Modos de Teste",
+    "share_txt": "Fiz {score} CPS no Palmtweets. Duvido você ganhar!",
+    "score": "PONTOS",
+    "timer": "TEMPO",
+    "active": "CLIQUE RÁPIDO!",
+    "try_again": "TENTAR DE NOVO",
+    "share": "COMPARTILHAR",
+    "start": "COMEÇAR",
+    "result_msg": "Sua velocidade está acima da média. Você consegue bater seu recorde pessoal?",
+    "slow": "🐢 Tartaruga",
+    "fast": "⚡ Pro",
+    "superhuman": "👑 LENDA"
   },
   "cps_default": {
     "seo": {
@@ -207,17 +215,22 @@
     "active": "CLIQUE RÁPIDO!",
     "try_again": "TENTAR DE NOVO",
     "share": "COMPARTILHAR",
-    "click_to_start": "Clique para começar",
-    "wait_green": "Aguarde o Verde...",
-    "click_now": "CLIQUE!",
-    "too_soon": "Muito cedo!",
-    "superhuman": "⚡ Super-humano",
-    "fast": "🚀 Rápido",
-    "slow": "🐢 Lento",
-    "try_again_text": "Clique para tentar de novo",
-    "test_complete": "Teste Completo!",
-    "restart": "Reiniciar",
-    "last_key": "ÚLTIMA TECLA",
-    "reset": "RESETAR"
+    "result_msg": "Sua velocidade está acima da média. Você consegue bater seu recorde pessoal?",
+    "slow": "🐢 Tartaruga",
+    "fast": "⚡ Pro",
+    "superhuman": "👑 LENDA"
+  },
+  "footer": {
+    "tagline": "A plataforma de teste de reflexo e velocidade mais rápida do mundo."
+  },
+  "seo_content": {
+    "h2_improve": "Como melhorar sua velocidade de clique",
+    "p_improve": "Melhorar sua velocidade de clique requer prática, técnica e o hardware certo. Comece relaxando os músculos da mão para reduzir a tensão. Use um mouse gamer com switches de baixa latência. Pratique diariamente por 10-15 minutos para construir memória muscular.",
+    "h2_styles": "Butterfly clicking vs Jitter clicking",
+    "p_styles": "Jitter clicking envolve vibrar os músculos do braço para clicar rápido, frequentemente atingindo 10-14 CPS. Butterfly clicking usa dois dedos em um botão, alternando golpes para atingir 15-20+ CPS. Butterfly é geralmente mais seguro para seus tendões, mas requer um mouse que suporte clique duplo.",
+    "h2_record": "Qual é o recorde mundial de CPS",
+    "p_record": "O recorde mundial de CPS varia pela duração. Para 1 segundo, alguns jogadores atingem 30+ CPS usando Drag Clicking. Para o teste padrão de 10 segundos, os recordes giram em torno de 22-24 CPS usando técnicas avançadas.",
+    "h2_useful": "O teste de CPS é útil para gamers?",
+    "p_useful": "Sim. CPS alto é crítico em jogos como Minecraft (PvP bridging), OSU! e FPS onde armas semiautomáticas são usadas. Rastrear seu CPS ajuda a medir sua melhoria física e prontidão para o jogo competitivo."
   }
 }

@@ -60,6 +60,8 @@ export default async function LocaleLayout({
   const t = (messages as any).nav;
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const tm = (messages as any).mobile_nav;
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const tf = (messages as any).footer;
   const currentYear = new Date().getFullYear();
 
   return (
@@ -135,7 +137,7 @@ export default async function LocaleLayout({
           {/* Footer */}
           <footer className="border-t border-gray-800 bg-black py-8 mt-12">
             <div className="max-w-7xl mx-auto px-4 text-center text-gray-600 text-sm">
-              <p>&copy; {currentYear} Palmtweets. The #1 Global Speed Test Platform.</p>
+              <p>&copy; {currentYear} Palmtweets. {tf.tagline}</p>
               <div className="mt-4 flex justify-center gap-4">
                 <Link href={`/${locale}`} className="hover:text-gray-400">{t.home}</Link>
                 <Link href={`/${locale}/cps`} className="hover:text-gray-400">{t.cps}</Link>
