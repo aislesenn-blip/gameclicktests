@@ -99,5 +99,63 @@
     "reaction": "Reaction",
     "typing": "Typing",
     "keyboard": "Keyboard"
+  },
+  "faq": {
+    "cps": {
+      "q1": {
+        "question": "Apa itu CPS?",
+        "answer": "Klik Per Detik (CPS) mengukur seberapa cepat Anda bisa mengklik mouse."
+      },
+      "q2": {
+        "question": "Bagaimana cara meningkatkan CPS?",
+        "answer": "Gunakan teknik seperti Jitter Click atau Butterfly Click dan mouse gaming."
+      },
+      "q3": {
+        "question": "Apakah tes ini akurat?",
+        "answer": "Ya, alat kami menggunakan pengukuran waktu yang tepat."
+      }
+    },
+    "reaction": {
+      "q1": {
+        "question": "Apa itu waktu reaksi?",
+        "answer": "Waktu yang dibutuhkan otak Anda untuk memproses sinyal visual dan merespons."
+      },
+      "q2": {
+        "question": "Berapa waktu reaksi yang baik?",
+        "answer": "Rata-rata adalah 250ms. Di bawah 200ms sangat baik."
+      },
+      "q3": {
+        "question": "Bagaimana cara meningkatkan refleks?",
+        "answer": "Berlatih secara teratur, cukup tidur, dan tetap terhidrasi."
+      }
+    },
+    "typing": {
+      "q1": {
+        "question": "Apa itu WPM?",
+        "answer": "Kata Per Menit mengukur kecepatan mengetik."
+      },
+      "q2": {
+        "question": "Bagaimana cara mengetik lebih cepat?",
+        "answer": "Latih mengetik sentuh dan hindari melihat keyboard."
+      },
+      "q3": {
+        "question": "Berapa WPM yang bagus?",
+        "answer": "Rata-rata adalah 40 WPM. Pengetik profesional mencapai 100+ WPM."
+      }
+    },
+    "keyboard": {
+      "q1": {
+        "question": "Apa itu Ghosting?",
+        "answer": "Ketika keyboard gagal mendaftarkan beberapa penekanan tombol secara bersamaan."
+      },
+      "q2": {
+        "question": "Apa itu Key Rollover?",
+        "answer": "Jumlah maksimum tombol yang dapat ditekan sekaligus."
+      },
+      "q3": {
+        "question": "Bagaimana cara menguji tombol saya?",
+        "answer": "Tekan setiap tombol pada keyboard Anda dan pastikan menyala hijau di layar."
+      }
+    }
   }
 }

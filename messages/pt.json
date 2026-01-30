@@ -99,5 +99,63 @@
     "reaction": "Reaction",
     "typing": "Typing",
     "keyboard": "Keyboard"
+  },
+  "faq": {
+    "cps": {
+      "q1": {
+        "question": "O que é CPS?",
+        "answer": "Cliques Por Segundo (CPS) mede a velocidade com que você clica no mouse."
+      },
+      "q2": {
+        "question": "Como aumentar o CPS?",
+        "answer": "Use técnicas como Jitter Click ou Butterfly Click e um mouse gamer."
+      },
+      "q3": {
+        "question": "Este teste é preciso?",
+        "answer": "Sim, nossa ferramenta usa medições precisas de tempo."
+      }
+    },
+    "reaction": {
+      "q1": {
+        "question": "O que é tempo de reação?",
+        "answer": "O tempo que seu cérebro leva para processar um sinal visual e responder."
+      },
+      "q2": {
+        "question": "Qual é um bom tempo de reação?",
+        "answer": "A média é 250ms. Abaixo de 200ms é excelente."
+      },
+      "q3": {
+        "question": "Como melhorar reflexos?",
+        "answer": "Pratique regularmente, durma bem e mantenha-se hidratado."
+      }
+    },
+    "typing": {
+      "q1": {
+        "question": "O que é WPM?",
+        "answer": "Palavras Por Minuto mede a velocidade de digitação."
+      },
+      "q2": {
+        "question": "Como digitar mais rápido?",
+        "answer": "Pratique a digitação por toque e evite olhar para o teclado."
+      },
+      "q3": {
+        "question": "Qual é um bom WPM?",
+        "answer": "A média é 40 WPM. Digitadores profissionais chegam a 100+ WPM."
+      }
+    },
+    "keyboard": {
+      "q1": {
+        "question": "O que é Ghosting?",
+        "answer": "Quando um teclado falha ao registrar múltiplos toques simultâneos."
+      },
+      "q2": {
+        "question": "O que é Key Rollover?",
+        "answer": "O número máximo de teclas que podem ser pressionadas de uma vez."
+      },
+      "q3": {
+        "question": "Como testar minhas teclas?",
+        "answer": "Pressione cada tecla do seu teclado e verifique se ela acende em verde na tela."
+      }
+    }
   }
 }

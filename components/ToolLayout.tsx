@@ -16,28 +16,31 @@ interface ToolLayoutProps {
 const ToolLayout: React.FC<ToolLayoutProps> = ({ children, toolKey, category, locale }) => {
   const t = useTranslations(toolKey);
   const tSeo = useTranslations(`${toolKey}.seo`);
+  const tNav = useTranslations("nav");
+
+  // Use generic FAQ keys based on category
+  const faqCategory = category === 'CPS' ? 'cps'
+                    : category === 'Reaction' ? 'reaction'
+                    : category === 'Typing' ? 'typing'
+                    : 'keyboard';
+
+  const tFaq = useTranslations(`faq.${faqCategory}`);
 
   const title = t('h1');
   const description = tSeo('description');
 
   const jsonLd = SOFTWARE_APPLICATION_SCHEMA(title, description);
 
-  const faqData = category === 'CPS' ? [
-    { question: "What is CPS?", answer: "Clicks Per Second (CPS) measures how fast you can click a mouse button." },
-    { question: "How to get higher CPS?", answer: "Use techniques like Jitter Clicking or Butterfly Clicking and a gaming mouse." },
-    { question: "Is this test accurate?", answer: "Yes, our tool uses precise timestamp measurements for accuracy." }
-  ] : category === 'Reaction' ? [
-    { question: "What is reaction time?", answer: "The time it takes for your brain to process a visual signal and respond." },
-    { question: "What is a good reaction time?", answer: "Average is 250ms. Below 200ms is excellent." }
-  ] : [
-    { question: "What is WPM?", answer: "Words Per Minute measures typing speed." },
-    { question: "How to type faster?", answer: "Practice touch typing and avoid looking at the keyboard." }
+  const faqData = [
+    { question: tFaq('q1.question'), answer: tFaq('q1.answer') },
+    { question: tFaq('q2.question'), answer: tFaq('q2.answer') },
+    { question: tFaq('q3.question'), answer: tFaq('q3.answer') }
   ];
 
   const faqSchema = FAQ_SCHEMA(faqData);
 
   const breadcrumbSchema = BREADCRUMB_SCHEMA([
-    { name: "Home", url: `/${locale}` },
+    { name: tNav('home'), url: `/${locale}` },
     { name: category, url: `/${locale}` },
     { name: title, url: `/${locale}` }
   ]);

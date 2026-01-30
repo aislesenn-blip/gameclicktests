@@ -99,5 +99,63 @@
     "reaction": "Reaction",
     "typing": "Typing",
     "keyboard": "Keyboard"
+  },
+  "faq": {
+    "cps": {
+      "q1": {
+        "question": "¿Qué es CPS?",
+        "answer": "Clics Por Segundo (CPS) mide qué tan rápido puedes hacer clic con el mouse."
+      },
+      "q2": {
+        "question": "¿Cómo aumentar el CPS?",
+        "answer": "Usa técnicas como Jitter Click o Butterfly Click y un mouse gamer."
+      },
+      "q3": {
+        "question": "¿Es preciso este test?",
+        "answer": "Sí, nuestra herramienta utiliza mediciones de tiempo precisas."
+      }
+    },
+    "reaction": {
+      "q1": {
+        "question": "¿Qué es el tiempo de reacción?",
+        "answer": "El tiempo que tarda tu cerebro en procesar una señal visual y responder."
+      },
+      "q2": {
+        "question": "¿Cuál es un buen tiempo de reacción?",
+        "answer": "El promedio es 250ms. Por debajo de 200ms es excelente."
+      },
+      "q3": {
+        "question": "¿Cómo mejorar los reflejos?",
+        "answer": "Practica regularmente, duerme lo suficiente y mantente hidratado."
+      }
+    },
+    "typing": {
+      "q1": {
+        "question": "¿Qué es WPM?",
+        "answer": "Palabras Por Minuto mide la velocidad de escritura."
+      },
+      "q2": {
+        "question": "¿Cómo escribir más rápido?",
+        "answer": "Practica la mecanografía al tacto y evita mirar el teclado."
+      },
+      "q3": {
+        "question": "¿Cuál es un buen WPM?",
+        "answer": "El promedio es 40 WPM. Los mecanógrafos profesionales alcanzan 100+ WPM."
+      }
+    },
+    "keyboard": {
+      "q1": {
+        "question": "¿Qué es Ghosting?",
+        "answer": "Cuando un teclado no registra múltiples pulsaciones simultáneas."
+      },
+      "q2": {
+        "question": "¿Qué es Key Rollover?",
+        "answer": "El número máximo de teclas que se pueden presionar a la vez."
+      },
+      "q3": {
+        "question": "¿Cómo pruebo mis teclas?",
+        "answer": "Presiona cada tecla de tu teclado y asegúrate de que se ilumine en verde en la pantalla."
+      }
+    }
   }
 }

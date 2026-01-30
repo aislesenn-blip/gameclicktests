@@ -99,5 +99,63 @@
     "reaction": "Reaction",
     "typing": "Typing",
     "keyboard": "Keyboard"
+  },
+  "faq": {
+    "cps": {
+      "q1": {
+        "question": "What is CPS?",
+        "answer": "Clicks Per Second (CPS) measures how fast you can click a mouse button."
+      },
+      "q2": {
+        "question": "How to get higher CPS?",
+        "answer": "Use techniques like Jitter Clicking or Butterfly Clicking and a gaming mouse."
+      },
+      "q3": {
+        "question": "Is this test accurate?",
+        "answer": "Yes, our tool uses precise timestamp measurements for accuracy."
+      }
+    },
+    "reaction": {
+      "q1": {
+        "question": "What is reaction time?",
+        "answer": "The time it takes for your brain to process a visual signal and respond."
+      },
+      "q2": {
+        "question": "What is a good reaction time?",
+        "answer": "Average is 250ms. Below 200ms is excellent."
+      },
+      "q3": {
+        "question": "How to improve reflexes?",
+        "answer": "Practice regularly, get enough sleep, and stay hydrated."
+      }
+    },
+    "typing": {
+      "q1": {
+        "question": "What is WPM?",
+        "answer": "Words Per Minute measures typing speed."
+      },
+      "q2": {
+        "question": "How to type faster?",
+        "answer": "Practice touch typing and avoid looking at the keyboard."
+      },
+      "q3": {
+        "question": "What is a good WPM?",
+        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+      }
+    },
+    "keyboard": {
+      "q1": {
+        "question": "What is Ghosting?",
+        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+      },
+      "q2": {
+        "question": "What is Key Rollover?",
+        "answer": "The maximum number of keys that can be pressed at once."
+      },
+      "q3": {
+        "question": "How do I test my keys?",
+        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+      }
+    }
   }
 }
