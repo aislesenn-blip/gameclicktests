@@ -1,42 +1,35 @@
 "use client";
-import React, { useState, useEffect, useRef } from "react";
-import { Howl } from "howler";
+import React, { useState, useEffect } from "react";
+import { clickSound, unlockSound } from "@/lib/sound";
+import { useTranslations } from "next-intl";
 
 interface ClickGameProps {
   duration?: number;
   mode?: string;
 }
 
-const CLICK_SOUND_URL = "/sounds/click.mp3";
-
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const ClickGame: React.FC<ClickGameProps> = ({ duration = 10, mode = "standard" }) => {
+  const t = useTranslations("game");
   const [score, setScore] = useState(0);
   const [timeLeft, setTimeLeft] = useState(duration);
   const [isActive, setIsActive] = useState(false);
   const [isFinished, setIsFinished] = useState(false);
   const [cps, setCps] = useState(0);
   const [isMuted, setIsMuted] = useState(false);
-  const soundRef = useRef<Howl | null>(null);
-
-  useEffect(() => {
-    soundRef.current = new Howl({
-      src: [CLICK_SOUND_URL],
-      volume: 0.5,
-      preload: true,
-      html5: true,
-    });
-    return () => {
-      soundRef.current?.unload();
-    };
-  }, []);
 
   const handleClick = () => {
     if (isFinished) return;
+
+    // Attempt unlock on first interaction
+    unlockSound();
+
     if (!isActive) setIsActive(true);
 
     setScore((prev) => prev + 1);
+
     if (!isMuted) {
-      soundRef.current?.play();
+      clickSound.play();
     }
   };
 
@@ -73,7 +66,7 @@ const ClickGame: React.FC<ClickGameProps> = ({ duration = 10, mode = "standard" 
   };
 
   const shareResult = () => {
-    const text = `I hit ${cps.toFixed(2)} CPS in the ${duration}s ${mode} test on Palmtweets!`;
+    const text = `${t('score')}: ${cps.toFixed(2)} CPS!`;
     const shareData = {
       title: "Palmtweets CPS Test",
       text: text,
@@ -84,7 +77,7 @@ const ClickGame: React.FC<ClickGameProps> = ({ duration = 10, mode = "standard" 
       navigator.share(shareData).catch(console.error);
     } else {
       navigator.clipboard.writeText(`${text} ${window.location.href}`);
-      alert("Result copied to clipboard!");
+      alert(t('share'));
     }
   };
 
@@ -109,11 +102,11 @@ const ClickGame: React.FC<ClickGameProps> = ({ duration = 10, mode = "standard" 
 
       <div className="grid grid-cols-2 w-full max-w-md gap-4 mb-4">
         <div className="bg-gray-800 border border-neon-green/50 p-4 rounded text-center">
-          <div className="text-neon-green/70 text-sm">TIMER</div>
+          <div className="text-neon-green/70 text-sm">{t('timer')}</div>
           <div className="text-4xl font-mono text-white">{timeLeft.toFixed(1)}s</div>
         </div>
         <div className="bg-gray-800 border border-neon-green/50 p-4 rounded text-center">
-          <div className="text-neon-green/70 text-sm">SCORE</div>
+          <div className="text-neon-green/70 text-sm">{t('score')}</div>
           <div className="text-4xl font-mono text-white">{score}</div>
         </div>
       </div>
@@ -128,7 +121,7 @@ const ClickGame: React.FC<ClickGameProps> = ({ duration = 10, mode = "standard" 
         }`}
       >
         <span className="relative z-10 group-hover:scale-110 transition-transform">
-          {isActive ? "CLICK FAST!" : "START CLICKING"}
+          {isActive ? t('active') : t('start')}
         </span>
         {isActive && <div className="absolute inset-0 bg-neon-green/5 animate-pulse" />}
       </button>
@@ -139,20 +132,20 @@ const ClickGame: React.FC<ClickGameProps> = ({ duration = 10, mode = "standard" 
             {cps.toFixed(2)} CPS
           </h2>
           <p className="text-xl mt-2 text-white">
-            Rank: {cps < 5 ? "🐢 Snail" : cps < 8 ? "⚡ Pro" : "👑 GODLIKE"}
+            Rank: {cps < 5 ? t('slow') : cps < 8 ? t('fast') : t('superhuman')}
           </p>
           <div className="flex gap-4 justify-center mt-6">
             <button
                 onClick={resetGame}
                 className="px-8 py-3 bg-neon-green text-black font-bold rounded hover:bg-white transition-colors shadow-[0_0_20px_rgba(57,255,20,0.5)]"
             >
-                TRY AGAIN
+                {t('try_again')}
             </button>
             <button
                 onClick={shareResult}
                 className="px-8 py-3 border border-neon-green text-neon-green font-bold rounded hover:bg-neon-green/10 transition-colors"
             >
-                SHARE
+                {t('share')}
             </button>
           </div>
         </div>

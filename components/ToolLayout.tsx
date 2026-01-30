@@ -17,6 +17,8 @@ const ToolLayout: React.FC<ToolLayoutProps> = ({ children, toolKey, category, lo
   const t = useTranslations(toolKey);
   const tSeo = useTranslations(`${toolKey}.seo`);
   const tNav = useTranslations("nav");
+  const tLayout = useTranslations("tool_layout");
+  const tm = useTranslations("mobile_nav");
 
   // Use generic FAQ keys based on category
   const faqCategory = category === 'CPS' ? 'cps'
@@ -72,20 +74,30 @@ const ToolLayout: React.FC<ToolLayoutProps> = ({ children, toolKey, category, lo
       <AdUnit size="responsive" />
 
       <section className="prose prose-invert max-w-3xl mx-auto mt-12 px-4">
-        <h2 className="text-neon-green">About {title}</h2>
+        <h2 className="text-neon-green">{tLayout('about')} {title}</h2>
         <p>
-          Welcome to the ultimate <strong>{title}</strong>. This tool is designed to help you measure and improve your performance.
-          Whether you are a gamer looking to improve your APM or just testing your hardware, Palmtweets provides the most accurate results.
+          {description}
         </p>
 
-        <h3 className="text-neon-green">How to Use</h3>
+        <h3 className="text-neon-green">{tLayout('how_to')}</h3>
         <ol>
-          <li>Click the start button or the designated area.</li>
-          <li>Perform the action as quickly/accurately as possible.</li>
-          <li>View your result and share with friends.</li>
+          <li>{tLayout('step1')}</li>
+          <li>{tLayout('step2')}</li>
+          <li>{tLayout('step3')}</li>
         </ol>
 
-        <h3 className="text-neon-green">Frequently Asked Questions</h3>
+        {category === 'CPS' && (
+          <>
+            <h3 className="text-neon-green">{tLayout('rank_up')}</h3>
+            <ul>
+              <li><strong>{tLayout('rank_turtle')}</strong> {tLayout('rank_turtle_desc')}</li>
+              <li><strong>{tLayout('rank_pro')}</strong> {tLayout('rank_pro_desc')}</li>
+              <li><strong>{tLayout('rank_god')}</strong> {tLayout('rank_god_desc')}</li>
+            </ul>
+          </>
+        )}
+
+        <h3 className="text-neon-green">{tLayout('faq')}</h3>
         <dl className="space-y-4">
           {faqData.map((faq, i) => (
             <div key={i}>
@@ -96,19 +108,14 @@ const ToolLayout: React.FC<ToolLayoutProps> = ({ children, toolKey, category, lo
         </dl>
 
         <div className="mt-8 pt-8 border-t border-gray-800">
-             <h4 className="text-white font-bold mb-4">Related Tools</h4>
+             <h4 className="text-white font-bold mb-4">{tLayout('related')}</h4>
              <div className="flex flex-wrap gap-4 text-sm md:text-base">
-                 <Link href={`/${locale}/cps`} className="text-neon-green hover:underline">CPS Test</Link>
-                 <Link href={`/${locale}/cps/1-second`} className="text-neon-green hover:underline">1 Second Test</Link>
-                 <Link href={`/${locale}/cps/5-seconds`} className="text-neon-green hover:underline">5 Seconds Test</Link>
-                 <Link href={`/${locale}/cps/60-seconds`} className="text-neon-green hover:underline">60 Seconds Marathon</Link>
-                 <Link href={`/${locale}/cps/jitter`} className="text-neon-green hover:underline">Jitter Click</Link>
-                 <Link href={`/${locale}/cps/butterfly`} className="text-neon-green hover:underline">Butterfly Click</Link>
-                 <Link href={`/${locale}/cps/drag`} className="text-neon-green hover:underline">Drag Click</Link>
-                 <Link href={`/${locale}/cps/minecraft`} className="text-neon-green hover:underline">Minecraft PvP</Link>
-                 <Link href={`/${locale}/reaction-time`} className="text-neon-green hover:underline">Reaction Time</Link>
-                 <Link href={`/${locale}/typing-test`} className="text-neon-green hover:underline">Typing Test</Link>
-                 <Link href={`/${locale}/keyboard-test`} className="text-neon-green hover:underline">Keyboard Test</Link>
+                 <Link href={`/${locale}/cps`} className="text-neon-green hover:underline">{tm('cps_cluster')}</Link>
+                 <Link href={`/${locale}/cps/1-second`} className="text-neon-green hover:underline">{tm('cps_1s')}</Link>
+                 <Link href={`/${locale}/cps/5-seconds`} className="text-neon-green hover:underline">{tm('cps_5s')}</Link>
+                 <Link href={`/${locale}/cps/jitter`} className="text-neon-green hover:underline">{tm('jitter')}</Link>
+                 <Link href={`/${locale}/reaction-time`} className="text-neon-green hover:underline">{tm('reaction')}</Link>
+                 <Link href={`/${locale}/typing-test`} className="text-neon-green hover:underline">{tm('typing')}</Link>
              </div>
         </div>
       </section>

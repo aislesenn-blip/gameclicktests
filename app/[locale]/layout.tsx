@@ -5,6 +5,7 @@ import "../globals.css";
 import { WEBSITE_SCHEMA } from '@/seo/schema';
 import AdUnit from '@/components/AdUnit';
 import Link from 'next/link';
+import MobileNav from '@/components/MobileNav';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
@@ -57,6 +58,8 @@ export default async function LocaleLayout({
 
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const t = (messages as any).nav;
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const tm = (messages as any).mobile_nav;
   const currentYear = new Date().getFullYear();
 
   return (
@@ -77,22 +80,29 @@ export default async function LocaleLayout({
               <Link href={`/${locale}`} className="text-2xl font-bold text-neon-green tracking-tighter hover:shadow-[0_0_10px_rgba(57,255,20,0.5)] transition-shadow">
                 PALMTWEETS
               </Link>
+
+              {/* Desktop Nav */}
               <nav className="hidden md:flex gap-6 text-sm font-bold uppercase tracking-widest text-gray-400">
                 <Link href={`/${locale}/cps`} className="hover:text-neon-green transition-colors">{t.cps}</Link>
                 <Link href={`/${locale}/reaction-time`} className="hover:text-neon-green transition-colors">{t.reaction}</Link>
                 <Link href={`/${locale}/typing-test`} className="hover:text-neon-green transition-colors">{t.typing}</Link>
                 <Link href={`/${locale}/keyboard-test`} className="hover:text-neon-green transition-colors">{t.keyboard}</Link>
               </nav>
-              <div className="flex gap-2 text-xs font-bold">
-                {['en', 'pt', 'id', 'es', 'ru'].map(l => (
-                  <Link
-                    key={l}
-                    href={`/${l}`}
-                    className={`px-2 py-1 rounded ${locale === l ? 'bg-neon-green text-black' : 'text-gray-500 hover:text-white'}`}
-                  >
-                    {l.toUpperCase()}
-                  </Link>
-                ))}
+
+              <div className="flex items-center gap-4">
+                <div className="hidden md:flex gap-2 text-xs font-bold">
+                  {['en', 'pt', 'id', 'es', 'ru'].map(l => (
+                    <Link
+                      key={l}
+                      href={`/${l}`}
+                      className={`px-2 py-1 rounded ${locale === l ? 'bg-neon-green text-black' : 'text-gray-500 hover:text-white'}`}
+                    >
+                      {l.toUpperCase()}
+                    </Link>
+                  ))}
+                </div>
+                {/* Mobile Nav Toggle */}
+                <MobileNav locale={locale} />
               </div>
             </div>
           </header>
@@ -105,12 +115,12 @@ export default async function LocaleLayout({
                <div className="sticky top-24">
                   <AdUnit size="sidebar" />
                   <div className="mt-8 p-4 border border-gray-800 rounded bg-gray-900/30">
-                    <h3 className="text-neon-green text-sm mb-4 font-bold uppercase">Popular Tools</h3>
+                    <h3 className="text-neon-green text-sm mb-4 font-bold uppercase">{tm.cps_cluster}</h3>
                     <ul className="space-y-2 text-sm text-gray-400">
-                      <li><Link href={`/${locale}/cps/1-second`} className="hover:text-white">1 Second Test</Link></li>
-                      <li><Link href={`/${locale}/cps/5-seconds`} className="hover:text-white">5 Seconds Test</Link></li>
-                      <li><Link href={`/${locale}/cps/jitter`} className="hover:text-white">Jitter Click</Link></li>
-                      <li><Link href={`/${locale}/cps/butterfly`} className="hover:text-white">Butterfly Click</Link></li>
+                      <li><Link href={`/${locale}/cps/1-second`} className="hover:text-white">{tm.cps_1s}</Link></li>
+                      <li><Link href={`/${locale}/cps/5-seconds`} className="hover:text-white">{tm.cps_5s}</Link></li>
+                      <li><Link href={`/${locale}/cps/jitter`} className="hover:text-white">{tm.jitter}</Link></li>
+                      <li><Link href={`/${locale}/cps/butterfly`} className="hover:text-white">{tm.butterfly}</Link></li>
                     </ul>
                   </div>
                </div>
