@@ -57,6 +57,7 @@ export default async function LocaleLayout({
 
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const t = (messages as any).nav;
+  const currentYear = new Date().getFullYear();
 
   return (
     <html lang={locale} className="dark">
@@ -124,11 +125,11 @@ export default async function LocaleLayout({
           {/* Footer */}
           <footer className="border-t border-gray-800 bg-black py-8 mt-12">
             <div className="max-w-7xl mx-auto px-4 text-center text-gray-600 text-sm">
-              <p>&copy; 2024 Palmtweets. The #1 Global Speed Test Platform.</p>
+              <p>&copy; {currentYear} Palmtweets. The #1 Global Speed Test Platform.</p>
               <div className="mt-4 flex justify-center gap-4">
-                <Link href={`/${locale}`} className="hover:text-gray-400">Home</Link>
-                <Link href={`/${locale}/cps`} className="hover:text-gray-400">CPS</Link>
-                <Link href={`/${locale}/privacy`} className="hover:text-gray-400">Privacy</Link>
+                <Link href={`/${locale}`} className="hover:text-gray-400">{t.home}</Link>
+                <Link href={`/${locale}/cps`} className="hover:text-gray-400">{t.cps}</Link>
+                <Link href={`/${locale}/privacy`} className="hover:text-gray-400">{t.privacy}</Link>
               </div>
             </div>
           </footer>

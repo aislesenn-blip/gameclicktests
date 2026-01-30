@@ -94,11 +94,12 @@
     "h1": "KEYBOARD SWITCH TESTER"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard"
+    "home": "Главная",
+    "cps": "КПС Тест",
+    "reaction": "Реакция",
+    "typing": "Печать",
+    "keyboard": "Клавиатура",
+    "privacy": "Конфиденциальность"
   },
   "faq": {
     "cps": {
@@ -157,5 +158,15 @@
         "answer": "Нажмите каждую клавишу на клавиатуре и убедитесь, что она загорается зеленым на экране."
       }
     }
+  },
+  "privacy": {
+    "title": "Политика конфиденциальности",
+    "intro": "В Palmtweets мы ценим вашу конфиденциальность.",
+    "cookies_title": "Cookies",
+    "cookies_text": "Мы используем куки для улучшения вашего опыта.",
+    "data_title": "Сбор данных",
+    "data_text": "Мы не собираем личные данные.",
+    "contact_title": "Контакты",
+    "contact_text": "Свяжитесь с support@palmtweets.com."
   }
 }

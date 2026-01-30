@@ -94,11 +94,12 @@
     "h1": "KEYBOARD SWITCH TESTER"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard"
+    "home": "Beranda",
+    "cps": "Tes CPS",
+    "reaction": "Reaksi",
+    "typing": "Mengetik",
+    "keyboard": "Keyboard",
+    "privacy": "Privasi"
   },
   "faq": {
     "cps": {
@@ -157,5 +158,15 @@
         "answer": "Tekan setiap tombol pada keyboard Anda dan pastikan menyala hijau di layar."
       }
     }
+  },
+  "privacy": {
+    "title": "Kebijakan Privasi",
+    "intro": "Di Palmtweets, kami menghargai privasi Anda.",
+    "cookies_title": "Cookies",
+    "cookies_text": "Kami menggunakan cookie untuk meningkatkan pengalaman Anda.",
+    "data_title": "Pengumpulan Data",
+    "data_text": "Kami tidak mengumpulkan data pribadi.",
+    "contact_title": "Kontak",
+    "contact_text": "Hubungi support@palmtweets.com."
   }
 }

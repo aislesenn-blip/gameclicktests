@@ -94,11 +94,12 @@
     "h1": "KEYBOARD SWITCH TESTER"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard"
+    "home": "Início",
+    "cps": "Teste CPS",
+    "reaction": "Reação",
+    "typing": "Digitação",
+    "keyboard": "Teclado",
+    "privacy": "Privacidade"
   },
   "faq": {
     "cps": {
@@ -157,5 +158,15 @@
         "answer": "Pressione cada tecla do seu teclado e verifique se ela acende em verde na tela."
       }
     }
+  },
+  "privacy": {
+    "title": "Política de Privacidade",
+    "intro": "Na Palmtweets, valorizamos sua privacidade.",
+    "cookies_title": "Cookies",
+    "cookies_text": "Usamos cookies para melhorar sua experiência.",
+    "data_title": "Coleta de Dados",
+    "data_text": "Não coletamos dados pessoais.",
+    "contact_title": "Contato",
+    "contact_text": "Contate support@palmtweets.com."
   }
 }

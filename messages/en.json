@@ -98,7 +98,8 @@
     "cps": "CPS Test",
     "reaction": "Reaction",
     "typing": "Typing",
-    "keyboard": "Keyboard"
+    "keyboard": "Keyboard",
+    "privacy": "Privacy"
   },
   "faq": {
     "cps": {
@@ -157,5 +158,15 @@
         "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
       }
     }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "cookies_title": "Cookies",
+    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
+    "data_title": "Data Collection",
+    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
+    "contact_title": "Contact",
+    "contact_text": "For questions, contact support@palmtweets.com."
   }
 }
