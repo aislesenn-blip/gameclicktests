@@ -1,0 +1,15 @@
+{
+  "seo": {
+    "title": "CPS Test - Check Your Click Speed (World Record?)",
+    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+  },
+  "ui": {
+    "h1": "CPS TEST BLITZ",
+    "start_btn": "CLICK TO START",
+    "modes": "Testing Modes",
+    "rank_noob": "🐢 Rank: Snail (Too Slow!)",
+    "rank_pro": "⚡ Rank: Pro Gamer",
+    "rank_god": "👑 Rank: GODLIKE",
+    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?"
+  }
+}

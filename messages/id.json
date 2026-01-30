@@ -1,0 +1,15 @@
+{
+  "seo": {
+    "title": "Tes Kecepatan Klik - Cek CPS Mouse (Gratis)",
+    "description": "Ukur kecepatan jari anda dengan Tes CPS ini. Mendukung Jitter Click dan Drag Click. Tanpa Lag. Cek skor anda sekarang."
+  },
+  "ui": {
+    "h1": "TES KLIK MOUSE",
+    "start_btn": "MULAI KLIK",
+    "modes": "Mode Tes",
+    "rank_noob": "🐢 Rank: Lambat",
+    "rank_pro": "⚡ Rank: Jagoan",
+    "rank_god": "👑 Rank: DEWA KLIK",
+    "share_txt": "Skor saya {score} CPS. Coba kalahkan saya di Palmtweets!"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "seo": {
+    "title": "Test de Velocidad de Clic - Prueba de CPS (Gratis)",
+    "description": "Comprueba tu velocidad de clic con este Test de CPS de 10 segundos. Desafía a tus amigos. Compatible con Jitter y Butterfly Click."
+  },
+  "ui": {
+    "h1": "TEST DE VELOCIDAD DE CLIC",
+    "start_btn": "EMPEZAR AHORA",
+    "modes": "Modos de Prueba",
+    "rank_noob": "🐢 Rango: Tortuga",
+    "rank_pro": "⚡ Rango: Pro",
+    "rank_god": "👑 Rango: DIOS",
+    "share_txt": "He hecho {score} CPS en Palmtweets. ¿Puedes superarme?"
+  }
+}

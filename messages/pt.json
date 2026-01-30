@@ -1,0 +1,15 @@
+{
+  "seo": {
+    "title": "Teste de CPS - Qual é a sua Velocidade de Clique?",
+    "description": "Teste de Click rápido. Verifique quantos clicks por segundo (CPS) você consegue fazer. Modo Jitter e Butterfly disponíveis. Rank Mundial."
+  },
+  "ui": {
+    "h1": "TESTE DE CPS (BR)",
+    "start_btn": "COMEÇAR AGORA",
+    "modes": "Modos de Jogo",
+    "rank_noob": "🐢 Nível: Tartaruga",
+    "rank_pro": "⚡ Nível: Pro Player",
+    "rank_god": "👑 Nível: LENDA",
+    "share_txt": "Fiz {score} CPS no Palmtweets. Duvido você ganhar!"
+  }
+}
