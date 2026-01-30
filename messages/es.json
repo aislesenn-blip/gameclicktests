@@ -1,15 +1,103 @@
 {
   "seo": {
-    "title": "Test de Velocidad de Clic - Prueba de CPS (Gratis)",
-    "description": "Comprueba tu velocidad de clic con este Test de CPS de 10 segundos. Desafía a tus amigos. Compatible con Jitter y Butterfly Click."
+    "title": "CPS Test - Check Your Click Speed (World Record?)",
+    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
   },
   "ui": {
-    "h1": "TEST DE VELOCIDAD DE CLIC",
-    "start_btn": "EMPEZAR AHORA",
-    "modes": "Modos de Prueba",
-    "rank_noob": "🐢 Rango: Tortuga",
-    "rank_pro": "⚡ Rango: Pro",
-    "rank_god": "👑 Rango: DIOS",
-    "share_txt": "He hecho {score} CPS en Palmtweets. ¿Puedes superarme?"
+    "h1": "CPS TEST BLITZ",
+    "start_btn": "CLICK TO START",
+    "modes": "Testing Modes",
+    "rank_noob": "🐢 Rank: Snail (Too Slow!)",
+    "rank_pro": "⚡ Rank: Pro Gamer",
+    "rank_god": "👑 Rank: GODLIKE",
+    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?"
+  },
+  "cps_default": {
+    "seo": {
+      "title": "CPS Test - Check Your Click Speed (World Record?)",
+      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+    },
+    "h1": "CPS TEST BLITZ"
+  },
+  "cps_1s": {
+    "seo": {
+      "title": "1 Second CPS Test - Instant Click Speed Check",
+      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+    },
+    "h1": "1 SECOND CPS TEST"
+  },
+  "cps_5s": {
+    "seo": {
+      "title": "5 Second CPS Test - Short Sprint Speed Test",
+      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+    },
+    "h1": "5 SECOND CPS TEST"
+  },
+  "cps_60s": {
+    "seo": {
+      "title": "60 Second CPS Test - Endurance Clicking Challenge",
+      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+    },
+    "h1": "60 SECOND MARATHON"
+  },
+  "jitter": {
+    "seo": {
+      "title": "Jitter Click Test - Master the Vibration Technique",
+      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+    },
+    "h1": "JITTER CLICK TRAINING"
+  },
+  "butterfly": {
+    "seo": {
+      "title": "Butterfly Click Test - Double Click Speed",
+      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+    },
+    "h1": "BUTTERFLY CLICK TEST"
+  },
+  "drag": {
+    "seo": {
+      "title": "Drag Click Test - Mouse Friction Speed",
+      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+    },
+    "h1": "DRAG CLICK TEST"
+  },
+  "minecraft": {
+    "seo": {
+      "title": "Minecraft CPS Test - PvP Practice",
+      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+    },
+    "h1": "MINECRAFT PVP CLICK TEST"
+  },
+  "reaction": {
+    "seo": {
+      "title": "Reaction Time Test - Human Benchmark (ms)",
+      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+    },
+    "h1": "REACTION TIME TEST",
+    "wait": "Wait for Green...",
+    "click": "CLICK NOW!",
+    "too_soon": "Too Soon! Don't anticipate.",
+    "result": "{time} ms"
+  },
+  "typing": {
+    "seo": {
+      "title": "Typing Speed Test - Check Your WPM (1 Minute)",
+      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+    },
+    "h1": "WPM TYPING TEST"
+  },
+  "keyboard": {
+    "seo": {
+      "title": "Keyboard Tester - Check All Keys Online",
+      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+    },
+    "h1": "KEYBOARD SWITCH TESTER"
+  },
+  "nav": {
+    "home": "Home",
+    "cps": "CPS Test",
+    "reaction": "Reaction",
+    "typing": "Typing",
+    "keyboard": "Keyboard"
   }
 }

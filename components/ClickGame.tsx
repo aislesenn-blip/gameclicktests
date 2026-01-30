@@ -1,21 +1,20 @@
 "use client";
-
-import React, { useState, useEffect, useRef, useCallback } from "react";
-import { useTranslations } from "next-intl";
+import React, { useState, useEffect, useRef } from "react";
 import { Howl } from "howler";
 
-const CLICK_SOUND_URL = "https://assets.mixkit.co/active_storage/sfx/2568/2568-preview.mp3";
+interface ClickGameProps {
+  duration?: number;
+  mode?: string;
+}
 
-const ClickGame = () => {
-  const t = useTranslations("ui");
+const CLICK_SOUND_URL = "/sounds/click.mp3";
+
+const ClickGame: React.FC<ClickGameProps> = ({ duration = 10, mode = "standard" }) => {
   const [score, setScore] = useState(0);
-  const [timeLeft, setTimeLeft] = useState(10);
+  const [timeLeft, setTimeLeft] = useState(duration);
   const [isActive, setIsActive] = useState(false);
   const [isFinished, setIsFinished] = useState(false);
-  const [rank, setRank] = useState("");
   const [cps, setCps] = useState(0);
-  const [mode, setMode] = useState("standard");
-
   const soundRef = useRef<Howl | null>(null);
 
   useEffect(() => {
@@ -23,75 +22,55 @@ const ClickGame = () => {
       src: [CLICK_SOUND_URL],
       volume: 0.5,
       preload: true,
+      html5: true,
     });
-
     return () => {
       soundRef.current?.unload();
     };
   }, []);
 
-  const finishGame = useCallback(() => {
-    setIsActive(false);
-    setIsFinished(true);
-
-    // Use functional update to get latest score
-    setScore(currentScore => {
-        const finalCps = currentScore / 10;
-        setCps(finalCps);
-
-        let r = "";
-        if (finalCps < 5) {
-          r = t("rank_noob");
-        } else if (finalCps < 10) {
-          r = t("rank_pro");
-        } else {
-          r = t("rank_god");
-        }
-        setRank(r);
-        return currentScore;
-    });
-  }, [t]);
-
-  useEffect(() => {
-    let interval: NodeJS.Timeout;
-    if (isActive) {
-      interval = setInterval(() => {
-        setTimeLeft((prevTime) => {
-          const newTime = prevTime - 0.1;
-          if (newTime <= 0) {
-            clearInterval(interval);
-            finishGame();
-            return 0;
-          }
-          return newTime;
-        });
-      }, 100);
-    }
-    return () => clearInterval(interval);
-  }, [isActive, finishGame]);
-
   const handleClick = () => {
     if (isFinished) return;
-
-    if (!isActive) {
-      setIsActive(true);
-    }
+    if (!isActive) setIsActive(true);
 
     setScore((prev) => prev + 1);
     soundRef.current?.play();
   };
 
+  useEffect(() => {
+    let interval: NodeJS.Timeout;
+    if (isActive) {
+      interval = setInterval(() => {
+        setTimeLeft((prev) => {
+          if (prev <= 0.1) {
+            clearInterval(interval);
+            setIsFinished(true);
+            setIsActive(false);
+            return 0;
+          }
+          return prev - 0.1;
+        });
+      }, 100);
+    }
+    return () => clearInterval(interval);
+  }, [isActive]);
+
+  useEffect(() => {
+    if (isFinished) {
+      setCps(score / duration);
+    }
+  }, [isFinished, score, duration]);
+
   const resetGame = () => {
     setScore(0);
-    setTimeLeft(10);
+    setTimeLeft(duration);
     setIsActive(false);
     setIsFinished(false);
-    setRank("");
     setCps(0);
   };
 
   const shareResult = () => {
-    const text = t("share_txt", { score: cps.toFixed(1) });
+    const text = `I hit ${cps.toFixed(2)} CPS in the ${duration}s ${mode} test on Palmtweets!`;
     const shareData = {
       title: "Palmtweets CPS Test",
       text: text,
@@ -107,78 +86,57 @@ const ClickGame = () => {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center w-full max-w-2xl mx-auto p-4 space-y-8 select-none">
-      <h1 className="text-4xl md:text-6xl font-bold text-neon-green text-center neon-text mb-4">
-        {t("h1")}
-      </h1>
-
-      <div className="bg-gray-900 border-2 border-neon-green p-6 rounded-lg w-full text-center shadow-[0_0_15px_rgba(57,255,20,0.3)] relative overflow-hidden">
-
-        <div className="grid grid-cols-2 gap-4 mb-6 text-neon-green relative z-10">
-            <div className="flex flex-col">
-                <span className="text-sm opacity-70">TIMER</span>
-                <span className="font-mono text-4xl">{timeLeft.toFixed(1)}s</span>
-            </div>
-            <div className="flex flex-col">
-                <span className="text-sm opacity-70">SCORE</span>
-                <span className="font-mono text-4xl">{score}</span>
-            </div>
+    <div className="w-full flex flex-col items-center">
+      <div className="grid grid-cols-2 w-full max-w-md gap-4 mb-4">
+        <div className="bg-gray-800 border border-neon-green/50 p-4 rounded text-center">
+          <div className="text-neon-green/70 text-sm">TIMER</div>
+          <div className="text-4xl font-mono text-white">{timeLeft.toFixed(1)}s</div>
         </div>
-
-        <button
-          onClick={handleClick}
-          disabled={isFinished}
-          className={`w-full h-64 md:h-80 bg-black border-4 rounded-xl flex items-center justify-center text-2xl md:text-4xl font-bold transition-all duration-75 active:scale-95 select-none relative z-10
-            ${isActive ? "border-neon-green text-neon-green animate-pulse shadow-[inset_0_0_20px_rgba(57,255,20,0.5)]" : "border-gray-700 text-gray-500 hover:border-neon-green hover:text-neon-green"}
-            ${isFinished ? "opacity-50 cursor-not-allowed" : "cursor-pointer"}
-          `}
-        >
-          {isActive ? "CLICK FAST!" : t("start_btn")}
-        </button>
+        <div className="bg-gray-800 border border-neon-green/50 p-4 rounded text-center">
+          <div className="text-neon-green/70 text-sm">SCORE</div>
+          <div className="text-4xl font-mono text-white">{score}</div>
+        </div>
       </div>
 
-      {isFinished && (
-        <div className="w-full bg-gray-900/90 border border-neon-green p-6 rounded-lg text-center space-y-4 animate-fade-in shadow-[0_0_20px_rgba(57,255,20,0.2)]">
-          <h2 className="text-3xl font-bold text-white">
-            CPS: <span className="text-neon-green text-5xl">{cps.toFixed(2)}</span>
-          </h2>
-          <p className="text-xl text-neon-green font-bold animate-pulse">{rank}</p>
+      <button
+        onClick={handleClick}
+        disabled={isFinished}
+        className={`w-full h-64 bg-black border-4 rounded-xl flex items-center justify-center text-3xl font-bold transition-all active:scale-95 select-none relative overflow-hidden group ${
+          isActive
+            ? "border-neon-green text-neon-green shadow-[0_0_30px_rgba(57,255,20,0.4)]"
+            : "border-gray-700 text-gray-500 hover:border-neon-green hover:text-neon-green"
+        }`}
+      >
+        <span className="relative z-10 group-hover:scale-110 transition-transform">
+          {isActive ? "CLICK FAST!" : "START CLICKING"}
+        </span>
+        {isActive && <div className="absolute inset-0 bg-neon-green/5 animate-pulse" />}
+      </button>
 
+      {isFinished && (
+        <div className="mt-8 text-center animate-fade-in w-full bg-gray-900/80 p-6 rounded-lg border border-neon-green">
+          <h2 className="text-5xl font-bold text-neon-green drop-shadow-[0_0_10px_rgba(57,255,20,1)]">
+            {cps.toFixed(2)} CPS
+          </h2>
+          <p className="text-xl mt-2 text-white">
+            Rank: {cps < 5 ? "🐢 Snail" : cps < 8 ? "⚡ Pro" : "👑 GODLIKE"}
+          </p>
           <div className="flex gap-4 justify-center mt-6">
             <button
-              onClick={resetGame}
-              className="px-8 py-3 bg-neon-green text-black font-bold rounded hover:bg-white hover:shadow-[0_0_15px_rgba(255,255,255,0.5)] transition-all transform hover:-translate-y-1"
+                onClick={resetGame}
+                className="px-8 py-3 bg-neon-green text-black font-bold rounded hover:bg-white transition-colors shadow-[0_0_20px_rgba(57,255,20,0.5)]"
             >
-              RETRY
+                TRY AGAIN
             </button>
             <button
-              onClick={shareResult}
-              className="px-8 py-3 border border-neon-green text-neon-green font-bold rounded hover:bg-neon-green/10 transition-all transform hover:-translate-y-1"
+                onClick={shareResult}
+                className="px-8 py-3 border border-neon-green text-neon-green font-bold rounded hover:bg-neon-green/10 transition-colors"
             >
-              SHARE
+                SHARE
             </button>
           </div>
         </div>
       )}
-
-      <div className="w-full text-center">
-        <h3 className="text-neon-green text-lg mb-2 uppercase tracking-widest opacity-80">{t("modes")}</h3>
-        <div className="flex gap-2 justify-center flex-wrap">
-          {["Standard", "Jitter", "Butterfly", "Drag"].map((m) => (
-            <button
-              key={m}
-              onClick={() => setMode(m.toLowerCase())}
-              className={`px-4 py-1 border rounded text-sm transition-colors uppercase ${
-                mode === m.toLowerCase()
-                  ? "bg-neon-green text-black border-neon-green font-bold"
-                  : "bg-transparent text-gray-500 border-gray-800 hover:border-neon-green hover:text-neon-green"
-              }`}
-            >
-              {m}
-            </button>
-          ))}
-        </div>
-      </div>
     </div>
   );
 };
