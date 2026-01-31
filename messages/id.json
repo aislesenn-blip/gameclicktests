@@ -1,31 +1,156 @@
 {
   "seo": {
-    "title": "Tes Kecepatan Klik - Cek CPS Mouse (Gratis)",
-    "description": "Ukur kecepatan jari anda dengan Tes CPS ini. Mendukung Jitter Click dan Drag Click. Tanpa Lag. Cek skor anda sekarang."
+    "title": "CPS Test - Check Your Click Speed (World Record?)",
+    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
   },
   "ui": {
-    "h1": "Tes Kecepatan Klik Anda Sekarang",
-    "description": "Ukur Klik Per Detik (CPS) Anda dengan alat tes refleks ultra-cepat kami. Dibuat untuk gamer, speed runner, dan pemain kompetitif di seluruh dunia.",
-    "start_btn": "Mulai Tes CPS",
-    "modes": "Mode Tes",
-    "share_txt": "Skor saya {score} CPS. Coba kalahkan saya di Palmtweets!",
-    "score": "SKOR",
-    "timer": "WAKTU",
-    "active": "KLIK CEPAT!",
-    "try_again": "COBA LAGI",
-    "share": "BAGIKAN",
-    "start": "MULAI",
-    "result_msg": "Kecepatan Anda di atas rata-rata. Bisakah Anda mengalahkan rekor pribadi Anda?",
-    "slow": "🐢 Lambat",
-    "fast": "⚡ Jagoan",
-    "superhuman": "👑 DEWA"
+    "h1": "Test Your Click Speed Instantly",
+    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
+    "start_btn": "Start CPS Test",
+    "modes": "Testing Modes",
+    "rank_noob": "🐢 Rank: Snail (Too Slow!)",
+    "rank_pro": "⚡ Rank: Pro Gamer",
+    "rank_god": "👑 Rank: GODLIKE",
+    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
+    "score": "SCORE",
+    "timer": "TIMER",
+    "active": "CLICK FAST!",
+    "try_again": "TRY AGAIN",
+    "share": "SHARE",
+    "start": "START CLICKING",
+    "result_msg": "Your speed is above average. Can you beat your personal best?",
+    "slow": "🐢 Snail",
+    "fast": "⚡ Pro",
+    "superhuman": "👑 GODLIKE"
+  },
+  "nav": {
+    "home": "Home",
+    "cps": "CPS Test",
+    "reaction": "Reaction",
+    "typing": "Typing",
+    "keyboard": "Keyboard",
+    "privacy": "Privacy"
+  },
+  "mobile_nav": {
+    "cps_cluster": "CPS Tests",
+    "typing_cluster": "Typing Tests",
+    "reaction_cluster": "Reaction Tests",
+    "keyboard_cluster": "Keyboard Tools",
+    "cps_1s": "1 Second",
+    "cps_5s": "5 Seconds",
+    "cps_60s": "60 Seconds",
+    "jitter": "Jitter Click",
+    "butterfly": "Butterfly Click",
+    "drag": "Drag Click",
+    "reaction": "Reaction Time",
+    "typing": "Typing Speed",
+    "keyboard": "Keyboard Test"
+  },
+  "footer": {
+    "tagline": "The world’s fastest reflex & speed testing platform."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "cookies_title": "Cookies",
+    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
+    "data_title": "Data Collection",
+    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
+    "contact_title": "Contact",
+    "contact_text": "For questions, contact support@palmtweets.com."
+  },
+  "seo_content": {
+    "cps": {
+        "h2_improve": "How to improve your clicking speed",
+        "p_improve": "Improving your clicking speed requires practice, technique, and the right hardware. Start by relaxing your hand muscles to reduce tension. Use a gaming mouse with low-latency switches. Practice daily for 10-15 minutes to build muscle memory.",
+        "h2_styles": "Butterfly clicking vs jitter clicking",
+        "p_styles": "Jitter clicking involves vibrating your arm muscles to click fast, often reaching 10-14 CPS. Butterfly clicking uses two fingers on one button, alternating strikes to achieve 15-20+ CPS. Butterfly is generally safer for your tendons but requires a mouse that supports double-clicking.",
+        "h2_record": "What is the world record for CPS",
+        "p_record": "The world record for CPS varies by time duration. For 1 second, some players hit 30+ CPS using Drag Clicking. For the standard 10-second test, records hover around 22-24 CPS using advanced techniques.",
+        "h2_useful": "Is CPS testing useful for gamers?",
+        "p_useful": "Yes. High CPS is critical in games like Minecraft (PvP bridging), OSU!, and First Person Shooters where semi-automatic weapons are used. Tracking your CPS helps measure your physical improvement and readiness for competitive play.",
+        "h2_hardware": "Does Mouse Hardware Matter?",
+        "p_hardware": "Absolutely. Gaming mice with mechanical or optical switches (like Logitech, Razer, Glorious) have lower debounce times, allowing them to register clicks faster than standard office mice.",
+        "h2_games": "CPS in Competitive Gaming",
+        "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended."
+    },
+    "reaction": {
+        "h2_improve": "How to Improve Reaction Time",
+        "p_improve": "Improving reaction time involves training your nervous system. Sleep, hydration, and physical exercise play huge roles. Specific training in fast-paced games (FPS) also helps.",
+        "h2_styles": "Visual vs Auditory Reaction",
+        "p_styles": "Auditory reaction time (responding to sound) is typically faster (140-160ms) than visual reaction time (250ms). This test focuses on visual reflexes.",
+        "h2_record": "World Record Reaction Time",
+        "p_record": "The fastest human reaction times are around 100-120ms. Anything below 100ms is often considered anticipation (guessing) in competitive sports.",
+        "h2_useful": "Why Reaction Time Matters",
+        "p_useful": "In esports like CS:GO, Valorant, or League of Legends, milliseconds decide the winner. Fast reactions allow you to dodge or shoot first.",
+        "h2_hardware": "High Refresh Rate Monitors",
+        "p_hardware": "A 144Hz or 240Hz monitor updates the screen more frequently, reducing input lag and allowing you to see enemies sooner than on a 60Hz screen.",
+        "h2_games": "Gaming & Reflexes",
+        "p_games": "Gamers typically have 10-20% faster reaction times than non-gamers due to constant visual-motor training."
+    },
+    "typing": {
+        "h2_improve": "Mastering Touch Typing",
+        "p_improve": "Touch typing is the ability to type without looking at the keys. This muscle memory is essential for reaching speeds above 60 WPM. Use all 10 fingers.",
+        "h2_styles": "QWERTY vs DVORAK",
+        "p_styles": "QWERTY is standard, but layouts like DVORAK or COLEMAK are designed for efficiency. However, switching takes months of practice.",
+        "h2_record": "Fastest Typist in the World",
+        "p_record": "The world record for typing is over 210 WPM on a standard keyboard. Stenographers can go even faster using special chords.",
+        "h2_useful": "Productivity Boost",
+        "p_useful": "Doubling your typing speed from 30 to 60 WPM effectively saves you hours of work every week if your job involves writing.",
+        "h2_hardware": "Mechanical Keyboards",
+        "p_hardware": "Mechanical switches (Cherry MX Blue, Brown, Red) provide tactile feedback that helps typists know exactly when a key is registered, reducing errors.",
+        "h2_games": "Typing Games",
+        "p_games": "Games like Typer Shark or ZType make practicing fun. Competitive typing is also a niche esport."
+    },
+    "keyboard": {
+        "h2_improve": "Diagnosing Keyboard Issues",
+        "p_improve": "If your keys aren't registering, first clean under the keycaps. Dust and debris are common culprits.",
+        "h2_styles": "Membrane vs Mechanical",
+        "p_styles": "Membrane keyboards are quiet and cheap but feel 'mushy'. Mechanical keyboards use individual switches for precision and durability.",
+        "h2_record": "N-Key Rollover",
+        "p_record": "High-end keyboards have N-Key Rollover (NKRO), allowing all keys to be pressed simultaneously without ghosting.",
+        "h2_useful": "Why Test Your Keyboard?",
+        "p_useful": "Before a competitive match, ensure your WASD and Shift keys are working perfectly. A stuck key can ruin a game.",
+        "h2_hardware": "Switch Types",
+        "p_hardware": "Blue (Clicky), Red (Linear), Brown (Tactile). Gamers often prefer Red for speed, while typists prefer Blue or Brown.",
+        "h2_games": "Macros",
+        "p_games": "Some keyboards allow macros. Be careful using them in online games as they may trigger anti-cheat bans."
+    },
+    "mouse": {
+        "h2_improve": "Aim Training",
+        "p_improve": "Use aim trainers like Aim Lab or Kovaak's. Consistency is better than raw speed. Lower your sensitivity for better precision.",
+        "h2_styles": "Grip Styles",
+        "p_styles": "Palm Grip (comfortable), Claw Grip (agile), Fingertip Grip (precise). Choose the one that fits your hand size.",
+        "h2_record": "DPI Settings",
+        "p_record": "Most pros use 400 or 800 DPI. High DPI (16000+) is marketing hype and often less precise due to sensor noise.",
+        "h2_useful": "Mouse Accuracy",
+        "p_useful": "In FPS games, hitting the headshot is vital. Mouse precision tests help you find your perfect sensitivity.",
+        "h2_hardware": "Sensor Quality",
+        "p_hardware": "Look for flawless sensors (Pixart 3360 and above) that have no acceleration or prediction.",
+        "h2_games": "Muscle Memory",
+        "p_games": "Stick to one mouse and one sensitivity to build reliable muscle memory."
+    },
+    "display": {
+        "h2_improve": "Fixing Dead Pixels",
+        "p_improve": "Sometimes 'stuck' pixels (red/green/blue) can be fixed by rapidly flashing colors or gentle pressure. Dead pixels (black) are usually permanent.",
+        "h2_styles": "LCD vs OLED",
+        "p_styles": "OLEDs have perfect blacks but can suffer burn-in. LCDs are durable but have backlight bleed.",
+        "h2_record": "Refresh Rates",
+        "p_record": "360Hz and 500Hz monitors are the new frontier for esports, offering motion clarity almost like CRTs.",
+        "h2_useful": "Screen Testing",
+        "p_useful": "Always check a new monitor for dead pixels immediately. Most warranties cover 3-5+ dead pixels.",
+        "h2_hardware": "Panel Types",
+        "p_hardware": "TN (Fastest), IPS (Best Colors), VA (Good Contrast). Gamers usually pick Fast IPS or TN.",
+        "h2_games": "Visual Clarity",
+        "p_games": "A clean screen without defects ensures you don't mistake a dead pixel for a distant enemy."
+    }
   },
   "cps_default": {
     "seo": {
       "title": "CPS Test - Check Your Click Speed (World Record?)",
       "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
     },
-    "h1": "CPS TEST BLITZ"
+    "h1": "Test Your Click Speed Instantly"
   },
   "cps_1s": {
     "seo": {
@@ -51,7 +176,7 @@
   "jitter": {
     "seo": {
       "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "description": "Practice Jitter Clicking safely. Vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
     },
     "h1": "JITTER CLICK TRAINING"
   },
@@ -69,12 +194,110 @@
     },
     "h1": "DRAG CLICK TEST"
   },
+  "combo": {
+    "seo": {
+      "title": "Combo Click Test - Jitter, Butterfly & Drag",
+      "description": "Master all clicking techniques in one test. Switch between styles and maximize your CPS."
+    },
+    "h1": "COMBO CLICK CHALLENGE"
+  },
   "minecraft": {
     "seo": {
       "title": "Minecraft CPS Test - PvP Practice",
       "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
     },
     "h1": "MINECRAFT PVP CLICK TEST"
+  },
+  "roblox": {
+    "seo": {
+      "title": "Roblox Click Speed Test - Faster Clicking",
+      "description": "Test your clicking speed for Roblox games like BedWars and Arsenal."
+    },
+    "h1": "ROBLOX CLICK TEST"
+  },
+  "pubg": {
+    "seo": {
+      "title": "PUBG CPS Test - Burst Fire Control",
+      "description": "Improve your single-fire tapping speed for PUBG. Control recoil and tap fast."
+    },
+    "h1": "PUBG CLICK SPEED"
+  },
+  "valorant": {
+    "seo": {
+      "title": "Valorant Reaction & Click Test",
+      "description": "Test your click timing for Valorant. Perfect for holding angles with the Operator."
+    },
+    "h1": "VALORANT CLICK TEST"
+  },
+  "fortnite": {
+    "seo": {
+      "title": "Fortnite Building Speed Click Test",
+      "description": "Fast clicking is key for building and editing in Fortnite. Test your speed now."
+    },
+    "h1": "FORTNITE CLICK TEST"
+  },
+  "spacebar": {
+    "seo": {
+      "title": "Spacebar Speed Test - How Fast Can You Press Space?",
+      "description": "Check your spacebar tapping speed. Challenge your thumb endurance."
+    },
+    "h1": "SPACEBAR SPEED TEST"
+  },
+  "stress": {
+    "seo": {
+      "title": "Stress CPS Test - Clicking Under Pressure",
+      "description": "Maintain high CPS for 30 seconds. A true test of focus and stamina."
+    },
+    "h1": "STRESS CLICK TEST"
+  },
+  "dead_pixel": {
+    "seo": {
+      "title": "Dead Pixel Checker - Screen Test Online",
+      "description": "Check your monitor for dead or stuck pixels. Fullscreen color cycling tool."
+    },
+    "h1": "DEAD PIXEL CHECKER"
+  },
+  "mouse_precision": {
+    "seo": {
+      "title": "Mouse Precision Game - Aim Trainer Online",
+      "description": "Train your mouse accuracy. Hit targets as fast as possible. Improve your aim."
+    },
+    "h1": "MOUSE ACCURACY TEST"
+  },
+  "mouse_test": {
+    "seo": {
+      "title": "Mouse Speed Test - DPI & Sensor Check",
+      "description": "Test your mouse speed and responsiveness. Check for sensor spin-outs."
+    },
+    "h1": "MOUSE SPEED TEST"
+  },
+  "typing_accuracy": {
+    "seo": {
+      "title": "Typing Accuracy Test - No Errors Challenge",
+      "description": "Type perfectly with 100% accuracy. One mistake and you fail."
+    },
+    "h1": "TYPING ACCURACY TEST"
+  },
+  "reaction_custom": {
+    "seo": {
+      "title": "Custom Reaction Time Test",
+      "description": "Configure your own reaction test parameters. Train specifically for your needs."
+    },
+    "h1": "CUSTOM REACTION TEST"
+  },
+  "world_live": {
+    "seo": {
+      "title": "World Live CPS - Global Real-Time Feed",
+      "description": "Watch the world click in real-time. Join the global swarm and see your rank."
+    },
+    "h1": "WORLD LIVE CLICK FEED"
+  },
+  "leaderboard": {
+    "seo": {
+      "title": "Global CPS Leaderboard - World Records",
+      "description": "View the top clickers in the world. Check records for CPS, Reaction Time, and Typing."
+    },
+    "h1": "GLOBAL LEADERBOARDS"
   },
   "reaction": {
     "seo": {
@@ -100,14 +323,6 @@
       "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
     },
     "h1": "KEYBOARD SWITCH TESTER"
-  },
-  "nav": {
-    "home": "Beranda",
-    "cps": "Tes CPS",
-    "reaction": "Reaksi",
-    "typing": "Mengetik",
-    "keyboard": "Keyboard",
-    "privacy": "Privasi"
   },
   "faq": {
     "cps": {
@@ -197,76 +412,62 @@
         "question": "How to test mechanical switches?",
         "answer": "Press keys gently to check actuation point vs bottoming out."
       }
+    },
+    "mouse": {
+      "q1": {
+        "question": "What is DPI?",
+        "answer": "DPI (Dots Per Inch) measures mouse sensitivity."
+      },
+      "q2": {
+        "question": "How to train mouse aim?",
+        "answer": "Use aim trainers and practice consistently."
+      },
+      "q3": {
+        "question": "Is wireless mouse bad?",
+        "answer": "Modern wireless gaming mice have indistinguishable latency from wired ones."
+      }
+    },
+    "display": {
+      "q1": {
+        "question": "What is a dead pixel?",
+        "answer": "A pixel that fails to light up, usually appearing black."
+      },
+      "q2": {
+        "question": "Can dead pixels be fixed?",
+        "answer": "Dead pixels are usually permanent. Stuck pixels (colored) can sometimes be fixed."
+      },
+      "q3": {
+        "question": "How to check for dead pixels?",
+        "answer": "Cycle through full screen primary colors (Red, Green, Blue, White, Black)."
+      }
     }
   },
-  "privacy": {
-    "title": "Kebijakan Privasi",
-    "intro": "Di Palmtweets, kami menghargai privasi Anda.",
-    "cookies_title": "Cookies",
-    "cookies_text": "Kami menggunakan cookie untuk meningkatkan pengalaman Anda.",
-    "data_title": "Pengumpulan Data",
-    "data_text": "Kami tidak mengumpulkan data pribadi.",
-    "contact_title": "Kontak",
-    "contact_text": "Hubungi support@palmtweets.com."
-  },
-  "mobile_nav": {
-    "cps_cluster": "Tes CPS",
-    "typing_cluster": "Tes Mengetik",
-    "reaction_cluster": "Tes Reaksi",
-    "keyboard_cluster": "Alat Keyboard",
-    "cps_1s": "1 Detik",
-    "cps_5s": "5 Detik",
-    "cps_60s": "60 Detik",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Waktu Reaksi",
-    "typing": "Kecepatan Mengetik",
-    "keyboard": "Tes Keyboard"
+  "game": {
+    "timer": "TIMER",
+    "score": "SCORE",
+    "start": "START CLICKING",
+    "active": "CLICK FAST!",
+    "try_again": "TRY AGAIN",
+    "share": "SHARE",
+    "result_msg": "Your speed is above average. Can you beat your personal best?",
+    "slow": "🐢 Snail",
+    "fast": "⚡ Pro",
+    "superhuman": "👑 GODLIKE"
   },
   "tool_layout": {
-    "about": "Tentang",
-    "how_to": "Cara Menggunakan",
-    "rank_up": "Cara Naik Peringkat?",
-    "faq": "Pertanyaan Umum",
-    "related": "Alat Terkait",
-    "step1": "Klik tombol mulai atau area yang ditentukan.",
-    "step2": "Lakukan tindakan secepat/seakurat mungkin.",
-    "step3": "Lihat hasil Anda dan bagikan dengan teman.",
-    "rank_turtle": "Kura-kura (0-5 CPS):",
-    "rank_turtle_desc": "Anda mengklik terlalu lambat!",
-    "rank_pro": "Jagoan (5-10 CPS):",
-    "rank_pro_desc": "Kecepatan gamer rata-rata.",
-    "rank_god": "Dewa (10+ CPS):",
-    "rank_god_desc": "Anda menguasai teknik canggih."
-  },
-  "game": {
-    "timer": "WAKTU",
-    "score": "SKOR",
-    "start": "MULAI",
-    "active": "KLIK CEPAT!",
-    "try_again": "COBA LAGI",
-    "share": "BAGIKAN",
-    "result_msg": "Kecepatan Anda di atas rata-rata. Bisakah Anda mengalahkan rekor pribadi Anda?",
-    "slow": "🐢 Lambat",
-    "fast": "⚡ Jagoan",
-    "superhuman": "👑 DEWA"
-  },
-  "footer": {
-    "tagline": "Platform tes refleks & kecepatan tercepat di dunia."
-  },
-  "seo_content": {
-    "h2_improve": "How to improve your clicking speed",
-    "p_improve": "Improving your clicking speed requires practice, technique, and the right hardware. Start by relaxing your hand muscles to reduce tension. Use a gaming mouse with low-latency switches. Practice daily for 10-15 minutes to build muscle memory.",
-    "h2_styles": "Butterfly clicking vs jitter clicking",
-    "p_styles": "Jitter clicking involves vibrating your arm muscles to click fast, often reaching 10-14 CPS. Butterfly clicking uses two fingers on one button, alternating strikes to achieve 15-20+ CPS. Butterfly is generally safer for your tendons but requires a mouse that supports double-clicking.",
-    "h2_record": "What is the world record for CPS",
-    "p_record": "The world record for CPS varies by time duration. For 1 second, some players hit 30+ CPS using Drag Clicking. For the standard 10-second test, records hover around 22-24 CPS using advanced techniques.",
-    "h2_useful": "Is CPS testing useful for gamers?",
-    "p_useful": "Yes. High CPS is critical in games like Minecraft (PvP bridging), OSU!, and First Person Shooters where semi-automatic weapons are used. Tracking your CPS helps measure your physical improvement and readiness for competitive play.",
-    "h2_hardware": "Does Mouse Hardware Matter?",
-    "p_hardware": "Absolutely. Gaming mice with mechanical or optical switches (like Logitech, Razer, Glorious) have lower debounce times, allowing them to register clicks faster than standard office mice.",
-    "h2_games": "CPS in Competitive Gaming",
-    "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended."
+    "about": "About",
+    "how_to": "How to Use",
+    "rank_up": "How to Rank Up?",
+    "faq": "Frequently Asked Questions",
+    "related": "Related Tools",
+    "step1": "Click the start button or the designated area.",
+    "step2": "Perform the action as quickly/accurately as possible.",
+    "step3": "View your result and share with friends.",
+    "rank_turtle": "Turtle (0-5 CPS):",
+    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
+    "rank_pro": "Pro (5-10 CPS):",
+    "rank_pro_desc": "The average gamer speed. Good for casual play.",
+    "rank_god": "Godlike (10+ CPS):",
+    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
   }
 }

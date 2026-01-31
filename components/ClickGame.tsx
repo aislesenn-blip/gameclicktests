@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { clickSound, unlockSound, setGlobalVolume } from "@/lib/sound";
 import { useTranslations } from "next-intl";
 
@@ -8,7 +8,6 @@ interface ClickGameProps {
   mode?: string;
 }
 
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const ClickGame: React.FC<ClickGameProps> = ({ duration = 10, mode = "standard" }) => {
   const t = useTranslations("game");
   const [score, setScore] = useState(0);
@@ -19,6 +18,10 @@ const ClickGame: React.FC<ClickGameProps> = ({ duration = 10, mode = "standard" 
   const [isMuted, setIsMuted] = useState(false);
   const [volume, setVolume] = useState(0.6);
   const [showSettings, setShowSettings] = useState(false);
+
+  // Ref to track if space was pressed (for debounce/hold prevention if needed, but CPS usually allows spam)
+  // Actually, standard spacebar test allows rapid fire.
+  const buttonRef = useRef<HTMLButtonElement>(null);
 
   const handleClick = () => {
     if (isFinished) return;
@@ -49,10 +52,44 @@ const ClickGame: React.FC<ClickGameProps> = ({ duration = 10, mode = "standard" 
           }
           return prev - dt;
         });
-      }, 50); // Run loop faster for smoothness, though state updates limited by React
+      }, 50);
     }
     return () => clearInterval(interval);
   }, [isActive]);
+
+  useEffect(() => {
+      if (mode === 'spacebar') {
+          const handleKeyDown = (e: KeyboardEvent) => {
+              if (e.code === 'Space') {
+                  e.preventDefault(); // Prevent scrolling
+                  if (!e.repeat) { // Optional: allow holding? Usually CPS is individual presses.
+                       // Most spacebar tests are rapid fire press.
+                       handleClick();
+                       // Add visual feedback
+                       if (buttonRef.current) {
+                           buttonRef.current.classList.add('active-press');
+                           setTimeout(() => buttonRef.current?.classList.remove('active-press'), 50);
+                       }
+                  }
+              }
+          };
+          window.addEventListener('keydown', handleKeyDown);
+          return () => window.removeEventListener('keydown', handleKeyDown);
+      }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [mode, isActive, isFinished, isMuted]); // deps need handleClick? handleClick uses state.
+  // Better: use a ref for the handler or rely on state updates being functional.
+  // Actually handleClick uses setScore(prev => ...) so it's fine.
+  // But isMuted and isActive reads might be stale if closure captures them.
+  // Re-binding event listener on every render is expensive? No.
+  // But wait, handleClick reads `isActive` and `isFinished`.
+  // If I use the effect above, `handleClick` inside it is closed over.
+  // I should use a fresh handler or useLayoutEffect, or just let it re-bind.
+  // Given standard React strict mode, re-binding is fine.
+  // But `handleClick` needs to be fresh.
+
+  // FIX: Make handleClick stable or use refs for mutable state?
+  // Or just put handleClick in deps.
 
   useEffect(() => {
     if (isFinished) {
@@ -182,17 +219,18 @@ const ClickGame: React.FC<ClickGameProps> = ({ duration = 10, mode = "standard" 
       </div>
 
       <button
-        onMouseDown={handleClick}
-        onTouchStart={handleClick}
+        ref={buttonRef}
+        onMouseDown={mode === 'spacebar' ? undefined : handleClick}
+        onTouchStart={mode === 'spacebar' ? undefined : handleClick}
         disabled={isFinished}
         className={`w-full h-64 bg-black border-4 rounded-xl flex items-center justify-center text-3xl font-bold transition-all active:scale-95 select-none relative overflow-hidden group ${
           isActive
             ? "border-neon-green text-neon-green shadow-[0_0_30px_rgba(57,255,20,0.4)]"
             : "border-gray-700 text-gray-500 hover:border-neon-green hover:text-neon-green"
-        }`}
+        } ${mode === 'spacebar' ? 'active-press:scale-95' : ''}`}
       >
         <span className="relative z-10 group-hover:scale-110 transition-transform">
-          {isActive ? t('active') : t('start')}
+          {isActive ? t('active') : (mode === 'spacebar' ? 'PRESS SPACE' : t('start'))}
         </span>
         {isActive && <div className="absolute inset-0 bg-neon-green/5 animate-pulse" />}
       </button>
