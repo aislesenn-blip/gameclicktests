@@ -54,7 +54,11 @@
     "game_challenges": "Játékok",
     "click_modes": "Kattintási Módok",
     "time_modes": "Idő Módok",
-    "community": "Közösség"
+    "community": "Közösség",
+    "touch_test": "Touch Screen Test (HU)",
+    "mic_test": "Mic Test (HU)",
+    "gamepad_test": "Gamepad Tester (HU)",
+    "packet_loss": "Packet Loss Test (HU)"
   },
   "footer": {
     "tagline": "The world’s fastest reflex & speed testing platform."
@@ -392,6 +396,82 @@
     "h1": "Dead Pixel Checker",
     "seo": {
       "description": "Check screen for dead pixels."
+    }
+  },
+  "touch_test": {
+    "h1": "Touch Screen Test Online (HU)",
+    "seo": {
+      "title": "Touch Screen Test Online (HU)",
+      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (HU)",
+      "p_hook": "Localized intro for HU. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for HU.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for HU.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for HU.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in HU."
+    }
+  },
+  "mic_test": {
+    "h1": "Microphone Test Online (HU)",
+    "seo": {
+      "title": "Microphone Test Online (HU)",
+      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (HU)",
+      "p_hook": "Localized intro for HU. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for HU.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for HU.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for HU.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in HU."
+    }
+  },
+  "gamepad_test": {
+    "h1": "Gamepad Tester & Drift Check (HU)",
+    "seo": {
+      "title": "Gamepad Tester & Drift Check (HU)",
+      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (HU)",
+      "p_hook": "Localized intro for HU. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for HU.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for HU.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for HU.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in HU."
+    }
+  },
+  "packet_loss": {
+    "h1": "Packet Loss & Ping Test (HU)",
+    "seo": {
+      "title": "Packet Loss & Ping Test (HU)",
+      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (HU)",
+      "p_hook": "Localized intro for HU. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for HU.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for HU.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for HU.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in HU."
     }
   }
 }

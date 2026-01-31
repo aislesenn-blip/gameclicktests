@@ -54,7 +54,11 @@
     "game_challenges": "Spel",
     "click_modes": "Klicklägen",
     "time_modes": "Tidslägen",
-    "community": "Gemenskap"
+    "community": "Gemenskap",
+    "touch_test": "Touch Screen Test (SV)",
+    "mic_test": "Mic Test (SV)",
+    "gamepad_test": "Gamepad Tester (SV)",
+    "packet_loss": "Packet Loss Test (SV)"
   },
   "footer": {
     "tagline": "The world’s fastest reflex & speed testing platform."
@@ -392,6 +396,82 @@
     "h1": "Dead Pixel Checker",
     "seo": {
       "description": "Check screen for dead pixels."
+    }
+  },
+  "touch_test": {
+    "h1": "Touch Screen Test Online (SV)",
+    "seo": {
+      "title": "Touch Screen Test Online (SV)",
+      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (SV)",
+      "p_hook": "Localized intro for SV. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for SV.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for SV.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for SV.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in SV."
+    }
+  },
+  "mic_test": {
+    "h1": "Microphone Test Online (SV)",
+    "seo": {
+      "title": "Microphone Test Online (SV)",
+      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (SV)",
+      "p_hook": "Localized intro for SV. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for SV.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for SV.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for SV.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in SV."
+    }
+  },
+  "gamepad_test": {
+    "h1": "Gamepad Tester & Drift Check (SV)",
+    "seo": {
+      "title": "Gamepad Tester & Drift Check (SV)",
+      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (SV)",
+      "p_hook": "Localized intro for SV. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for SV.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for SV.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for SV.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in SV."
+    }
+  },
+  "packet_loss": {
+    "h1": "Packet Loss & Ping Test (SV)",
+    "seo": {
+      "title": "Packet Loss & Ping Test (SV)",
+      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (SV)",
+      "p_hook": "Localized intro for SV. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for SV.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for SV.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for SV.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in SV."
     }
   }
 }

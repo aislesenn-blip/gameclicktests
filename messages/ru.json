@@ -54,7 +54,11 @@
     "game_challenges": "Game Challenges",
     "click_modes": "Click Modes",
     "time_modes": "Time Modes",
-    "community": "Community"
+    "community": "Community",
+    "touch_test": "Touch Screen Test (RU)",
+    "mic_test": "Mic Test (RU)",
+    "gamepad_test": "Gamepad Tester (RU)",
+    "packet_loss": "Packet Loss Test (RU)"
   },
   "footer": {
     "tagline": "Самая быстрая в мире платформа для проверки рефлексов и скорости."
@@ -394,6 +398,82 @@
     "h1": "Dead Pixel Checker",
     "seo": {
       "description": "Check screen for dead pixels."
+    }
+  },
+  "touch_test": {
+    "h1": "Touch Screen Test Online (RU)",
+    "seo": {
+      "title": "Touch Screen Test Online (RU)",
+      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (RU)",
+      "p_hook": "Localized intro for RU. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for RU.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for RU.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for RU.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in RU."
+    }
+  },
+  "mic_test": {
+    "h1": "Microphone Test Online (RU)",
+    "seo": {
+      "title": "Microphone Test Online (RU)",
+      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (RU)",
+      "p_hook": "Localized intro for RU. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for RU.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for RU.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for RU.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in RU."
+    }
+  },
+  "gamepad_test": {
+    "h1": "Gamepad Tester & Drift Check (RU)",
+    "seo": {
+      "title": "Gamepad Tester & Drift Check (RU)",
+      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (RU)",
+      "p_hook": "Localized intro for RU. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for RU.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for RU.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for RU.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in RU."
+    }
+  },
+  "packet_loss": {
+    "h1": "Packet Loss & Ping Test (RU)",
+    "seo": {
+      "title": "Packet Loss & Ping Test (RU)",
+      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (RU)",
+      "p_hook": "Localized intro for RU. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for RU.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for RU.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for RU.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in RU."
     }
   }
 }

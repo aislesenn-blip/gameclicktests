@@ -54,7 +54,11 @@
     "game_challenges": "Desafíos",
     "click_modes": "Modos de Clic",
     "time_modes": "Modos de Tiempo",
-    "community": "Comunidad"
+    "community": "Comunidad",
+    "touch_test": "Touch Screen Test (ES)",
+    "mic_test": "Mic Test (ES)",
+    "gamepad_test": "Gamepad Tester (ES)",
+    "packet_loss": "Packet Loss Test (ES)"
   },
   "footer": {
     "tagline": "La plataforma de pruebas de velocidad y reflejos más rápida del mundo."
@@ -394,6 +398,82 @@
     "h1": "Verificador de Píxeles Muertos",
     "seo": {
       "description": "Comprueba tu pantalla en busca de píxeles muertos."
+    }
+  },
+  "touch_test": {
+    "h1": "Touch Screen Test Online (ES)",
+    "seo": {
+      "title": "Touch Screen Test Online (ES)",
+      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (ES)",
+      "p_hook": "Localized intro for ES. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for ES.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for ES.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for ES.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in ES."
+    }
+  },
+  "mic_test": {
+    "h1": "Microphone Test Online (ES)",
+    "seo": {
+      "title": "Microphone Test Online (ES)",
+      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (ES)",
+      "p_hook": "Localized intro for ES. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for ES.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for ES.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for ES.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in ES."
+    }
+  },
+  "gamepad_test": {
+    "h1": "Gamepad Tester & Drift Check (ES)",
+    "seo": {
+      "title": "Gamepad Tester & Drift Check (ES)",
+      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (ES)",
+      "p_hook": "Localized intro for ES. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for ES.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for ES.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for ES.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in ES."
+    }
+  },
+  "packet_loss": {
+    "h1": "Packet Loss & Ping Test (ES)",
+    "seo": {
+      "title": "Packet Loss & Ping Test (ES)",
+      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (ES)",
+      "p_hook": "Localized intro for ES. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for ES.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for ES.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for ES.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in ES."
     }
   }
 }

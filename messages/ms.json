@@ -54,7 +54,11 @@
     "game_challenges": "Permainan",
     "click_modes": "Mod Klik",
     "time_modes": "Mod Masa",
-    "community": "Komuniti"
+    "community": "Komuniti",
+    "touch_test": "Touch Screen Test (MS)",
+    "mic_test": "Mic Test (MS)",
+    "gamepad_test": "Gamepad Tester (MS)",
+    "packet_loss": "Packet Loss Test (MS)"
   },
   "footer": {
     "tagline": "The world’s fastest reflex & speed testing platform."
@@ -392,6 +396,82 @@
     "h1": "Dead Pixel Checker",
     "seo": {
       "description": "Check screen for dead pixels."
+    }
+  },
+  "touch_test": {
+    "h1": "Touch Screen Test Online (MS)",
+    "seo": {
+      "title": "Touch Screen Test Online (MS)",
+      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (MS)",
+      "p_hook": "Localized intro for MS. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for MS.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for MS.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for MS.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in MS."
+    }
+  },
+  "mic_test": {
+    "h1": "Microphone Test Online (MS)",
+    "seo": {
+      "title": "Microphone Test Online (MS)",
+      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (MS)",
+      "p_hook": "Localized intro for MS. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for MS.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for MS.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for MS.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in MS."
+    }
+  },
+  "gamepad_test": {
+    "h1": "Gamepad Tester & Drift Check (MS)",
+    "seo": {
+      "title": "Gamepad Tester & Drift Check (MS)",
+      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (MS)",
+      "p_hook": "Localized intro for MS. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for MS.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for MS.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for MS.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in MS."
+    }
+  },
+  "packet_loss": {
+    "h1": "Packet Loss & Ping Test (MS)",
+    "seo": {
+      "title": "Packet Loss & Ping Test (MS)",
+      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (MS)",
+      "p_hook": "Localized intro for MS. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for MS.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for MS.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for MS.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in MS."
     }
   }
 }

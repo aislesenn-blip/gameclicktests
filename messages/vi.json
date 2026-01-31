@@ -54,7 +54,11 @@
     "game_challenges": "Trò chơi",
     "click_modes": "Chế độ nhấp",
     "time_modes": "Chế độ thời gian",
-    "community": "Cộng đồng"
+    "community": "Cộng đồng",
+    "touch_test": "Touch Screen Test (VI)",
+    "mic_test": "Mic Test (VI)",
+    "gamepad_test": "Gamepad Tester (VI)",
+    "packet_loss": "Packet Loss Test (VI)"
   },
   "footer": {
     "tagline": "The world’s fastest reflex & speed testing platform."
@@ -394,6 +398,82 @@
     "h1": "Dead Pixel Checker",
     "seo": {
       "description": "Check screen for dead pixels."
+    }
+  },
+  "touch_test": {
+    "h1": "Touch Screen Test Online (VI)",
+    "seo": {
+      "title": "Touch Screen Test Online (VI)",
+      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (VI)",
+      "p_hook": "Localized intro for VI. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for VI.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for VI.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for VI.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in VI."
+    }
+  },
+  "mic_test": {
+    "h1": "Microphone Test Online (VI)",
+    "seo": {
+      "title": "Microphone Test Online (VI)",
+      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (VI)",
+      "p_hook": "Localized intro for VI. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for VI.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for VI.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for VI.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in VI."
+    }
+  },
+  "gamepad_test": {
+    "h1": "Gamepad Tester & Drift Check (VI)",
+    "seo": {
+      "title": "Gamepad Tester & Drift Check (VI)",
+      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (VI)",
+      "p_hook": "Localized intro for VI. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for VI.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for VI.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for VI.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in VI."
+    }
+  },
+  "packet_loss": {
+    "h1": "Packet Loss & Ping Test (VI)",
+    "seo": {
+      "title": "Packet Loss & Ping Test (VI)",
+      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (VI)",
+      "p_hook": "Localized intro for VI. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for VI.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for VI.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for VI.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in VI."
     }
   }
 }

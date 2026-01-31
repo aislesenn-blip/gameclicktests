@@ -54,7 +54,11 @@
     "game_challenges": "Desafios",
     "click_modes": "Modos de Clique",
     "time_modes": "Modos de Tempo",
-    "community": "Comunidade"
+    "community": "Comunidade",
+    "touch_test": "Teste de Touch Screen",
+    "mic_test": "Teste de Microfone",
+    "gamepad_test": "Testar Controle",
+    "packet_loss": "Perda de Pacote"
   },
   "footer": {
     "tagline": "A plataforma de teste de reflexo e velocidade mais rápida do mundo."
@@ -394,6 +398,82 @@
     "h1": "Verificador de Dead Pixel",
     "seo": {
       "description": "Verifique pixels mortos na sua tela instantaneamente."
+    }
+  },
+  "touch_test": {
+    "h1": "Teste de Touch Screen Celular",
+    "seo": {
+      "title": "Teste de Touch Screen Celular",
+      "description": "Verifique se a tela do seu celular tem toques fantasmas ou áreas mortas."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (PT)",
+      "p_hook": "Localized intro for PT. Topics: Teste de touch screen celular, Tela com toque fantasma, Testar display samsung.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for PT.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for PT.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for PT.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in PT."
+    }
+  },
+  "mic_test": {
+    "h1": "Teste de Microfone Online",
+    "seo": {
+      "title": "Teste de Microfone Online",
+      "description": "Teste seu microfone e fones de ouvido. Verifique canais esquerdo e direito."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (PT)",
+      "p_hook": "Localized intro for PT. Topics: Teste de microfone, Testar fone de ouvido lado esquerdo direito, Meu microfone não funciona.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for PT.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for PT.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for PT.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in PT."
+    }
+  },
+  "gamepad_test": {
+    "h1": "Testar Controle PS4/Xbox Online",
+    "seo": {
+      "title": "Testar Controle PS4/Xbox Online",
+      "description": "Verifique drift no analógico e botões do seu controle."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (PT)",
+      "p_hook": "Localized intro for PT. Topics: Testar controle PS4 online, Controle mexendo sozinho, Teste de analógico.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for PT.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for PT.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for PT.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in PT."
+    }
+  },
+  "packet_loss": {
+    "h1": "Teste de Perda de Pacote",
+    "seo": {
+      "title": "Teste de Perda de Pacote",
+      "description": "Verifique ping alto e oscilação na internet para jogos."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (PT)",
+      "p_hook": "Localized intro for PT. Topics: Teste de perda de pacote, Ping alto jogos, Internet oscilando muito.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for PT.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for PT.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for PT.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in PT."
     }
   }
 }
