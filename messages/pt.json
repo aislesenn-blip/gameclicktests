@@ -157,28 +157,76 @@
       "title": "Maratona 60 Segundos - Palmtweets",
       "description": "O teste final de resistência. Você consegue manter o ritmo?"
     },
-    "h1": "Maratona 60 Segundos"
+    "h1": "Maratona 60 Segundos",
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
   },
   "jitter": {
     "seo": {
       "title": "Treino Jitter Click - Palmtweets",
       "description": "Domine a técnica de vibração para CPS alto."
     },
-    "h1": "Treino Jitter Click"
+    "h1": "Treino Jitter Click",
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
   },
   "butterfly": {
     "seo": {
       "title": "Teste Butterfly Click - Palmtweets",
       "description": "Use dois dedos para dobrar sua velocidade de clique."
     },
-    "h1": "Teste Butterfly Click"
+    "h1": "Teste Butterfly Click",
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
   },
   "drag": {
     "seo": {
       "title": "Teste Drag Click - Palmtweets",
       "description": "Use atrito para registrar centenas de cliques."
     },
-    "h1": "Teste Drag Click"
+    "h1": "Teste Drag Click",
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
   },
   "minecraft": {
     "seo": {
@@ -208,21 +256,57 @@
     "wait": "Wait for Green...",
     "click": "CLICK NOW!",
     "too_soon": "Too Soon! Don't anticipate.",
-    "result": "{time} ms"
+    "result": "{time} ms",
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
   },
   "typing": {
     "seo": {
       "title": "Typing Speed Test - Check Your WPM",
       "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "WPM TYPING TEST",
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
   },
   "keyboard": {
     "seo": {
       "title": "Keyboard Tester - Check All Keys Online",
       "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "KEYBOARD SWITCH TESTER",
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
   },
   "faq": {
     "cps": {
@@ -412,6 +496,58 @@
         "question": "Posso trocar teclas de laptop?",
         "answer": "Sim, mas é um trabalho delicado."
       }
+    },
+    "screen": {
+      "q1": {
+        "question": "What is a Dead Pixel?",
+        "answer": "A pixel that does not light up (black)."
+      },
+      "q2": {
+        "question": "What is Ghost Touch?",
+        "answer": "Screen registering touches you didn't make."
+      },
+      "q3": {
+        "question": "How to fix stuck pixels?",
+        "answer": "Rapidly flashing colors can sometimes unstuck them."
+      }
+    },
+    "audio": {
+      "q1": {
+        "question": "Why is my mic quiet?",
+        "answer": "Check your input gain in settings."
+      },
+      "q2": {
+        "question": "How to test stereo?",
+        "answer": "Use the Left/Right channel buttons."
+      },
+      "q3": {
+        "question": "Mic permission denied?",
+        "answer": "Allow browser access to microphone."
+      }
+    },
+    "gamepad": {
+      "q1": {
+        "question": "What is Stick Drift?",
+        "answer": "Analog stick moving without input."
+      },
+      "q2": {
+        "question": "Gamepad not detected?",
+        "answer": "Press a button to wake it up."
+      }
+    },
+    "network": {
+      "q1": {
+        "question": "What is Packet Loss?",
+        "answer": "Data failing to reach the server, causing lag."
+      },
+      "q2": {
+        "question": "What is Jitter?",
+        "answer": "Variance in ping (latency stability)."
+      },
+      "q3": {
+        "question": "How to fix high ping?",
+        "answer": "Use Ethernet instead of Wi-Fi."
+      }
     }
   },
   "game": {
@@ -446,6 +582,18 @@
     "h1": "Verificador de Dead Pixel",
     "seo": {
       "description": "Verifique pixels mortos na sua tela instantaneamente."
+    },
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
     }
   },
   "touch_test": {
@@ -522,6 +670,253 @@
       "p_hardware": "Hardware specific details for PT.",
       "h2_technique": "Troubleshooting",
       "p_technique": "How to fix issues in PT."
+    }
+  },
+  "cps_10s": {
+    "h1": "Cps 10S (PT)",
+    "seo": {
+      "title": "Test Tool Online",
+      "description": "Check your hardware and skills online."
+    },
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
+  },
+  "spacebar": {
+    "h1": "Spacebar (PT)",
+    "seo": {
+      "title": "Test Tool Online",
+      "description": "Check your hardware and skills online."
+    },
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
+  },
+  "combo": {
+    "h1": "Combo (PT)",
+    "seo": {
+      "title": "Test Tool Online",
+      "description": "Check your hardware and skills online."
+    },
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
+  },
+  "pubg": {
+    "h1": "Pubg (PT)",
+    "seo": {
+      "title": "Test Tool Online",
+      "description": "Check your hardware and skills online."
+    },
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
+  },
+  "roblox": {
+    "h1": "Roblox (PT)",
+    "seo": {
+      "title": "Test Tool Online",
+      "description": "Check your hardware and skills online."
+    },
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
+  },
+  "valorant": {
+    "h1": "Valorant (PT)",
+    "seo": {
+      "title": "Test Tool Online",
+      "description": "Check your hardware and skills online."
+    },
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
+  },
+  "fortnite": {
+    "h1": "Fortnite (PT)",
+    "seo": {
+      "title": "Test Tool Online",
+      "description": "Check your hardware and skills online."
+    },
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
+  },
+  "mouse": {
+    "h1": "Mouse (PT)",
+    "seo": {
+      "title": "Test Tool Online",
+      "description": "Check your hardware and skills online."
+    },
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
+  },
+  "scroll": {
+    "h1": "Scroll (PT)",
+    "seo": {
+      "title": "Test Tool Online",
+      "description": "Check your hardware and skills online."
+    },
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
+  },
+  "aim": {
+    "h1": "Aim (PT)",
+    "seo": {
+      "title": "Test Tool Online",
+      "description": "Check your hardware and skills online."
+    },
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
+  },
+  "live": {
+    "h1": "Live (PT)",
+    "seo": {
+      "title": "Test Tool Online",
+      "description": "Check your hardware and skills online."
+    },
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
+  },
+  "leaderboard": {
+    "h1": "Leaderboard (PT)",
+    "seo": {
+      "title": "Test Tool Online",
+      "description": "Check your hardware and skills online."
+    },
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
+    }
+  },
+  "stress": {
+    "h1": "Stress (PT)",
+    "seo": {
+      "title": "Test Tool Online",
+      "description": "Check your hardware and skills online."
+    },
+    "content": {
+      "h2_hook": "About this tool",
+      "p_hook": "This tool helps you test your hardware or skills.",
+      "h2_science": "How it works",
+      "p_science": "It uses browser APIs to measure performance.",
+      "h2_gaming": "Gaming Usage",
+      "p_gaming": "Useful for competitive gaming.",
+      "h2_hardware": "Hardware",
+      "p_hardware": "Works with standard devices.",
+      "h2_technique": "Technique",
+      "p_technique": "Practice to improve."
     }
   }
 }

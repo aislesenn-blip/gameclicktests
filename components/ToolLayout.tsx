@@ -45,11 +45,18 @@ const ToolLayout: React.FC<ToolLayoutProps> = ({ children, toolKey, category, lo
       return tGlobalContent(key);
   };
 
-  // Use generic FAQ keys based on category
-  const faqCategory = category === 'CPS' ? 'cps'
-                    : category === 'Reaction' ? 'reaction'
-                    : category === 'Typing' ? 'typing'
-                    : 'keyboard';
+  // Use generic FAQ keys based on category or specific mapping
+  let faqCategory = 'cps';
+  if (category === 'Reaction') faqCategory = 'reaction';
+  else if (category === 'Typing') faqCategory = 'typing';
+  else if (category === 'Hardware') {
+      if (toolKey.includes('touch') || toolKey.includes('pixel')) faqCategory = 'screen';
+      else if (toolKey.includes('mic')) faqCategory = 'audio';
+      else if (toolKey.includes('gamepad')) faqCategory = 'gamepad';
+      else if (toolKey.includes('packet')) faqCategory = 'network';
+      else faqCategory = 'keyboard'; // Fallback for mouse/keyboard hardware
+  }
+  else if (toolKey.includes('keyboard') || toolKey.includes('spacebar')) faqCategory = 'keyboard';
 
   const tFaq = useTranslations(`faq.${faqCategory}`);
 
