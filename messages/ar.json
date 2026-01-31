@@ -78,10 +78,18 @@
     "p_record": "لثانية واحدة هو أكثر من 30 نقرة.",
     "h2_useful": "هل هو مفيد للاعبين؟",
     "p_useful": "نعم، ضروري في ماين كرافت.",
-    "h2_hardware": "هل نوع الماوس مهم؟",
-    "p_hardware": "بالتأكيد. ماوس الألعاب أسرع.",
+    "h2_hardware": "Section 4 (AR)",
+    "p_hardware": "Localized content for AR focusing on لعبة رد الفعل. Detailed analysis of click speed and hardware performance.",
     "h2_games": "CPS in Competitive Gaming",
-    "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended."
+    "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended.",
+    "h2_hook": "Section 1 (AR)",
+    "p_hook": "Localized content for AR focusing on اختبار سرعة النقر, تحسين الايم ببجي. Detailed analysis of click speed and hardware performance.",
+    "h2_science": "Section 2 (AR)",
+    "p_science": "Localized content for AR focusing on اختبار الماوس دبل كليك, حل مشكلة الماوس يعلق. Detailed analysis of click speed and hardware performance.",
+    "h2_gaming": "Section 3 (AR)",
+    "p_gaming": "Localized content for AR focusing on قياس سرعة الكتابة, اختبار الكيبورد. Detailed analysis of click speed and hardware performance.",
+    "h2_technique": "Section 5 (AR)",
+    "p_technique": "Localized content for AR focusing on CPS. Detailed analysis of click speed and hardware performance."
   },
   "cps_default": {
     "seo": {
@@ -167,44 +175,64 @@
   "faq": {
     "cps": {
       "q1": {
-        "question": "What is CPS?",
-        "answer": "Clicks Per Second"
+        "question": "Question 1 about تحسين الايم ببجي?",
+        "answer": "Answer regarding تحسين الايم ببجي for AR users."
       },
       "q2": {
-        "question": "How to get higher CPS?",
-        "answer": "Use techniques like Jitter Clicking or Butterfly Clicking and a gaming mouse."
+        "question": "Question 2 about اختبار الماوس دبل كليك?",
+        "answer": "Answer regarding اختبار الماوس دبل كليك for AR users."
       },
       "q3": {
-        "question": "Is this test accurate?",
-        "answer": "Yes, our tool uses precise timestamp measurements for accuracy."
+        "question": "Question 3 about حل مشكلة الماوس يعلق?",
+        "answer": "Answer regarding حل مشكلة الماوس يعلق for AR users."
       },
       "q4": {
-        "question": "What is a good CPS for Minecraft?",
-        "answer": "For Minecraft PvP, 6-7 CPS is normal, but competitive players aim for 12-15+ CPS for combo-locking."
+        "question": "Question 4 about قياس سرعة الكتابة?",
+        "answer": "Answer regarding قياس سرعة الكتابة for AR users."
       },
       "q5": {
-        "question": "What is the world record CPS?",
-        "answer": "The world record for 1 second is over 30 CPS"
+        "question": "Question 5 about اختبار الكيبورد?",
+        "answer": "Answer regarding اختبار الكيبورد for AR users."
       },
       "q6": {
-        "question": "Is Jitter Clicking allowed?",
-        "answer": "Yes, but be careful of hand strain. Some servers may ban macro-like speeds."
+        "question": "Question 6 about لعبة رد الفعل?",
+        "answer": "Answer regarding لعبة رد الفعل for AR users."
       },
       "q7": {
-        "question": "Can CPS damage my mouse?",
-        "answer": "Extreme clicking techniques like Drag Clicking can wear out switches faster, but normal clicking is safe."
+        "question": "Question 7 about اختبار سرعة النقر?",
+        "answer": "Answer regarding اختبار سرعة النقر for AR users."
       },
       "q8": {
-        "question": "What is Drag Clicking?",
-        "answer": "Drag clicking uses finger friction to generate high CPS."
+        "question": "Question 8 about تحسين الايم ببجي?",
+        "answer": "Answer regarding تحسين الايم ببجي for AR users."
       },
       "q9": {
-        "question": "Is auto clicker allowed?",
-        "answer": "No, auto clickers are banned in almost all games."
+        "question": "Question 9 about اختبار الماوس دبل كليك?",
+        "answer": "Answer regarding اختبار الماوس دبل كليك for AR users."
       },
       "q10": {
-        "question": "How to relax hand muscles?",
-        "answer": "Stretch your fingers and wrist every 15 minutes."
+        "question": "Question 10 about حل مشكلة الماوس يعلق?",
+        "answer": "Answer regarding حل مشكلة الماوس يعلق for AR users."
+      },
+      "q11": {
+        "question": "Question 11 about قياس سرعة الكتابة?",
+        "answer": "Answer regarding قياس سرعة الكتابة for AR users."
+      },
+      "q12": {
+        "question": "Question 12 about اختبار الكيبورد?",
+        "answer": "Answer regarding اختبار الكيبورد for AR users."
+      },
+      "q13": {
+        "question": "Question 13 about لعبة رد الفعل?",
+        "answer": "Answer regarding لعبة رد الفعل for AR users."
+      },
+      "q14": {
+        "question": "Question 14 about اختبار سرعة النقر?",
+        "answer": "Answer regarding اختبار سرعة النقر for AR users."
+      },
+      "q15": {
+        "question": "Question 15 about تحسين الايم ببجي?",
+        "answer": "Answer regarding تحسين الايم ببجي for AR users."
       }
     },
     "reaction": {

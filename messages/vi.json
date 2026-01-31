@@ -78,10 +78,18 @@
     "p_record": "Hơn 30 CPS trong 1 giây.",
     "h2_useful": "Có hữu ích không?",
     "p_useful": "Có, rất quan trọng trong Minecraft PvP.",
-    "h2_hardware": "Chuột có quan trọng không?",
-    "p_hardware": "Có, chuột chơi game nhanh hơn.",
+    "h2_hardware": "Section 4 (VI)",
+    "p_hardware": "Localized content for VI focusing on Phần mềm auto click nhẹ nhất. Detailed analysis of click speed and hardware performance.",
     "h2_games": "CPS in Competitive Gaming",
-    "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended."
+    "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended.",
+    "h2_hook": "Section 1 (VI)",
+    "p_hook": "Localized content for VI focusing on Test chuột double click, Kiểm tra bàn phím online. Detailed analysis of click speed and hardware performance.",
+    "h2_science": "Section 2 (VI)",
+    "p_science": "Localized content for VI focusing on Cách jitter click hiệu quả, Test tốc độ gõ phím. Detailed analysis of click speed and hardware performance.",
+    "h2_gaming": "Section 3 (VI)",
+    "p_gaming": "Localized content for VI focusing on Luyện phản xạ Liên Minh Huyền Thoại, Chuột bị liệt nút click. Detailed analysis of click speed and hardware performance.",
+    "h2_technique": "Section 5 (VI)",
+    "p_technique": "Localized content for VI focusing on CPS. Detailed analysis of click speed and hardware performance."
   },
   "cps_default": {
     "seo": {
@@ -167,44 +175,64 @@
   "faq": {
     "cps": {
       "q1": {
-        "question": "What is CPS?",
-        "answer": "Clicks Per Second (CPS) measures how fast you can click a mouse button."
+        "question": "Question 1 about Kiểm tra bàn phím online?",
+        "answer": "Answer regarding Kiểm tra bàn phím online for VI users."
       },
       "q2": {
-        "question": "How to get higher CPS?",
-        "answer": "Use techniques like Jitter Clicking or Butterfly Clicking and a gaming mouse."
+        "question": "Question 2 about Cách jitter click hiệu quả?",
+        "answer": "Answer regarding Cách jitter click hiệu quả for VI users."
       },
       "q3": {
-        "question": "Is this test accurate?",
-        "answer": "Yes, our tool uses precise timestamp measurements for accuracy."
+        "question": "Question 3 about Test tốc độ gõ phím?",
+        "answer": "Answer regarding Test tốc độ gõ phím for VI users."
       },
       "q4": {
-        "question": "What is a good CPS for Minecraft?",
-        "answer": "For Minecraft PvP, 6-7 CPS is normal, but competitive players aim for 12-15+ CPS for combo-locking."
+        "question": "Question 4 about Luyện phản xạ Liên Minh Huyền Thoại?",
+        "answer": "Answer regarding Luyện phản xạ Liên Minh Huyền Thoại for VI users."
       },
       "q5": {
-        "question": "What is the world record CPS?",
-        "answer": "The world record for 1 second is over 30 CPS (drag click). For 10 seconds, it is around 22-24 CPS."
+        "question": "Question 5 about Chuột bị liệt nút click?",
+        "answer": "Answer regarding Chuột bị liệt nút click for VI users."
       },
       "q6": {
-        "question": "Is Jitter Clicking allowed?",
-        "answer": "Yes, but be careful of hand strain. Some servers may ban macro-like speeds."
+        "question": "Question 6 about Phần mềm auto click nhẹ nhất?",
+        "answer": "Answer regarding Phần mềm auto click nhẹ nhất for VI users."
       },
       "q7": {
-        "question": "Can CPS damage my mouse?",
-        "answer": "Extreme clicking techniques like Drag Clicking can wear out switches faster, but normal clicking is safe."
+        "question": "Question 7 about Test chuột double click?",
+        "answer": "Answer regarding Test chuột double click for VI users."
       },
       "q8": {
-        "question": "What is Drag Clicking?",
-        "answer": "Drag clicking uses finger friction to generate high CPS."
+        "question": "Question 8 about Kiểm tra bàn phím online?",
+        "answer": "Answer regarding Kiểm tra bàn phím online for VI users."
       },
       "q9": {
-        "question": "Is auto clicker allowed?",
-        "answer": "No, auto clickers are banned in almost all games."
+        "question": "Question 9 about Cách jitter click hiệu quả?",
+        "answer": "Answer regarding Cách jitter click hiệu quả for VI users."
       },
       "q10": {
-        "question": "How to relax hand muscles?",
-        "answer": "Stretch your fingers and wrist every 15 minutes."
+        "question": "Question 10 about Test tốc độ gõ phím?",
+        "answer": "Answer regarding Test tốc độ gõ phím for VI users."
+      },
+      "q11": {
+        "question": "Question 11 about Luyện phản xạ Liên Minh Huyền Thoại?",
+        "answer": "Answer regarding Luyện phản xạ Liên Minh Huyền Thoại for VI users."
+      },
+      "q12": {
+        "question": "Question 12 about Chuột bị liệt nút click?",
+        "answer": "Answer regarding Chuột bị liệt nút click for VI users."
+      },
+      "q13": {
+        "question": "Question 13 about Phần mềm auto click nhẹ nhất?",
+        "answer": "Answer regarding Phần mềm auto click nhẹ nhất for VI users."
+      },
+      "q14": {
+        "question": "Question 14 about Test chuột double click?",
+        "answer": "Answer regarding Test chuột double click for VI users."
+      },
+      "q15": {
+        "question": "Question 15 about Kiểm tra bàn phím online?",
+        "answer": "Answer regarding Kiểm tra bàn phím online for VI users."
       }
     },
     "reaction": {

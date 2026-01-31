@@ -78,10 +78,18 @@
     "p_record": "Мировой рекорд CPS варьируется в зависимости от длительности. За 1 секунду некоторые игроки достигают 30+ CPS, используя Drag Clicking. Для стандартного теста 10 секунд рекорды колеблются около 22-24 CPS с использованием продвинутых техник.",
     "h2_useful": "Полезен ли тест CPS для геймеров?",
     "p_useful": "Да. Высокий CPS критичен в играх, таких как Minecraft (PvP bridging), OSU!, и шутерах от первого лица, где используется полуавтоматическое оружие. Отслеживание вашего CPS помогает измерить ваше физическое улучшение и готовность к соревновательной игре.",
-    "h2_hardware": "Важно ли оборудование мыши?",
-    "p_hardware": "Безусловно. Игровые мыши с механическими или оптическими переключателями (как Logitech, Razer, Glorious) имеют меньшее время отклика, позволяя регистрировать клики быстрее, чем стандартные офисные мыши.",
+    "h2_hardware": "Лаборатория железа",
+    "p_hardware": "Этот инструмент важен для геймеров, желающих освоить Скролл тест мыши. Улучшение реакции жизненно важно. Игроки часто ищут 'Скролл тест мыши'.",
     "h2_games": "CPS в Соревновательных Играх",
-    "p_games": "В Minecraft 1.8 PvP высокий CPS помогает 'получать меньше отбрасывания' и начинать комбо. В шутерах, таких как CS2 или Valorant, время реакции часто важнее, чем чистый CPS, но постоянство клика гарантирует, что ваши выстрелы попадут в цель."
+    "p_games": "В Minecraft 1.8 PvP высокий CPS помогает 'получать меньше отбрасывания' и начинать комбо. В шутерах, таких как CS2 или Valorant, время реакции часто важнее, чем чистый CPS, но постоянство клика гарантирует, что ваши выстрелы попадут в цель.",
+    "h2_hook": "Почему важна скорость клика",
+    "p_hook": "Этот инструмент важен для геймеров, желающих освоить Тренировка аима кс 2, Тест мышки на дабл клик. Улучшение реакции жизненно важно. Игроки часто ищут 'Тренировка аима кс 2'.",
+    "h2_science": "Наука о CPS",
+    "p_science": "Этот инструмент важен для геймеров, желающих освоить Как повысить кпс в майнкрафте, Джиттер клик гайд. Улучшение реакции жизненно важно. Игроки часто ищут 'Как повысить кпс в майнкрафте'.",
+    "h2_gaming": "Игровой контекст: Майнкрафт и Шутеры",
+    "p_gaming": "Этот инструмент важен для геймеров, желающих освоить Проверка клавиатуры онлайн, Залипание клавиш тест. Улучшение реакции жизненно важно. Игроки часто ищут 'Проверка клавиатуры онлайн'.",
+    "h2_technique": "Гайд по техникам",
+    "p_technique": "Этот инструмент важен для геймеров, желающих освоить CPS. Улучшение реакции жизненно важно. Игроки часто ищут ''."
   },
   "cps_default": {
     "seo": {
@@ -167,44 +175,64 @@
   "faq": {
     "cps": {
       "q1": {
-        "question": "What is CPS?",
-        "answer": "Clicks Per Second (CPS) measures how fast you can click a mouse button."
+        "question": "Question 1 about Тест мышки на дабл клик?",
+        "answer": "Answer regarding Тест мышки на дабл клик for RU users."
       },
       "q2": {
-        "question": "How to get higher CPS?",
-        "answer": "Use techniques like Jitter Clicking or Butterfly Clicking and a gaming mouse."
+        "question": "Question 2 about Как повысить кпс в майнкрафте?",
+        "answer": "Answer regarding Как повысить кпс в майнкрафте for RU users."
       },
       "q3": {
-        "question": "Is this test accurate?",
-        "answer": "Yes, our tool uses precise timestamp measurements for accuracy."
+        "question": "Question 3 about Джиттер клик гайд?",
+        "answer": "Answer regarding Джиттер клик гайд for RU users."
       },
       "q4": {
-        "question": "What is a good CPS for Minecraft?",
-        "answer": "For Minecraft PvP, 6-7 CPS is normal, but competitive players aim for 12-15+ CPS for combo-locking."
+        "question": "Question 4 about Проверка клавиатуры онлайн?",
+        "answer": "Answer regarding Проверка клавиатуры онлайн for RU users."
       },
       "q5": {
-        "question": "What is the world record CPS?",
-        "answer": "The world record for 1 second is over 30 CPS (drag click). For 10 seconds, it is around 22-24 CPS."
+        "question": "Question 5 about Залипание клавиш тест?",
+        "answer": "Answer regarding Залипание клавиш тест for RU users."
       },
       "q6": {
-        "question": "Is Jitter Clicking allowed?",
-        "answer": "Yes, but be careful of hand strain. Some servers may ban macro-like speeds."
+        "question": "Question 6 about Скролл тест мыши?",
+        "answer": "Answer regarding Скролл тест мыши for RU users."
       },
       "q7": {
-        "question": "Can CPS damage my mouse?",
-        "answer": "Extreme clicking techniques like Drag Clicking can wear out switches faster, but normal clicking is safe."
+        "question": "Question 7 about Тренировка аима кс 2?",
+        "answer": "Answer regarding Тренировка аима кс 2 for RU users."
       },
       "q8": {
-        "question": "Что такое Драг Клик?",
-        "answer": "Трение пальца для создания кликов."
+        "question": "Question 8 about Тест мышки на дабл клик?",
+        "answer": "Answer regarding Тест мышки на дабл клик for RU users."
       },
       "q9": {
-        "question": "Автокликер разрешен?",
-        "answer": "Нет, они запрещены почти везде."
+        "question": "Question 9 about Как повысить кпс в майнкрафте?",
+        "answer": "Answer regarding Как повысить кпс в майнкрафте for RU users."
       },
       "q10": {
-        "question": "Как расслабить руку?",
-        "answer": "Разминайте пальцы каждые 15 минут."
+        "question": "Question 10 about Джиттер клик гайд?",
+        "answer": "Answer regarding Джиттер клик гайд for RU users."
+      },
+      "q11": {
+        "question": "Question 11 about Проверка клавиатуры онлайн?",
+        "answer": "Answer regarding Проверка клавиатуры онлайн for RU users."
+      },
+      "q12": {
+        "question": "Question 12 about Залипание клавиш тест?",
+        "answer": "Answer regarding Залипание клавиш тест for RU users."
+      },
+      "q13": {
+        "question": "Question 13 about Скролл тест мыши?",
+        "answer": "Answer regarding Скролл тест мыши for RU users."
+      },
+      "q14": {
+        "question": "Question 14 about Тренировка аима кс 2?",
+        "answer": "Answer regarding Тренировка аима кс 2 for RU users."
+      },
+      "q15": {
+        "question": "Question 15 about Тест мышки на дабл клик?",
+        "answer": "Answer regarding Тест мышки на дабл клик for RU users."
       }
     },
     "reaction": {

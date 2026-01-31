@@ -78,10 +78,18 @@
     "p_record": "Rekor dunia untuk CPS bervariasi berdasarkan durasi. Untuk 1 detik, beberapa pemain mencapai 30+ CPS menggunakan Drag Clicking. Untuk tes standar 10 detik, rekor berkisar sekitar 22-24 CPS menggunakan teknik canggih.",
     "h2_useful": "Apakah tes CPS berguna untuk gamer?",
     "p_useful": "Ya. CPS tinggi sangat penting dalam game seperti Minecraft (jembatan PvP), OSU!, dan First Person Shooters di mana senjata semi-otomatis digunakan. Melacak CPS Anda membantu mengukur peningkatan fisik dan kesiapan Anda untuk bermain kompetitif.",
-    "h2_hardware": "Apakah perangkat keras mouse penting?",
-    "p_hardware": "Tentu saja. Mouse gaming dengan switch mekanis atau optik (seperti Logitech, Razer, Glorious) memiliki waktu debounce yang lebih rendah, memungkinkan mereka mendaftar klik lebih cepat daripada mouse kantor standar.",
+    "h2_hardware": "Section 4 (ID)",
+    "p_hardware": "Localized content for ID focusing on Kecepatan klik normal manusia, Aplikasi auto clicker android tanpa root. Detailed analysis of click speed and hardware performance.",
     "h2_games": "CPS dalam Game Kompetitif",
-    "p_games": "Di Minecraft 1.8 PvP, CPS tinggi membantu dengan 'menerima lebih sedikit knockback' dan memulai combo. Dalam penembak seperti CS2 atau Valorant, waktu reaksi seringkali lebih penting daripada CPS mentah, tetapi konsistensi klik memastikan tembakan Anda mendarat saat dimaksudkan."
+    "p_games": "Di Minecraft 1.8 PvP, CPS tinggi membantu dengan 'menerima lebih sedikit knockback' dan memulai combo. Dalam penembak seperti CS2 atau Valorant, waktu reaksi seringkali lebih penting daripada CPS mentah, tetapi konsistensi klik memastikan tembakan Anda mendarat saat dimaksudkan.",
+    "h2_hook": "Section 1 (ID)",
+    "p_hook": "Localized content for ID focusing on Tes respon tangan, Tes kecepatan jari HP. Detailed analysis of click speed and hardware performance.",
+    "h2_science": "Section 2 (ID)",
+    "p_science": "Localized content for ID focusing on Latihan aim PUBG Mobile, Cara jitter click di mouse biasa. Detailed analysis of click speed and hardware performance.",
+    "h2_gaming": "Section 3 (ID)",
+    "p_gaming": "Localized content for ID focusing on Mouse gaming murah terbaik, Tes keyboard rusak. Detailed analysis of click speed and hardware performance.",
+    "h2_technique": "Section 5 (ID)",
+    "p_technique": "Localized content for ID focusing on CPS. Detailed analysis of click speed and hardware performance."
   },
   "cps_default": {
     "seo": {
@@ -167,44 +175,64 @@
   "faq": {
     "cps": {
       "q1": {
-        "question": "What is CPS?",
-        "answer": "Clicks Per Second (CPS) measures how fast you can click a mouse button."
+        "question": "Question 1 about Tes kecepatan jari HP?",
+        "answer": "Answer regarding Tes kecepatan jari HP for ID users."
       },
       "q2": {
-        "question": "How to get higher CPS?",
-        "answer": "Use techniques like Jitter Clicking or Butterfly Clicking and a gaming mouse."
+        "question": "Question 2 about Latihan aim PUBG Mobile?",
+        "answer": "Answer regarding Latihan aim PUBG Mobile for ID users."
       },
       "q3": {
-        "question": "Is this test accurate?",
-        "answer": "Yes, our tool uses precise timestamp measurements for accuracy."
+        "question": "Question 3 about Cara jitter click di mouse biasa?",
+        "answer": "Answer regarding Cara jitter click di mouse biasa for ID users."
       },
       "q4": {
-        "question": "What is a good CPS for Minecraft?",
-        "answer": "For Minecraft PvP, 6-7 CPS is normal, but competitive players aim for 12-15+ CPS for combo-locking."
+        "question": "Question 4 about Mouse gaming murah terbaik?",
+        "answer": "Answer regarding Mouse gaming murah terbaik for ID users."
       },
       "q5": {
-        "question": "What is the world record CPS?",
-        "answer": "The world record for 1 second is over 30 CPS (drag click). For 10 seconds, it is around 22-24 CPS."
+        "question": "Question 5 about Tes keyboard rusak?",
+        "answer": "Answer regarding Tes keyboard rusak for ID users."
       },
       "q6": {
-        "question": "Is Jitter Clicking allowed?",
-        "answer": "Yes, but be careful of hand strain. Some servers may ban macro-like speeds."
+        "question": "Question 6 about Kecepatan klik normal manusia?",
+        "answer": "Answer regarding Kecepatan klik normal manusia for ID users."
       },
       "q7": {
-        "question": "Can CPS damage my mouse?",
-        "answer": "Extreme clicking techniques like Drag Clicking can wear out switches faster, but normal clicking is safe."
+        "question": "Question 7 about Aplikasi auto clicker android tanpa root?",
+        "answer": "Answer regarding Aplikasi auto clicker android tanpa root for ID users."
       },
       "q8": {
-        "question": "Apa itu Drag Clicking?",
-        "answer": "Teknik gesekan jari untuk banyak klik."
+        "question": "Question 8 about Tes respon tangan?",
+        "answer": "Answer regarding Tes respon tangan for ID users."
       },
       "q9": {
-        "question": "Auto clicker boleh?",
-        "answer": "Tidak, dilarang di hampir semua game."
+        "question": "Question 9 about Tes kecepatan jari HP?",
+        "answer": "Answer regarding Tes kecepatan jari HP for ID users."
       },
       "q10": {
-        "question": "Cara merilekskan tangan?",
-        "answer": "Regangkan jari dan pergelangan tiap 15 menit."
+        "question": "Question 10 about Latihan aim PUBG Mobile?",
+        "answer": "Answer regarding Latihan aim PUBG Mobile for ID users."
+      },
+      "q11": {
+        "question": "Question 11 about Cara jitter click di mouse biasa?",
+        "answer": "Answer regarding Cara jitter click di mouse biasa for ID users."
+      },
+      "q12": {
+        "question": "Question 12 about Mouse gaming murah terbaik?",
+        "answer": "Answer regarding Mouse gaming murah terbaik for ID users."
+      },
+      "q13": {
+        "question": "Question 13 about Tes keyboard rusak?",
+        "answer": "Answer regarding Tes keyboard rusak for ID users."
+      },
+      "q14": {
+        "question": "Question 14 about Kecepatan klik normal manusia?",
+        "answer": "Answer regarding Kecepatan klik normal manusia for ID users."
+      },
+      "q15": {
+        "question": "Question 15 about Aplikasi auto clicker android tanpa root?",
+        "answer": "Answer regarding Aplikasi auto clicker android tanpa root for ID users."
       }
     },
     "reaction": {

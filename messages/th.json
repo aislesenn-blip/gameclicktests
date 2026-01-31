@@ -78,8 +78,16 @@
     "p_record": "Aim for 10+ CPS.",
     "h2_useful": "Gaming Utility",
     "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Hardware",
-    "p_hardware": "Use a gaming mouse."
+    "h2_hardware": "Section 4 (TH)",
+    "p_hardware": "Localized content for TH focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
+    "h2_hook": "Section 1 (TH)",
+    "p_hook": "Localized content for TH focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
+    "h2_science": "Section 2 (TH)",
+    "p_science": "Localized content for TH focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
+    "h2_gaming": "Section 3 (TH)",
+    "p_gaming": "Localized content for TH focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
+    "h2_technique": "Section 5 (TH)",
+    "p_technique": "Localized content for TH focusing on CPS. Detailed analysis of click speed and hardware performance."
   },
   "cps_default": {
     "seo": {
@@ -165,44 +173,64 @@
   "faq": {
     "cps": {
       "q1": {
-        "question": "What is CPS?",
-        "answer": "Clicks Per Second (CPS) measures how fast you can click a mouse button."
+        "question": "Question 1 about Mouse double click test?",
+        "answer": "Answer regarding Mouse double click test for TH users."
       },
       "q2": {
-        "question": "How to get higher CPS?",
-        "answer": "Use techniques like Jitter Clicking or Butterfly Clicking and a gaming mouse."
+        "question": "Question 2 about Spacebar counter 60 seconds?",
+        "answer": "Answer regarding Spacebar counter 60 seconds for TH users."
       },
       "q3": {
-        "question": "Is this test accurate?",
-        "answer": "Yes, our tool uses precise timestamp measurements for accuracy."
+        "question": "Question 3 about Polling rate checker 1000hz?",
+        "answer": "Answer regarding Polling rate checker 1000hz for TH users."
       },
       "q4": {
-        "question": "What is a good CPS for Minecraft?",
-        "answer": "For Minecraft PvP, 6-7 CPS is normal, but competitive players aim for 12-15+ CPS for combo-locking."
+        "question": "Question 4 about Input lag test for Valorant?",
+        "answer": "Answer regarding Input lag test for Valorant for TH users."
       },
       "q5": {
-        "question": "What is the world record CPS?",
-        "answer": "The world record for 1 second is over 30 CPS (drag click). For 10 seconds, it is around 22-24 CPS."
+        "question": "Question 5 about How to drag click on Model O?",
+        "answer": "Answer regarding How to drag click on Model O for TH users."
       },
       "q6": {
-        "question": "Is Jitter Clicking allowed?",
-        "answer": "Yes, but be careful of hand strain. Some servers may ban macro-like speeds."
+        "question": "Question 6 about Best mouse for jitter clicking?",
+        "answer": "Answer regarding Best mouse for jitter clicking for TH users."
       },
       "q7": {
-        "question": "Can CPS damage my mouse?",
-        "answer": "Extreme clicking techniques like Drag Clicking can wear out switches faster, but normal clicking is safe."
+        "question": "Question 7 about Chromebook touchpad click test?",
+        "answer": "Answer regarding Chromebook touchpad click test for TH users."
       },
       "q8": {
-        "question": "What is Drag Clicking?",
-        "answer": "Drag clicking uses finger friction to generate high CPS."
+        "question": "Question 8 about Unblocked CPS test at school?",
+        "answer": "Answer regarding Unblocked CPS test at school for TH users."
       },
       "q9": {
-        "question": "Is auto clicker allowed?",
-        "answer": "No, auto clickers are banned in almost all games."
+        "question": "Question 9 about Mouse double click test?",
+        "answer": "Answer regarding Mouse double click test for TH users."
       },
       "q10": {
-        "question": "How to relax hand muscles?",
-        "answer": "Stretch your fingers and wrist every 15 minutes."
+        "question": "Question 10 about Spacebar counter 60 seconds?",
+        "answer": "Answer regarding Spacebar counter 60 seconds for TH users."
+      },
+      "q11": {
+        "question": "Question 11 about Polling rate checker 1000hz?",
+        "answer": "Answer regarding Polling rate checker 1000hz for TH users."
+      },
+      "q12": {
+        "question": "Question 12 about Input lag test for Valorant?",
+        "answer": "Answer regarding Input lag test for Valorant for TH users."
+      },
+      "q13": {
+        "question": "Question 13 about How to drag click on Model O?",
+        "answer": "Answer regarding How to drag click on Model O for TH users."
+      },
+      "q14": {
+        "question": "Question 14 about Best mouse for jitter clicking?",
+        "answer": "Answer regarding Best mouse for jitter clicking for TH users."
+      },
+      "q15": {
+        "question": "Question 15 about Chromebook touchpad click test?",
+        "answer": "Answer regarding Chromebook touchpad click test for TH users."
       }
     },
     "reaction": {
