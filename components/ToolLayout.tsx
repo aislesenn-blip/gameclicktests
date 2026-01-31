@@ -19,7 +19,31 @@ const ToolLayout: React.FC<ToolLayoutProps> = ({ children, toolKey, category, lo
   const tNav = useTranslations("nav");
   const tLayout = useTranslations("tool_layout");
   const tm = useTranslations("mobile_nav");
-  const tContent = useTranslations("seo_content");
+
+  // Always call hooks unconditionally
+  // We can't conditionally call useTranslations.
+  // We must load BOTH namespaces (if they exist) or use a smarter pattern.
+  // Next-intl doesn't support "try load".
+  // However, we can just load "seo_content" and "toolKey" (which we already did).
+  // If we injected the content into `toolKey.content` in the JSON, we can access it via `t('content.h2_hook')`.
+  // If it doesn't exist, `t` will return the key path. We can check that.
+
+  const tGlobalContent = useTranslations("seo_content");
+
+  // Helper to get content with fallback
+  const getContent = (key: string) => {
+      // Check if tool specific content exists (by checking if it returns a non-key value)
+      // This is a bit hacky with next-intl on client side without rich objects sometimes.
+      // Better approach: We injected `content` object into `toolKey` in the JSON.
+      // So `t('content.h2_hook')` should work.
+
+      const specific = t(`content.${key}`);
+      // If the translation is missing, next-intl returns "toolKey.content.key".
+      if (specific && !specific.includes(toolKey)) {
+          return specific;
+      }
+      return tGlobalContent(key);
+  };
 
   // Use generic FAQ keys based on category
   const faqCategory = category === 'CPS' ? 'cps'
@@ -100,34 +124,20 @@ const ToolLayout: React.FC<ToolLayoutProps> = ({ children, toolKey, category, lo
           <li>{tLayout('step3')}</li>
         </ol>
 
-        {category === 'CPS' && (
-          <>
-            <h3 className="text-neon-green">{tLayout('rank_up')}</h3>
-            <ul>
-              <li><strong>{tLayout('rank_turtle')}</strong> {tLayout('rank_turtle_desc')}</li>
-              <li><strong>{tLayout('rank_pro')}</strong> {tLayout('rank_pro_desc')}</li>
-              <li><strong>{tLayout('rank_god')}</strong> {tLayout('rank_god_desc')}</li>
-            </ul>
+        <h2 className="text-neon-green">{getContent('h2_improve') || getContent('h2_hook')}</h2>
+        <p>{getContent('p_improve') || getContent('p_hook')}</p>
 
-            <h2 className="text-neon-green">{tContent('h2_improve')}</h2>
-            <p>{tContent('p_improve')}</p>
+        <h3 className="text-neon-green">{getContent('h2_styles') || getContent('h2_science')}</h3>
+        <p>{getContent('p_styles') || getContent('p_science')}</p>
 
-            <h3 className="text-neon-green">{tContent('h2_styles')}</h3>
-            <p>{tContent('p_styles')}</p>
+        <h3 className="text-neon-green">{getContent('h2_record') || getContent('h2_gaming')}</h3>
+        <p>{getContent('p_record') || getContent('p_gaming')}</p>
 
-            <h3 className="text-neon-green">{tContent('h2_record')}</h3>
-            <p>{tContent('p_record')}</p>
+        <h3 className="text-neon-green">{getContent('h2_useful') || getContent('h2_hardware')}</h3>
+        <p>{getContent('p_useful') || getContent('p_hardware')}</p>
 
-            <h3 className="text-neon-green">{tContent('h2_useful')}</h3>
-            <p>{tContent('p_useful')}</p>
-
-            <h3 className="text-neon-green">{tContent('h2_hardware')}</h3>
-            <p>{tContent('p_hardware')}</p>
-
-            <h3 className="text-neon-green">{tContent('h2_games')}</h3>
-            <p>{tContent('p_games')}</p>
-          </>
-        )}
+        <h3 className="text-neon-green">{getContent('h2_hardware') || getContent('h2_technique')}</h3>
+        <p>{getContent('p_hardware') || getContent('p_technique')}</p>
 
         <h3 className="text-neon-green">{tLayout('faq')}</h3>
         <dl className="space-y-4">

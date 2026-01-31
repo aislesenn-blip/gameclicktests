@@ -4,9 +4,10 @@ import ClickGame from '@/components/ClickGame';
 import AdUnit from '@/components/AdUnit';
 import StarRating from '@/components/StarRating';
 import { SOFTWARE_APPLICATION_SCHEMA, FAQ_SCHEMA, BREADCRUMB_SCHEMA } from '@/seo/schema';
+import { locales } from '@/config/locales';
 
 export function generateStaticParams() {
-  return ['en', 'pt', 'id', 'es', 'ru'].map((locale) => ({ locale }));
+  return locales.map((locale) => ({ locale }));
 }
 
 export default function Home({ params: { locale } }: { params: { locale: string } }) {

@@ -1,42 +1,68 @@
 "use client";
 import React, { useState } from "react";
 import Link from "next/link";
-import { useTranslations } from "next-intl";
+// Removed useTranslations hook to use props passed from Server Component
+// import { useTranslations } from "next-intl";
 
-const MobileNav = ({ locale }: { locale: string }) => {
+interface MobileNavProps {
+  locale: string;
+  labels: Record<string, string>;
+}
+
+const MobileNav = ({ locale, labels }: MobileNavProps) => {
   const [isOpen, setIsOpen] = useState(false);
-  const t = useTranslations("mobile_nav");
+  // const t = useTranslations("mobile_nav"); // Replaced by labels prop
 
   const toggleMenu = () => setIsOpen(!isOpen);
 
   const menuItems = [
     {
-      title: t("cps_cluster"),
+      title: labels.time_modes,
       links: [
-        { href: `/${locale}/cps/1-second`, label: t("cps_1s") },
-        { href: `/${locale}/cps/5-seconds`, label: t("cps_5s") },
-        { href: `/${locale}/cps/60-seconds`, label: t("cps_60s") },
-        { href: `/${locale}/cps/jitter`, label: t("jitter") },
-        { href: `/${locale}/cps/butterfly`, label: t("butterfly") },
-        { href: `/${locale}/cps/drag`, label: t("drag") },
+        { href: `/${locale}/cps/1-second`, label: labels.cps_1s },
+        { href: `/${locale}/cps/5-seconds`, label: labels.cps_5s },
+        { href: `/${locale}/cps/10-seconds`, label: labels.cps_10s },
+        { href: `/${locale}/cps/60-seconds`, label: labels.cps_60s },
+        { href: `/${locale}/cps/stress-test`, label: labels.stress },
       ],
     },
     {
-      title: t("reaction_cluster"),
+      title: labels.click_modes,
       links: [
-        { href: `/${locale}/reaction-time`, label: t("reaction") },
+        { href: `/${locale}/cps/jitter`, label: labels.jitter },
+        { href: `/${locale}/cps/butterfly`, label: labels.butterfly },
+        { href: `/${locale}/cps/drag`, label: labels.drag },
+        { href: `/${locale}/cps/spacebar`, label: labels.spacebar },
+        { href: `/${locale}/cps/combo`, label: labels.combo },
       ],
     },
     {
-      title: t("typing_cluster"),
+      title: labels.game_challenges,
       links: [
-        { href: `/${locale}/typing-test`, label: t("typing") },
+        { href: `/${locale}/cps/minecraft`, label: labels.minecraft },
+        { href: `/${locale}/cps/pubg`, label: labels.pubg },
+        { href: `/${locale}/cps/roblox`, label: labels.roblox },
+        { href: `/${locale}/cps/valorant`, label: labels.valorant },
+        { href: `/${locale}/cps/fortnite`, label: labels.fortnite },
       ],
     },
     {
-      title: t("keyboard_cluster"),
+      title: labels.hardware_tests,
       links: [
-        { href: `/${locale}/keyboard-test`, label: t("keyboard") },
+        { href: `/${locale}/reaction-time`, label: labels.reaction },
+        { href: `/${locale}/typing-test`, label: labels.typing },
+        { href: `/${locale}/keyboard-test`, label: labels.keyboard },
+        { href: `/${locale}/mouse-test`, label: labels.mouse },
+        { href: `/${locale}/dead-pixel`, label: labels.dead_pixel },
+        { href: `/${locale}/scroll-test`, label: labels.scroll },
+        { href: `/${locale}/aim-trainer`, label: labels.aim },
+      ],
+    },
+    {
+      title: labels.community,
+      links: [
+        { href: `/${locale}/live-cps`, label: labels.live },
+        { href: `/${locale}/leaderboard`, label: labels.leaderboard },
       ],
     },
   ];

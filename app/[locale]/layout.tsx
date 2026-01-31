@@ -6,11 +6,13 @@ import { WEBSITE_SCHEMA } from '@/seo/schema';
 import AdUnit from '@/components/AdUnit';
 import Link from 'next/link';
 import MobileNav from '@/components/MobileNav';
+import LanguageSwitcher from '@/components/LanguageSwitcher';
+import { locales } from '@/config/locales';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export function generateStaticParams() {
-  return ['en', 'pt', 'id', 'es', 'ru'].map((locale) => ({ locale }));
+  return locales.map((locale) => ({ locale }));
 }
 
 export async function generateMetadata({ params: { locale } }: { params: { locale: string } }) {
@@ -18,18 +20,17 @@ export async function generateMetadata({ params: { locale } }: { params: { local
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const seo = (messages as any).seo;
 
+  const alternatesLanguages = locales.reduce((acc, l) => {
+    acc[l] = `/${l}`;
+    return acc;
+  }, {} as Record<string, string>);
+
   return {
     title: seo.title,
     description: seo.description,
     alternates: {
       canonical: `https://palmtweets.com/${locale}`,
-      languages: {
-        'en': `/en`,
-        'pt': `/pt`,
-        'id': `/id`,
-        'es': `/es`,
-        'ru': `/ru`,
-      },
+      languages: alternatesLanguages,
     },
     openGraph: {
       title: seo.title,
@@ -64,8 +65,43 @@ export default async function LocaleLayout({
   const tf = (messages as any).footer;
   const currentYear = new Date().getFullYear();
 
+  const dir = locale === 'ar' ? 'rtl' : 'ltr';
+
+  // Extract menu items for client component to prevent raw keys if hook hydration is slow
+  const menuLabels = {
+    time_modes: tm.time_modes,
+    click_modes: tm.click_modes,
+    game_challenges: tm.game_challenges,
+    hardware_tests: tm.hardware_tests,
+    community: tm.community,
+    cps_1s: tm.cps_1s,
+    cps_5s: tm.cps_5s,
+    cps_10s: tm.cps_10s,
+    cps_60s: tm.cps_60s,
+    stress: tm.stress,
+    jitter: tm.jitter,
+    butterfly: tm.butterfly,
+    drag: tm.drag,
+    spacebar: tm.spacebar,
+    combo: tm.combo,
+    minecraft: tm.minecraft,
+    pubg: tm.pubg,
+    roblox: tm.roblox,
+    valorant: tm.valorant,
+    fortnite: tm.fortnite,
+    reaction: tm.reaction,
+    typing: tm.typing,
+    keyboard: tm.keyboard,
+    mouse: tm.mouse,
+    dead_pixel: tm.dead_pixel,
+    scroll: tm.scroll,
+    aim: tm.aim,
+    live: tm.live,
+    leaderboard: tm.leaderboard
+  };
+
   return (
-    <html lang={locale} className="dark">
+    <html lang={locale} dir={dir} className="dark">
       <head>
         <script
           type="application/ld+json"
@@ -92,19 +128,9 @@ export default async function LocaleLayout({
               </nav>
 
               <div className="flex items-center gap-4">
-                <div className="hidden md:flex gap-2 text-xs font-bold">
-                  {['en', 'pt', 'id', 'es', 'ru'].map(l => (
-                    <Link
-                      key={l}
-                      href={`/${l}`}
-                      className={`px-2 py-1 rounded ${locale === l ? 'bg-neon-green text-black' : 'text-gray-500 hover:text-white'}`}
-                    >
-                      {l.toUpperCase()}
-                    </Link>
-                  ))}
-                </div>
+                <LanguageSwitcher />
                 {/* Mobile Nav Toggle */}
-                <MobileNav locale={locale} />
+                <MobileNav locale={locale} labels={menuLabels} />
               </div>
             </div>
           </header>
@@ -116,15 +142,56 @@ export default async function LocaleLayout({
             <aside className="hidden lg:flex flex-col gap-4 w-[300px] flex-shrink-0 pt-4">
                <div className="sticky top-24">
                   <AdUnit size="sidebar" />
-                  <div className="mt-8 p-4 border border-gray-800 rounded bg-gray-900/30">
-                    <h3 className="text-neon-green text-sm mb-4 font-bold uppercase">{tm.cps_cluster}</h3>
-                    <ul className="space-y-2 text-sm text-gray-400">
-                      <li><Link href={`/${locale}/cps/1-second`} className="hover:text-white">{tm.cps_1s}</Link></li>
-                      <li><Link href={`/${locale}/cps/5-seconds`} className="hover:text-white">{tm.cps_5s}</Link></li>
-                      <li><Link href={`/${locale}/cps/jitter`} className="hover:text-white">{tm.jitter}</Link></li>
-                      <li><Link href={`/${locale}/cps/butterfly`} className="hover:text-white">{tm.butterfly}</Link></li>
-                    </ul>
-                  </div>
+
+                  <nav className="mt-8 space-y-6 overflow-y-auto max-h-[600px] custom-scrollbar pr-2">
+
+                    <div className="p-4 border border-gray-800 rounded bg-gray-900/30">
+                      <h3 className="text-neon-green text-xs mb-3 font-bold uppercase tracking-widest border-b border-gray-800 pb-2">{tm.time_modes}</h3>
+                      <ul className="space-y-2 text-sm text-gray-400">
+                        <li><Link href={`/${locale}/cps/1-second`} className="hover:text-white transition-colors">{tm.cps_1s}</Link></li>
+                        <li><Link href={`/${locale}/cps/5-seconds`} className="hover:text-white transition-colors">{tm.cps_5s}</Link></li>
+                        <li><Link href={`/${locale}/cps/10-seconds`} className="hover:text-white transition-colors">{tm.cps_10s}</Link></li>
+                        <li><Link href={`/${locale}/cps/60-seconds`} className="hover:text-white transition-colors">{tm.cps_60s}</Link></li>
+                        <li><Link href={`/${locale}/cps/stress-test`} className="hover:text-white transition-colors">{tm.stress}</Link></li>
+                      </ul>
+                    </div>
+
+                    <div className="p-4 border border-gray-800 rounded bg-gray-900/30">
+                      <h3 className="text-neon-green text-xs mb-3 font-bold uppercase tracking-widest border-b border-gray-800 pb-2">{tm.click_modes}</h3>
+                      <ul className="space-y-2 text-sm text-gray-400">
+                        <li><Link href={`/${locale}/cps/jitter`} className="hover:text-white transition-colors">{tm.jitter}</Link></li>
+                        <li><Link href={`/${locale}/cps/butterfly`} className="hover:text-white transition-colors">{tm.butterfly}</Link></li>
+                        <li><Link href={`/${locale}/cps/drag`} className="hover:text-white transition-colors">{tm.drag}</Link></li>
+                        <li><Link href={`/${locale}/cps/spacebar`} className="hover:text-white transition-colors">{tm.spacebar}</Link></li>
+                        <li><Link href={`/${locale}/cps/combo`} className="hover:text-white transition-colors">{tm.combo}</Link></li>
+                      </ul>
+                    </div>
+
+                    <div className="p-4 border border-gray-800 rounded bg-gray-900/30">
+                      <h3 className="text-neon-green text-xs mb-3 font-bold uppercase tracking-widest border-b border-gray-800 pb-2">{tm.game_challenges}</h3>
+                      <ul className="space-y-2 text-sm text-gray-400">
+                        <li><Link href={`/${locale}/cps/minecraft`} className="hover:text-white transition-colors">{tm.minecraft}</Link></li>
+                        <li><Link href={`/${locale}/cps/pubg`} className="hover:text-white transition-colors">{tm.pubg}</Link></li>
+                        <li><Link href={`/${locale}/cps/roblox`} className="hover:text-white transition-colors">{tm.roblox}</Link></li>
+                        <li><Link href={`/${locale}/cps/valorant`} className="hover:text-white transition-colors">{tm.valorant}</Link></li>
+                        <li><Link href={`/${locale}/cps/fortnite`} className="hover:text-white transition-colors">{tm.fortnite}</Link></li>
+                      </ul>
+                    </div>
+
+                    <div className="p-4 border border-gray-800 rounded bg-gray-900/30">
+                      <h3 className="text-neon-green text-xs mb-3 font-bold uppercase tracking-widest border-b border-gray-800 pb-2">{tm.hardware_tests}</h3>
+                      <ul className="space-y-2 text-sm text-gray-400">
+                        <li><Link href={`/${locale}/reaction-time`} className="hover:text-white transition-colors">{tm.reaction}</Link></li>
+                        <li><Link href={`/${locale}/typing-test`} className="hover:text-white transition-colors">{tm.typing}</Link></li>
+                        <li><Link href={`/${locale}/keyboard-test`} className="hover:text-white transition-colors">{tm.keyboard}</Link></li>
+                        <li><Link href={`/${locale}/mouse-test`} className="hover:text-white transition-colors">{tm.mouse}</Link></li>
+                        <li><Link href={`/${locale}/dead-pixel`} className="hover:text-white transition-colors">{tm.dead_pixel}</Link></li>
+                        <li><Link href={`/${locale}/scroll-test`} className="hover:text-white transition-colors">{tm.scroll}</Link></li>
+                        <li><Link href={`/${locale}/aim-trainer`} className="hover:text-white transition-colors">{tm.aim}</Link></li>
+                      </ul>
+                    </div>
+
+                  </nav>
                </div>
             </aside>
 

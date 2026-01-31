@@ -8,6 +8,9 @@
     "description": "Meça seus Cliques Por Segundo (CPS) com nossa ferramenta de teste de reflexo ultra-rápida. Feito para gamers, speed runners e jogadores competitivos em todo o mundo.",
     "start_btn": "Iniciar Teste CPS",
     "modes": "Modos de Teste",
+    "rank_noob": "🐢 Rank: Snail",
+    "rank_pro": "⚡ Rank: Pro Gamer",
+    "rank_god": "👑 Rank: GODLIKE",
     "share_txt": "Fiz {score} CPS no Palmtweets. Duvido você ganhar!",
     "score": "PONTOS",
     "timer": "TEMPO",
@@ -20,65 +23,137 @@
     "fast": "⚡ Pro",
     "superhuman": "👑 LENDA"
   },
+  "nav": {
+    "home": "Início",
+    "cps": "Teste CPS",
+    "reaction": "Reação",
+    "typing": "Digitação",
+    "keyboard": "Teclado",
+    "privacy": "Privacidade"
+  },
+  "mobile_nav": {
+    "cps_cluster": "Testes CPS",
+    "typing_cluster": "Testes de Digitação",
+    "reaction_cluster": "Testes de Reação",
+    "keyboard_cluster": "Ferramentas de Teclado",
+    "cps_1s": "1 Segundo",
+    "cps_5s": "5 Segundos",
+    "cps_60s": "60 Segundos",
+    "jitter": "Jitter Click",
+    "butterfly": "Butterfly Click",
+    "drag": "Drag Click",
+    "reaction": "Tempo de Reação",
+    "typing": "Digitação WPM",
+    "keyboard": "Teste de Teclado",
+    "minecraft": "Minecraft CPS",
+    "pubg": "Teste PUBG",
+    "roblox": "Roblox Clique",
+    "valorant": "Reflexo Valorant",
+    "fortnite": "Velocidade Fortnite",
+    "hardware_tests": "Testes Hardware",
+    "game_challenges": "Desafios",
+    "click_modes": "Modos de Clique",
+    "time_modes": "Modos de Tempo",
+    "community": "Comunidade",
+    "touch_test": "Teste de Touch Screen",
+    "mic_test": "Teste de Microfone",
+    "gamepad_test": "Testar Controle",
+    "packet_loss": "Perda de Pacote"
+  },
+  "footer": {
+    "tagline": "A plataforma de teste de reflexo e velocidade mais rápida do mundo."
+  },
+  "privacy": {
+    "title": "Política de Privacidade",
+    "intro": "Na Palmtweets, valorizamos sua privacidade.",
+    "cookies_title": "Cookies",
+    "cookies_text": "Usamos cookies para melhorar sua experiência.",
+    "data_title": "Coleta de Dados",
+    "data_text": "Não coletamos dados pessoais.",
+    "contact_title": "Contato",
+    "contact_text": "Contate support@palmtweets.com."
+  },
+  "seo_content": {
+    "h2_improve": "Como melhorar sua velocidade de clique",
+    "p_improve": "Melhorar sua velocidade requer prática e o hardware certo. Comece relaxando os músculos da mão para reduzir a tensão. Use um mouse gamer com switches de baixa latência. Pratique diariamente por 10-15 minutos para criar memória muscular.",
+    "h2_styles": "Butterfly clicking vs Jitter clicking",
+    "p_styles": "Jitter clicking envolve vibrar os músculos do braço para clicar rápido, frequentemente atingindo 10-14 CPS. Butterfly clicking usa dois dedos em um botão, alternando toques para atingir 15-20+ CPS. Butterfly é geralmente mais seguro para seus tendões, mas requer um mouse que suporte clique duplo.",
+    "h2_record": "Qual é o recorde mundial de CPS?",
+    "p_record": "O recorde mundial de CPS varia por duração. Para 1 segundo, alguns jogadores atingem 30+ CPS usando Drag Clicking. Para o teste padrão de 10 segundos, os recordes giram em torno de 22-24 CPS usando técnicas avançadas.",
+    "h2_useful": "O teste de CPS é útil para gamers?",
+    "p_useful": "Sim. Alto CPS é crítico em jogos como Minecraft (PvP bridging), OSU!, e jogos de tiro em primeira pessoa onde armas semiautomáticas são usadas. Rastrear seu CPS ajuda a medir sua melhoria física e prontidão para o jogo competitivo.",
+    "h2_hardware": "Laboratório de Hardware",
+    "p_hardware": "Esta ferramenta é essencial para gamers que querem dominar Mouse bugando clique, Mouse engasgando teste. Melhorar seu tempo de reação é vital. Muitos jogadores perguntam sobre 'Mouse bugando clique' e nossa ferramenta responde isso.",
+    "h2_games": "CPS em Jogos Competitivos",
+    "p_games": "No PvP do Minecraft 1.8, alto CPS ajuda a 'receber menos knockback' e iniciar combos. Em jogos de tiro como CS2 ou Valorant, o tempo de reação é frequentemente mais crítico que o CPS bruto, mas a consistência do clique garante que seus tiros acertem quando pretendido.",
+    "h2_hook": "O Gancho: Por que a Velocidade Importa",
+    "p_hook": "Esta ferramenta é essencial para gamers que querem dominar Teste de mouse double click, Como fazer drag click. Melhorar seu tempo de reação é vital. Muitos jogadores perguntam sobre 'Teste de mouse double click' e nossa ferramenta responde isso.",
+    "h2_science": "A Ciência do CPS",
+    "p_science": "Esta ferramenta é essencial para gamers que querem dominar Melhorar aim no Valorant, Teste de teclado mecânico. Melhorar seu tempo de reação é vital. Muitos jogadores perguntam sobre 'Melhorar aim no Valorant' e nossa ferramenta responde isso.",
+    "h2_gaming": "Contexto Gamer: Minecraft & FPS",
+    "p_gaming": "Esta ferramenta é essencial para gamers que querem dominar Jitter click faz mal?, Butterfly click tutorial português. Melhorar seu tempo de reação é vital. Muitos jogadores perguntam sobre 'Jitter click faz mal?' e nossa ferramenta responde isso.",
+    "h2_technique": "Guia de Técnica: Jitter & Butterfly",
+    "p_technique": "Esta ferramenta é essencial para gamers que querem dominar CPS. Melhorar seu tempo de reação é vital. Muitos jogadores perguntam sobre '' e nossa ferramenta responde isso."
+  },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed (World Record?)",
+      "title": "CPS Test - Check Your Click Speed",
       "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
     },
     "h1": "CPS TEST BLITZ"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "Teste CPS 1 Segundo - Palmtweets",
+      "description": "Teste de velocidade de explosão rápida."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "Teste CPS 1 Segundo"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
-      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "Teste CPS 5 Segundos - Palmtweets",
+      "description": "Sprint curto de velocidade de clique."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "Teste CPS 5 Segundos"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "Maratona 60 Segundos - Palmtweets",
+      "description": "O teste final de resistência. Você consegue manter o ritmo?"
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "Maratona 60 Segundos"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "Treino Jitter Click - Palmtweets",
+      "description": "Domine a técnica de vibração para CPS alto."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "Treino Jitter Click"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
-      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "Teste Butterfly Click - Palmtweets",
+      "description": "Use dois dedos para dobrar sua velocidade de clique."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "Teste Butterfly Click"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
-      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "Teste Drag Click - Palmtweets",
+      "description": "Use atrito para registrar centenas de cliques."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "Teste Drag Click"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
-      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "Minecraft PvP Click - Palmtweets",
+      "description": "Pratique seu clique para PvP no Minecraft. Melhore seus combos."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "Minecraft PvP Click"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark (ms)",
+      "title": "Reaction Time Test - Human Benchmark",
       "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
     },
     "h1": "REACTION TIME TEST",
@@ -89,7 +164,7 @@
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM (1 Minute)",
+      "title": "Typing Speed Test - Check Your WPM",
       "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
     },
     "h1": "WPM TYPING TEST"
@@ -101,43 +176,67 @@
     },
     "h1": "KEYBOARD SWITCH TESTER"
   },
-  "nav": {
-    "home": "Início",
-    "cps": "Teste CPS",
-    "reaction": "Reação",
-    "typing": "Digitação",
-    "keyboard": "Teclado",
-    "privacy": "Privacidade"
-  },
   "faq": {
     "cps": {
       "q1": {
-        "question": "What is CPS?",
-        "answer": "Clicks Per Second (CPS) measures how fast you can click a mouse button."
+        "question": "Como funciona Como fazer drag click?",
+        "answer": "Para entender Como fazer drag click, você precisa praticar diariamente."
       },
       "q2": {
-        "question": "How to get higher CPS?",
-        "answer": "Use techniques like Jitter Clicking or Butterfly Clicking and a gaming mouse."
+        "question": "Como funciona Melhorar aim no Valorant?",
+        "answer": "Para entender Melhorar aim no Valorant, você precisa praticar diariamente."
       },
       "q3": {
-        "question": "Is this test accurate?",
-        "answer": "Yes, our tool uses precise timestamp measurements for accuracy."
+        "question": "Como funciona Teste de teclado mecânico?",
+        "answer": "Para entender Teste de teclado mecânico, você precisa praticar diariamente."
       },
       "q4": {
-        "question": "What is a good CPS for Minecraft?",
-        "answer": "For Minecraft PvP, 6-7 CPS is normal, but competitive players aim for 12-15+ CPS for combo-locking."
+        "question": "Como funciona Jitter click faz mal??",
+        "answer": "Para entender Jitter click faz mal?, você precisa praticar diariamente."
       },
       "q5": {
-        "question": "What is the world record CPS?",
-        "answer": "The world record for 1 second is over 30 CPS (drag click). For 10 seconds, it is around 22-24 CPS."
+        "question": "Como funciona Butterfly click tutorial português?",
+        "answer": "Para entender Butterfly click tutorial português, você precisa praticar diariamente."
       },
       "q6": {
-        "question": "Is Jitter Clicking allowed?",
-        "answer": "Yes, but be careful of hand strain. Some servers may ban macro-like speeds."
+        "question": "Como funciona Mouse bugando clique?",
+        "answer": "Para entender Mouse bugando clique, você precisa praticar diariamente."
       },
       "q7": {
-        "question": "Can CPS damage my mouse?",
-        "answer": "Extreme clicking techniques like Drag Clicking can wear out switches faster, but normal clicking is safe."
+        "question": "Como funciona Mouse engasgando teste?",
+        "answer": "Para entender Mouse engasgando teste, você precisa praticar diariamente."
+      },
+      "q8": {
+        "question": "Como funciona Teste de mouse double click?",
+        "answer": "Para entender Teste de mouse double click, você precisa praticar diariamente."
+      },
+      "q9": {
+        "question": "Como funciona Como fazer drag click?",
+        "answer": "Para entender Como fazer drag click, você precisa praticar diariamente."
+      },
+      "q10": {
+        "question": "Como funciona Melhorar aim no Valorant?",
+        "answer": "Para entender Melhorar aim no Valorant, você precisa praticar diariamente."
+      },
+      "q11": {
+        "question": "Como funciona Teste de teclado mecânico?",
+        "answer": "Para entender Teste de teclado mecânico, você precisa praticar diariamente."
+      },
+      "q12": {
+        "question": "Como funciona Jitter click faz mal??",
+        "answer": "Para entender Jitter click faz mal?, você precisa praticar diariamente."
+      },
+      "q13": {
+        "question": "Como funciona Butterfly click tutorial português?",
+        "answer": "Para entender Butterfly click tutorial português, você precisa praticar diariamente."
+      },
+      "q14": {
+        "question": "Como funciona Mouse bugando clique?",
+        "answer": "Para entender Mouse bugando clique, você precisa praticar diariamente."
+      },
+      "q15": {
+        "question": "Como funciona Mouse engasgando teste?",
+        "answer": "Para entender Mouse engasgando teste, você precisa praticar diariamente."
       }
     },
     "reaction": {
@@ -160,6 +259,26 @@
       "q5": {
         "question": "Does monitor Hz affect reaction?",
         "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+      },
+      "q6": {
+        "question": "O que é reação visual?",
+        "answer": "É o tempo de resposta a um estímulo visual."
+      },
+      "q7": {
+        "question": "O que é reação auditiva?",
+        "answer": "Tempo de resposta ao som, geralmente mais rápido."
+      },
+      "q8": {
+        "question": "Cafeína ajuda na reação?",
+        "answer": "Sim, em quantidades moderadas pode aumentar o alerta."
+      },
+      "q9": {
+        "question": "Pro gamers usam equipamentos especiais?",
+        "answer": "Sim, monitores de alta frequência e mouses rápidos."
+      },
+      "q10": {
+        "question": "Como testar precisão?",
+        "answer": "Use nossas ferramentas de teste de precisão."
       }
     },
     "typing": {
@@ -178,6 +297,30 @@
       "q4": {
         "question": "Is touch typing better?",
         "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+      },
+      "q5": {
+        "question": "O que é teclado mecânico?",
+        "answer": "Um teclado com switches físicos para cada tecla."
+      },
+      "q6": {
+        "question": "O teclado afeta a velocidade?",
+        "answer": "Sim, o feedback tátil ajuda a manter o ritmo."
+      },
+      "q7": {
+        "question": "Como aprender digitação cega?",
+        "answer": "Comece com exercícios básicos e pratique diariamente."
+      },
+      "q8": {
+        "question": "Qual é a média de WPM?",
+        "answer": "Cerca de 40 WPM para usuários casuais."
+      },
+      "q9": {
+        "question": "O que é 100% de precisão?",
+        "answer": "Digitar sem erros ou correções."
+      },
+      "q10": {
+        "question": "Como reduzir fadiga?",
+        "answer": "Use apoio de pulso e mantenha boa postura."
       }
     },
     "keyboard": {
@@ -196,33 +339,44 @@
       "q4": {
         "question": "How to test mechanical switches?",
         "answer": "Press keys gently to check actuation point vs bottoming out."
+      },
+      "q5": {
+        "question": "O que é N-Key Rollover?",
+        "answer": "Capacidade de registrar todas as teclas simultaneamente."
+      },
+      "q6": {
+        "question": "O que são switches Cherry?",
+        "answer": "Switches mecânicos populares com sensações diferentes."
+      },
+      "q7": {
+        "question": "Como limpar o teclado?",
+        "answer": "Use ar comprimido e remova as teclas."
+      },
+      "q8": {
+        "question": "Por que minha tecla trava?",
+        "answer": "Pode ser sujeira ou o switch quebrado."
+      },
+      "q9": {
+        "question": "O que é teclado de membrana?",
+        "answer": "Teclado que usa membranas de pressão, mais barato."
+      },
+      "q10": {
+        "question": "Posso trocar teclas de laptop?",
+        "answer": "Sim, mas é um trabalho delicado."
       }
     }
   },
-  "privacy": {
-    "title": "Política de Privacidade",
-    "intro": "Na Palmtweets, valorizamos sua privacidade.",
-    "cookies_title": "Cookies",
-    "cookies_text": "Usamos cookies para melhorar sua experiência.",
-    "data_title": "Coleta de Dados",
-    "data_text": "Não coletamos dados pessoais.",
-    "contact_title": "Contato",
-    "contact_text": "Contate support@palmtweets.com."
-  },
-  "mobile_nav": {
-    "cps_cluster": "Testes CPS",
-    "typing_cluster": "Testes de Digitação",
-    "reaction_cluster": "Testes de Reação",
-    "keyboard_cluster": "Ferramentas de Teclado",
-    "cps_1s": "1 Segundo",
-    "cps_5s": "5 Segundos",
-    "cps_60s": "60 Segundos",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Tempo de Reação",
-    "typing": "Velocidade Digitação",
-    "keyboard": "Teste de Teclado"
+  "game": {
+    "timer": "TEMPO",
+    "score": "PONTOS",
+    "start": "COMEÇAR",
+    "active": "CLIQUE RÁPIDO!",
+    "try_again": "TENTAR DE NOVO",
+    "share": "COMPARTILHAR",
+    "result_msg": "Sua velocidade está acima da média. Você consegue bater seu recorde pessoal?",
+    "slow": "🐢 Tartaruga",
+    "fast": "⚡ Pro",
+    "superhuman": "👑 LENDA"
   },
   "tool_layout": {
     "about": "Sobre",
@@ -240,33 +394,86 @@
     "rank_god": "Lenda (10+ CPS):",
     "rank_god_desc": "Você domina técnicas avançadas."
   },
-  "game": {
-    "timer": "TEMPO",
-    "score": "PONTOS",
-    "start": "COMEÇAR",
-    "active": "CLIQUE RÁPIDO!",
-    "try_again": "TENTAR DE NOVO",
-    "share": "COMPARTILHAR",
-    "result_msg": "Sua velocidade está acima da média. Você consegue bater seu recorde pessoal?",
-    "slow": "🐢 Tartaruga",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 LENDA"
+  "dead_pixel": {
+    "h1": "Verificador de Dead Pixel",
+    "seo": {
+      "description": "Verifique pixels mortos na sua tela instantaneamente."
+    }
   },
-  "footer": {
-    "tagline": "A plataforma de teste de reflexo e velocidade mais rápida do mundo."
+  "touch_test": {
+    "h1": "Teste de Touch Screen Celular",
+    "seo": {
+      "title": "Teste de Touch Screen Celular",
+      "description": "Verifique se a tela do seu celular tem toques fantasmas ou áreas mortas."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (PT)",
+      "p_hook": "Localized intro for PT. Topics: Teste de touch screen celular, Tela com toque fantasma, Testar display samsung.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for PT.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for PT.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for PT.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in PT."
+    }
   },
-  "seo_content": {
-    "h2_improve": "How to improve your clicking speed",
-    "p_improve": "Improving your clicking speed requires practice, technique, and the right hardware. Start by relaxing your hand muscles to reduce tension. Use a gaming mouse with low-latency switches. Practice daily for 10-15 minutes to build muscle memory.",
-    "h2_styles": "Butterfly clicking vs jitter clicking",
-    "p_styles": "Jitter clicking involves vibrating your arm muscles to click fast, often reaching 10-14 CPS. Butterfly clicking uses two fingers on one button, alternating strikes to achieve 15-20+ CPS. Butterfly is generally safer for your tendons but requires a mouse that supports double-clicking.",
-    "h2_record": "What is the world record for CPS",
-    "p_record": "The world record for CPS varies by time duration. For 1 second, some players hit 30+ CPS using Drag Clicking. For the standard 10-second test, records hover around 22-24 CPS using advanced techniques.",
-    "h2_useful": "Is CPS testing useful for gamers?",
-    "p_useful": "Yes. High CPS is critical in games like Minecraft (PvP bridging), OSU!, and First Person Shooters where semi-automatic weapons are used. Tracking your CPS helps measure your physical improvement and readiness for competitive play.",
-    "h2_hardware": "Does Mouse Hardware Matter?",
-    "p_hardware": "Absolutely. Gaming mice with mechanical or optical switches (like Logitech, Razer, Glorious) have lower debounce times, allowing them to register clicks faster than standard office mice.",
-    "h2_games": "CPS in Competitive Gaming",
-    "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended."
+  "mic_test": {
+    "h1": "Teste de Microfone Online",
+    "seo": {
+      "title": "Teste de Microfone Online",
+      "description": "Teste seu microfone e fones de ouvido. Verifique canais esquerdo e direito."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (PT)",
+      "p_hook": "Localized intro for PT. Topics: Teste de microfone, Testar fone de ouvido lado esquerdo direito, Meu microfone não funciona.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for PT.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for PT.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for PT.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in PT."
+    }
+  },
+  "gamepad_test": {
+    "h1": "Testar Controle PS4/Xbox Online",
+    "seo": {
+      "title": "Testar Controle PS4/Xbox Online",
+      "description": "Verifique drift no analógico e botões do seu controle."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (PT)",
+      "p_hook": "Localized intro for PT. Topics: Testar controle PS4 online, Controle mexendo sozinho, Teste de analógico.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for PT.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for PT.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for PT.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in PT."
+    }
+  },
+  "packet_loss": {
+    "h1": "Teste de Perda de Pacote",
+    "seo": {
+      "title": "Teste de Perda de Pacote",
+      "description": "Verifique ping alto e oscilação na internet para jogos."
+    },
+    "content": {
+      "h2_hook": "Why Use This Tool? (PT)",
+      "p_hook": "Localized intro for PT. Topics: Teste de perda de pacote, Ping alto jogos, Internet oscilando muito.",
+      "h2_science": "Technical Details",
+      "p_science": "How it works explanation for PT.",
+      "h2_gaming": "Gaming Applications",
+      "p_gaming": "Usage in games for PT.",
+      "h2_hardware": "Hardware Analysis",
+      "p_hardware": "Hardware specific details for PT.",
+      "h2_technique": "Troubleshooting",
+      "p_technique": "How to fix issues in PT."
+    }
   }
 }
