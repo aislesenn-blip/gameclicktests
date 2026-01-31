@@ -1,6 +1,7 @@
 import { getToolMetadata } from '@/utils/seo';
 import ToolLayout from '@/components/ToolLayout';
 import ClickGame from '@/components/ClickGame';
+import { locales } from '@/config/locales';
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
