@@ -83,38 +83,74 @@
     "h2_useful": "Apakah tes CPS berguna untuk gamer?",
     "p_useful": "Ya. CPS tinggi sangat penting dalam game seperti Minecraft (jembatan PvP), OSU!, dan First Person Shooters di mana senjata semi-otomatis digunakan. Melacak CPS Anda membantu mengukur peningkatan fisik dan kesiapan Anda untuk bermain kompetitif.",
     "h2_hardware": "Section 4 (ID)",
-    "p_hardware": "Localized content for ID focusing on Kecepatan klik normal manusia, Aplikasi auto clicker android tanpa root. Detailed analysis of click speed and hardware performance.",
+    "p_hardware": "Berlatih secara konsisten untuk meningkatkan skor Anda.",
     "h2_games": "CPS dalam Game Kompetitif",
     "p_games": "Di Minecraft 1.8 PvP, CPS tinggi membantu dengan 'menerima lebih sedikit knockback' dan memulai combo. Dalam penembak seperti CS2 atau Valorant, waktu reaksi seringkali lebih penting daripada CPS mentah, tetapi konsistensi klik memastikan tembakan Anda mendarat saat dimaksudkan.",
     "h2_hook": "Section 1 (ID)",
-    "p_hook": "Localized content for ID focusing on Tes respon tangan, Tes kecepatan jari HP. Detailed analysis of click speed and hardware performance.",
+    "p_hook": "Berlatih secara konsisten untuk meningkatkan skor Anda.",
     "h2_science": "Section 2 (ID)",
-    "p_science": "Localized content for ID focusing on Latihan aim PUBG Mobile, Cara jitter click di mouse biasa. Detailed analysis of click speed and hardware performance.",
+    "p_science": "Berlatih secara konsisten untuk meningkatkan skor Anda.",
     "h2_gaming": "Section 3 (ID)",
-    "p_gaming": "Localized content for ID focusing on Mouse gaming murah terbaik, Tes keyboard rusak. Detailed analysis of click speed and hardware performance.",
+    "p_gaming": "Berlatih secara konsisten untuk meningkatkan skor Anda.",
     "h2_technique": "Section 5 (ID)",
-    "p_technique": "Localized content for ID focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "p_technique": "Berlatih secara konsisten untuk meningkatkan skor Anda."
   },
   "cps_default": {
     "seo": {
       "title": "CPS Test - Check Your Click Speed",
       "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
     },
-    "h1": "CPS TEST BLITZ"
+    "h1": "Tes Kecepatan Klik Online",
+    "content": {
+      "h2_hook": "Mengapa Kecepatan Klik Penting?",
+      "p_hook": "Dalam dunia game kompetitif, tingkat Klik Per Detik (CPS) sering menjadi penentu antara kemenangan dan kekalahan. Baik Anda melakukan bridging di Minecraft Bedwars atau mencoba mengalahkan bos di MMO, kecepatan klik mentah adalah keterampilan dasar.",
+      "h2_science": "Ilmu di Balik Kecepatan Klik",
+      "p_science": "Tes ini mengukur kecepatan input Anda dengan presisi milidetik menggunakan API performance.now(). Ini menghilangkan lag browser untuk memberikan skor mentah yang sebenarnya. Kebanyakan pemain rata-rata 6-8 CPS, sementara profesional melebihi 12 CPS.",
+      "h2_gaming": "Minecraft PvP & Combo Locking",
+      "p_gaming": "CPS tinggi mengurangi knockback yang Anda terima di Minecraft 1.8 PvP. Dengan mengklik lebih cepat, Anda mengirim lebih banyak paket ke server, yang dapat mengatur ulang kecepatan Anda dan memungkinkan Anda memulai combo lebih mudah.",
+      "h2_hardware": "Switch Mouse: Optik vs Mekanik",
+      "p_hardware": "Untuk mencapai 20+ CPS, perangkat keras penting. Switch optik (seperti pada mouse Razer) mencegah klik ganda, sementara switch mekanik (Omron) dapat disalahgunakan untuk drag clicking.",
+      "h2_technique": "Jitter vs Butterfly Clicking",
+      "p_technique": "Jitter clicking menggetarkan otot lengan Anda untuk mencapai 10-14 CPS. Butterfly clicking menggunakan dua jari pada satu tombol lebar untuk mencapai 20 CPS. Keduanya membutuhkan latihan."
+    }
   },
   "cps_1s": {
     "seo": {
       "title": "Tes CPS 1 Detik - Palmtweets",
       "description": "Tes kecepatan burst instan."
     },
-    "h1": "Tes CPS 1 Detik"
+    "h1": "Tes CPS 1 Detik",
+    "content": {
+      "h2_hook": "Why Every Millisecond Matters in Gaming",
+      "p_hook": "In the world of competitive gaming, your Click Per Second (CPS) rate is often the dividing line between victory and defeat. Whether you are bridging in Minecraft Bedwars or trying to out-DPS a boss in an MMO, raw click speed is a fundamental skill.",
+      "h2_science": "The Science of Click Speed",
+      "p_science": "This test measures your input speed with millisecond precision using the performance.now() API. It eliminates browser lag to give you a true raw score. Most players average 6-8 CPS, while pros exceed 12 CPS.",
+      "h2_gaming": "Minecraft PvP & Combo Locking",
+      "p_gaming": "High CPS reduces the knockback you take in Minecraft 1.8 PvP. By clicking faster, you send more packets to the server, which can reset your velocity and allow you to start combos easier.",
+      "h2_hardware": "Mouse Switches: Optical vs Mechanical",
+      "p_hardware": "To achieve 20+ CPS, hardware matters. Optical switches (like in Razer mice) prevent double-clicking, while mechanical switches (Omron) can be abused for drag clicking.",
+      "h2_technique": "Jitter vs Butterfly Clicking",
+      "p_technique": "Jitter clicking vibrates your arm muscles to hit 10-14 CPS. Butterfly clicking uses two fingers on one wide button to hit 20 CPS. Both require practice."
+    }
   },
   "cps_5s": {
     "seo": {
       "title": "Tes CPS 5 Detik - Palmtweets",
       "description": "Sprint pendek kecepatan klik."
     },
-    "h1": "Tes CPS 5 Detik"
+    "h1": "Tes CPS 5 Detik",
+    "content": {
+      "h2_hook": "Why Every Millisecond Matters in Gaming",
+      "p_hook": "In the world of competitive gaming, your Click Per Second (CPS) rate is often the dividing line between victory and defeat. Whether you are bridging in Minecraft Bedwars or trying to out-DPS a boss in an MMO, raw click speed is a fundamental skill.",
+      "h2_science": "The Science of Click Speed",
+      "p_science": "This test measures your input speed with millisecond precision using the performance.now() API. It eliminates browser lag to give you a true raw score. Most players average 6-8 CPS, while pros exceed 12 CPS.",
+      "h2_gaming": "Minecraft PvP & Combo Locking",
+      "p_gaming": "High CPS reduces the knockback you take in Minecraft 1.8 PvP. By clicking faster, you send more packets to the server, which can reset your velocity and allow you to start combos easier.",
+      "h2_hardware": "Mouse Switches: Optical vs Mechanical",
+      "p_hardware": "To achieve 20+ CPS, hardware matters. Optical switches (like in Razer mice) prevent double-clicking, while mechanical switches (Omron) can be abused for drag clicking.",
+      "h2_technique": "Jitter vs Butterfly Clicking",
+      "p_technique": "Jitter clicking vibrates your arm muscles to hit 10-14 CPS. Butterfly clicking uses two fingers on one wide button to hit 20 CPS. Both require practice."
+    }
   },
   "cps_60s": {
     "seo": {
@@ -149,7 +185,19 @@
       "title": "Minecraft PvP Click - Palmtweets",
       "description": "Latih klik Anda untuk Minecraft PvP."
     },
-    "h1": "Minecraft PvP Click"
+    "h1": "Minecraft PvP Click",
+    "content": {
+      "h2_hook": "Why Every Millisecond Matters in Gaming",
+      "p_hook": "In the world of competitive gaming, your Click Per Second (CPS) rate is often the dividing line between victory and defeat. Whether you are bridging in Minecraft Bedwars or trying to out-DPS a boss in an MMO, raw click speed is a fundamental skill.",
+      "h2_science": "The Science of Click Speed",
+      "p_science": "This test measures your input speed with millisecond precision using the performance.now() API. It eliminates browser lag to give you a true raw score. Most players average 6-8 CPS, while pros exceed 12 CPS.",
+      "h2_gaming": "Minecraft PvP & Combo Locking",
+      "p_gaming": "High CPS reduces the knockback you take in Minecraft 1.8 PvP. By clicking faster, you send more packets to the server, which can reset your velocity and allow you to start combos easier.",
+      "h2_hardware": "Mouse Switches: Optical vs Mechanical",
+      "p_hardware": "To achieve 20+ CPS, hardware matters. Optical switches (like in Razer mice) prevent double-clicking, while mechanical switches (Omron) can be abused for drag clicking.",
+      "h2_technique": "Jitter vs Butterfly Clicking",
+      "p_technique": "Jitter clicking vibrates your arm muscles to hit 10-14 CPS. Butterfly clicking uses two fingers on one wide button to hit 20 CPS. Both require practice."
+    }
   },
   "reaction": {
     "seo": {
@@ -401,22 +449,22 @@
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (ID)",
+    "h1": "Tes Layar Sentuh Online",
     "seo": {
       "title": "Touch Screen Test Online (ID)",
       "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (ID)",
-      "p_hook": "Localized intro for ID. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for ID.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for ID.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for ID.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in ID."
+      "h2_hook": "Apakah Layar HP Anda Bermasalah?",
+      "p_hook": "Ghost touch dan zona mati dapat merusak pengalaman bermain game seluler Anda. Alat diagnostik layar penuh ini membantu Anda mengidentifikasi area yang tidak responsif pada digitizer Anda.",
+      "h2_science": "Cara Kerja Digitizer",
+      "p_science": "Layar kapasitif modern menggunakan kisi elektroda. Saat Anda menyentuh, Anda mengubah medan listrik. Tes ini memvisualisasikan jejak data mentah tersebut.",
+      "h2_gaming": "FPS Mobile & Dead Zone",
+      "p_gaming": "Dalam game seperti PUBG Mobile atau Free Fire, zona mati berarti bidikan Anda macet. Gunakan tes ini untuk memverifikasi apakah tepi layar Anda responsif.",
+      "h2_hardware": "Burn-in OLED vs LCD",
+      "p_hardware": "Periksa perubahan warna atau burn-in saat menggunakan mode latar belakang putih dari tes ini.",
+      "h2_technique": "Cara Memperbaiki Ghost Touch",
+      "p_technique": "Bersihkan layar Anda, lepaskan pelindung layar, atau buang listrik statis. Jika masalah berlanjut, perangkat keras digitizer mungkin rusak."
     }
   },
   "mic_test": {
@@ -427,7 +475,7 @@
     },
     "content": {
       "h2_hook": "Why Use This Tool? (ID)",
-      "p_hook": "Localized intro for ID. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
+      "p_hook": "Berlatih secara konsisten untuk meningkatkan skor Anda.",
       "h2_science": "Technical Details",
       "p_science": "How it works explanation for ID.",
       "h2_gaming": "Gaming Applications",
@@ -446,7 +494,7 @@
     },
     "content": {
       "h2_hook": "Why Use This Tool? (ID)",
-      "p_hook": "Localized intro for ID. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
+      "p_hook": "Berlatih secara konsisten untuk meningkatkan skor Anda.",
       "h2_science": "Technical Details",
       "p_science": "How it works explanation for ID.",
       "h2_gaming": "Gaming Applications",
@@ -465,7 +513,7 @@
     },
     "content": {
       "h2_hook": "Why Use This Tool? (ID)",
-      "p_hook": "Localized intro for ID. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
+      "p_hook": "Berlatih secara konsisten untuk meningkatkan skor Anda.",
       "h2_science": "Technical Details",
       "p_science": "How it works explanation for ID.",
       "h2_gaming": "Gaming Applications",

@@ -56,6 +56,10 @@ const MobileNav = ({ locale, labels }: MobileNavProps) => {
         { href: `/${locale}/dead-pixel`, label: labels.dead_pixel },
         { href: `/${locale}/scroll-test`, label: labels.scroll },
         { href: `/${locale}/aim-trainer`, label: labels.aim },
+        { href: `/${locale}/touch-test`, label: labels.touch_test },
+        { href: `/${locale}/mic-test`, label: labels.mic_test },
+        { href: `/${locale}/gamepad-test`, label: labels.gamepad_test },
+        { href: `/${locale}/packet-loss-test`, label: labels.packet_loss },
       ],
     },
     {

@@ -96,6 +96,10 @@ export default async function LocaleLayout({
     dead_pixel: tm.dead_pixel,
     scroll: tm.scroll,
     aim: tm.aim,
+    touch_test: tm.touch_test,
+    mic_test: tm.mic_test,
+    gamepad_test: tm.gamepad_test,
+    packet_loss: tm.packet_loss,
     live: tm.live,
     leaderboard: tm.leaderboard
   };
@@ -188,6 +192,10 @@ export default async function LocaleLayout({
                         <li><Link href={`/${locale}/dead-pixel`} className="hover:text-white transition-colors">{tm.dead_pixel}</Link></li>
                         <li><Link href={`/${locale}/scroll-test`} className="hover:text-white transition-colors">{tm.scroll}</Link></li>
                         <li><Link href={`/${locale}/aim-trainer`} className="hover:text-white transition-colors">{tm.aim}</Link></li>
+                        <li><Link href={`/${locale}/touch-test`} className="hover:text-white transition-colors">{tm.touch_test}</Link></li>
+                        <li><Link href={`/${locale}/mic-test`} className="hover:text-white transition-colors">{tm.mic_test}</Link></li>
+                        <li><Link href={`/${locale}/gamepad-test`} className="hover:text-white transition-colors">{tm.gamepad_test}</Link></li>
+                        <li><Link href={`/${locale}/packet-loss-test`} className="hover:text-white transition-colors">{tm.packet_loss}</Link></li>
                       </ul>
                     </div>
 

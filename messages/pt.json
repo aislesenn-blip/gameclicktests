@@ -100,21 +100,57 @@
       "title": "CPS Test - Check Your Click Speed",
       "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
     },
-    "h1": "CPS TEST BLITZ"
+    "h1": "CPS TEST BLITZ",
+    "content": {
+      "h2_hook": "Por que cada milissegundo importa",
+      "p_hook": "No mundo dos jogos competitivos, sua taxa de CPS é a linha entre vitória e derrota. Seja fazendo pontes no Minecraft ou lutando em um MMO, a velocidade é fundamental.",
+      "h2_science": "A Ciência da Velocidade",
+      "p_science": "Este teste mede sua velocidade com precisão de milissegundos. A maioria dos jogadores faz 6-8 CPS, enquanto profissionais passam de 12 CPS.",
+      "h2_gaming": "Minecraft PvP e Combos",
+      "p_gaming": "CPS alto reduz o knockback que você recebe no Minecraft. Clicando mais rápido, você reseta sua velocidade e inicia combos mais fácil.",
+      "h2_hardware": "Switches: Ópticos vs Mecânicos",
+      "p_hardware": "Para atingir 20+ CPS, o mouse importa. Switches ópticos evitam duplo clique, enquanto mecânicos permitem drag click.",
+      "h2_technique": "Jitter vs Butterfly",
+      "p_technique": "Jitter clicking vibra o braço para atingir 14 CPS. Butterfly usa dois dedos para atingir 20 CPS."
+    }
   },
   "cps_1s": {
     "seo": {
       "title": "Teste CPS 1 Segundo - Palmtweets",
       "description": "Teste de velocidade de explosão rápida."
     },
-    "h1": "Teste CPS 1 Segundo"
+    "h1": "Teste CPS 1 Segundo",
+    "content": {
+      "h2_hook": "Por que cada milissegundo importa",
+      "p_hook": "No mundo dos jogos competitivos, sua taxa de CPS é a linha entre vitória e derrota. Seja fazendo pontes no Minecraft ou lutando em um MMO, a velocidade é fundamental.",
+      "h2_science": "A Ciência da Velocidade",
+      "p_science": "Este teste mede sua velocidade com precisão de milissegundos. A maioria dos jogadores faz 6-8 CPS, enquanto profissionais passam de 12 CPS.",
+      "h2_gaming": "Minecraft PvP e Combos",
+      "p_gaming": "CPS alto reduz o knockback que você recebe no Minecraft. Clicando mais rápido, você reseta sua velocidade e inicia combos mais fácil.",
+      "h2_hardware": "Switches: Ópticos vs Mecânicos",
+      "p_hardware": "Para atingir 20+ CPS, o mouse importa. Switches ópticos evitam duplo clique, enquanto mecânicos permitem drag click.",
+      "h2_technique": "Jitter vs Butterfly",
+      "p_technique": "Jitter clicking vibra o braço para atingir 14 CPS. Butterfly usa dois dedos para atingir 20 CPS."
+    }
   },
   "cps_5s": {
     "seo": {
       "title": "Teste CPS 5 Segundos - Palmtweets",
       "description": "Sprint curto de velocidade de clique."
     },
-    "h1": "Teste CPS 5 Segundos"
+    "h1": "Teste CPS 5 Segundos",
+    "content": {
+      "h2_hook": "Por que cada milissegundo importa",
+      "p_hook": "No mundo dos jogos competitivos, sua taxa de CPS é a linha entre vitória e derrota. Seja fazendo pontes no Minecraft ou lutando em um MMO, a velocidade é fundamental.",
+      "h2_science": "A Ciência da Velocidade",
+      "p_science": "Este teste mede sua velocidade com precisão de milissegundos. A maioria dos jogadores faz 6-8 CPS, enquanto profissionais passam de 12 CPS.",
+      "h2_gaming": "Minecraft PvP e Combos",
+      "p_gaming": "CPS alto reduz o knockback que você recebe no Minecraft. Clicando mais rápido, você reseta sua velocidade e inicia combos mais fácil.",
+      "h2_hardware": "Switches: Ópticos vs Mecânicos",
+      "p_hardware": "Para atingir 20+ CPS, o mouse importa. Switches ópticos evitam duplo clique, enquanto mecânicos permitem drag click.",
+      "h2_technique": "Jitter vs Butterfly",
+      "p_technique": "Jitter clicking vibra o braço para atingir 14 CPS. Butterfly usa dois dedos para atingir 20 CPS."
+    }
   },
   "cps_60s": {
     "seo": {
@@ -149,7 +185,19 @@
       "title": "Minecraft PvP Click - Palmtweets",
       "description": "Pratique seu clique para PvP no Minecraft. Melhore seus combos."
     },
-    "h1": "Minecraft PvP Click"
+    "h1": "Minecraft PvP Click",
+    "content": {
+      "h2_hook": "Por que cada milissegundo importa",
+      "p_hook": "No mundo dos jogos competitivos, sua taxa de CPS é a linha entre vitória e derrota. Seja fazendo pontes no Minecraft ou lutando em um MMO, a velocidade é fundamental.",
+      "h2_science": "A Ciência da Velocidade",
+      "p_science": "Este teste mede sua velocidade com precisão de milissegundos. A maioria dos jogadores faz 6-8 CPS, enquanto profissionais passam de 12 CPS.",
+      "h2_gaming": "Minecraft PvP e Combos",
+      "p_gaming": "CPS alto reduz o knockback que você recebe no Minecraft. Clicando mais rápido, você reseta sua velocidade e inicia combos mais fácil.",
+      "h2_hardware": "Switches: Ópticos vs Mecânicos",
+      "p_hardware": "Para atingir 20+ CPS, o mouse importa. Switches ópticos evitam duplo clique, enquanto mecânicos permitem drag click.",
+      "h2_technique": "Jitter vs Butterfly",
+      "p_technique": "Jitter clicking vibra o braço para atingir 14 CPS. Butterfly usa dois dedos para atingir 20 CPS."
+    }
   },
   "reaction": {
     "seo": {
@@ -407,16 +455,16 @@
       "description": "Verifique se a tela do seu celular tem toques fantasmas ou áreas mortas."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (PT)",
-      "p_hook": "Localized intro for PT. Topics: Teste de touch screen celular, Tela com toque fantasma, Testar display samsung.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for PT.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for PT.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for PT.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in PT."
+      "h2_hook": "Sua tela está morrendo?",
+      "p_hook": "Toques fantasmas e zonas mortas estragam sua jogatina. Esta ferramenta diagnostica áreas que não respondem.",
+      "h2_science": "Como funciona o touch",
+      "p_science": "Telas capacitivas usam uma grade elétrica. Este teste visualiza o rastro do seu toque em tempo real.",
+      "h2_gaming": "Free Fire e Zonas Mortas",
+      "p_gaming": "No Free Fire ou PUBG, uma zona morta trava sua mira. Verifique se as bordas da tela funcionam.",
+      "h2_hardware": "Burn-in em OLED",
+      "p_hardware": "Verifique manchas ou burn-in usando o fundo branco deste teste.",
+      "h2_technique": "Como corrigir toques fantasmas",
+      "p_technique": "Limpe a tela, remova a película ou descarregue a estática. Se continuar, o display está com defeito."
     }
   },
   "mic_test": {
@@ -427,7 +475,7 @@
     },
     "content": {
       "h2_hook": "Why Use This Tool? (PT)",
-      "p_hook": "Localized intro for PT. Topics: Teste de microfone, Testar fone de ouvido lado esquerdo direito, Meu microfone não funciona.",
+      "p_hook": "Pratique consistentemente para melhorar sua pontuação.",
       "h2_science": "Technical Details",
       "p_science": "How it works explanation for PT.",
       "h2_gaming": "Gaming Applications",
@@ -446,7 +494,7 @@
     },
     "content": {
       "h2_hook": "Why Use This Tool? (PT)",
-      "p_hook": "Localized intro for PT. Topics: Testar controle PS4 online, Controle mexendo sozinho, Teste de analógico.",
+      "p_hook": "Pratique consistentemente para melhorar sua pontuação.",
       "h2_science": "Technical Details",
       "p_science": "How it works explanation for PT.",
       "h2_gaming": "Gaming Applications",
@@ -465,7 +513,7 @@
     },
     "content": {
       "h2_hook": "Why Use This Tool? (PT)",
-      "p_hook": "Localized intro for PT. Topics: Teste de perda de pacote, Ping alto jogos, Internet oscilando muito.",
+      "p_hook": "Pratique consistentemente para melhorar sua pontuação.",
       "h2_science": "Technical Details",
       "p_science": "How it works explanation for PT.",
       "h2_gaming": "Gaming Applications",

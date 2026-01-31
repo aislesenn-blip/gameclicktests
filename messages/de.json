@@ -83,38 +83,74 @@
     "h2_useful": "Ist der CPS-Test für Gamer nützlich?",
     "p_useful": "Ja. Hohe CPS sind in Spielen wie Minecraft und Shootern entscheidend.",
     "h2_hardware": "Section 4 (DE)",
-    "p_hardware": "Localized content for DE focusing on Eingabeverzögerung testen. Detailed analysis of click speed and hardware performance.",
+    "p_hardware": "Üben Sie regelmäßig, um Ihre Punktzahl zu verbessern.",
     "h2_games": "CPS in Competitive Gaming",
     "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended.",
     "h2_hook": "Section 1 (DE)",
-    "p_hook": "Localized content for DE focusing on Maus Klick Geschwindigkeit testen, Reaktionszeit testen formel 1. Detailed analysis of click speed and hardware performance.",
+    "p_hook": "Üben Sie regelmäßig, um Ihre Punktzahl zu verbessern.",
     "h2_science": "Section 2 (DE)",
-    "p_science": "Localized content for DE focusing on Tastatur Ghosting Test, Doppelklick Fehler beheben. Detailed analysis of click speed and hardware performance.",
+    "p_science": "Üben Sie regelmäßig, um Ihre Punktzahl zu verbessern.",
     "h2_gaming": "Section 3 (DE)",
-    "p_gaming": "Localized content for DE focusing on Aim trainer kostenlos, Mausrad test. Detailed analysis of click speed and hardware performance.",
+    "p_gaming": "Üben Sie regelmäßig, um Ihre Punktzahl zu verbessern.",
     "h2_technique": "Section 5 (DE)",
-    "p_technique": "Localized content for DE focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "p_technique": "Üben Sie regelmäßig, um Ihre Punktzahl zu verbessern."
   },
   "cps_default": {
     "seo": {
       "title": "CPS Test - Check Your Click Speed",
       "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "Test Your Click Speed Instantly",
+    "content": {
+      "h2_hook": "Why Every Millisecond Matters in Gaming",
+      "p_hook": "In the world of competitive gaming, your Click Per Second (CPS) rate is often the dividing line between victory and defeat. Whether you are bridging in Minecraft Bedwars or trying to out-DPS a boss in an MMO, raw click speed is a fundamental skill.",
+      "h2_science": "The Science of Click Speed",
+      "p_science": "This test measures your input speed with millisecond precision using the performance.now() API. It eliminates browser lag to give you a true raw score. Most players average 6-8 CPS, while pros exceed 12 CPS.",
+      "h2_gaming": "Minecraft PvP & Combo Locking",
+      "p_gaming": "High CPS reduces the knockback you take in Minecraft 1.8 PvP. By clicking faster, you send more packets to the server, which can reset your velocity and allow you to start combos easier.",
+      "h2_hardware": "Mouse Switches: Optical vs Mechanical",
+      "p_hardware": "To achieve 20+ CPS, hardware matters. Optical switches (like in Razer mice) prevent double-clicking, while mechanical switches (Omron) can be abused for drag clicking.",
+      "h2_technique": "Jitter vs Butterfly Clicking",
+      "p_technique": "Jitter clicking vibrates your arm muscles to hit 10-14 CPS. Butterfly clicking uses two fingers on one wide button to hit 20 CPS. Both require practice."
+    }
   },
   "cps_1s": {
     "seo": {
       "title": "1 Second CPS Test - Instant Click Speed Check",
       "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "1 SECOND CPS TEST",
+    "content": {
+      "h2_hook": "Why Every Millisecond Matters in Gaming",
+      "p_hook": "In the world of competitive gaming, your Click Per Second (CPS) rate is often the dividing line between victory and defeat. Whether you are bridging in Minecraft Bedwars or trying to out-DPS a boss in an MMO, raw click speed is a fundamental skill.",
+      "h2_science": "The Science of Click Speed",
+      "p_science": "This test measures your input speed with millisecond precision using the performance.now() API. It eliminates browser lag to give you a true raw score. Most players average 6-8 CPS, while pros exceed 12 CPS.",
+      "h2_gaming": "Minecraft PvP & Combo Locking",
+      "p_gaming": "High CPS reduces the knockback you take in Minecraft 1.8 PvP. By clicking faster, you send more packets to the server, which can reset your velocity and allow you to start combos easier.",
+      "h2_hardware": "Mouse Switches: Optical vs Mechanical",
+      "p_hardware": "To achieve 20+ CPS, hardware matters. Optical switches (like in Razer mice) prevent double-clicking, while mechanical switches (Omron) can be abused for drag clicking.",
+      "h2_technique": "Jitter vs Butterfly Clicking",
+      "p_technique": "Jitter clicking vibrates your arm muscles to hit 10-14 CPS. Butterfly clicking uses two fingers on one wide button to hit 20 CPS. Both require practice."
+    }
   },
   "cps_5s": {
     "seo": {
       "title": "5 Second CPS Test - Short Sprint Speed Test",
       "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "5 SECOND CPS TEST",
+    "content": {
+      "h2_hook": "Why Every Millisecond Matters in Gaming",
+      "p_hook": "In the world of competitive gaming, your Click Per Second (CPS) rate is often the dividing line between victory and defeat. Whether you are bridging in Minecraft Bedwars or trying to out-DPS a boss in an MMO, raw click speed is a fundamental skill.",
+      "h2_science": "The Science of Click Speed",
+      "p_science": "This test measures your input speed with millisecond precision using the performance.now() API. It eliminates browser lag to give you a true raw score. Most players average 6-8 CPS, while pros exceed 12 CPS.",
+      "h2_gaming": "Minecraft PvP & Combo Locking",
+      "p_gaming": "High CPS reduces the knockback you take in Minecraft 1.8 PvP. By clicking faster, you send more packets to the server, which can reset your velocity and allow you to start combos easier.",
+      "h2_hardware": "Mouse Switches: Optical vs Mechanical",
+      "p_hardware": "To achieve 20+ CPS, hardware matters. Optical switches (like in Razer mice) prevent double-clicking, while mechanical switches (Omron) can be abused for drag clicking.",
+      "h2_technique": "Jitter vs Butterfly Clicking",
+      "p_technique": "Jitter clicking vibrates your arm muscles to hit 10-14 CPS. Butterfly clicking uses two fingers on one wide button to hit 20 CPS. Both require practice."
+    }
   },
   "cps_60s": {
     "seo": {
@@ -149,7 +185,19 @@
       "title": "Minecraft CPS Test - PvP Practice",
       "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "MINECRAFT PVP CLICK TEST",
+    "content": {
+      "h2_hook": "Why Every Millisecond Matters in Gaming",
+      "p_hook": "In the world of competitive gaming, your Click Per Second (CPS) rate is often the dividing line between victory and defeat. Whether you are bridging in Minecraft Bedwars or trying to out-DPS a boss in an MMO, raw click speed is a fundamental skill.",
+      "h2_science": "The Science of Click Speed",
+      "p_science": "This test measures your input speed with millisecond precision using the performance.now() API. It eliminates browser lag to give you a true raw score. Most players average 6-8 CPS, while pros exceed 12 CPS.",
+      "h2_gaming": "Minecraft PvP & Combo Locking",
+      "p_gaming": "High CPS reduces the knockback you take in Minecraft 1.8 PvP. By clicking faster, you send more packets to the server, which can reset your velocity and allow you to start combos easier.",
+      "h2_hardware": "Mouse Switches: Optical vs Mechanical",
+      "p_hardware": "To achieve 20+ CPS, hardware matters. Optical switches (like in Razer mice) prevent double-clicking, while mechanical switches (Omron) can be abused for drag clicking.",
+      "h2_technique": "Jitter vs Butterfly Clicking",
+      "p_technique": "Jitter clicking vibrates your arm muscles to hit 10-14 CPS. Butterfly clicking uses two fingers on one wide button to hit 20 CPS. Both require practice."
+    }
   },
   "reaction": {
     "seo": {
@@ -407,16 +455,16 @@
       "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (DE)",
-      "p_hook": "Localized intro for DE. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for DE.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for DE.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for DE.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in DE."
+      "h2_hook": "Is Your Phone Screen Dying?",
+      "p_hook": "Ghost touches and dead zones can ruin your mobile gaming experience. This full-screen diagnostic tool helps you identify unresponsive areas on your digitizer.",
+      "h2_science": "How Digitizers Work",
+      "p_science": "Modern capacitive screens use a grid of electrodes. When you touch, you alter the electrical field. This test visualizes that raw data trail.",
+      "h2_gaming": "Mobile FPS & Dead Zones",
+      "p_gaming": "In games like PUBG Mobile or Free Fire, a dead zone means your aim gets stuck. Use this test to verify if your screen edges are responsive.",
+      "h2_hardware": "OLED vs LCD Burn-in",
+      "p_hardware": "Check for discoloration or burn-in artifacts while using the white background mode of this test.",
+      "h2_technique": "How to Fix Ghost Touch",
+      "p_technique": "Clean your screen, remove screen protectors, or discharge static electricity. If issues persist, the digitizer hardware is likely faulty."
     }
   },
   "mic_test": {
@@ -427,7 +475,7 @@
     },
     "content": {
       "h2_hook": "Why Use This Tool? (DE)",
-      "p_hook": "Localized intro for DE. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
+      "p_hook": "Üben Sie regelmäßig, um Ihre Punktzahl zu verbessern.",
       "h2_science": "Technical Details",
       "p_science": "How it works explanation for DE.",
       "h2_gaming": "Gaming Applications",
@@ -446,7 +494,7 @@
     },
     "content": {
       "h2_hook": "Why Use This Tool? (DE)",
-      "p_hook": "Localized intro for DE. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
+      "p_hook": "Üben Sie regelmäßig, um Ihre Punktzahl zu verbessern.",
       "h2_science": "Technical Details",
       "p_science": "How it works explanation for DE.",
       "h2_gaming": "Gaming Applications",
@@ -465,7 +513,7 @@
     },
     "content": {
       "h2_hook": "Why Use This Tool? (DE)",
-      "p_hook": "Localized intro for DE. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
+      "p_hook": "Üben Sie regelmäßig, um Ihre Punktzahl zu verbessern.",
       "h2_science": "Technical Details",
       "p_science": "How it works explanation for DE.",
       "h2_gaming": "Gaming Applications",

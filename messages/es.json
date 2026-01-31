@@ -100,21 +100,57 @@
       "title": "CPS Test - Check Your Click Speed",
       "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
     },
-    "h1": "CPS TEST BLITZ"
+    "h1": "Test de Velocidad de Clic",
+    "content": {
+      "h2_hook": "Por qué cada milisegundo cuenta",
+      "p_hook": "En el gaming competitivo, tu CPS (Clics por Segundo) define la victoria. Ya sea haciendo puentes en Minecraft o maximizando el daño en un MMO, la velocidad bruta es clave.",
+      "h2_science": "La Ciencia de la Velocidad",
+      "p_science": "Esta prueba mide tu velocidad con precisión de milisegundos usando la API performance.now(). Elimina el lag del navegador para darte una puntuación real. La mayoría promedia 6-8 CPS, los pros superan 12.",
+      "h2_gaming": "Minecraft PvP y Combos",
+      "p_gaming": "Un alto CPS reduce el retroceso que recibes en Minecraft 1.8 PvP. Al hacer clic más rápido, envías más paquetes al servidor, lo que te permite iniciar combos más fácilmente.",
+      "h2_hardware": "Switches: Ópticos vs Mecánicos",
+      "p_hardware": "Para lograr 20+ CPS, el hardware importa. Los switches ópticos (Razer) previenen el doble clic, mientras que los mecánicos (Omron) permiten el drag clicking.",
+      "h2_technique": "Jitter vs Butterfly",
+      "p_technique": "Jitter clicking vibra los músculos del brazo para llegar a 10-14 CPS. Butterfly usa dos dedos en un botón ancho para llegar a 20 CPS. Ambos requieren práctica."
+    }
   },
   "cps_1s": {
     "seo": {
       "title": "Test CPS 1 Segundo - Palmtweets",
       "description": "Prueba de velocidad de ráfaga."
     },
-    "h1": "Test CPS 1 Segundo"
+    "h1": "Test CPS 1 Segundo",
+    "content": {
+      "h2_hook": "Por qué cada milisegundo cuenta",
+      "p_hook": "En el gaming competitivo, tu CPS (Clics por Segundo) define la victoria. Ya sea haciendo puentes en Minecraft o maximizando el daño, la velocidad es clave.",
+      "h2_science": "La Ciencia de la Velocidad",
+      "p_science": "Esta prueba mide tu velocidad con precisión de milisegundos. La mayoría de los jugadores promedian 6-8 CPS, mientras que los profesionales superan los 12 CPS.",
+      "h2_gaming": "Minecraft PvP y Combos",
+      "p_gaming": "Un alto CPS reduce el retroceso que recibes en Minecraft. Al hacer clic más rápido, envías más paquetes al servidor, lo que te permite iniciar combos más fácilmente.",
+      "h2_hardware": "Switches: Ópticos vs Mecánicos",
+      "p_hardware": "Para lograr 20+ CPS, el hardware importa. Los switches ópticos previenen el doble clic, mientras que los mecánicos permiten drag clicking.",
+      "h2_technique": "Jitter vs Butterfly",
+      "p_technique": "Jitter clicking vibra los músculos del brazo para llegar a 14 CPS. Butterfly usa dos dedos para llegar a 20 CPS. Ambos requieren práctica."
+    }
   },
   "cps_5s": {
     "seo": {
       "title": "Test CPS 5 Segundos - Palmtweets",
       "description": "Sprint corto de velocidad."
     },
-    "h1": "Test CPS 5 Segundos"
+    "h1": "Test CPS 5 Segundos",
+    "content": {
+      "h2_hook": "Por qué cada milisegundo cuenta",
+      "p_hook": "En el gaming competitivo, tu CPS (Clics por Segundo) define la victoria. Ya sea haciendo puentes en Minecraft o maximizando el daño, la velocidad es clave.",
+      "h2_science": "La Ciencia de la Velocidad",
+      "p_science": "Esta prueba mide tu velocidad con precisión de milisegundos. La mayoría de los jugadores promedian 6-8 CPS, mientras que los profesionales superan los 12 CPS.",
+      "h2_gaming": "Minecraft PvP y Combos",
+      "p_gaming": "Un alto CPS reduce el retroceso que recibes en Minecraft. Al hacer clic más rápido, envías más paquetes al servidor, lo que te permite iniciar combos más fácilmente.",
+      "h2_hardware": "Switches: Ópticos vs Mecánicos",
+      "p_hardware": "Para lograr 20+ CPS, el hardware importa. Los switches ópticos previenen el doble clic, mientras que los mecánicos permiten drag clicking.",
+      "h2_technique": "Jitter vs Butterfly",
+      "p_technique": "Jitter clicking vibra los músculos del brazo para llegar a 14 CPS. Butterfly usa dos dedos para llegar a 20 CPS. Ambos requieren práctica."
+    }
   },
   "cps_60s": {
     "seo": {
@@ -149,7 +185,19 @@
       "title": "Minecraft PvP Click - Palmtweets",
       "description": "Practica tu clic para PvP en Minecraft."
     },
-    "h1": "Minecraft PvP Click"
+    "h1": "Minecraft PvP Click",
+    "content": {
+      "h2_hook": "Por qué cada milisegundo cuenta",
+      "p_hook": "En el gaming competitivo, tu CPS (Clics por Segundo) define la victoria. Ya sea haciendo puentes en Minecraft o maximizando el daño, la velocidad es clave.",
+      "h2_science": "La Ciencia de la Velocidad",
+      "p_science": "Esta prueba mide tu velocidad con precisión de milisegundos. La mayoría de los jugadores promedian 6-8 CPS, mientras que los profesionales superan los 12 CPS.",
+      "h2_gaming": "Minecraft PvP y Combos",
+      "p_gaming": "Un alto CPS reduce el retroceso que recibes en Minecraft. Al hacer clic más rápido, envías más paquetes al servidor, lo que te permite iniciar combos más fácilmente.",
+      "h2_hardware": "Switches: Ópticos vs Mecánicos",
+      "p_hardware": "Para lograr 20+ CPS, el hardware importa. Los switches ópticos previenen el doble clic, mientras que los mecánicos permiten drag clicking.",
+      "h2_technique": "Jitter vs Butterfly",
+      "p_technique": "Jitter clicking vibra los músculos del brazo para llegar a 14 CPS. Butterfly usa dos dedos para llegar a 20 CPS. Ambos requieren práctica."
+    }
   },
   "reaction": {
     "seo": {
@@ -401,22 +449,22 @@
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (ES)",
+    "h1": "Test de Pantalla Táctil",
     "seo": {
       "title": "Touch Screen Test Online (ES)",
       "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (ES)",
-      "p_hook": "Localized intro for ES. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for ES.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for ES.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for ES.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in ES."
+      "h2_hook": "¿Tu pantalla está fallando?",
+      "p_hook": "Los toques fantasma y las zonas muertas arruinan tu juego móvil. Esta herramienta de diagnóstico a pantalla completa te ayuda a identificar áreas que no responden.",
+      "h2_science": "Cómo funcionan los digitalizadores",
+      "p_science": "Las pantallas capacitivas usan una rejilla de electrodos. Cuando tocas, alteras el campo eléctrico. Este test visualiza ese rastro de datos en bruto.",
+      "h2_gaming": "FPS Móvil y Zonas Muertas",
+      "p_gaming": "En juegos como PUBG Mobile o Free Fire, una zona muerta significa que tu mira se traba. Usa este test para verificar si los bordes responden.",
+      "h2_hardware": "Quemaduras OLED vs LCD",
+      "p_hardware": "Busca decoloración o 'burn-in' usando el modo de fondo blanco de esta prueba.",
+      "h2_technique": "Cómo arreglar toques fantasma",
+      "p_technique": "Limpia tu pantalla, quita protectores o descarga la estática. Si persiste, el digitalizador probablemente esté dañado."
     }
   },
   "mic_test": {
@@ -427,7 +475,7 @@
     },
     "content": {
       "h2_hook": "Why Use This Tool? (ES)",
-      "p_hook": "Localized intro for ES. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
+      "p_hook": "Practica constantemente para mejorar tu puntuación.",
       "h2_science": "Technical Details",
       "p_science": "How it works explanation for ES.",
       "h2_gaming": "Gaming Applications",
@@ -446,7 +494,7 @@
     },
     "content": {
       "h2_hook": "Why Use This Tool? (ES)",
-      "p_hook": "Localized intro for ES. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
+      "p_hook": "Practica constantemente para mejorar tu puntuación.",
       "h2_science": "Technical Details",
       "p_science": "How it works explanation for ES.",
       "h2_gaming": "Gaming Applications",
@@ -465,7 +513,7 @@
     },
     "content": {
       "h2_hook": "Why Use This Tool? (ES)",
-      "p_hook": "Localized intro for ES. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
+      "p_hook": "Practica constantemente para mejorar tu puntuación.",
       "h2_science": "Technical Details",
       "p_science": "How it works explanation for ES.",
       "h2_gaming": "Gaming Applications",
