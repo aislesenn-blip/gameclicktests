@@ -8,6 +8,9 @@
     "description": "Ukur Klik Per Detik (CPS) Anda dengan alat tes refleks ultra-cepat kami. Dibuat untuk gamer, speed runner, dan pemain kompetitif di seluruh dunia.",
     "start_btn": "Mulai Tes CPS",
     "modes": "Mode Tes",
+    "rank_noob": "[ID] 🐢 Rank: Snail (Too Slow!)",
+    "rank_pro": "[ID] ⚡ Rank: Pro Gamer",
+    "rank_god": "[ID] 👑 Rank: GODLIKE",
     "share_txt": "Skor saya {score} CPS. Coba kalahkan saya di Palmtweets!",
     "score": "SKOR",
     "timer": "WAKTU",
@@ -19,6 +22,56 @@
     "slow": "🐢 Lambat",
     "fast": "⚡ Jagoan",
     "superhuman": "👑 DEWA"
+  },
+  "nav": {
+    "home": "Beranda",
+    "cps": "Tes CPS",
+    "reaction": "Reaksi",
+    "typing": "Mengetik",
+    "keyboard": "Keyboard",
+    "privacy": "Privasi"
+  },
+  "mobile_nav": {
+    "cps_cluster": "Tes CPS",
+    "typing_cluster": "Tes Mengetik",
+    "reaction_cluster": "Tes Reaksi",
+    "keyboard_cluster": "Alat Keyboard",
+    "cps_1s": "1 Detik",
+    "cps_5s": "5 Detik",
+    "cps_60s": "60 Detik",
+    "jitter": "Jitter Click",
+    "butterfly": "Butterfly Click",
+    "drag": "Drag Click",
+    "reaction": "Waktu Reaksi",
+    "typing": "Mengetik WPM",
+    "keyboard": "Tes Keyboard"
+  },
+  "footer": {
+    "tagline": "Platform tes refleks & kecepatan tercepat di dunia."
+  },
+  "privacy": {
+    "title": "Kebijakan Privasi",
+    "intro": "Di Palmtweets, kami menghargai privasi Anda.",
+    "cookies_title": "Cookies",
+    "cookies_text": "Kami menggunakan cookie untuk meningkatkan pengalaman Anda.",
+    "data_title": "Pengumpulan Data",
+    "data_text": "Kami tidak mengumpulkan data pribadi.",
+    "contact_title": "Kontak",
+    "contact_text": "Hubungi support@palmtweets.com."
+  },
+  "seo_content": {
+    "h2_improve": "Cara meningkatkan kecepatan klik Anda",
+    "p_improve": "Meningkatkan kecepatan klik memerlukan latihan dan perangkat keras yang tepat. Mulailah dengan merilekskan otot tangan untuk mengurangi ketegangan. Gunakan mouse gaming dengan switch latensi rendah. Berlatih setiap hari selama 10-15 menit untuk membangun memori otot.",
+    "h2_styles": "Butterfly clicking vs Jitter clicking",
+    "p_styles": "Jitter clicking melibatkan menggetarkan otot lengan untuk mengklik cepat, sering mencapai 10-14 CPS. Butterfly clicking menggunakan dua jari pada satu tombol, bergantian menekan untuk mencapai 15-20+ CPS. Butterfly umumnya lebih aman untuk tendon Anda tetapi memerlukan mouse yang mendukung klik ganda.",
+    "h2_record": "Apa rekor dunia untuk CPS?",
+    "p_record": "Rekor dunia untuk CPS bervariasi berdasarkan durasi. Untuk 1 detik, beberapa pemain mencapai 30+ CPS menggunakan Drag Clicking. Untuk tes standar 10 detik, rekor berkisar sekitar 22-24 CPS menggunakan teknik canggih.",
+    "h2_useful": "Apakah tes CPS berguna untuk gamer?",
+    "p_useful": "Ya. CPS tinggi sangat penting dalam game seperti Minecraft (jembatan PvP), OSU!, dan First Person Shooters di mana senjata semi-otomatis digunakan. Melacak CPS Anda membantu mengukur peningkatan fisik dan kesiapan Anda untuk bermain kompetitif.",
+    "h2_hardware": "Apakah perangkat keras mouse penting?",
+    "p_hardware": "Tentu saja. Mouse gaming dengan switch mekanis atau optik (seperti Logitech, Razer, Glorious) memiliki waktu debounce yang lebih rendah, memungkinkan mereka mendaftar klik lebih cepat daripada mouse kantor standar.",
+    "h2_games": "CPS dalam Game Kompetitif",
+    "p_games": "Di Minecraft 1.8 PvP, CPS tinggi membantu dengan 'menerima lebih sedikit knockback' dan memulai combo. Dalam penembak seperti CS2 atau Valorant, waktu reaksi seringkali lebih penting daripada CPS mentah, tetapi konsistensi klik memastikan tembakan Anda mendarat saat dimaksudkan."
   },
   "cps_default": {
     "seo": {
@@ -100,14 +153,6 @@
       "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
     },
     "h1": "KEYBOARD SWITCH TESTER"
-  },
-  "nav": {
-    "home": "Beranda",
-    "cps": "Tes CPS",
-    "reaction": "Reaksi",
-    "typing": "Mengetik",
-    "keyboard": "Keyboard",
-    "privacy": "Privasi"
   },
   "faq": {
     "cps": {
@@ -279,50 +324,17 @@
       }
     }
   },
-  "privacy": {
-    "title": "Kebijakan Privasi",
-    "intro": "Di Palmtweets, kami menghargai privasi Anda.",
-    "cookies_title": "Cookies",
-    "cookies_text": "Kami menggunakan cookie untuk meningkatkan pengalaman Anda.",
-    "data_title": "Pengumpulan Data",
-    "data_text": "Kami tidak mengumpulkan data pribadi.",
-    "contact_title": "Kontak",
-    "contact_text": "Hubungi support@palmtweets.com."
-  },
-  "mobile_nav": {
-    "cps_cluster": "Tes CPS",
-    "typing_cluster": "Tes Mengetik",
-    "reaction_cluster": "Tes Reaksi",
-    "keyboard_cluster": "Alat Keyboard",
-    "cps_1s": "1 Detik",
-    "cps_5s": "5 Detik",
-    "cps_60s": "60 Detik",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Waktu Reaksi",
-    "typing": "Mengetik WPM",
-    "keyboard": "Tes Keyboard",
-    "time_modes": "Mode Waktu",
-    "click_modes": "Mode Klik",
-    "game_challenges": "Tantangan Game",
-    "hardware_tests": "Tes Perangkat Keras",
-    "community": "Komunitas",
-    "cps_10s": "10 Detik",
-    "stress": "Tes Stres",
-    "spacebar": "Spasi",
-    "combo": "Combo Click",
-    "minecraft": "Minecraft PvP",
-    "pubg": "PUBG Click",
-    "roblox": "Roblox Click",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Build",
-    "mouse": "Tes Mouse",
-    "dead_pixel": "Piksel Mati",
-    "scroll": "Tes Scroll",
-    "aim": "Pelatih Aim",
-    "live": "Live Feed",
-    "leaderboard": "Papan Peringkat"
+  "game": {
+    "timer": "WAKTU",
+    "score": "SKOR",
+    "start": "MULAI",
+    "active": "KLIK CEPAT!",
+    "try_again": "COBA LAGI",
+    "share": "BAGIKAN",
+    "result_msg": "Kecepatan Anda di atas rata-rata. Bisakah Anda mengalahkan rekor pribadi Anda?",
+    "slow": "🐢 Lambat",
+    "fast": "⚡ Jagoan",
+    "superhuman": "👑 DEWA"
   },
   "tool_layout": {
     "about": "Tentang",
@@ -339,132 +351,5 @@
     "rank_pro_desc": "Kecepatan gamer rata-rata.",
     "rank_god": "Dewa (10+ CPS):",
     "rank_god_desc": "Anda menguasai teknik canggih."
-  },
-  "game": {
-    "timer": "WAKTU",
-    "score": "SKOR",
-    "start": "MULAI",
-    "active": "KLIK CEPAT!",
-    "try_again": "COBA LAGI",
-    "share": "BAGIKAN",
-    "result_msg": "Kecepatan Anda di atas rata-rata. Bisakah Anda mengalahkan rekor pribadi Anda?",
-    "slow": "🐢 Lambat",
-    "fast": "⚡ Jagoan",
-    "superhuman": "👑 DEWA"
-  },
-  "footer": {
-    "tagline": "Platform tes refleks & kecepatan tercepat di dunia."
-  },
-  "seo_content": {
-    "h2_improve": "Cara meningkatkan kecepatan klik Anda",
-    "p_improve": "Meningkatkan kecepatan klik memerlukan latihan dan perangkat keras yang tepat. Mulailah dengan merilekskan otot tangan untuk mengurangi ketegangan. Gunakan mouse gaming dengan switch latensi rendah. Berlatih setiap hari selama 10-15 menit untuk membangun memori otot.",
-    "h2_styles": "Butterfly clicking vs Jitter clicking",
-    "p_styles": "Jitter clicking melibatkan menggetarkan otot lengan untuk mengklik cepat, sering mencapai 10-14 CPS. Butterfly clicking menggunakan dua jari pada satu tombol, bergantian menekan untuk mencapai 15-20+ CPS. Butterfly umumnya lebih aman untuk tendon Anda tetapi memerlukan mouse yang mendukung klik ganda.",
-    "h2_record": "Apa rekor dunia untuk CPS?",
-    "p_record": "Rekor dunia untuk CPS bervariasi berdasarkan durasi. Untuk 1 detik, beberapa pemain mencapai 30+ CPS menggunakan Drag Clicking. Untuk tes standar 10 detik, rekor berkisar sekitar 22-24 CPS menggunakan teknik canggih.",
-    "h2_useful": "Apakah tes CPS berguna untuk gamer?",
-    "p_useful": "Ya. CPS tinggi sangat penting dalam game seperti Minecraft (jembatan PvP), OSU!, dan First Person Shooters di mana senjata semi-otomatis digunakan. Melacak CPS Anda membantu mengukur peningkatan fisik dan kesiapan Anda untuk bermain kompetitif.",
-    "h2_hardware": "Apakah perangkat keras mouse penting?",
-    "p_hardware": "Tentu saja. Mouse gaming dengan switch mekanis atau optik (seperti Logitech, Razer, Glorious) memiliki waktu debounce yang lebih rendah, memungkinkan mereka mendaftar klik lebih cepat daripada mouse kantor standar.",
-    "h2_games": "CPS dalam Game Kompetitif",
-    "p_games": "Di Minecraft 1.8 PvP, CPS tinggi membantu dengan 'menerima lebih sedikit knockback' dan memulai combo. Dalam penembak seperti CS2 atau Valorant, waktu reaksi seringkali lebih penting daripada CPS mentah, tetapi konsistensi klik memastikan tembakan Anda mendarat saat dimaksudkan."
-  },
-  "cps_10s": {
-    "seo": {
-      "title": "Tes CPS 10 Detik - Palmtweets ID",
-      "description": "Tes kecepatan klik standar."
-    },
-    "h1": "Tes CPS 10 Detik"
-  },
-  "spacebar": {
-    "seo": {
-      "title": "Tes Spasi - Palmtweets ID",
-      "description": "Seberapa cepat Anda menekan spasi?"
-    },
-    "h1": "Tes Spasi"
-  },
-  "pubg": {
-    "seo": {
-      "title": "PUBG CPS Test - Palmtweets ID",
-      "description": "Latih kontrol recoil dan klik PUBG."
-    },
-    "h1": "PUBG CPS Test"
-  },
-  "roblox": {
-    "seo": {
-      "title": "Roblox Click Test - Palmtweets ID",
-      "description": "Tes kecepatan untuk game Roblox."
-    },
-    "h1": "Roblox Click Test"
-  },
-  "valorant": {
-    "seo": {
-      "title": "Valorant Reflex Test - Palmtweets ID",
-      "description": "Uji refleks menembak Valorant."
-    },
-    "h1": "Valorant Reflex Test"
-  },
-  "fortnite": {
-    "seo": {
-      "title": "Fortnite Build Speed - Palmtweets ID",
-      "description": "Latih kecepatan membangun Fortnite."
-    },
-    "h1": "Fortnite Build Speed"
-  },
-  "combo": {
-    "seo": {
-      "title": "Combo Click Test - Palmtweets ID",
-      "description": "Campur teknik untuk combo sempurna."
-    },
-    "h1": "Combo Click Test"
-  },
-  "stress": {
-    "seo": {
-      "title": "Tes Stres Klik - Palmtweets ID",
-      "description": "Uji ketahanan klik di bawah tekanan."
-    },
-    "h1": "Tes Stres Klik"
-  },
-  "dead_pixel": {
-    "seo": {
-      "title": "Cek Piksel Mati - Palmtweets ID",
-      "description": "Temukan piksel mati di layar Anda."
-    },
-    "h1": "Cek Piksel Mati"
-  },
-  "mouse": {
-    "seo": {
-      "title": "Tes Tombol Mouse - Palmtweets ID",
-      "description": "Periksa fungsi semua tombol mouse."
-    },
-    "h1": "Tes Tombol Mouse"
-  },
-  "scroll": {
-    "seo": {
-      "title": "Tes Kecepatan Scroll - Palmtweets ID",
-      "description": "Seberapa cepat Anda menggulir?"
-    },
-    "h1": "Tes Kecepatan Scroll"
-  },
-  "aim": {
-    "seo": {
-      "title": "Pelatih Aim - Palmtweets ID",
-      "description": "Tingkatkan akurasi dan reaksi."
-    },
-    "h1": "Pelatih Aim"
-  },
-  "live": {
-    "seo": {
-      "title": "Live Feed Dunia - Palmtweets ID",
-      "description": "Lihat klik real-time dari seluruh dunia."
-    },
-    "h1": "Live Feed Dunia"
-  },
-  "leaderboard": {
-    "seo": {
-      "title": "Papan Peringkat Global - Palmtweets ID",
-      "description": "Pemain tercepat di dunia."
-    },
-    "h1": "Papan Peringkat Global"
   }
 }

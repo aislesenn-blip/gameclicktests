@@ -8,6 +8,9 @@
     "description": "Meça seus Cliques Por Segundo (CPS) com nossa ferramenta de teste de reflexo ultra-rápida. Feito para gamers, speed runners e jogadores competitivos em todo o mundo.",
     "start_btn": "Iniciar Teste CPS",
     "modes": "Modos de Teste",
+    "rank_noob": "[PT] 🐢 Rank: Snail (Too Slow!)",
+    "rank_pro": "[PT] ⚡ Rank: Pro Gamer",
+    "rank_god": "[PT] 👑 Rank: GODLIKE",
     "share_txt": "Fiz {score} CPS no Palmtweets. Duvido você ganhar!",
     "score": "PONTOS",
     "timer": "TEMPO",
@@ -19,6 +22,56 @@
     "slow": "🐢 Tartaruga",
     "fast": "⚡ Pro",
     "superhuman": "👑 LENDA"
+  },
+  "nav": {
+    "home": "Início",
+    "cps": "Teste CPS",
+    "reaction": "Reação",
+    "typing": "Digitação",
+    "keyboard": "Teclado",
+    "privacy": "Privacidade"
+  },
+  "mobile_nav": {
+    "cps_cluster": "Testes CPS",
+    "typing_cluster": "Testes de Digitação",
+    "reaction_cluster": "Testes de Reação",
+    "keyboard_cluster": "Ferramentas de Teclado",
+    "cps_1s": "1 Segundo",
+    "cps_5s": "5 Segundos",
+    "cps_60s": "60 Segundos",
+    "jitter": "Jitter Click",
+    "butterfly": "Butterfly Click",
+    "drag": "Drag Click",
+    "reaction": "Tempo de Reação",
+    "typing": "Digitação WPM",
+    "keyboard": "Teste de Teclado"
+  },
+  "footer": {
+    "tagline": "A plataforma de teste de reflexo e velocidade mais rápida do mundo."
+  },
+  "privacy": {
+    "title": "Política de Privacidade",
+    "intro": "Na Palmtweets, valorizamos sua privacidade.",
+    "cookies_title": "Cookies",
+    "cookies_text": "Usamos cookies para melhorar sua experiência.",
+    "data_title": "Coleta de Dados",
+    "data_text": "Não coletamos dados pessoais.",
+    "contact_title": "Contato",
+    "contact_text": "Contate support@palmtweets.com."
+  },
+  "seo_content": {
+    "h2_improve": "Como melhorar sua velocidade de clique",
+    "p_improve": "Melhorar sua velocidade requer prática e o hardware certo. Comece relaxando os músculos da mão para reduzir a tensão. Use um mouse gamer com switches de baixa latência. Pratique diariamente por 10-15 minutos para criar memória muscular.",
+    "h2_styles": "Butterfly clicking vs Jitter clicking",
+    "p_styles": "Jitter clicking envolve vibrar os músculos do braço para clicar rápido, frequentemente atingindo 10-14 CPS. Butterfly clicking usa dois dedos em um botão, alternando toques para atingir 15-20+ CPS. Butterfly é geralmente mais seguro para seus tendões, mas requer um mouse que suporte clique duplo.",
+    "h2_record": "Qual é o recorde mundial de CPS?",
+    "p_record": "O recorde mundial de CPS varia por duração. Para 1 segundo, alguns jogadores atingem 30+ CPS usando Drag Clicking. Para o teste padrão de 10 segundos, os recordes giram em torno de 22-24 CPS usando técnicas avançadas.",
+    "h2_useful": "O teste de CPS é útil para gamers?",
+    "p_useful": "Sim. Alto CPS é crítico em jogos como Minecraft (PvP bridging), OSU!, e jogos de tiro em primeira pessoa onde armas semiautomáticas são usadas. Rastrear seu CPS ajuda a medir sua melhoria física e prontidão para o jogo competitivo.",
+    "h2_hardware": "O hardware do mouse importa?",
+    "p_hardware": "Absolutamente. Mouses gamers com switches mecânicos ou ópticos (como Logitech, Razer, Glorious) têm tempos de resposta menores, permitindo registrar cliques mais rápido que mouses de escritório padrão.",
+    "h2_games": "CPS em Jogos Competitivos",
+    "p_games": "No PvP do Minecraft 1.8, alto CPS ajuda a 'receber menos knockback' e iniciar combos. Em jogos de tiro como CS2 ou Valorant, o tempo de reação é frequentemente mais crítico que o CPS bruto, mas a consistência do clique garante que seus tiros acertem quando pretendido."
   },
   "cps_default": {
     "seo": {
@@ -100,14 +153,6 @@
       "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
     },
     "h1": "KEYBOARD SWITCH TESTER"
-  },
-  "nav": {
-    "home": "Início",
-    "cps": "Teste CPS",
-    "reaction": "Reação",
-    "typing": "Digitação",
-    "keyboard": "Teclado",
-    "privacy": "Privacidade"
   },
   "faq": {
     "cps": {
@@ -279,50 +324,17 @@
       }
     }
   },
-  "privacy": {
-    "title": "Política de Privacidade",
-    "intro": "Na Palmtweets, valorizamos sua privacidade.",
-    "cookies_title": "Cookies",
-    "cookies_text": "Usamos cookies para melhorar sua experiência.",
-    "data_title": "Coleta de Dados",
-    "data_text": "Não coletamos dados pessoais.",
-    "contact_title": "Contato",
-    "contact_text": "Contate support@palmtweets.com."
-  },
-  "mobile_nav": {
-    "cps_cluster": "Testes CPS",
-    "typing_cluster": "Testes de Digitação",
-    "reaction_cluster": "Testes de Reação",
-    "keyboard_cluster": "Ferramentas de Teclado",
-    "cps_1s": "1 Segundo",
-    "cps_5s": "5 Segundos",
-    "cps_60s": "60 Segundos",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Tempo de Reação",
-    "typing": "Digitação WPM",
-    "keyboard": "Teste de Teclado",
-    "time_modes": "Modos de Tempo",
-    "click_modes": "Modos de Clique",
-    "game_challenges": "Desafios de Jogos",
-    "hardware_tests": "Testes de Hardware",
-    "community": "Comunidade",
-    "cps_10s": "10 Segundos",
-    "stress": "Teste de Estresse",
-    "spacebar": "Barra de Espaço",
-    "combo": "Combo Click",
-    "minecraft": "Minecraft PvP",
-    "pubg": "PUBG Click",
-    "roblox": "Roblox Click",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Build",
-    "mouse": "Teste de Mouse",
-    "dead_pixel": "Dead Pixel",
-    "scroll": "Teste de Scroll",
-    "aim": "Treino de Mira",
-    "live": "Live Feed",
-    "leaderboard": "Ranking Global"
+  "game": {
+    "timer": "TEMPO",
+    "score": "PONTOS",
+    "start": "COMEÇAR",
+    "active": "CLIQUE RÁPIDO!",
+    "try_again": "TENTAR DE NOVO",
+    "share": "COMPARTILHAR",
+    "result_msg": "Sua velocidade está acima da média. Você consegue bater seu recorde pessoal?",
+    "slow": "🐢 Tartaruga",
+    "fast": "⚡ Pro",
+    "superhuman": "👑 LENDA"
   },
   "tool_layout": {
     "about": "Sobre",
@@ -339,132 +351,5 @@
     "rank_pro_desc": "Velocidade média de jogador.",
     "rank_god": "Lenda (10+ CPS):",
     "rank_god_desc": "Você domina técnicas avançadas."
-  },
-  "game": {
-    "timer": "TEMPO",
-    "score": "PONTOS",
-    "start": "COMEÇAR",
-    "active": "CLIQUE RÁPIDO!",
-    "try_again": "TENTAR DE NOVO",
-    "share": "COMPARTILHAR",
-    "result_msg": "Sua velocidade está acima da média. Você consegue bater seu recorde pessoal?",
-    "slow": "🐢 Tartaruga",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 LENDA"
-  },
-  "footer": {
-    "tagline": "A plataforma de teste de reflexo e velocidade mais rápida do mundo."
-  },
-  "seo_content": {
-    "h2_improve": "Como melhorar sua velocidade de clique",
-    "p_improve": "Melhorar sua velocidade requer prática e o hardware certo. Comece relaxando os músculos da mão para reduzir a tensão. Use um mouse gamer com switches de baixa latência. Pratique diariamente por 10-15 minutos para criar memória muscular.",
-    "h2_styles": "Butterfly clicking vs Jitter clicking",
-    "p_styles": "Jitter clicking envolve vibrar os músculos do braço para clicar rápido, frequentemente atingindo 10-14 CPS. Butterfly clicking usa dois dedos em um botão, alternando toques para atingir 15-20+ CPS. Butterfly é geralmente mais seguro para seus tendões, mas requer um mouse que suporte clique duplo.",
-    "h2_record": "Qual é o recorde mundial de CPS?",
-    "p_record": "O recorde mundial de CPS varia por duração. Para 1 segundo, alguns jogadores atingem 30+ CPS usando Drag Clicking. Para o teste padrão de 10 segundos, os recordes giram em torno de 22-24 CPS usando técnicas avançadas.",
-    "h2_useful": "O teste de CPS é útil para gamers?",
-    "p_useful": "Sim. Alto CPS é crítico em jogos como Minecraft (PvP bridging), OSU!, e jogos de tiro em primeira pessoa onde armas semiautomáticas são usadas. Rastrear seu CPS ajuda a medir sua melhoria física e prontidão para o jogo competitivo.",
-    "h2_hardware": "O hardware do mouse importa?",
-    "p_hardware": "Absolutamente. Mouses gamers com switches mecânicos ou ópticos (como Logitech, Razer, Glorious) têm tempos de resposta menores, permitindo registrar cliques mais rápido que mouses de escritório padrão.",
-    "h2_games": "CPS em Jogos Competitivos",
-    "p_games": "No PvP do Minecraft 1.8, alto CPS ajuda a 'receber menos knockback' e iniciar combos. Em jogos de tiro como CS2 ou Valorant, o tempo de reação é frequentemente mais crítico que o CPS bruto, mas a consistência do clique garante que seus tiros acertem quando pretendido."
-  },
-  "cps_10s": {
-    "seo": {
-      "title": "Teste CPS 10 Segundos - Palmtweets PT",
-      "description": "O teste padrão de velocidade de clique."
-    },
-    "h1": "Teste CPS 10 Segundos"
-  },
-  "spacebar": {
-    "seo": {
-      "title": "Teste da Barra de Espaço - Palmtweets PT",
-      "description": "Quão rápido você consegue pressionar a barra de espaço?"
-    },
-    "h1": "Teste da Barra de Espaço"
-  },
-  "pubg": {
-    "seo": {
-      "title": "PUBG CPS Test - Palmtweets PT",
-      "description": "Treine seu controle de recuo e cliques para PUBG."
-    },
-    "h1": "PUBG CPS Test"
-  },
-  "roblox": {
-    "seo": {
-      "title": "Roblox Click Test - Palmtweets PT",
-      "description": "Teste sua velocidade para jogos de clique no Roblox."
-    },
-    "h1": "Roblox Click Test"
-  },
-  "valorant": {
-    "seo": {
-      "title": "Valorant Reflex Test - Palmtweets PT",
-      "description": "Teste seus reflexos de tiro para Valorant."
-    },
-    "h1": "Valorant Reflex Test"
-  },
-  "fortnite": {
-    "seo": {
-      "title": "Fortnite Build Speed - Palmtweets PT",
-      "description": "Pratique a velocidade de construção e edição."
-    },
-    "h1": "Fortnite Build Speed"
-  },
-  "combo": {
-    "seo": {
-      "title": "Combo Click Test - Palmtweets PT",
-      "description": "Misture técnicas de clique para combos perfeitos."
-    },
-    "h1": "Combo Click Test"
-  },
-  "stress": {
-    "seo": {
-      "title": "Teste de Estresse de Clique - Palmtweets PT",
-      "description": "Teste sua resistência de clique sob pressão."
-    },
-    "h1": "Teste de Estresse de Clique"
-  },
-  "dead_pixel": {
-    "seo": {
-      "title": "Verificador de Dead Pixel - Palmtweets PT",
-      "description": "Encontre pixels mortos na sua tela."
-    },
-    "h1": "Verificador de Dead Pixel"
-  },
-  "mouse": {
-    "seo": {
-      "title": "Teste de Botões do Mouse - Palmtweets PT",
-      "description": "Verifique se todos os botões do mouse funcionam."
-    },
-    "h1": "Teste de Botões do Mouse"
-  },
-  "scroll": {
-    "seo": {
-      "title": "Teste de Velocidade de Scroll - Palmtweets PT",
-      "description": "Quão rápido você consegue rolar a página?"
-    },
-    "h1": "Teste de Velocidade de Scroll"
-  },
-  "aim": {
-    "seo": {
-      "title": "Treinador de Mira - Palmtweets PT",
-      "description": "Melhore sua precisão e tempo de reação."
-    },
-    "h1": "Treinador de Mira"
-  },
-  "live": {
-    "seo": {
-      "title": "Live CPS Feed Mundial - Palmtweets PT",
-      "description": "Veja cliques em tempo real de todo o mundo."
-    },
-    "h1": "Live CPS Feed Mundial"
-  },
-  "leaderboard": {
-    "seo": {
-      "title": "Ranking Global CPS - Palmtweets PT",
-      "description": "Os clicadores mais rápidos do mundo."
-    },
-    "h1": "Ranking Global CPS"
   }
 }

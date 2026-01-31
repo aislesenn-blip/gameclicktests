@@ -7,11 +7,12 @@ import AdUnit from '@/components/AdUnit';
 import Link from 'next/link';
 import MobileNav from '@/components/MobileNav';
 import LanguageSwitcher from '@/components/LanguageSwitcher';
+import { locales } from '@/config/locales';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export function generateStaticParams() {
-  return ['en', 'pt', 'id', 'es', 'ru'].map((locale) => ({ locale }));
+  return locales.map((locale) => ({ locale }));
 }
 
 export async function generateMetadata({ params: { locale } }: { params: { locale: string } }) {
@@ -19,18 +20,17 @@ export async function generateMetadata({ params: { locale } }: { params: { local
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const seo = (messages as any).seo;
 
+  const alternatesLanguages = locales.reduce((acc, l) => {
+    acc[l] = `/${l}`;
+    return acc;
+  }, {} as Record<string, string>);
+
   return {
     title: seo.title,
     description: seo.description,
     alternates: {
       canonical: `https://palmtweets.com/${locale}`,
-      languages: {
-        'en': `/en`,
-        'pt': `/pt`,
-        'id': `/id`,
-        'es': `/es`,
-        'ru': `/ru`,
-      },
+      languages: alternatesLanguages,
     },
     openGraph: {
       title: seo.title,
@@ -65,8 +65,10 @@ export default async function LocaleLayout({
   const tf = (messages as any).footer;
   const currentYear = new Date().getFullYear();
 
+  const dir = locale === 'ar' ? 'rtl' : 'ltr';
+
   return (
-    <html lang={locale} className="dark">
+    <html lang={locale} dir={dir} className="dark">
       <head>
         <script
           type="application/ld+json"

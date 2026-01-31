@@ -1,0 +1,355 @@
+{
+  "seo": {
+    "title": "[AR] CPS Test - Check Your Click Speed (World Record?) (AR)",
+    "description": "[AR] How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled. (AR)"
+  },
+  "ui": {
+    "h1": "[AR] Test Your Click Speed Instantly (AR)",
+    "description": "[AR] Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide. (AR)",
+    "start_btn": "[AR] Start CPS Test (AR)",
+    "modes": "[AR] Testing Modes (AR)",
+    "rank_noob": "[AR] 🐢 Rank: Snail (Too Slow!) (AR)",
+    "rank_pro": "[AR] ⚡ Rank: Pro Gamer (AR)",
+    "rank_god": "[AR] 👑 Rank: GODLIKE (AR)",
+    "share_txt": "[AR] I just hit {score} CPS on Palmtweets. Can you beat me? (AR)",
+    "score": "[AR] SCORE (AR)",
+    "timer": "[AR] TIMER (AR)",
+    "active": "[AR] CLICK FAST! (AR)",
+    "try_again": "[AR] TRY AGAIN (AR)",
+    "share": "[AR] SHARE (AR)",
+    "start": "[AR] START CLICKING (AR)",
+    "result_msg": "[AR] Your speed is above average. Can you beat your personal best? (AR)",
+    "slow": "[AR] 🐢 Snail (AR)",
+    "fast": "[AR] ⚡ Pro (AR)",
+    "superhuman": "[AR] 👑 GODLIKE (AR)"
+  },
+  "nav": {
+    "home": "[AR] Home (AR)",
+    "cps": "[AR] CPS Test (AR)",
+    "reaction": "[AR] Reaction (AR)",
+    "typing": "[AR] Typing (AR)",
+    "keyboard": "[AR] Keyboard (AR)",
+    "privacy": "[AR] Privacy (AR)"
+  },
+  "mobile_nav": {
+    "cps_cluster": "[AR] CPS Tests (AR)",
+    "typing_cluster": "[AR] Typing Tests (AR)",
+    "reaction_cluster": "[AR] Reaction Tests (AR)",
+    "keyboard_cluster": "[AR] Keyboard Tools (AR)",
+    "cps_1s": "[AR] 1 Second (AR)",
+    "cps_5s": "[AR] 5 Seconds (AR)",
+    "cps_60s": "[AR] 60 Seconds (AR)",
+    "jitter": "[AR] Jitter Click (AR)",
+    "butterfly": "[AR] Butterfly Click (AR)",
+    "drag": "[AR] Drag Click (AR)",
+    "reaction": "[AR] Reaction Time (AR)",
+    "typing": "[AR] Typing Speed (AR)",
+    "keyboard": "[AR] Keyboard Test (AR)"
+  },
+  "footer": {
+    "tagline": "[AR] The world’s fastest reflex & speed testing platform. (AR)"
+  },
+  "privacy": {
+    "title": "[AR] Privacy Policy (AR)",
+    "intro": "[AR] At Palmtweets, we value your privacy. This policy explains how we handle your data. (AR)",
+    "cookies_title": "[AR] Cookies (AR)",
+    "cookies_text": "[AR] We use cookies to improve your experience and analyze traffic. We do not store personal data. (AR)",
+    "data_title": "[AR] Data Collection (AR)",
+    "data_text": "[AR] We do not collect personal identifiable information. Game scores are stored locally. (AR)",
+    "contact_title": "[AR] Contact (AR)",
+    "contact_text": "[AR] For questions, contact support@palmtweets.com. (AR)"
+  },
+  "seo_content": {
+    "h2_improve": "[AR] How to improve your clicking speed (AR)",
+    "p_improve": "[AR] Improving your clicking speed requires practice, technique, and the right hardware. Start by relaxing your hand muscles to reduce tension. Use a gaming mouse with low-latency switches. Practice daily for 10-15 minutes to build muscle memory. (AR)",
+    "h2_styles": "[AR] Butterfly clicking vs jitter clicking (AR)",
+    "p_styles": "[AR] Jitter clicking involves vibrating your arm muscles to click fast, often reaching 10-14 CPS. Butterfly clicking uses two fingers on one button, alternating strikes to achieve 15-20+ CPS. Butterfly is generally safer for your tendons but requires a mouse that supports double-clicking. (AR)",
+    "h2_record": "[AR] What is the world record for CPS (AR)",
+    "p_record": "[AR] The world record for CPS varies by time duration. For 1 second, some players hit 30+ CPS using Drag Clicking. For the standard 10-second test, records hover around 22-24 CPS using advanced techniques. (AR)",
+    "h2_useful": "[AR] Is CPS testing useful for gamers? (AR)",
+    "p_useful": "[AR] Yes. High CPS is critical in games like Minecraft (PvP bridging), OSU!, and First Person Shooters where semi-automatic weapons are used. Tracking your CPS helps measure your physical improvement and readiness for competitive play. (AR)",
+    "h2_hardware": "[AR] Does Mouse Hardware Matter? (AR)",
+    "p_hardware": "[AR] Absolutely. Gaming mice with mechanical or optical switches (like Logitech, Razer, Glorious) have lower debounce times, allowing them to register clicks faster than standard office mice. (AR)",
+    "h2_games": "[AR] CPS in Competitive Gaming (AR)",
+    "p_games": "[AR] In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended. (AR)"
+  },
+  "cps_default": {
+    "seo": {
+      "title": "[AR] CPS Test - Check Your Click Speed (World Record?) (AR)",
+      "description": "[AR] How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. (AR)"
+    },
+    "h1": "[AR] Test Your Click Speed Instantly (AR)"
+  },
+  "cps_1s": {
+    "seo": {
+      "title": "[AR] 1 Second CPS Test - Instant Click Speed Check (AR)",
+      "description": "[AR] Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks. (AR)"
+    },
+    "h1": "[AR] 1 SECOND CPS TEST (AR)"
+  },
+  "cps_5s": {
+    "seo": {
+      "title": "[AR] 5 Second CPS Test - Short Sprint Speed Test (AR)",
+      "description": "[AR] The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS. (AR)"
+    },
+    "h1": "[AR] 5 SECOND CPS TEST (AR)"
+  },
+  "cps_60s": {
+    "seo": {
+      "title": "[AR] 60 Second CPS Test - Endurance Clicking Challenge (AR)",
+      "description": "[AR] The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable. (AR)"
+    },
+    "h1": "[AR] 60 SECOND MARATHON (AR)"
+  },
+  "jitter": {
+    "seo": {
+      "title": "[AR] Jitter Click Test - Master the Vibration Technique (AR)",
+      "description": "[AR] Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included. (AR)"
+    },
+    "h1": "[AR] JITTER CLICK TRAINING (AR)"
+  },
+  "butterfly": {
+    "seo": {
+      "title": "[AR] Butterfly Click Test - Double Click Speed (AR)",
+      "description": "[AR] Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP. (AR)"
+    },
+    "h1": "[AR] BUTTERFLY CLICK TEST (AR)"
+  },
+  "drag": {
+    "seo": {
+      "title": "[AR] Drag Click Test - Mouse Friction Speed (AR)",
+      "description": "[AR] Test your Drag Clicking speed. Use friction to register hundreds of clicks. (AR)"
+    },
+    "h1": "[AR] DRAG CLICK TEST (AR)"
+  },
+  "minecraft": {
+    "seo": {
+      "title": "[AR] Minecraft CPS Test - PvP Practice (AR)",
+      "description": "[AR] Practice your clicking for Minecraft PvP. Improve your combo accuracy. (AR)"
+    },
+    "h1": "[AR] MINECRAFT PVP CLICK TEST (AR)"
+  },
+  "reaction": {
+    "seo": {
+      "title": "[AR] Reaction Time Test - Human Benchmark (ms) (AR)",
+      "description": "[AR] Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms? (AR)"
+    },
+    "h1": "[AR] REACTION TIME TEST (AR)",
+    "wait": "[AR] Wait for Green... (AR)",
+    "click": "[AR] CLICK NOW! (AR)",
+    "too_soon": "[AR] Too Soon! Don't anticipate. (AR)",
+    "result": "[AR] {time} ms (AR)"
+  },
+  "typing": {
+    "seo": {
+      "title": "[AR] Typing Speed Test - Check Your WPM (1 Minute) (AR)",
+      "description": "[AR] Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed. (AR)"
+    },
+    "h1": "[AR] WPM TYPING TEST (AR)"
+  },
+  "keyboard": {
+    "seo": {
+      "title": "[AR] Keyboard Tester - Check All Keys Online (AR)",
+      "description": "[AR] Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards. (AR)"
+    },
+    "h1": "[AR] KEYBOARD SWITCH TESTER (AR)"
+  },
+  "faq": {
+    "cps": {
+      "q1": {
+        "question": "[AR] What is CPS? (AR)",
+        "answer": "[AR] Clicks Per Second (CPS) measures how fast you can click a mouse button. (AR)"
+      },
+      "q2": {
+        "question": "[AR] How to get higher CPS? (AR)",
+        "answer": "[AR] Use techniques like Jitter Clicking or Butterfly Clicking and a gaming mouse. (AR)"
+      },
+      "q3": {
+        "question": "[AR] Is this test accurate? (AR)",
+        "answer": "[AR] Yes, our tool uses precise timestamp measurements for accuracy. (AR)"
+      },
+      "q4": {
+        "question": "[AR] What is a good CPS for Minecraft? (AR)",
+        "answer": "[AR] For Minecraft PvP, 6-7 CPS is normal, but competitive players aim for 12-15+ CPS for combo-locking. (AR)"
+      },
+      "q5": {
+        "question": "[AR] What is the world record CPS? (AR)",
+        "answer": "[AR] The world record for 1 second is over 30 CPS (drag click). For 10 seconds, it is around 22-24 CPS. (AR)"
+      },
+      "q6": {
+        "question": "[AR] Is Jitter Clicking allowed? (AR)",
+        "answer": "[AR] Yes, but be careful of hand strain. Some servers may ban macro-like speeds. (AR)"
+      },
+      "q7": {
+        "question": "[AR] Can CPS damage my mouse? (AR)",
+        "answer": "[AR] Extreme clicking techniques like Drag Clicking can wear out switches faster, but normal clicking is safe. (AR)"
+      },
+      "q8": {
+        "question": "[AR] What is Drag Clicking? (AR)",
+        "answer": "[AR] Drag clicking uses finger friction to generate high CPS. (AR)"
+      },
+      "q9": {
+        "question": "[AR] Is auto clicker allowed? (AR)",
+        "answer": "[AR] No, auto clickers are banned in almost all games. (AR)"
+      },
+      "q10": {
+        "question": "[AR] How to relax hand muscles? (AR)",
+        "answer": "[AR] Stretch your fingers and wrist every 15 minutes. (AR)"
+      }
+    },
+    "reaction": {
+      "q1": {
+        "question": "[AR] What is reaction time? (AR)",
+        "answer": "[AR] The time it takes for your brain to process a visual signal and respond. (AR)"
+      },
+      "q2": {
+        "question": "[AR] What is a good reaction time? (AR)",
+        "answer": "[AR] Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms. (AR)"
+      },
+      "q3": {
+        "question": "[AR] How to improve reflexes? (AR)",
+        "answer": "[AR] Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS. (AR)"
+      },
+      "q4": {
+        "question": "[AR] Does age affect reaction time? (AR)",
+        "answer": "[AR] Yes, reaction time tends to peak in your 20s and gradually slows down with age. (AR)"
+      },
+      "q5": {
+        "question": "[AR] Does monitor Hz affect reaction? (AR)",
+        "answer": "[AR] Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz. (AR)"
+      },
+      "q6": {
+        "question": "[AR] What is visual reaction time? (AR)",
+        "answer": "[AR] Response time to a visual stimulus. (AR)"
+      },
+      "q7": {
+        "question": "[AR] What is auditory reaction time? (AR)",
+        "answer": "[AR] Response time to sound, usually faster than visual. (AR)"
+      },
+      "q8": {
+        "question": "[AR] Can caffeine improve reaction? (AR)",
+        "answer": "[AR] Yes, in moderate amounts it can increase alertness. (AR)"
+      },
+      "q9": {
+        "question": "[AR] Do pro gamers use special gear? (AR)",
+        "answer": "[AR] Yes, high refresh rate monitors and low latency mice. (AR)"
+      },
+      "q10": {
+        "question": "[AR] How to test accuracy? (AR)",
+        "answer": "[AR] Use our precision test tools. (AR)"
+      }
+    },
+    "typing": {
+      "q1": {
+        "question": "[AR] What is WPM? (AR)",
+        "answer": "[AR] Words Per Minute measures typing speed. (AR)"
+      },
+      "q2": {
+        "question": "[AR] How to type faster? (AR)",
+        "answer": "[AR] Practice touch typing, maintain good posture, and avoid looking at the keyboard. (AR)"
+      },
+      "q3": {
+        "question": "[AR] What is a good WPM? (AR)",
+        "answer": "[AR] Average is 40 WPM. Professional typists reach 100+ WPM. (AR)"
+      },
+      "q4": {
+        "question": "[AR] Is touch typing better? (AR)",
+        "answer": "[AR] Yes, it allows you to type without looking at keys, drastically increasing speed. (AR)"
+      },
+      "q5": {
+        "question": "[AR] What is a mechanical keyboard? (AR)",
+        "answer": "[AR] A keyboard with physical switches for each key. (AR)"
+      },
+      "q6": {
+        "question": "[AR] Does keyboard affect typing speed? (AR)",
+        "answer": "[AR] Yes, tactile feedback helps maintain rhythm. (AR)"
+      },
+      "q7": {
+        "question": "[AR] How to learn touch typing? (AR)",
+        "answer": "[AR] Start with home row exercises and practice daily. (AR)"
+      },
+      "q8": {
+        "question": "[AR] What is the average WPM? (AR)",
+        "answer": "[AR] Around 40 WPM for casual users. (AR)"
+      },
+      "q9": {
+        "question": "[AR] What is 100% accuracy? (AR)",
+        "answer": "[AR] Typing without any errors or backspaces. (AR)"
+      },
+      "q10": {
+        "question": "[AR] How to reduce typing fatigue? (AR)",
+        "answer": "[AR] Use a wrist rest and keep good posture. (AR)"
+      }
+    },
+    "keyboard": {
+      "q1": {
+        "question": "[AR] What is Ghosting? (AR)",
+        "answer": "[AR] When a keyboard fails to register multiple simultaneous key presses. (AR)"
+      },
+      "q2": {
+        "question": "[AR] What is Key Rollover? (AR)",
+        "answer": "[AR] The maximum number of keys that can be pressed at once. (AR)"
+      },
+      "q3": {
+        "question": "[AR] How do I test my keys? (AR)",
+        "answer": "[AR] Press every key on your keyboard and ensure it lights up green on the screen. (AR)"
+      },
+      "q4": {
+        "question": "[AR] How to test mechanical switches? (AR)",
+        "answer": "[AR] Press keys gently to check actuation point vs bottoming out. (AR)"
+      },
+      "q5": {
+        "question": "[AR] What is N-Key Rollover? (AR)",
+        "answer": "[AR] Ability to register all keys pressed simultaneously. (AR)"
+      },
+      "q6": {
+        "question": "[AR] What are Cherry MX switches? (AR)",
+        "answer": "[AR] Popular mechanical switches with different feels. (AR)"
+      },
+      "q7": {
+        "question": "[AR] How to clean a keyboard? (AR)",
+        "answer": "[AR] Use compressed air and remove keycaps. (AR)"
+      },
+      "q8": {
+        "question": "[AR] Why is my key sticking? (AR)",
+        "answer": "[AR] It might be dirty or the switch is broken. (AR)"
+      },
+      "q9": {
+        "question": "[AR] What is a membrane keyboard? (AR)",
+        "answer": "[AR] A keyboard using pressure pads, usually cheaper. (AR)"
+      },
+      "q10": {
+        "question": "[AR] Can I replace laptop keys? (AR)",
+        "answer": "[AR] Yes, but it is delicate work. (AR)"
+      }
+    }
+  },
+  "game": {
+    "timer": "[AR] TIMER (AR)",
+    "score": "[AR] SCORE (AR)",
+    "start": "[AR] START CLICKING (AR)",
+    "active": "[AR] CLICK FAST! (AR)",
+    "try_again": "[AR] TRY AGAIN (AR)",
+    "share": "[AR] SHARE (AR)",
+    "result_msg": "[AR] Your speed is above average. Can you beat your personal best? (AR)",
+    "slow": "[AR] 🐢 Snail (AR)",
+    "fast": "[AR] ⚡ Pro (AR)",
+    "superhuman": "[AR] 👑 GODLIKE (AR)"
+  },
+  "tool_layout": {
+    "about": "[AR] About (AR)",
+    "how_to": "[AR] How to Use (AR)",
+    "rank_up": "[AR] How to Rank Up? (AR)",
+    "faq": "[AR] Frequently Asked Questions (AR)",
+    "related": "[AR] Related Tools (AR)",
+    "step1": "[AR] Click the start button or the designated area. (AR)",
+    "step2": "[AR] Perform the action as quickly/accurately as possible. (AR)",
+    "step3": "[AR] View your result and share with friends. (AR)",
+    "rank_turtle": "[AR] Turtle (0-5 CPS): (AR)",
+    "rank_turtle_desc": "[AR] You are clicking too slow! Try to tense your arm muscles. (AR)",
+    "rank_pro": "[AR] Pro (5-10 CPS): (AR)",
+    "rank_pro_desc": "[AR] The average gamer speed. Good for casual play. (AR)",
+    "rank_god": "[AR] Godlike (10+ CPS): (AR)",
+    "rank_god_desc": "[AR] You are mastering advanced techniques like Jitter or Butterfly clicking. (AR)"
+  }
+}

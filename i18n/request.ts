@@ -1,13 +1,12 @@
 import {notFound} from 'next/navigation';
 import {getRequestConfig} from 'next-intl/server';
-
-// Can be imported from a shared config
-const locales = ['en', 'pt', 'id', 'es', 'ru'];
+import { locales } from '../config/locales';
 
 export default getRequestConfig(async ({requestLocale}) => {
   // Validate that the incoming `locale` parameter is valid
   let locale = await requestLocale;
 
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   if (!locale || !locales.includes(locale as any)) {
       locale = 'en';
   }
