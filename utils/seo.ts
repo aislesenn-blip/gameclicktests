@@ -1,7 +1,7 @@
 import { getMessages } from 'next-intl/server';
 import { generateAlternates } from '../seo/hreflang';
 
-export async function getToolMetadata(locale: string, toolKey: string) {
+export async function getToolMetadata(locale: string, toolKey: string, slug?: string) {
   const messages = await getMessages({ locale });
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const seo = (messages as any)[toolKey]?.seo;
@@ -10,7 +10,8 @@ export async function getToolMetadata(locale: string, toolKey: string) {
     return { title: 'Palmtweets', description: 'Global CPS Test' };
   }
 
-  const { canonical, languages } = generateAlternates(toolKey === 'home' ? '' : `/${toolKey}`);
+  const path = slug ? `/${slug}` : (toolKey === 'home' ? '' : `/${toolKey}`);
+  const { canonical, languages } = generateAlternates(path);
 
   return {
     title: seo.title,
