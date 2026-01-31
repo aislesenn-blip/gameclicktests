@@ -11,32 +11,52 @@ const MobileNav = ({ locale }: { locale: string }) => {
 
   const menuItems = [
     {
-      title: t("cps_cluster"),
+      title: t("time_modes"),
       links: [
         { href: `/${locale}/cps/1-second`, label: t("cps_1s") },
         { href: `/${locale}/cps/5-seconds`, label: t("cps_5s") },
+        { href: `/${locale}/cps/10-seconds`, label: t("cps_10s") },
         { href: `/${locale}/cps/60-seconds`, label: t("cps_60s") },
+        { href: `/${locale}/cps/stress-test`, label: t("stress") },
+      ],
+    },
+    {
+      title: t("click_modes"),
+      links: [
         { href: `/${locale}/cps/jitter`, label: t("jitter") },
         { href: `/${locale}/cps/butterfly`, label: t("butterfly") },
         { href: `/${locale}/cps/drag`, label: t("drag") },
+        { href: `/${locale}/cps/spacebar`, label: t("spacebar") },
+        { href: `/${locale}/cps/combo`, label: t("combo") },
       ],
     },
     {
-      title: t("reaction_cluster"),
+      title: t("game_challenges"),
+      links: [
+        { href: `/${locale}/cps/minecraft`, label: t("minecraft") },
+        { href: `/${locale}/cps/pubg`, label: t("pubg") },
+        { href: `/${locale}/cps/roblox`, label: t("roblox") },
+        { href: `/${locale}/cps/valorant`, label: t("valorant") },
+        { href: `/${locale}/cps/fortnite`, label: t("fortnite") },
+      ],
+    },
+    {
+      title: t("hardware_tests"),
       links: [
         { href: `/${locale}/reaction-time`, label: t("reaction") },
-      ],
-    },
-    {
-      title: t("typing_cluster"),
-      links: [
         { href: `/${locale}/typing-test`, label: t("typing") },
+        { href: `/${locale}/keyboard-test`, label: t("keyboard") },
+        { href: `/${locale}/mouse-test`, label: t("mouse") },
+        { href: `/${locale}/dead-pixel`, label: t("dead_pixel") },
+        { href: `/${locale}/scroll-test`, label: t("scroll") },
+        { href: `/${locale}/aim-trainer`, label: t("aim") },
       ],
     },
     {
-      title: t("keyboard_cluster"),
+      title: t("community"),
       links: [
-        { href: `/${locale}/keyboard-test`, label: t("keyboard") },
+        { href: `/${locale}/live-cps`, label: t("live") },
+        { href: `/${locale}/leaderboard`, label: t("leaderboard") },
       ],
     },
   ];
