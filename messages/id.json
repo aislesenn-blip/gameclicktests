@@ -112,58 +112,90 @@
   "faq": {
     "cps": {
       "q1": {
-        "question": "Apa itu CPS?",
-        "answer": "Klik Per Detik (CPS) mengukur seberapa cepat Anda bisa mengklik mouse."
+        "question": "What is CPS?",
+        "answer": "Clicks Per Second (CPS) measures how fast you can click a mouse button."
       },
       "q2": {
-        "question": "Bagaimana cara meningkatkan CPS?",
-        "answer": "Gunakan teknik seperti Jitter Click atau Butterfly Click dan mouse gaming."
+        "question": "How to get higher CPS?",
+        "answer": "Use techniques like Jitter Clicking or Butterfly Clicking and a gaming mouse."
       },
       "q3": {
-        "question": "Apakah tes ini akurat?",
-        "answer": "Ya, alat kami menggunakan pengukuran waktu yang tepat."
+        "question": "Is this test accurate?",
+        "answer": "Yes, our tool uses precise timestamp measurements for accuracy."
+      },
+      "q4": {
+        "question": "What is a good CPS for Minecraft?",
+        "answer": "For Minecraft PvP, 6-7 CPS is normal, but competitive players aim for 12-15+ CPS for combo-locking."
+      },
+      "q5": {
+        "question": "What is the world record CPS?",
+        "answer": "The world record for 1 second is over 30 CPS (drag click). For 10 seconds, it is around 22-24 CPS."
+      },
+      "q6": {
+        "question": "Is Jitter Clicking allowed?",
+        "answer": "Yes, but be careful of hand strain. Some servers may ban macro-like speeds."
+      },
+      "q7": {
+        "question": "Can CPS damage my mouse?",
+        "answer": "Extreme clicking techniques like Drag Clicking can wear out switches faster, but normal clicking is safe."
       }
     },
     "reaction": {
       "q1": {
-        "question": "Apa itu waktu reaksi?",
-        "answer": "Waktu yang dibutuhkan otak Anda untuk memproses sinyal visual dan merespons."
+        "question": "What is reaction time?",
+        "answer": "The time it takes for your brain to process a visual signal and respond."
       },
       "q2": {
-        "question": "Berapa waktu reaksi yang baik?",
-        "answer": "Rata-rata adalah 250ms. Di bawah 200ms sangat baik."
+        "question": "What is a good reaction time?",
+        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
       },
       "q3": {
-        "question": "Bagaimana cara meningkatkan refleks?",
-        "answer": "Berlatih secara teratur, cukup tidur, dan tetap terhidrasi."
+        "question": "How to improve reflexes?",
+        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+      },
+      "q4": {
+        "question": "Does age affect reaction time?",
+        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+      },
+      "q5": {
+        "question": "Does monitor Hz affect reaction?",
+        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
       }
     },
     "typing": {
       "q1": {
-        "question": "Apa itu WPM?",
-        "answer": "Kata Per Menit mengukur kecepatan mengetik."
+        "question": "What is WPM?",
+        "answer": "Words Per Minute measures typing speed."
       },
       "q2": {
-        "question": "Bagaimana cara mengetik lebih cepat?",
-        "answer": "Latih mengetik sentuh dan hindari melihat keyboard."
+        "question": "How to type faster?",
+        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
       },
       "q3": {
-        "question": "Berapa WPM yang bagus?",
-        "answer": "Rata-rata adalah 40 WPM. Pengetik profesional mencapai 100+ WPM."
+        "question": "What is a good WPM?",
+        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+      },
+      "q4": {
+        "question": "Is touch typing better?",
+        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "Apa itu Ghosting?",
-        "answer": "Ketika keyboard gagal mendaftarkan beberapa penekanan tombol secara bersamaan."
+        "question": "What is Ghosting?",
+        "answer": "When a keyboard fails to register multiple simultaneous key presses."
       },
       "q2": {
-        "question": "Apa itu Key Rollover?",
-        "answer": "Jumlah maksimum tombol yang dapat ditekan sekaligus."
+        "question": "What is Key Rollover?",
+        "answer": "The maximum number of keys that can be pressed at once."
       },
       "q3": {
-        "question": "Bagaimana cara menguji tombol saya?",
-        "answer": "Tekan setiap tombol pada keyboard Anda dan pastikan menyala hijau di layar."
+        "question": "How do I test my keys?",
+        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+      },
+      "q4": {
+        "question": "How to test mechanical switches?",
+        "answer": "Press keys gently to check actuation point vs bottoming out."
       }
     }
   },
@@ -224,13 +256,17 @@
     "tagline": "Platform tes refleks & kecepatan tercepat di dunia."
   },
   "seo_content": {
-    "h2_improve": "Cara meningkatkan kecepatan klik",
-    "p_improve": "Meningkatkan kecepatan klik memerlukan latihan, teknik, dan perangkat keras yang tepat. Mulailah dengan merilekskan otot tangan untuk mengurangi ketegangan. Gunakan mouse gaming dengan switch latensi rendah. Berlatih setiap hari selama 10-15 menit untuk membangun memori otot.",
-    "h2_styles": "Butterfly clicking vs Jitter clicking",
-    "p_styles": "Jitter clicking melibatkan menggetarkan otot lengan untuk mengklik cepat, sering mencapai 10-14 CPS. Butterfly clicking menggunakan dua jari pada satu tombol, bergantian memukul untuk mencapai 15-20+ CPS. Butterfly umumnya lebih aman untuk tendon Anda tetapi memerlukan mouse yang mendukung klik ganda.",
-    "h2_record": "Apa rekor dunia untuk CPS",
-    "p_record": "Rekor dunia untuk CPS bervariasi berdasarkan durasi. Untuk 1 detik, beberapa pemain mencapai 30+ CPS menggunakan Drag Clicking. Untuk tes standar 10 detik, rekor berkisar sekitar 22-24 CPS menggunakan teknik canggih.",
-    "h2_useful": "Apakah tes CPS berguna untuk gamer?",
-    "p_useful": "Ya. CPS tinggi sangat penting dalam game seperti Minecraft (PvP bridging), OSU!, dan FPS di mana senjata semi-otomatis digunakan. Melacak CPS Anda membantu mengukur peningkatan fisik dan kesiapan Anda untuk bermain kompetitif."
+    "h2_improve": "How to improve your clicking speed",
+    "p_improve": "Improving your clicking speed requires practice, technique, and the right hardware. Start by relaxing your hand muscles to reduce tension. Use a gaming mouse with low-latency switches. Practice daily for 10-15 minutes to build muscle memory.",
+    "h2_styles": "Butterfly clicking vs jitter clicking",
+    "p_styles": "Jitter clicking involves vibrating your arm muscles to click fast, often reaching 10-14 CPS. Butterfly clicking uses two fingers on one button, alternating strikes to achieve 15-20+ CPS. Butterfly is generally safer for your tendons but requires a mouse that supports double-clicking.",
+    "h2_record": "What is the world record for CPS",
+    "p_record": "The world record for CPS varies by time duration. For 1 second, some players hit 30+ CPS using Drag Clicking. For the standard 10-second test, records hover around 22-24 CPS using advanced techniques.",
+    "h2_useful": "Is CPS testing useful for gamers?",
+    "p_useful": "Yes. High CPS is critical in games like Minecraft (PvP bridging), OSU!, and First Person Shooters where semi-automatic weapons are used. Tracking your CPS helps measure your physical improvement and readiness for competitive play.",
+    "h2_hardware": "Does Mouse Hardware Matter?",
+    "p_hardware": "Absolutely. Gaming mice with mechanical or optical switches (like Logitech, Razer, Glorious) have lower debounce times, allowing them to register clicks faster than standard office mice.",
+    "h2_games": "CPS in Competitive Gaming",
+    "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended."
   }
 }

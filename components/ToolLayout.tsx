@@ -3,7 +3,7 @@ import React from 'react';
 import { useTranslations } from 'next-intl';
 import AdUnit from '@/components/AdUnit';
 import StarRating from '@/components/StarRating';
-import { SOFTWARE_APPLICATION_SCHEMA, FAQ_SCHEMA, BREADCRUMB_SCHEMA } from '../seo/schema';
+import { SOFTWARE_APPLICATION_SCHEMA, GAME_SCHEMA, HOWTO_SCHEMA, FAQ_SCHEMA, BREADCRUMB_SCHEMA } from '../seo/schema';
 import Link from 'next/link';
 
 interface ToolLayoutProps {
@@ -19,6 +19,7 @@ const ToolLayout: React.FC<ToolLayoutProps> = ({ children, toolKey, category, lo
   const tNav = useTranslations("nav");
   const tLayout = useTranslations("tool_layout");
   const tm = useTranslations("mobile_nav");
+  const tContent = useTranslations("seo_content");
 
   // Use generic FAQ keys based on category
   const faqCategory = category === 'CPS' ? 'cps'
@@ -32,12 +33,21 @@ const ToolLayout: React.FC<ToolLayoutProps> = ({ children, toolKey, category, lo
   const description = tSeo('description');
 
   const jsonLd = SOFTWARE_APPLICATION_SCHEMA(title, description);
+  const gameSchema = (category === 'CPS' || category === 'Reaction') ? GAME_SCHEMA(title, description) : null;
+  const howToSchema = HOWTO_SCHEMA(title, [tLayout('step1'), tLayout('step2'), tLayout('step3')]);
 
-  const faqData = [
-    { question: tFaq('q1.question'), answer: tFaq('q1.answer') },
-    { question: tFaq('q2.question'), answer: tFaq('q2.answer') },
-    { question: tFaq('q3.question'), answer: tFaq('q3.answer') }
-  ];
+  // Dynamically load up to 7 FAQs if they exist
+  const faqData = [];
+  for (let i = 1; i <= 7; i++) {
+      try {
+          const q = tFaq(`q${i}.question`);
+          const a = tFaq(`q${i}.answer`);
+          if (q && a && q !== `faq.${faqCategory}.q${i}.question`) {
+              faqData.push({ question: q, answer: a });
+          }
+      // eslint-disable-next-line @typescript-eslint/no-unused-vars
+      } catch (e) { break; }
+  }
 
   const faqSchema = FAQ_SCHEMA(faqData);
 
@@ -47,11 +57,15 @@ const ToolLayout: React.FC<ToolLayoutProps> = ({ children, toolKey, category, lo
     { name: title, url: `/${locale}` }
   ]);
 
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const schemas: any[] = [jsonLd, howToSchema, faqSchema, breadcrumbSchema];
+  if (gameSchema) schemas.push(gameSchema);
+
   return (
     <div className="w-full flex flex-col gap-8">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify([jsonLd, faqSchema, breadcrumbSchema]) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schemas) }}
       />
 
       <section className="flex flex-col items-center text-center space-y-6 pt-8 pb-12">
@@ -94,6 +108,24 @@ const ToolLayout: React.FC<ToolLayoutProps> = ({ children, toolKey, category, lo
               <li><strong>{tLayout('rank_pro')}</strong> {tLayout('rank_pro_desc')}</li>
               <li><strong>{tLayout('rank_god')}</strong> {tLayout('rank_god_desc')}</li>
             </ul>
+
+            <h2 className="text-neon-green">{tContent('h2_improve')}</h2>
+            <p>{tContent('p_improve')}</p>
+
+            <h3 className="text-neon-green">{tContent('h2_styles')}</h3>
+            <p>{tContent('p_styles')}</p>
+
+            <h3 className="text-neon-green">{tContent('h2_record')}</h3>
+            <p>{tContent('p_record')}</p>
+
+            <h3 className="text-neon-green">{tContent('h2_useful')}</h3>
+            <p>{tContent('p_useful')}</p>
+
+            <h3 className="text-neon-green">{tContent('h2_hardware')}</h3>
+            <p>{tContent('p_hardware')}</p>
+
+            <h3 className="text-neon-green">{tContent('h2_games')}</h3>
+            <p>{tContent('p_games')}</p>
           </>
         )}
 

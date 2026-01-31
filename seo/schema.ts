@@ -1,3 +1,5 @@
+// SEO Utilities for Palmtweets
+
 export const SOFTWARE_APPLICATION_SCHEMA = (name: string, description: string) => ({
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
@@ -15,6 +17,29 @@ export const SOFTWARE_APPLICATION_SCHEMA = (name: string, description: string) =
     "price": "0",
     "priceCurrency": "USD"
   }
+});
+
+export const GAME_SCHEMA = (name: string, description: string) => ({
+  "@context": "https://schema.org",
+  "@type": "VideoGame",
+  "name": name,
+  "description": description,
+  "genre": "Arcade",
+  "playMode": "SinglePlayer",
+  "applicationCategory": "Game",
+  "operatingSystem": "Web Browser"
+});
+
+export const HOWTO_SCHEMA = (name: string, steps: string[]) => ({
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": `How to use ${name}`,
+  "step": steps.map((text, i) => ({
+    "@type": "HowToStep",
+    "position": i + 1,
+    "name": `Step ${i + 1}`,
+    "text": text
+  }))
 });
 
 export const WEBSITE_SCHEMA = (locale: string) => ({

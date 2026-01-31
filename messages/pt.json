@@ -112,58 +112,90 @@
   "faq": {
     "cps": {
       "q1": {
-        "question": "O que é CPS?",
-        "answer": "Cliques Por Segundo (CPS) mede a velocidade com que você clica no mouse."
+        "question": "What is CPS?",
+        "answer": "Clicks Per Second (CPS) measures how fast you can click a mouse button."
       },
       "q2": {
-        "question": "Como aumentar o CPS?",
-        "answer": "Use técnicas como Jitter Click ou Butterfly Click e um mouse gamer."
+        "question": "How to get higher CPS?",
+        "answer": "Use techniques like Jitter Clicking or Butterfly Clicking and a gaming mouse."
       },
       "q3": {
-        "question": "Este teste é preciso?",
-        "answer": "Sim, nossa ferramenta usa medições precisas de tempo."
+        "question": "Is this test accurate?",
+        "answer": "Yes, our tool uses precise timestamp measurements for accuracy."
+      },
+      "q4": {
+        "question": "What is a good CPS for Minecraft?",
+        "answer": "For Minecraft PvP, 6-7 CPS is normal, but competitive players aim for 12-15+ CPS for combo-locking."
+      },
+      "q5": {
+        "question": "What is the world record CPS?",
+        "answer": "The world record for 1 second is over 30 CPS (drag click). For 10 seconds, it is around 22-24 CPS."
+      },
+      "q6": {
+        "question": "Is Jitter Clicking allowed?",
+        "answer": "Yes, but be careful of hand strain. Some servers may ban macro-like speeds."
+      },
+      "q7": {
+        "question": "Can CPS damage my mouse?",
+        "answer": "Extreme clicking techniques like Drag Clicking can wear out switches faster, but normal clicking is safe."
       }
     },
     "reaction": {
       "q1": {
-        "question": "O que é tempo de reação?",
-        "answer": "O tempo que seu cérebro leva para processar um sinal visual e responder."
+        "question": "What is reaction time?",
+        "answer": "The time it takes for your brain to process a visual signal and respond."
       },
       "q2": {
-        "question": "Qual é um bom tempo de reação?",
-        "answer": "A média é 250ms. Abaixo de 200ms é excelente."
+        "question": "What is a good reaction time?",
+        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
       },
       "q3": {
-        "question": "Como melhorar reflexos?",
-        "answer": "Pratique regularmente, durma bem e mantenha-se hidratado."
+        "question": "How to improve reflexes?",
+        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+      },
+      "q4": {
+        "question": "Does age affect reaction time?",
+        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+      },
+      "q5": {
+        "question": "Does monitor Hz affect reaction?",
+        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
       }
     },
     "typing": {
       "q1": {
-        "question": "O que é WPM?",
-        "answer": "Palavras Por Minuto mede a velocidade de digitação."
+        "question": "What is WPM?",
+        "answer": "Words Per Minute measures typing speed."
       },
       "q2": {
-        "question": "Como digitar mais rápido?",
-        "answer": "Pratique a digitação por toque e evite olhar para o teclado."
+        "question": "How to type faster?",
+        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
       },
       "q3": {
-        "question": "Qual é um bom WPM?",
-        "answer": "A média é 40 WPM. Digitadores profissionais chegam a 100+ WPM."
+        "question": "What is a good WPM?",
+        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+      },
+      "q4": {
+        "question": "Is touch typing better?",
+        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "O que é Ghosting?",
-        "answer": "Quando um teclado falha ao registrar múltiplos toques simultâneos."
+        "question": "What is Ghosting?",
+        "answer": "When a keyboard fails to register multiple simultaneous key presses."
       },
       "q2": {
-        "question": "O que é Key Rollover?",
-        "answer": "O número máximo de teclas que podem ser pressionadas de uma vez."
+        "question": "What is Key Rollover?",
+        "answer": "The maximum number of keys that can be pressed at once."
       },
       "q3": {
-        "question": "Como testar minhas teclas?",
-        "answer": "Pressione cada tecla do seu teclado e verifique se ela acende em verde na tela."
+        "question": "How do I test my keys?",
+        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+      },
+      "q4": {
+        "question": "How to test mechanical switches?",
+        "answer": "Press keys gently to check actuation point vs bottoming out."
       }
     }
   },
@@ -224,13 +256,17 @@
     "tagline": "A plataforma de teste de reflexo e velocidade mais rápida do mundo."
   },
   "seo_content": {
-    "h2_improve": "Como melhorar sua velocidade de clique",
-    "p_improve": "Melhorar sua velocidade de clique requer prática, técnica e o hardware certo. Comece relaxando os músculos da mão para reduzir a tensão. Use um mouse gamer com switches de baixa latência. Pratique diariamente por 10-15 minutos para construir memória muscular.",
-    "h2_styles": "Butterfly clicking vs Jitter clicking",
-    "p_styles": "Jitter clicking envolve vibrar os músculos do braço para clicar rápido, frequentemente atingindo 10-14 CPS. Butterfly clicking usa dois dedos em um botão, alternando golpes para atingir 15-20+ CPS. Butterfly é geralmente mais seguro para seus tendões, mas requer um mouse que suporte clique duplo.",
-    "h2_record": "Qual é o recorde mundial de CPS",
-    "p_record": "O recorde mundial de CPS varia pela duração. Para 1 segundo, alguns jogadores atingem 30+ CPS usando Drag Clicking. Para o teste padrão de 10 segundos, os recordes giram em torno de 22-24 CPS usando técnicas avançadas.",
-    "h2_useful": "O teste de CPS é útil para gamers?",
-    "p_useful": "Sim. CPS alto é crítico em jogos como Minecraft (PvP bridging), OSU! e FPS onde armas semiautomáticas são usadas. Rastrear seu CPS ajuda a medir sua melhoria física e prontidão para o jogo competitivo."
+    "h2_improve": "How to improve your clicking speed",
+    "p_improve": "Improving your clicking speed requires practice, technique, and the right hardware. Start by relaxing your hand muscles to reduce tension. Use a gaming mouse with low-latency switches. Practice daily for 10-15 minutes to build muscle memory.",
+    "h2_styles": "Butterfly clicking vs jitter clicking",
+    "p_styles": "Jitter clicking involves vibrating your arm muscles to click fast, often reaching 10-14 CPS. Butterfly clicking uses two fingers on one button, alternating strikes to achieve 15-20+ CPS. Butterfly is generally safer for your tendons but requires a mouse that supports double-clicking.",
+    "h2_record": "What is the world record for CPS",
+    "p_record": "The world record for CPS varies by time duration. For 1 second, some players hit 30+ CPS using Drag Clicking. For the standard 10-second test, records hover around 22-24 CPS using advanced techniques.",
+    "h2_useful": "Is CPS testing useful for gamers?",
+    "p_useful": "Yes. High CPS is critical in games like Minecraft (PvP bridging), OSU!, and First Person Shooters where semi-automatic weapons are used. Tracking your CPS helps measure your physical improvement and readiness for competitive play.",
+    "h2_hardware": "Does Mouse Hardware Matter?",
+    "p_hardware": "Absolutely. Gaming mice with mechanical or optical switches (like Logitech, Razer, Glorious) have lower debounce times, allowing them to register clicks faster than standard office mice.",
+    "h2_games": "CPS in Competitive Gaming",
+    "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended."
   }
 }

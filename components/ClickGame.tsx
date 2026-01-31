@@ -1,6 +1,6 @@
 "use client";
 import React, { useState, useEffect } from "react";
-import { clickSound, unlockSound } from "@/lib/sound";
+import { clickSound, unlockSound, setGlobalVolume } from "@/lib/sound";
 import { useTranslations } from "next-intl";
 
 interface ClickGameProps {
@@ -17,17 +17,14 @@ const ClickGame: React.FC<ClickGameProps> = ({ duration = 10, mode = "standard" 
   const [isFinished, setIsFinished] = useState(false);
   const [cps, setCps] = useState(0);
   const [isMuted, setIsMuted] = useState(false);
+  const [volume, setVolume] = useState(0.6);
+  const [showSettings, setShowSettings] = useState(false);
 
   const handleClick = () => {
     if (isFinished) return;
-
-    // Attempt unlock on first interaction
     unlockSound();
-
     if (!isActive) setIsActive(true);
-
     setScore((prev) => prev + 1);
-
     if (!isMuted) {
       clickSound.play();
     }
@@ -35,18 +32,24 @@ const ClickGame: React.FC<ClickGameProps> = ({ duration = 10, mode = "standard" 
 
   useEffect(() => {
     let interval: NodeJS.Timeout;
+    let lastTime = performance.now();
+
     if (isActive) {
       interval = setInterval(() => {
+        const now = performance.now();
+        const dt = (now - lastTime) / 1000;
+        lastTime = now;
+
         setTimeLeft((prev) => {
-          if (prev <= 0.1) {
+          if (prev <= dt) {
             clearInterval(interval);
             setIsFinished(true);
             setIsActive(false);
             return 0;
           }
-          return prev - 0.1;
+          return prev - dt;
         });
-      }, 100);
+      }, 50); // Run loop faster for smoothness, though state updates limited by React
     }
     return () => clearInterval(interval);
   }, [isActive]);
@@ -65,13 +68,69 @@ const ClickGame: React.FC<ClickGameProps> = ({ duration = 10, mode = "standard" 
     setCps(0);
   };
 
-  const shareResult = () => {
+  const handleVolumeChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+      const v = parseFloat(e.target.value);
+      setVolume(v);
+      setGlobalVolume(v);
+      if (v === 0) setIsMuted(true);
+      else setIsMuted(false);
+  };
+
+  const testSound = () => {
+      unlockSound();
+      clickSound.play();
+  };
+
+  const generateShareImage = async () => {
+      const canvas = document.createElement('canvas');
+      canvas.width = 800;
+      canvas.height = 400;
+      const ctx = canvas.getContext('2d');
+      if (!ctx) return null;
+
+      // Background
+      ctx.fillStyle = '#000000';
+      ctx.fillRect(0, 0, 800, 400);
+
+      // Border
+      ctx.strokeStyle = '#39ff14';
+      ctx.lineWidth = 10;
+      ctx.strokeRect(0, 0, 800, 400);
+
+      // Text
+      ctx.fillStyle = '#39ff14';
+      ctx.font = 'bold 40px monospace';
+      ctx.textAlign = 'center';
+      ctx.fillText('PALMTWEETS.COM', 400, 60);
+
+      ctx.fillStyle = '#ffffff';
+      ctx.font = 'bold 120px monospace';
+      ctx.fillText(`${cps.toFixed(2)} CPS`, 400, 200);
+
+      const rank = cps < 5 ? t('slow') : cps < 8 ? t('fast') : t('superhuman');
+      ctx.fillStyle = '#39ff14';
+      ctx.font = 'bold 50px monospace';
+      ctx.fillText(`Rank: ${rank}`, 400, 300);
+
+      return new Promise<Blob | null>(resolve => canvas.toBlob(resolve));
+  };
+
+  const shareResult = async () => {
     const text = `${t('score')}: ${cps.toFixed(2)} CPS!`;
-    const shareData = {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const shareData: any = {
       title: "Palmtweets CPS Test",
       text: text,
       url: window.location.href,
     };
+
+    try {
+        const blob = await generateShareImage();
+        // @ts-expect-error navigator.canShare is not fully typed
+        if (blob && navigator.share && navigator.canShare && navigator.canShare({ files: [new File([blob], 'score.png', { type: 'image/png' })] })) {
+             shareData.files = [new File([blob], 'score.png', { type: 'image/png' })];
+        }
+    } catch(e) { console.error(e); }
 
     if (navigator.share && navigator.canShare && navigator.canShare(shareData)) {
       navigator.share(shareData).catch(console.error);
@@ -83,22 +142,33 @@ const ClickGame: React.FC<ClickGameProps> = ({ duration = 10, mode = "standard" 
 
   return (
     <div className="w-full flex flex-col items-center relative">
-      {/* Sound Toggle */}
+      {/* Settings Toggle */}
       <button
-        onClick={(e) => { e.stopPropagation(); setIsMuted(!isMuted); }}
+        onClick={(e) => { e.stopPropagation(); setShowSettings(!showSettings); }}
         className="absolute top-0 right-0 p-2 text-neon-green hover:bg-neon-green/10 rounded-full transition-colors z-20"
-        title={isMuted ? "Unmute Sound" : "Mute Sound"}
       >
-        {isMuted ? (
-          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-            <path strokeLinecap="round" strokeLinejoin="round" d="M17.25 9.75 19.5 12m0 0 2.25 2.25M19.5 12l2.25-2.25M19.5 12l-2.25 2.25m-10.5-6 4.72-4.72a.75.75 0 0 1 1.28.53v15.88a.75.75 0 0 1-1.28.53l-4.72-4.72H4.51c-.88 0-1.704-.507-1.938-1.354A9.009 9.009 0 0 1 2.25 12c0-.83.112-1.633.322-2.396C2.806 8.756 3.63 8.25 4.51 8.25H6.75Z" />
-          </svg>
-        ) : (
-          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-            <path strokeLinecap="round" strokeLinejoin="round" d="M19.114 5.636a9 9 0 0 1 0 12.728M16.463 8.288a5.25 5.25 0 0 1 0 7.424M6.75 8.25l4.72-4.72a.75.75 0 0 1 1.28.53v15.88a.75.75 0 0 1-1.28.53l-4.72-4.72H4.51c-.88 0-1.704-.507-1.938-1.354A9.009 9.009 0 0 1 2.25 12c0-.83.112-1.633.322-2.396C2.806 8.756 3.63 8.25 4.51 8.25H6.75Z" />
-          </svg>
-        )}
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
+          <path strokeLinecap="round" strokeLinejoin="round" d="M10.34 15.84c-.688-.06-1.386-.09-2.09-.09H7.5a4.5 4.5 0 1 1 0-9h.75c.704 0 1.402-.03 2.09-.09m0 9.18c.253.962.584 1.892.985 2.783.247.55.06 1.1-.463 1.112h-.92a2.404 2.404 0 0 1-1.902-1.159 11.042 11.042 0 0 0-2.253-2.74M19.5 9.75a3 3 0 0 0-3-3m0 0a3 3 0 0 0-3 3m0 0h6m-6 0a3 3 0 0 0 3 3m3-3a3 3 0 0 0-3-3" />
+        </svg>
       </button>
+
+      {showSettings && (
+          <div className="absolute top-10 right-0 bg-gray-900 border border-neon-green p-4 rounded z-30 shadow-xl w-64">
+              <label className="block text-white text-xs mb-2 uppercase">Volume</label>
+              <input
+                type="range"
+                min="0"
+                max="1"
+                step="0.1"
+                value={volume}
+                onChange={handleVolumeChange}
+                className="w-full accent-neon-green mb-4"
+              />
+              <button onClick={testSound} className="w-full py-1 border border-neon-green text-neon-green text-xs rounded hover:bg-neon-green/20">
+                  TEST SOUND
+              </button>
+          </div>
+      )}
 
       <div className="grid grid-cols-2 w-full max-w-md gap-4 mb-4">
         <div className="bg-gray-800 border border-neon-green/50 p-4 rounded text-center">
@@ -112,7 +182,8 @@ const ClickGame: React.FC<ClickGameProps> = ({ duration = 10, mode = "standard" 
       </div>
 
       <button
-        onClick={handleClick}
+        onMouseDown={handleClick}
+        onTouchStart={handleClick}
         disabled={isFinished}
         className={`w-full h-64 bg-black border-4 rounded-xl flex items-center justify-center text-3xl font-bold transition-all active:scale-95 select-none relative overflow-hidden group ${
           isActive
