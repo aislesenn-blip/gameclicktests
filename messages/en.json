@@ -312,63 +312,63 @@
     "cps": {
       "q1": {
         "question": "How does Mouse double click test work?",
-        "answer": "Practice consistently to improve your score."
+        "answer": "It detects if your mouse registers two clicks within a very short timeframe (e.g. < 50ms), indicating a faulty switch."
       },
       "q2": {
         "question": "How does Spacebar counter 60 seconds work?",
-        "answer": "Practice consistently to improve your score."
+        "answer": "It counts how many times you can press the spacebar within a 60-second timer to test thumb stamina."
       },
       "q3": {
         "question": "How does Polling rate checker 1000hz work?",
-        "answer": "Practice consistently to improve your score."
+        "answer": "It measures the frequency at which your mouse reports data to the PC. 1000Hz means 1 report every millisecond."
       },
       "q4": {
         "question": "How does Input lag test for Valorant work?",
-        "answer": "Practice consistently to improve your score."
+        "answer": "It simulates a visual stimulus and measures the delay between your click and the event, helping you optimize for low latency."
       },
       "q5": {
         "question": "How does How to drag click on Model O work?",
-        "answer": "Practice consistently to improve your score."
+        "answer": "Drag clicking uses finger friction to skip the mouse switch multiple times per stroke. The Model O has adjustable debounce time to allow this."
       },
       "q6": {
         "question": "How does Best mouse for jitter clicking work?",
-        "answer": "Practice consistently to improve your score."
+        "answer": "Jitter clicking requires a mouse with light clicks and a shape that supports a tense grip. Lightweight mice are usually preferred."
       },
       "q7": {
         "question": "How does Chromebook touchpad click test work?",
-        "answer": "Practice consistently to improve your score."
+        "answer": "It checks if your touchpad registers taps and clicks correctly, often used to diagnose school hardware issues."
       },
       "q8": {
         "question": "How does Unblocked CPS test at school work?",
-        "answer": "Practice consistently to improve your score."
+        "answer": "It is a browser-based test that bypasses common school firewalls by avoiding game categories."
       },
       "q9": {
         "question": "How does Mouse double click test work?",
-        "answer": "Practice consistently to improve your score."
+        "answer": "It detects if your mouse registers two clicks within a very short timeframe (e.g. < 50ms), indicating a faulty switch."
       },
       "q10": {
         "question": "How does Spacebar counter 60 seconds work?",
-        "answer": "Practice consistently to improve your score."
+        "answer": "It counts how many times you can press the spacebar within a 60-second timer to test thumb stamina."
       },
       "q11": {
         "question": "How does Polling rate checker 1000hz work?",
-        "answer": "Practice consistently to improve your score."
+        "answer": "It measures the frequency at which your mouse reports data to the PC. 1000Hz means 1 report every millisecond."
       },
       "q12": {
         "question": "How does Input lag test for Valorant work?",
-        "answer": "Practice consistently to improve your score."
+        "answer": "It simulates a visual stimulus and measures the delay between your click and the event, helping you optimize for low latency."
       },
       "q13": {
         "question": "How does How to drag click on Model O work?",
-        "answer": "Practice consistently to improve your score."
+        "answer": "Drag clicking uses finger friction to skip the mouse switch multiple times per stroke. The Model O has adjustable debounce time to allow this."
       },
       "q14": {
         "question": "How does Best mouse for jitter clicking work?",
-        "answer": "Practice consistently to improve your score."
+        "answer": "Jitter clicking requires a mouse with light clicks and a shape that supports a tense grip. Lightweight mice are usually preferred."
       },
       "q15": {
         "question": "How does Chromebook touchpad click test work?",
-        "answer": "Practice consistently to improve your score."
+        "answer": "It checks if your touchpad registers taps and clicks correctly, often used to diagnose school hardware issues."
       }
     },
     "reaction": {
