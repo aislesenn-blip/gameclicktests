@@ -6,6 +6,7 @@ import { WEBSITE_SCHEMA } from '@/seo/schema';
 import AdUnit from '@/components/AdUnit';
 import Link from 'next/link';
 import MobileNav from '@/components/MobileNav';
+import LanguageSwitcher from '@/components/LanguageSwitcher';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
@@ -92,17 +93,7 @@ export default async function LocaleLayout({
               </nav>
 
               <div className="flex items-center gap-4">
-                <div className="hidden md:flex gap-2 text-xs font-bold">
-                  {['en', 'pt', 'id', 'es', 'ru'].map(l => (
-                    <Link
-                      key={l}
-                      href={`/${l}`}
-                      className={`px-2 py-1 rounded ${locale === l ? 'bg-neon-green text-black' : 'text-gray-500 hover:text-white'}`}
-                    >
-                      {l.toUpperCase()}
-                    </Link>
-                  ))}
-                </div>
+                <LanguageSwitcher />
                 {/* Mobile Nav Toggle */}
                 <MobileNav locale={locale} />
               </div>

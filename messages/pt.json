@@ -138,6 +138,18 @@
       "q7": {
         "question": "Can CPS damage my mouse?",
         "answer": "Extreme clicking techniques like Drag Clicking can wear out switches faster, but normal clicking is safe."
+      },
+      "q8": {
+        "question": "O que é Drag Clicking?",
+        "answer": "Drag clicking usa o atrito do dedo para gerar muitos cliques."
+      },
+      "q9": {
+        "question": "Auto clicker é permitido?",
+        "answer": "Não, auto clickers são banidos na maioria dos jogos."
+      },
+      "q10": {
+        "question": "Como relaxar a mão?",
+        "answer": "Alongue seus dedos e pulsos a cada 15 minutos."
       }
     },
     "reaction": {
@@ -160,6 +172,26 @@
       "q5": {
         "question": "Does monitor Hz affect reaction?",
         "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+      },
+      "q6": {
+        "question": "O que é reação visual?",
+        "answer": "É o tempo de resposta a um estímulo visual."
+      },
+      "q7": {
+        "question": "O que é reação auditiva?",
+        "answer": "Tempo de resposta ao som, geralmente mais rápido."
+      },
+      "q8": {
+        "question": "Cafeína ajuda na reação?",
+        "answer": "Sim, em quantidades moderadas pode aumentar o alerta."
+      },
+      "q9": {
+        "question": "Pro gamers usam equipamentos especiais?",
+        "answer": "Sim, monitores de alta frequência e mouses rápidos."
+      },
+      "q10": {
+        "question": "Como testar precisão?",
+        "answer": "Use nossas ferramentas de teste de precisão."
       }
     },
     "typing": {
@@ -178,6 +210,30 @@
       "q4": {
         "question": "Is touch typing better?",
         "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+      },
+      "q5": {
+        "question": "O que é teclado mecânico?",
+        "answer": "Um teclado com switches físicos para cada tecla."
+      },
+      "q6": {
+        "question": "O teclado afeta a velocidade?",
+        "answer": "Sim, o feedback tátil ajuda a manter o ritmo."
+      },
+      "q7": {
+        "question": "Como aprender digitação cega?",
+        "answer": "Comece com exercícios básicos e pratique diariamente."
+      },
+      "q8": {
+        "question": "Qual é a média de WPM?",
+        "answer": "Cerca de 40 WPM para usuários casuais."
+      },
+      "q9": {
+        "question": "O que é 100% de precisão?",
+        "answer": "Digitar sem erros ou correções."
+      },
+      "q10": {
+        "question": "Como reduzir fadiga?",
+        "answer": "Use apoio de pulso e mantenha boa postura."
       }
     },
     "keyboard": {
@@ -196,6 +252,30 @@
       "q4": {
         "question": "How to test mechanical switches?",
         "answer": "Press keys gently to check actuation point vs bottoming out."
+      },
+      "q5": {
+        "question": "O que é N-Key Rollover?",
+        "answer": "Capacidade de registrar todas as teclas simultaneamente."
+      },
+      "q6": {
+        "question": "O que são switches Cherry?",
+        "answer": "Switches mecânicos populares com sensações diferentes."
+      },
+      "q7": {
+        "question": "Como limpar o teclado?",
+        "answer": "Use ar comprimido e remova as teclas."
+      },
+      "q8": {
+        "question": "Por que minha tecla trava?",
+        "answer": "Pode ser sujeira ou o switch quebrado."
+      },
+      "q9": {
+        "question": "O que é teclado de membrana?",
+        "answer": "Teclado que usa membranas de pressão, mais barato."
+      },
+      "q10": {
+        "question": "Posso trocar teclas de laptop?",
+        "answer": "Sim, mas é um trabalho delicado."
       }
     }
   },
@@ -256,8 +336,8 @@
     "tagline": "A plataforma de teste de reflexo e velocidade mais rápida do mundo."
   },
   "seo_content": {
-    "h2_improve": "How to improve your clicking speed",
-    "p_improve": "Improving your clicking speed requires practice, technique, and the right hardware. Start by relaxing your hand muscles to reduce tension. Use a gaming mouse with low-latency switches. Practice daily for 10-15 minutes to build muscle memory.",
+    "h2_improve": "Como melhorar sua velocidade de clique",
+    "p_improve": "Melhorar sua velocidade requer prática e o hardware certo. Comece relaxando os músculos.",
     "h2_styles": "Butterfly clicking vs jitter clicking",
     "p_styles": "Jitter clicking involves vibrating your arm muscles to click fast, often reaching 10-14 CPS. Butterfly clicking uses two fingers on one button, alternating strikes to achieve 15-20+ CPS. Butterfly is generally safer for your tendons but requires a mouse that supports double-clicking.",
     "h2_record": "What is the world record for CPS",

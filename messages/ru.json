@@ -138,6 +138,18 @@
       "q7": {
         "question": "Can CPS damage my mouse?",
         "answer": "Extreme clicking techniques like Drag Clicking can wear out switches faster, but normal clicking is safe."
+      },
+      "q8": {
+        "question": "Что такое Драг Клик?",
+        "answer": "Трение пальца для создания кликов."
+      },
+      "q9": {
+        "question": "Автокликер разрешен?",
+        "answer": "Нет, они запрещены почти везде."
+      },
+      "q10": {
+        "question": "Как расслабить руку?",
+        "answer": "Разминайте пальцы каждые 15 минут."
       }
     },
     "reaction": {
@@ -160,6 +172,26 @@
       "q5": {
         "question": "Does monitor Hz affect reaction?",
         "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+      },
+      "q6": {
+        "question": "Зрительная реакция?",
+        "answer": "Время отклика на визуальный сигнал."
+      },
+      "q7": {
+        "question": "Слуховая реакция?",
+        "answer": "Отклик на звук, обычно быстрее."
+      },
+      "q8": {
+        "question": "Кофеин помогает?",
+        "answer": "Да, умеренно повышает внимание."
+      },
+      "q9": {
+        "question": "Профи используют девайсы?",
+        "answer": "Да, быстрые мониторы и мыши."
+      },
+      "q10": {
+        "question": "Как проверить точность?",
+        "answer": "Используйте наши тесты точности."
       }
     },
     "typing": {
@@ -178,6 +210,30 @@
       "q4": {
         "question": "Is touch typing better?",
         "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+      },
+      "q5": {
+        "question": "Механическая клавиатура?",
+        "answer": "Клавиатура с физическими свитчами."
+      },
+      "q6": {
+        "question": "Влияет ли клавиатура?",
+        "answer": "Да, тактильность помогает ритму."
+      },
+      "q7": {
+        "question": "Как научиться печатать?",
+        "answer": "Начните с упражнений и практикуйтесь."
+      },
+      "q8": {
+        "question": "Средний WPM?",
+        "answer": "Около 40 WPM для обычных пользователей."
+      },
+      "q9": {
+        "question": "100% точность?",
+        "answer": "Печать без ошибок."
+      },
+      "q10": {
+        "question": "Усталость рук?",
+        "answer": "Используйте подставку и следите за осанкой."
       }
     },
     "keyboard": {
@@ -196,6 +252,30 @@
       "q4": {
         "question": "How to test mechanical switches?",
         "answer": "Press keys gently to check actuation point vs bottoming out."
+      },
+      "q5": {
+        "question": "Что такое N-Key Rollover?",
+        "answer": "Регистрация всех нажатий одновременно."
+      },
+      "q6": {
+        "question": "Что такое Cherry MX?",
+        "answer": "Популярные механические свитчи."
+      },
+      "q7": {
+        "question": "Как чистить клавиатуру?",
+        "answer": "Сжатым воздухом и снимая клавиши."
+      },
+      "q8": {
+        "question": "Залипает клавиша?",
+        "answer": "Возможно грязь или поломка."
+      },
+      "q9": {
+        "question": "Мембранная клавиатура?",
+        "answer": "Использует резинки, дешевле."
+      },
+      "q10": {
+        "question": "Менять кнопки ноутбука?",
+        "answer": "Можно, но очень аккуратно."
       }
     }
   },

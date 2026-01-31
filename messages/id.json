@@ -138,6 +138,18 @@
       "q7": {
         "question": "Can CPS damage my mouse?",
         "answer": "Extreme clicking techniques like Drag Clicking can wear out switches faster, but normal clicking is safe."
+      },
+      "q8": {
+        "question": "Apa itu Drag Clicking?",
+        "answer": "Teknik gesekan jari untuk banyak klik."
+      },
+      "q9": {
+        "question": "Auto clicker boleh?",
+        "answer": "Tidak, dilarang di hampir semua game."
+      },
+      "q10": {
+        "question": "Cara merilekskan tangan?",
+        "answer": "Regangkan jari dan pergelangan tiap 15 menit."
       }
     },
     "reaction": {
@@ -160,6 +172,26 @@
       "q5": {
         "question": "Does monitor Hz affect reaction?",
         "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+      },
+      "q6": {
+        "question": "Apa itu reaksi visual?",
+        "answer": "Waktu respon terhadap rangsang visual."
+      },
+      "q7": {
+        "question": "Apa itu reaksi auditori?",
+        "answer": "Respon terhadap suara, biasanya lebih cepat."
+      },
+      "q8": {
+        "question": "Kafein membantu?",
+        "answer": "Ya, dalam jumlah wajar meningkatkan kewaspadaan."
+      },
+      "q9": {
+        "question": "Gamer pro pakai alat khusus?",
+        "answer": "Ya, monitor refresh rate tinggi."
+      },
+      "q10": {
+        "question": "Cara tes akurasi?",
+        "answer": "Gunakan alat tes presisi kami."
       }
     },
     "typing": {
@@ -178,6 +210,30 @@
       "q4": {
         "question": "Is touch typing better?",
         "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+      },
+      "q5": {
+        "question": "Apa itu keyboard mekanik?",
+        "answer": "Keyboard dengan switch fisik tiap tombol."
+      },
+      "q6": {
+        "question": "Keyboard pengaruh kecepatan?",
+        "answer": "Ya, umpan balik taktil membantu ritme."
+      },
+      "q7": {
+        "question": "Belajar mengetik cepat?",
+        "answer": "Mulai latihan dasar setiap hari."
+      },
+      "q8": {
+        "question": "Rata-rata WPM?",
+        "answer": "Sekitar 40 WPM untuk umum."
+      },
+      "q9": {
+        "question": "Apa itu akurasi 100%?",
+        "answer": "Mengetik tanpa error."
+      },
+      "q10": {
+        "question": "Kurangi lelah mengetik?",
+        "answer": "Pakai sandaran tangan dan postur baik."
       }
     },
     "keyboard": {
@@ -196,6 +252,30 @@
       "q4": {
         "question": "How to test mechanical switches?",
         "answer": "Press keys gently to check actuation point vs bottoming out."
+      },
+      "q5": {
+        "question": "Apa itu N-Key Rollover?",
+        "answer": "Mampu register semua tombol bersamaan."
+      },
+      "q6": {
+        "question": "Apa itu switch Cherry?",
+        "answer": "Switch mekanik populer."
+      },
+      "q7": {
+        "question": "Cara bersihkan keyboard?",
+        "answer": "Gunakan udara kompresi."
+      },
+      "q8": {
+        "question": "Kenapa tombol macet?",
+        "answer": "Mungkin kotor atau rusak."
+      },
+      "q9": {
+        "question": "Apa itu keyboard membran?",
+        "answer": "Pakai bantalan tekanan, lebih murah."
+      },
+      "q10": {
+        "question": "Ganti tombol laptop?",
+        "answer": "Bisa, tapi harus hati-hati."
       }
     }
   },

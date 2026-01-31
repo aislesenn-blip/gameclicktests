@@ -183,6 +183,18 @@
       "q7": {
         "question": "Can CPS damage my mouse?",
         "answer": "Extreme clicking techniques like Drag Clicking can wear out switches faster, but normal clicking is safe."
+      },
+      "q8": {
+        "question": "What is Drag Clicking?",
+        "answer": "Drag clicking uses finger friction to generate high CPS."
+      },
+      "q9": {
+        "question": "Is auto clicker allowed?",
+        "answer": "No, auto clickers are banned in almost all games."
+      },
+      "q10": {
+        "question": "How to relax hand muscles?",
+        "answer": "Stretch your fingers and wrist every 15 minutes."
       }
     },
     "reaction": {
@@ -205,6 +217,26 @@
       "q5": {
         "question": "Does monitor Hz affect reaction?",
         "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+      },
+      "q6": {
+        "question": "What is visual reaction time?",
+        "answer": "Response time to a visual stimulus."
+      },
+      "q7": {
+        "question": "What is auditory reaction time?",
+        "answer": "Response time to sound, usually faster than visual."
+      },
+      "q8": {
+        "question": "Can caffeine improve reaction?",
+        "answer": "Yes, in moderate amounts it can increase alertness."
+      },
+      "q9": {
+        "question": "Do pro gamers use special gear?",
+        "answer": "Yes, high refresh rate monitors and low latency mice."
+      },
+      "q10": {
+        "question": "How to test accuracy?",
+        "answer": "Use our precision test tools."
       }
     },
     "typing": {
@@ -223,6 +255,30 @@
       "q4": {
         "question": "Is touch typing better?",
         "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+      },
+      "q5": {
+        "question": "What is a mechanical keyboard?",
+        "answer": "A keyboard with physical switches for each key."
+      },
+      "q6": {
+        "question": "Does keyboard affect typing speed?",
+        "answer": "Yes, tactile feedback helps maintain rhythm."
+      },
+      "q7": {
+        "question": "How to learn touch typing?",
+        "answer": "Start with home row exercises and practice daily."
+      },
+      "q8": {
+        "question": "What is the average WPM?",
+        "answer": "Around 40 WPM for casual users."
+      },
+      "q9": {
+        "question": "What is 100% accuracy?",
+        "answer": "Typing without any errors or backspaces."
+      },
+      "q10": {
+        "question": "How to reduce typing fatigue?",
+        "answer": "Use a wrist rest and keep good posture."
       }
     },
     "keyboard": {
@@ -241,6 +297,30 @@
       "q4": {
         "question": "How to test mechanical switches?",
         "answer": "Press keys gently to check actuation point vs bottoming out."
+      },
+      "q5": {
+        "question": "What is N-Key Rollover?",
+        "answer": "Ability to register all keys pressed simultaneously."
+      },
+      "q6": {
+        "question": "What are Cherry MX switches?",
+        "answer": "Popular mechanical switches with different feels."
+      },
+      "q7": {
+        "question": "How to clean a keyboard?",
+        "answer": "Use compressed air and remove keycaps."
+      },
+      "q8": {
+        "question": "Why is my key sticking?",
+        "answer": "It might be dirty or the switch is broken."
+      },
+      "q9": {
+        "question": "What is a membrane keyboard?",
+        "answer": "A keyboard using pressure pads, usually cheaper."
+      },
+      "q10": {
+        "question": "Can I replace laptop keys?",
+        "answer": "Yes, but it is delicate work."
       }
     }
   },
