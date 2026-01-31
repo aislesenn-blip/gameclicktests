@@ -67,6 +67,39 @@ export default async function LocaleLayout({
 
   const dir = locale === 'ar' ? 'rtl' : 'ltr';
 
+  // Extract menu items for client component to prevent raw keys if hook hydration is slow
+  const menuLabels = {
+    time_modes: tm.time_modes,
+    click_modes: tm.click_modes,
+    game_challenges: tm.game_challenges,
+    hardware_tests: tm.hardware_tests,
+    community: tm.community,
+    cps_1s: tm.cps_1s,
+    cps_5s: tm.cps_5s,
+    cps_10s: tm.cps_10s,
+    cps_60s: tm.cps_60s,
+    stress: tm.stress,
+    jitter: tm.jitter,
+    butterfly: tm.butterfly,
+    drag: tm.drag,
+    spacebar: tm.spacebar,
+    combo: tm.combo,
+    minecraft: tm.minecraft,
+    pubg: tm.pubg,
+    roblox: tm.roblox,
+    valorant: tm.valorant,
+    fortnite: tm.fortnite,
+    reaction: tm.reaction,
+    typing: tm.typing,
+    keyboard: tm.keyboard,
+    mouse: tm.mouse,
+    dead_pixel: tm.dead_pixel,
+    scroll: tm.scroll,
+    aim: tm.aim,
+    live: tm.live,
+    leaderboard: tm.leaderboard
+  };
+
   return (
     <html lang={locale} dir={dir} className="dark">
       <head>
@@ -97,7 +130,7 @@ export default async function LocaleLayout({
               <div className="flex items-center gap-4">
                 <LanguageSwitcher />
                 {/* Mobile Nav Toggle */}
-                <MobileNav locale={locale} />
+                <MobileNav locale={locale} labels={menuLabels} />
               </div>
             </div>
           </header>

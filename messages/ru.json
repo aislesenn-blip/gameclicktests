@@ -1,6 +1,6 @@
 {
   "seo": {
-    "title": "КПС Тест - Проверка скорости клика (Рекорд?)",
+    "title": "КПС Тест - Проверка скорости клика",
     "description": "Как быстро вы можете кликать мышкой? Пройдите 10-секундный КПС Тест. Соревнуйтесь с друзьями и бейте мировые рекорды."
   },
   "ui": {
@@ -8,9 +8,9 @@
     "description": "Измерьте свои Клики в Секунду (КПС) с нашим сверхбыстрым инструментом проверки рефлексов. Создано для геймеров, спидраннеров и профессиональных игроков по всему миру.",
     "start_btn": "Начать КПС Тест",
     "modes": "Режимы",
-    "rank_noob": "[RU] 🐢 Rank: Snail (Too Slow!)",
-    "rank_pro": "[RU] ⚡ Rank: Pro Gamer",
-    "rank_god": "[RU] 👑 Rank: GODLIKE",
+    "rank_noob": "🐢 Rank: Snail",
+    "rank_pro": "⚡ Rank: Pro Gamer",
+    "rank_god": "👑 Rank: GODLIKE",
     "share_txt": "Мой результат {score} CPS на Palmtweets. Попробуй побить!",
     "score": "СЧЕТ",
     "timer": "ВРЕМЯ",
@@ -44,7 +44,17 @@
     "drag": "Драг Клик",
     "reaction": "Время Реакции",
     "typing": "Скорость Печати",
-    "keyboard": "Тест Клавиатуры"
+    "keyboard": "Тест Клавиатуры",
+    "minecraft": "Minecraft CPS",
+    "pubg": "PUBG Aim Test",
+    "roblox": "Roblox Clicker",
+    "valorant": "Valorant Reflex",
+    "fortnite": "Fortnite Speed",
+    "hardware_tests": "Hardware Tests",
+    "game_challenges": "Game Challenges",
+    "click_modes": "Click Modes",
+    "time_modes": "Time Modes",
+    "community": "Community"
   },
   "footer": {
     "tagline": "Самая быстрая в мире платформа для проверки рефлексов и скорости."
@@ -75,7 +85,7 @@
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed (World Record?)",
+      "title": "CPS Test - Check Your Click Speed",
       "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
     },
     "h1": "CPS TEST BLITZ"
@@ -131,7 +141,7 @@
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark (ms)",
+      "title": "Reaction Time Test - Human Benchmark",
       "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
     },
     "h1": "REACTION TIME TEST",
@@ -142,7 +152,7 @@
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM (1 Minute)",
+      "title": "Typing Speed Test - Check Your WPM",
       "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
     },
     "h1": "WPM TYPING TEST"
@@ -351,5 +361,11 @@
     "rank_pro_desc": "Средняя скорость геймера.",
     "rank_god": "Бог (10+ КПС):",
     "rank_god_desc": "Ты владеешь продвинутыми техниками."
+  },
+  "dead_pixel": {
+    "h1": "Dead Pixel Checker",
+    "seo": {
+      "description": "Check screen for dead pixels."
+    }
   }
 }

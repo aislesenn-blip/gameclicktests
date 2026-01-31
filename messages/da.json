@@ -1,355 +1,369 @@
 {
   "seo": {
-    "title": "[DA] CPS Test - Check Your Click Speed (World Record?)",
-    "description": "[DA] How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPS Test - Check Your Click Speed",
+    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
   },
   "ui": {
-    "h1": "[DA] Test Your Click Speed Instantly",
-    "description": "[DA] Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "[DA] Start CPS Test",
-    "modes": "[DA] Testing Modes",
-    "rank_noob": "[DA] 🐢 Rank: Snail (Too Slow!)",
-    "rank_pro": "[DA] ⚡ Rank: Pro Gamer",
-    "rank_god": "[DA] 👑 Rank: GODLIKE",
-    "share_txt": "[DA] I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "[DA] SCORE",
-    "timer": "[DA] TIMER",
-    "active": "[DA] CLICK FAST!",
-    "try_again": "[DA] TRY AGAIN",
-    "share": "[DA] SHARE",
-    "start": "[DA] START CLICKING",
-    "result_msg": "[DA] Your speed is above average. Can you beat your personal best?",
-    "slow": "[DA] 🐢 Snail",
-    "fast": "[DA] ⚡ Pro",
-    "superhuman": "[DA] 👑 GODLIKE"
+    "h1": "Test Your Click Speed Instantly",
+    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
+    "start_btn": "Start CPS Test",
+    "modes": "Testing Modes",
+    "rank_noob": "🐢 Rank: Snail",
+    "rank_pro": "⚡ Rank: Pro Gamer",
+    "rank_god": "👑 Rank: GODLIKE",
+    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
+    "score": "SCORE",
+    "timer": "TIMER",
+    "active": "CLICK FAST!",
+    "try_again": "TRY AGAIN",
+    "share": "SHARE",
+    "start": "START CLICKING",
+    "result_msg": "Your speed is above average. Can you beat your personal best?",
+    "slow": "🐢 Snail",
+    "fast": "⚡ Pro",
+    "superhuman": "👑 GODLIKE"
   },
   "nav": {
-    "home": "[DA] Home",
-    "cps": "[DA] CPS Test",
-    "reaction": "[DA] Reaction",
-    "typing": "[DA] Typing",
-    "keyboard": "[DA] Keyboard",
-    "privacy": "[DA] Privacy"
+    "home": "Home",
+    "cps": "CPS Test",
+    "reaction": "Reaction",
+    "typing": "Typing",
+    "keyboard": "Keyboard",
+    "privacy": "Privacy"
   },
   "mobile_nav": {
-    "cps_cluster": "[DA] CPS Tests",
-    "typing_cluster": "[DA] Typing Tests",
-    "reaction_cluster": "[DA] Reaction Tests",
-    "keyboard_cluster": "[DA] Keyboard Tools",
-    "cps_1s": "[DA] 1 Second",
-    "cps_5s": "[DA] 5 Seconds",
-    "cps_60s": "[DA] 60 Seconds",
-    "jitter": "[DA] Jitter Click",
-    "butterfly": "[DA] Butterfly Click",
-    "drag": "[DA] Drag Click",
-    "reaction": "[DA] Reaction Time",
-    "typing": "[DA] Typing Speed",
-    "keyboard": "[DA] Keyboard Test"
+    "cps_cluster": "CPS Tests",
+    "typing_cluster": "Typing Tests",
+    "reaction_cluster": "Reaction Tests",
+    "keyboard_cluster": "Keyboard Tools",
+    "cps_1s": "1 Second",
+    "cps_5s": "5 Seconds",
+    "cps_60s": "60 Seconds",
+    "jitter": "Jitter Click",
+    "butterfly": "Butterfly Click",
+    "drag": "Drag Click",
+    "reaction": "Reaction Time",
+    "typing": "Typing Speed",
+    "keyboard": "Keyboard Test",
+    "minecraft": "Minecraft CPS",
+    "pubg": "PUBG Aim Test",
+    "roblox": "Roblox Clicker",
+    "valorant": "Valorant Reflex",
+    "fortnite": "Fortnite Speed",
+    "hardware_tests": "Hardware",
+    "game_challenges": "Spil",
+    "click_modes": "Klikindstillinger",
+    "time_modes": "Tidsindstillinger",
+    "community": "Fællesskab"
   },
   "footer": {
-    "tagline": "[DA] The world’s fastest reflex & speed testing platform."
+    "tagline": "The world’s fastest reflex & speed testing platform."
   },
   "privacy": {
-    "title": "[DA] Privacy Policy",
-    "intro": "[DA] At Palmtweets, we value your privacy. This policy explains how we handle your data.",
-    "cookies_title": "[DA] Cookies",
-    "cookies_text": "[DA] We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "[DA] Data Collection",
-    "data_text": "[DA] We do not collect personal identifiable information. Game scores are stored locally.",
-    "contact_title": "[DA] Contact",
-    "contact_text": "[DA] For questions, contact support@palmtweets.com."
+    "title": "Privacy Policy",
+    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "cookies_title": "Cookies",
+    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
+    "data_title": "Data Collection",
+    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
+    "contact_title": "Contact",
+    "contact_text": "For questions, contact support@palmtweets.com."
   },
   "seo_content": {
-    "h2_improve": "[DA] How to improve your clicking speed",
-    "p_improve": "[DA] Improving your clicking speed requires practice, technique, and the right hardware. Start by relaxing your hand muscles to reduce tension. Use a gaming mouse with low-latency switches. Practice daily for 10-15 minutes to build muscle memory.",
-    "h2_styles": "[DA] Butterfly clicking vs jitter clicking",
-    "p_styles": "[DA] Jitter clicking involves vibrating your arm muscles to click fast, often reaching 10-14 CPS. Butterfly clicking uses two fingers on one button, alternating strikes to achieve 15-20+ CPS. Butterfly is generally safer for your tendons but requires a mouse that supports double-clicking.",
-    "h2_record": "[DA] What is the world record for CPS",
-    "p_record": "[DA] The world record for CPS varies by time duration. For 1 second, some players hit 30+ CPS using Drag Clicking. For the standard 10-second test, records hover around 22-24 CPS using advanced techniques.",
-    "h2_useful": "[DA] Is CPS testing useful for gamers?",
-    "p_useful": "[DA] Yes. High CPS is critical in games like Minecraft (PvP bridging), OSU!, and First Person Shooters where semi-automatic weapons are used. Tracking your CPS helps measure your physical improvement and readiness for competitive play.",
-    "h2_hardware": "[DA] Does Mouse Hardware Matter?",
-    "p_hardware": "[DA] Absolutely. Gaming mice with mechanical or optical switches (like Logitech, Razer, Glorious) have lower debounce times, allowing them to register clicks faster than standard office mice.",
-    "h2_games": "[DA] CPS in Competitive Gaming",
-    "p_games": "[DA] In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended."
+    "h2_improve": "Tips to Improve Clicking (DA)",
+    "p_improve": "Practice daily and use a good mouse.",
+    "h2_styles": "Clicking Styles",
+    "p_styles": "Learn Jitter and Butterfly clicking.",
+    "h2_record": "World Records",
+    "p_record": "Aim for 10+ CPS.",
+    "h2_useful": "Gaming Utility",
+    "p_useful": "Crucial for PvP games.",
+    "h2_hardware": "Hardware",
+    "p_hardware": "Use a gaming mouse."
   },
   "cps_default": {
     "seo": {
-      "title": "[DA] CPS Test - Check Your Click Speed (World Record?)",
-      "description": "[DA] How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "CPS Test - Check Your Click Speed",
+      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
     },
-    "h1": "[DA] Test Your Click Speed Instantly"
+    "h1": "Test Your Click Speed Instantly"
   },
   "cps_1s": {
     "seo": {
-      "title": "[DA] 1 Second CPS Test - Instant Click Speed Check",
-      "description": "[DA] Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "1 Second CPS Test - Instant Click Speed Check",
+      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
     },
-    "h1": "[DA] 1 SECOND CPS TEST"
+    "h1": "1 SECOND CPS TEST"
   },
   "cps_5s": {
     "seo": {
-      "title": "[DA] 5 Second CPS Test - Short Sprint Speed Test",
-      "description": "[DA] The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "5 Second CPS Test - Short Sprint Speed Test",
+      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
     },
-    "h1": "[DA] 5 SECOND CPS TEST"
+    "h1": "5 SECOND CPS TEST"
   },
   "cps_60s": {
     "seo": {
-      "title": "[DA] 60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "[DA] The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "60 Second CPS Test - Endurance Clicking Challenge",
+      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
     },
-    "h1": "[DA] 60 SECOND MARATHON"
+    "h1": "60 SECOND MARATHON"
   },
   "jitter": {
     "seo": {
-      "title": "[DA] Jitter Click Test - Master the Vibration Technique",
-      "description": "[DA] Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "Jitter Click Test - Master the Vibration Technique",
+      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
     },
-    "h1": "[DA] JITTER CLICK TRAINING"
+    "h1": "JITTER CLICK TRAINING"
   },
   "butterfly": {
     "seo": {
-      "title": "[DA] Butterfly Click Test - Double Click Speed",
-      "description": "[DA] Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "Butterfly Click Test - Double Click Speed",
+      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
     },
-    "h1": "[DA] BUTTERFLY CLICK TEST"
+    "h1": "BUTTERFLY CLICK TEST"
   },
   "drag": {
     "seo": {
-      "title": "[DA] Drag Click Test - Mouse Friction Speed",
-      "description": "[DA] Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "Drag Click Test - Mouse Friction Speed",
+      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
     },
-    "h1": "[DA] DRAG CLICK TEST"
+    "h1": "DRAG CLICK TEST"
   },
   "minecraft": {
     "seo": {
-      "title": "[DA] Minecraft CPS Test - PvP Practice",
-      "description": "[DA] Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "Minecraft CPS Test - PvP Practice",
+      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
     },
-    "h1": "[DA] MINECRAFT PVP CLICK TEST"
+    "h1": "MINECRAFT PVP CLICK TEST"
   },
   "reaction": {
     "seo": {
-      "title": "[DA] Reaction Time Test - Human Benchmark (ms)",
-      "description": "[DA] Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Reaction Time Test - Human Benchmark",
+      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
     },
-    "h1": "[DA] REACTION TIME TEST",
-    "wait": "[DA] Wait for Green...",
-    "click": "[DA] CLICK NOW!",
-    "too_soon": "[DA] Too Soon! Don't anticipate.",
-    "result": "[DA] {time} ms"
+    "h1": "REACTION TIME TEST",
+    "wait": "Wait for Green...",
+    "click": "CLICK NOW!",
+    "too_soon": "Too Soon! Don't anticipate.",
+    "result": "{time} ms"
   },
   "typing": {
     "seo": {
-      "title": "[DA] Typing Speed Test - Check Your WPM (1 Minute)",
-      "description": "[DA] Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Typing Speed Test - Check Your WPM",
+      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
     },
-    "h1": "[DA] WPM TYPING TEST"
+    "h1": "WPM TYPING TEST"
   },
   "keyboard": {
     "seo": {
-      "title": "[DA] Keyboard Tester - Check All Keys Online",
-      "description": "[DA] Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Keyboard Tester - Check All Keys Online",
+      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
     },
-    "h1": "[DA] KEYBOARD SWITCH TESTER"
+    "h1": "KEYBOARD SWITCH TESTER"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "[DA] What is CPS?",
-        "answer": "[DA] Clicks Per Second (CPS) measures how fast you can click a mouse button."
+        "question": "What is CPS?",
+        "answer": "Clicks Per Second (CPS) measures how fast you can click a mouse button."
       },
       "q2": {
-        "question": "[DA] How to get higher CPS?",
-        "answer": "[DA] Use techniques like Jitter Clicking or Butterfly Clicking and a gaming mouse."
+        "question": "How to get higher CPS?",
+        "answer": "Use techniques like Jitter Clicking or Butterfly Clicking and a gaming mouse."
       },
       "q3": {
-        "question": "[DA] Is this test accurate?",
-        "answer": "[DA] Yes, our tool uses precise timestamp measurements for accuracy."
+        "question": "Is this test accurate?",
+        "answer": "Yes, our tool uses precise timestamp measurements for accuracy."
       },
       "q4": {
-        "question": "[DA] What is a good CPS for Minecraft?",
-        "answer": "[DA] For Minecraft PvP, 6-7 CPS is normal, but competitive players aim for 12-15+ CPS for combo-locking."
+        "question": "What is a good CPS for Minecraft?",
+        "answer": "For Minecraft PvP, 6-7 CPS is normal, but competitive players aim for 12-15+ CPS for combo-locking."
       },
       "q5": {
-        "question": "[DA] What is the world record CPS?",
-        "answer": "[DA] The world record for 1 second is over 30 CPS (drag click). For 10 seconds, it is around 22-24 CPS."
+        "question": "What is the world record CPS?",
+        "answer": "The world record for 1 second is over 30 CPS (drag click). For 10 seconds, it is around 22-24 CPS."
       },
       "q6": {
-        "question": "[DA] Is Jitter Clicking allowed?",
-        "answer": "[DA] Yes, but be careful of hand strain. Some servers may ban macro-like speeds."
+        "question": "Is Jitter Clicking allowed?",
+        "answer": "Yes, but be careful of hand strain. Some servers may ban macro-like speeds."
       },
       "q7": {
-        "question": "[DA] Can CPS damage my mouse?",
-        "answer": "[DA] Extreme clicking techniques like Drag Clicking can wear out switches faster, but normal clicking is safe."
+        "question": "Can CPS damage my mouse?",
+        "answer": "Extreme clicking techniques like Drag Clicking can wear out switches faster, but normal clicking is safe."
       },
       "q8": {
-        "question": "[DA] What is Drag Clicking?",
-        "answer": "[DA] Drag clicking uses finger friction to generate high CPS."
+        "question": "What is Drag Clicking?",
+        "answer": "Drag clicking uses finger friction to generate high CPS."
       },
       "q9": {
-        "question": "[DA] Is auto clicker allowed?",
-        "answer": "[DA] No, auto clickers are banned in almost all games."
+        "question": "Is auto clicker allowed?",
+        "answer": "No, auto clickers are banned in almost all games."
       },
       "q10": {
-        "question": "[DA] How to relax hand muscles?",
-        "answer": "[DA] Stretch your fingers and wrist every 15 minutes."
+        "question": "How to relax hand muscles?",
+        "answer": "Stretch your fingers and wrist every 15 minutes."
       }
     },
     "reaction": {
       "q1": {
-        "question": "[DA] What is reaction time?",
-        "answer": "[DA] The time it takes for your brain to process a visual signal and respond."
+        "question": "What is reaction time?",
+        "answer": "The time it takes for your brain to process a visual signal and respond."
       },
       "q2": {
-        "question": "[DA] What is a good reaction time?",
-        "answer": "[DA] Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "What is a good reaction time?",
+        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
       },
       "q3": {
-        "question": "[DA] How to improve reflexes?",
-        "answer": "[DA] Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "How to improve reflexes?",
+        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
       },
       "q4": {
-        "question": "[DA] Does age affect reaction time?",
-        "answer": "[DA] Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Does age affect reaction time?",
+        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
       },
       "q5": {
-        "question": "[DA] Does monitor Hz affect reaction?",
-        "answer": "[DA] Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Does monitor Hz affect reaction?",
+        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
       },
       "q6": {
-        "question": "[DA] What is visual reaction time?",
-        "answer": "[DA] Response time to a visual stimulus."
+        "question": "What is visual reaction time?",
+        "answer": "Response time to a visual stimulus."
       },
       "q7": {
-        "question": "[DA] What is auditory reaction time?",
-        "answer": "[DA] Response time to sound, usually faster than visual."
+        "question": "What is auditory reaction time?",
+        "answer": "Response time to sound, usually faster than visual."
       },
       "q8": {
-        "question": "[DA] Can caffeine improve reaction?",
-        "answer": "[DA] Yes, in moderate amounts it can increase alertness."
+        "question": "Can caffeine improve reaction?",
+        "answer": "Yes, in moderate amounts it can increase alertness."
       },
       "q9": {
-        "question": "[DA] Do pro gamers use special gear?",
-        "answer": "[DA] Yes, high refresh rate monitors and low latency mice."
+        "question": "Do pro gamers use special gear?",
+        "answer": "Yes, high refresh rate monitors and low latency mice."
       },
       "q10": {
-        "question": "[DA] How to test accuracy?",
-        "answer": "[DA] Use our precision test tools."
+        "question": "How to test accuracy?",
+        "answer": "Use our precision test tools."
       }
     },
     "typing": {
       "q1": {
-        "question": "[DA] What is WPM?",
-        "answer": "[DA] Words Per Minute measures typing speed."
+        "question": "What is WPM?",
+        "answer": "Words Per Minute measures typing speed."
       },
       "q2": {
-        "question": "[DA] How to type faster?",
-        "answer": "[DA] Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "How to type faster?",
+        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
       },
       "q3": {
-        "question": "[DA] What is a good WPM?",
-        "answer": "[DA] Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "What is a good WPM?",
+        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
       },
       "q4": {
-        "question": "[DA] Is touch typing better?",
-        "answer": "[DA] Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Is touch typing better?",
+        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
       },
       "q5": {
-        "question": "[DA] What is a mechanical keyboard?",
-        "answer": "[DA] A keyboard with physical switches for each key."
+        "question": "What is a mechanical keyboard?",
+        "answer": "A keyboard with physical switches for each key."
       },
       "q6": {
-        "question": "[DA] Does keyboard affect typing speed?",
-        "answer": "[DA] Yes, tactile feedback helps maintain rhythm."
+        "question": "Does keyboard affect typing speed?",
+        "answer": "Yes, tactile feedback helps maintain rhythm."
       },
       "q7": {
-        "question": "[DA] How to learn touch typing?",
-        "answer": "[DA] Start with home row exercises and practice daily."
+        "question": "How to learn touch typing?",
+        "answer": "Start with home row exercises and practice daily."
       },
       "q8": {
-        "question": "[DA] What is the average WPM?",
-        "answer": "[DA] Around 40 WPM for casual users."
+        "question": "What is the average WPM?",
+        "answer": "Around 40 WPM for casual users."
       },
       "q9": {
-        "question": "[DA] What is 100% accuracy?",
-        "answer": "[DA] Typing without any errors or backspaces."
+        "question": "What is 100% accuracy?",
+        "answer": "Typing without any errors or backspaces."
       },
       "q10": {
-        "question": "[DA] How to reduce typing fatigue?",
-        "answer": "[DA] Use a wrist rest and keep good posture."
+        "question": "How to reduce typing fatigue?",
+        "answer": "Use a wrist rest and keep good posture."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "[DA] What is Ghosting?",
-        "answer": "[DA] When a keyboard fails to register multiple simultaneous key presses."
+        "question": "What is Ghosting?",
+        "answer": "When a keyboard fails to register multiple simultaneous key presses."
       },
       "q2": {
-        "question": "[DA] What is Key Rollover?",
-        "answer": "[DA] The maximum number of keys that can be pressed at once."
+        "question": "What is Key Rollover?",
+        "answer": "The maximum number of keys that can be pressed at once."
       },
       "q3": {
-        "question": "[DA] How do I test my keys?",
-        "answer": "[DA] Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "How do I test my keys?",
+        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
       },
       "q4": {
-        "question": "[DA] How to test mechanical switches?",
-        "answer": "[DA] Press keys gently to check actuation point vs bottoming out."
+        "question": "How to test mechanical switches?",
+        "answer": "Press keys gently to check actuation point vs bottoming out."
       },
       "q5": {
-        "question": "[DA] What is N-Key Rollover?",
-        "answer": "[DA] Ability to register all keys pressed simultaneously."
+        "question": "What is N-Key Rollover?",
+        "answer": "Ability to register all keys pressed simultaneously."
       },
       "q6": {
-        "question": "[DA] What are Cherry MX switches?",
-        "answer": "[DA] Popular mechanical switches with different feels."
+        "question": "What are Cherry MX switches?",
+        "answer": "Popular mechanical switches with different feels."
       },
       "q7": {
-        "question": "[DA] How to clean a keyboard?",
-        "answer": "[DA] Use compressed air and remove keycaps."
+        "question": "How to clean a keyboard?",
+        "answer": "Use compressed air and remove keycaps."
       },
       "q8": {
-        "question": "[DA] Why is my key sticking?",
-        "answer": "[DA] It might be dirty or the switch is broken."
+        "question": "Why is my key sticking?",
+        "answer": "It might be dirty or the switch is broken."
       },
       "q9": {
-        "question": "[DA] What is a membrane keyboard?",
-        "answer": "[DA] A keyboard using pressure pads, usually cheaper."
+        "question": "What is a membrane keyboard?",
+        "answer": "A keyboard using pressure pads, usually cheaper."
       },
       "q10": {
-        "question": "[DA] Can I replace laptop keys?",
-        "answer": "[DA] Yes, but it is delicate work."
+        "question": "Can I replace laptop keys?",
+        "answer": "Yes, but it is delicate work."
       }
     }
   },
   "game": {
-    "timer": "[DA] TIMER",
-    "score": "[DA] SCORE",
-    "start": "[DA] START CLICKING",
-    "active": "[DA] CLICK FAST!",
-    "try_again": "[DA] TRY AGAIN",
-    "share": "[DA] SHARE",
-    "result_msg": "[DA] Your speed is above average. Can you beat your personal best?",
-    "slow": "[DA] 🐢 Snail",
-    "fast": "[DA] ⚡ Pro",
-    "superhuman": "[DA] 👑 GODLIKE"
+    "timer": "TIMER",
+    "score": "SCORE",
+    "start": "START CLICKING",
+    "active": "CLICK FAST!",
+    "try_again": "TRY AGAIN",
+    "share": "SHARE",
+    "result_msg": "Your speed is above average. Can you beat your personal best?",
+    "slow": "🐢 Snail",
+    "fast": "⚡ Pro",
+    "superhuman": "👑 GODLIKE"
   },
   "tool_layout": {
-    "about": "[DA] About",
-    "how_to": "[DA] How to Use",
-    "rank_up": "[DA] How to Rank Up?",
-    "faq": "[DA] Frequently Asked Questions",
-    "related": "[DA] Related Tools",
-    "step1": "[DA] Click the start button or the designated area.",
-    "step2": "[DA] Perform the action as quickly/accurately as possible.",
-    "step3": "[DA] View your result and share with friends.",
-    "rank_turtle": "[DA] Turtle (0-5 CPS):",
-    "rank_turtle_desc": "[DA] You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "[DA] Pro (5-10 CPS):",
-    "rank_pro_desc": "[DA] The average gamer speed. Good for casual play.",
-    "rank_god": "[DA] Godlike (10+ CPS):",
-    "rank_god_desc": "[DA] You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "About",
+    "how_to": "How to Use",
+    "rank_up": "How to Rank Up?",
+    "faq": "Frequently Asked Questions",
+    "related": "Related Tools",
+    "step1": "Click the start button or the designated area.",
+    "step2": "Perform the action as quickly/accurately as possible.",
+    "step3": "View your result and share with friends.",
+    "rank_turtle": "Turtle (0-5 CPS):",
+    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
+    "rank_pro": "Pro (5-10 CPS):",
+    "rank_pro_desc": "The average gamer speed. Good for casual play.",
+    "rank_god": "Godlike (10+ CPS):",
+    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+  },
+  "dead_pixel": {
+    "h1": "Dead Pixel Checker",
+    "seo": {
+      "description": "Check screen for dead pixels."
+    }
   }
 }

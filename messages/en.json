@@ -1,6 +1,6 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed (World Record?)",
+    "title": "CPS Test - Check Your Click Speed",
     "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
   },
   "ui": {
@@ -8,7 +8,7 @@
     "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
     "start_btn": "Start CPS Test",
     "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail (Too Slow!)",
+    "rank_noob": "🐢 Rank: Snail",
     "rank_pro": "⚡ Rank: Pro Gamer",
     "rank_god": "👑 Rank: GODLIKE",
     "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
@@ -44,7 +44,17 @@
     "drag": "Drag Click",
     "reaction": "Reaction Time",
     "typing": "Typing Speed",
-    "keyboard": "Keyboard Test"
+    "keyboard": "Keyboard Test",
+    "minecraft": "Minecraft CPS",
+    "pubg": "PUBG Aim Test",
+    "roblox": "Roblox Clicker",
+    "valorant": "Valorant Reflex",
+    "fortnite": "Fortnite Speed",
+    "hardware_tests": "Hardware Tests",
+    "game_challenges": "Game Challenges",
+    "click_modes": "Click Modes",
+    "time_modes": "Time Modes",
+    "community": "Community"
   },
   "footer": {
     "tagline": "The world’s fastest reflex & speed testing platform."
@@ -75,7 +85,7 @@
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed (World Record?)",
+      "title": "CPS Test - Check Your Click Speed",
       "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
     },
     "h1": "Test Your Click Speed Instantly"
@@ -131,7 +141,7 @@
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark (ms)",
+      "title": "Reaction Time Test - Human Benchmark",
       "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
     },
     "h1": "REACTION TIME TEST",
@@ -142,7 +152,7 @@
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM (1 Minute)",
+      "title": "Typing Speed Test - Check Your WPM",
       "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
     },
     "h1": "WPM TYPING TEST"
@@ -351,5 +361,11 @@
     "rank_pro_desc": "The average gamer speed. Good for casual play.",
     "rank_god": "Godlike (10+ CPS):",
     "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+  },
+  "dead_pixel": {
+    "h1": "Dead Pixel Checker",
+    "seo": {
+      "description": "Check your screen for dead or stuck pixels instantly."
+    }
   }
 }

@@ -8,9 +8,9 @@
     "description": "Meça seus Cliques Por Segundo (CPS) com nossa ferramenta de teste de reflexo ultra-rápida. Feito para gamers, speed runners e jogadores competitivos em todo o mundo.",
     "start_btn": "Iniciar Teste CPS",
     "modes": "Modos de Teste",
-    "rank_noob": "[PT] 🐢 Rank: Snail (Too Slow!)",
-    "rank_pro": "[PT] ⚡ Rank: Pro Gamer",
-    "rank_god": "[PT] 👑 Rank: GODLIKE",
+    "rank_noob": "🐢 Rank: Snail",
+    "rank_pro": "⚡ Rank: Pro Gamer",
+    "rank_god": "👑 Rank: GODLIKE",
     "share_txt": "Fiz {score} CPS no Palmtweets. Duvido você ganhar!",
     "score": "PONTOS",
     "timer": "TEMPO",
@@ -44,7 +44,17 @@
     "drag": "Drag Click",
     "reaction": "Tempo de Reação",
     "typing": "Digitação WPM",
-    "keyboard": "Teste de Teclado"
+    "keyboard": "Teste de Teclado",
+    "minecraft": "Minecraft CPS",
+    "pubg": "PUBG Aim Test",
+    "roblox": "Roblox Clicker",
+    "valorant": "Valorant Reflexo",
+    "fortnite": "Fortnite Velocidade",
+    "hardware_tests": "Testes de Hardware",
+    "game_challenges": "Desafios de Jogos",
+    "click_modes": "Modos de Clique",
+    "time_modes": "Modos de Tempo",
+    "community": "Comunidade"
   },
   "footer": {
     "tagline": "A plataforma de teste de reflexo e velocidade mais rápida do mundo."
@@ -75,7 +85,7 @@
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed (World Record?)",
+      "title": "CPS Test - Check Your Click Speed",
       "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
     },
     "h1": "CPS TEST BLITZ"
@@ -131,7 +141,7 @@
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark (ms)",
+      "title": "Reaction Time Test - Human Benchmark",
       "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
     },
     "h1": "REACTION TIME TEST",
@@ -142,7 +152,7 @@
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM (1 Minute)",
+      "title": "Typing Speed Test - Check Your WPM",
       "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
     },
     "h1": "WPM TYPING TEST"
@@ -351,5 +361,11 @@
     "rank_pro_desc": "Velocidade média de jogador.",
     "rank_god": "Lenda (10+ CPS):",
     "rank_god_desc": "Você domina técnicas avançadas."
+  },
+  "dead_pixel": {
+    "h1": "Verificador de Dead Pixel",
+    "seo": {
+      "description": "Verifique pixels mortos na sua tela instantaneamente."
+    }
   }
 }
