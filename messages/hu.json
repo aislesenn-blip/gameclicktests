@@ -1,477 +1,476 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPS Teszt - Kattintási Sebesség"
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start CPS Test",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
+    "h1": "Teszteld a Kattintási Sebességed",
+    "description": "Mérd le a másodpercenkénti kattintásaidat (CPS).",
+    "start_btn": "Indítás",
+    "modes": "Módok",
+    "rank_noob": "Pontszám 1",
+    "rank_pro": "Pontszám 2",
+    "rank_god": "Pontszám 3",
     "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "SCORE",
-    "timer": "TIMER",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "start": "START CLICKING",
+    "score": "Pontszám",
+    "timer": "Idő",
+    "active": "Teszteld a Kattintási Sebességed",
+    "try_again": "Újra",
+    "share": "Megosztás",
+    "start": "Indítás",
     "result_msg": "Your speed is above average. Can you beat your personal best?",
     "slow": "🐢 Snail",
     "fast": "⚡ Pro",
     "superhuman": "👑 GODLIKE"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "home": "Főoldal",
+    "cps": "CPS Teszt",
+    "reaction": "Reakció",
+    "typing": "Gépelés",
+    "keyboard": "Billentyűzet",
+    "privacy": "Adatvédelem"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
+    "cps_cluster": "CPS Teszt",
+    "typing_cluster": "Gépelés",
+    "reaction_cluster": "Reakció",
+    "keyboard_cluster": "Billentyűzet",
+    "cps_1s": "1 Másodperc CPS",
+    "cps_5s": "5 Másodperc CPS",
+    "cps_60s": "60 Másodperc CPS",
     "jitter": "Jitter Click",
     "butterfly": "Butterfly Click",
     "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
+    "reaction": "Reakció",
+    "typing": "Gépelés",
+    "keyboard": "Billentyűzet",
+    "minecraft": "CPS Teszt (Minecraft)",
+    "pubg": "CPS Teszt (PUBG)",
+    "roblox": "CPS Teszt (Roblox)",
+    "valorant": "CPS Teszt (Valorant)",
+    "fortnite": "CPS Teszt (Fortnite)",
     "hardware_tests": "Hardver",
     "game_challenges": "Játékok",
-    "click_modes": "Kattintási Módok",
-    "time_modes": "Idő Módok",
+    "click_modes": "Módok",
+    "time_modes": "Módok",
     "community": "Közösség",
-    "touch_test": "Touch Screen Test (HU)",
-    "mic_test": "Mic Test (HU)",
-    "gamepad_test": "Gamepad Tester (HU)",
-    "packet_loss": "Packet Loss Test (HU)"
+    "touch_test": "CPS Teszt (Touch)",
+    "mic_test": "Mic Test",
+    "gamepad_test": "Gamepad Test",
+    "packet_loss": "Packet Loss"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "title": "Adatvédelem",
+    "intro": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
     "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
+    "cookies_text": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+    "data_title": "Data",
+    "data_text": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
     "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "contact_text": "support@palmtweets.com"
   },
   "seo_content": {
-    "h2_improve": "Tips to Improve Clicking (HU)",
-    "p_improve": "Practice daily and use a good mouse.",
-    "h2_styles": "Clicking Styles",
-    "p_styles": "Learn Jitter and Butterfly clicking.",
-    "h2_record": "World Records",
-    "p_record": "Aim for 10+ CPS.",
-    "h2_useful": "Gaming Utility",
-    "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Section 4 (HU)",
-    "p_hardware": "Localized content for HU focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_hook": "Section 1 (HU)",
-    "p_hook": "Localized content for HU focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (HU)",
-    "p_science": "Localized content for HU focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (HU)",
-    "p_gaming": "Localized content for HU focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (HU)",
-    "p_technique": "Localized content for HU focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "A kattintási sebesség fontossága",
+    "p_improve": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+    "h2_styles": "A kattintási sebesség fontossága",
+    "p_styles": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+    "h2_record": "A kattintási sebesség fontossága",
+    "p_record": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+    "h2_useful": "A kattintási sebesség fontossága",
+    "p_useful": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+    "h2_hardware": "A kattintási sebesség fontossága",
+    "p_hardware": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+    "h2_games": "A kattintási sebesség fontossága",
+    "p_games": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+    "h2_hook": "A kattintási sebesség fontossága",
+    "p_hook": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+    "h2_science": "A kattintási sebesség fontossága",
+    "p_science": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+    "h2_gaming": "A kattintási sebesség fontossága",
+    "p_gaming": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+    "h2_technique": "A kattintási sebesség fontossága",
+    "p_technique": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "CPS Teszt - Kattintási Sebesség"
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "Teszteld a Kattintási Sebességed"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "1 Másodperc CPS - CPS Teszt - Kattintási Sebesség"
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "1 Másodperc CPS"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
+      "title": "5 Másodperc CPS - CPS Teszt - Kattintási Sebesség",
       "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "5 Másodperc CPS"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
+      "title": "60 Másodperc CPS - CPS Teszt - Kattintási Sebesség",
       "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "60 Másodperc CPS"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
+      "title": "Jitter Click - CPS Teszt - Kattintási Sebesség",
       "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "Jitter Click"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
+      "title": "Butterfly Click - CPS Teszt - Kattintási Sebesség",
       "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "Butterfly Click"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
+      "title": "Drag Click - CPS Teszt - Kattintási Sebesség",
       "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "Drag Click"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
+      "title": "Minecraft CPS Teszt - Kattintási Sebesség",
       "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "Minecraft CPS Teszt"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Reakcióidő Teszt",
+      "description": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket."
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
-    "result": "{time} ms"
+    "h1": "Reakcióidő Teszt",
+    "wait": "...",
+    "click": "Indítás",
+    "too_soon": "Újra",
+    "result": "Pontszám: {time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Gépelési Sebesség",
+      "description": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "Gépelési Sebesség"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Billentyűzet Teszt",
+      "description": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "Billentyűzet Teszt"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for HU users."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for HU users."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for HU users."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for HU users."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for HU users."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for HU users."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for HU users."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for HU users."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for HU users."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for HU users."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for HU users."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for HU users."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for HU users."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for HU users."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for HU users."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "Mi az a CPS teszt?",
+        "answer": "A CPS teszt azt méri, hány kattintást tudsz végezni egy másodperc alatt."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "Idő",
+    "score": "Pontszám",
+    "start": "Indítás",
+    "active": "!!!",
+    "try_again": "Újra",
+    "share": "Megosztás",
+    "result_msg": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+    "slow": "Rank 1",
+    "fast": "Rank 2",
+    "superhuman": "Rank 3"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "Főoldal",
+    "how_to": "Guide",
+    "rank_up": "Rank Up",
+    "faq": "FAQ",
+    "related": "Tools",
+    "step1": "Indítás",
+    "step2": "Click",
+    "step3": "Megosztás",
+    "rank_turtle": "Rank 1",
+    "rank_turtle_desc": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+    "rank_pro": "Rank 2",
+    "rank_pro_desc": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+    "rank_god": "Rank 3",
+    "rank_god_desc": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Dead Pixel",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (HU)",
+    "h1": "Touch Screen Test",
     "seo": {
-      "title": "Touch Screen Test Online (HU)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touch Screen Test",
+      "description": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (HU)",
-      "p_hook": "Localized intro for HU. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for HU.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for HU.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for HU.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in HU."
+      "h2_hook": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_hook": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "h2_science": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_science": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "h2_gaming": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_gaming": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "h2_hardware": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_hardware": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "h2_technique": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_technique": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (HU)",
+    "h1": "Mic Test",
     "seo": {
-      "title": "Microphone Test Online (HU)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Mic Test",
+      "description": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (HU)",
-      "p_hook": "Localized intro for HU. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for HU.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for HU.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for HU.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in HU."
+      "h2_hook": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_hook": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "h2_science": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_science": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "h2_gaming": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_gaming": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "h2_hardware": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_hardware": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "h2_technique": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_technique": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (HU)",
+    "h1": "Gamepad Test",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (HU)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Gamepad Test",
+      "description": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (HU)",
-      "p_hook": "Localized intro for HU. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for HU.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for HU.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for HU.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in HU."
+      "h2_hook": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_hook": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "h2_science": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_science": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "h2_gaming": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_gaming": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "h2_hardware": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_hardware": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "h2_technique": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_technique": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (HU)",
+    "h1": "Packet Loss Test",
     "seo": {
-      "title": "Packet Loss & Ping Test (HU)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Test",
+      "description": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (HU)",
-      "p_hook": "Localized intro for HU. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for HU.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for HU.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for HU.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in HU."
+      "h2_hook": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_hook": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "h2_science": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_science": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "h2_gaming": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_gaming": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "h2_hardware": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_hardware": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "h2_technique": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket.",
+      "p_technique": "Ez az eszköz segít a játékosoknak mérni és javítani a kattintási sebességüket és reakcióidejüket."
     }
   }
 }

@@ -1,23 +1,23 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPS Testi - Tıklama Hızını Test Et",
+    "description": "Ne kadar hızlı tıklayabilirsin? 10 saniyelik CPS testini yap."
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Başlat",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
+    "h1": "Tıklama Hızını Test Et",
+    "description": "Tıklama Başına Saniye (CPS) hızını ölç.",
+    "start_btn": "Başla",
+    "modes": "Modlar",
+    "rank_noob": "Skor 1",
+    "rank_pro": "Skor 2",
+    "rank_god": "Skor 3",
     "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "Puan",
+    "score": "Skor",
     "timer": "Süre",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
+    "active": "Tıklama Hızını Test Et",
+    "try_again": "Tekrar Dene",
     "share": "Paylaş",
-    "start": "START CLICKING",
+    "start": "Başla",
     "result_msg": "Your speed is above average. Can you beat your personal best?",
     "slow": "🐢 Snail",
     "fast": "⚡ Pro",
@@ -25,455 +25,455 @@
   },
   "nav": {
     "home": "Anasayfa",
-    "cps": "Tıklama Testi",
-    "reaction": "Refleks",
+    "cps": "CPS Testi",
+    "reaction": "Reaksiyon",
     "typing": "Yazma",
-    "keyboard": "Keyboard",
+    "keyboard": "Klavye",
     "privacy": "Gizlilik"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
+    "cps_cluster": "CPS Testi",
+    "typing_cluster": "Yazma",
+    "reaction_cluster": "Reaksiyon",
+    "keyboard_cluster": "Klavye",
+    "cps_1s": "1 Saniye CPS",
+    "cps_5s": "5 Saniye CPS",
+    "cps_60s": "60 Saniye CPS",
+    "jitter": "Jitter Tıklama",
+    "butterfly": "Butterfly Tıklama",
+    "drag": "Drag Tıklama",
+    "reaction": "Reaksiyon",
+    "typing": "Yazma",
+    "keyboard": "Klavye",
+    "minecraft": "CPS Testi (Minecraft)",
+    "pubg": "CPS Testi (PUBG)",
+    "roblox": "CPS Testi (Roblox)",
+    "valorant": "CPS Testi (Valorant)",
+    "fortnite": "CPS Testi (Fortnite)",
     "hardware_tests": "Donanım",
     "game_challenges": "Oyunlar",
-    "click_modes": "Tıklama Modları",
-    "time_modes": "Zaman Modları",
+    "click_modes": "Modlar",
+    "time_modes": "Modlar",
     "community": "Topluluk",
-    "touch_test": "Touch Screen Test (TR)",
-    "mic_test": "Mic Test (TR)",
-    "gamepad_test": "Gamepad Tester (TR)",
-    "packet_loss": "Packet Loss Test (TR)"
+    "touch_test": "CPS Testi (Touch)",
+    "mic_test": "Mic Test",
+    "gamepad_test": "Gamepad Test",
+    "packet_loss": "Packet Loss"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "title": "Gizlilik",
+    "intro": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
     "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
+    "cookies_text": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+    "data_title": "Data",
+    "data_text": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
     "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "contact_text": "support@palmtweets.com"
   },
   "seo_content": {
-    "h2_improve": "Tıklama hızınızı nasıl geliştirirsiniz",
-    "p_improve": "Hızlanmak pratik gerektirir. El kaslarınızı gevşeterek başlayın.",
-    "h2_styles": "Butterfly ve Jitter Tıklama",
-    "p_styles": "Jitter kol kaslarını titretmeyi içerir. Butterfly iki parmak kullanır.",
-    "h2_record": "CPS dünya rekoru nedir?",
-    "p_record": "1 saniye için rekor 30+ CPS'dir.",
-    "h2_useful": "Oyuncular için yararlı mı?",
-    "p_useful": "Evet, Minecraft PvP ve FPS oyunları için kritiktir.",
-    "h2_hardware": "Section 4 (TR)",
-    "p_hardware": "Localized content for TR focusing on Valorant aim geliştirme. Detailed analysis of click speed and hardware performance.",
-    "h2_games": "CPS in Competitive Gaming",
-    "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended.",
-    "h2_hook": "Section 1 (TR)",
-    "p_hook": "Localized content for TR focusing on Mouse tıklama ömrü testi, Jitter click nasıl yapılır. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (TR)",
-    "p_science": "Localized content for TR focusing on Makro testi, Refleks testi oyunu. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (TR)",
-    "p_gaming": "Localized content for TR focusing on Klavye tuş testi çalışmıyor, En hızlı tıklama rekoru. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (TR)",
-    "p_technique": "Localized content for TR focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "Tıklama Hızının Önemi",
+    "p_improve": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+    "h2_styles": "Tıklama Hızının Önemi",
+    "p_styles": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+    "h2_record": "Tıklama Hızının Önemi",
+    "p_record": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+    "h2_useful": "Tıklama Hızının Önemi",
+    "p_useful": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+    "h2_hardware": "Tıklama Hızının Önemi",
+    "p_hardware": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+    "h2_games": "Tıklama Hızının Önemi",
+    "p_games": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+    "h2_hook": "Tıklama Hızının Önemi",
+    "p_hook": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+    "h2_science": "Tıklama Hızının Önemi",
+    "p_science": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+    "h2_gaming": "Tıklama Hızının Önemi",
+    "p_gaming": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+    "h2_technique": "Tıklama Hızının Önemi",
+    "p_technique": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "CPS Testi - Tıklama Hızını Test Et",
+      "description": "Ne kadar hızlı tıklayabilirsin? 10 saniyelik CPS testini yap."
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "Tıklama Hızını Test Et"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "1 Saniye CPS - CPS Testi - Tıklama Hızını Test Et",
+      "description": "Ne kadar hızlı tıklayabilirsin? 10 saniyelik CPS testini yap."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "1 Saniye CPS"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
+      "title": "5 Saniye CPS - CPS Testi - Tıklama Hızını Test Et",
       "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "5 Saniye CPS"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
+      "title": "60 Saniye CPS - CPS Testi - Tıklama Hızını Test Et",
       "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "60 Saniye CPS"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
+      "title": "Jitter Tıklama - CPS Testi - Tıklama Hızını Test Et",
       "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "Jitter Tıklama"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
+      "title": "Butterfly Tıklama - CPS Testi - Tıklama Hızını Test Et",
       "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "Butterfly Tıklama"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
+      "title": "Drag Tıklama - CPS Testi - Tıklama Hızını Test Et",
       "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "Drag Tıklama"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
+      "title": "Minecraft CPS Testi - Tıklama Hızını Test Et",
       "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "Minecraft CPS Testi"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Reaksiyon Testi",
+      "description": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur."
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
-    "result": "{time} ms"
+    "h1": "Reaksiyon Testi",
+    "wait": "...",
+    "click": "Başla",
+    "too_soon": "Tekrar Dene",
+    "result": "Skor: {time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Yazma Hızı Testi",
+      "description": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "Yazma Hızı Testi"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Klavye Testi",
+      "description": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "Klavye Testi"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Jitter click nasıl yapılır?",
-        "answer": "Answer regarding Jitter click nasıl yapılır for TR users."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q2": {
-        "question": "Question 2 about Makro testi?",
-        "answer": "Answer regarding Makro testi for TR users."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q3": {
-        "question": "Question 3 about Refleks testi oyunu?",
-        "answer": "Answer regarding Refleks testi oyunu for TR users."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q4": {
-        "question": "Question 4 about Klavye tuş testi çalışmıyor?",
-        "answer": "Answer regarding Klavye tuş testi çalışmıyor for TR users."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q5": {
-        "question": "Question 5 about En hızlı tıklama rekoru?",
-        "answer": "Answer regarding En hızlı tıklama rekoru for TR users."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q6": {
-        "question": "Question 6 about Valorant aim geliştirme?",
-        "answer": "Answer regarding Valorant aim geliştirme for TR users."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q7": {
-        "question": "Question 7 about Mouse tıklama ömrü testi?",
-        "answer": "Answer regarding Mouse tıklama ömrü testi for TR users."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q8": {
-        "question": "Question 8 about Jitter click nasıl yapılır?",
-        "answer": "Answer regarding Jitter click nasıl yapılır for TR users."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q9": {
-        "question": "Question 9 about Makro testi?",
-        "answer": "Answer regarding Makro testi for TR users."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q10": {
-        "question": "Question 10 about Refleks testi oyunu?",
-        "answer": "Answer regarding Refleks testi oyunu for TR users."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q11": {
-        "question": "Question 11 about Klavye tuş testi çalışmıyor?",
-        "answer": "Answer regarding Klavye tuş testi çalışmıyor for TR users."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q12": {
-        "question": "Question 12 about En hızlı tıklama rekoru?",
-        "answer": "Answer regarding En hızlı tıklama rekoru for TR users."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q13": {
-        "question": "Question 13 about Valorant aim geliştirme?",
-        "answer": "Answer regarding Valorant aim geliştirme for TR users."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q14": {
-        "question": "Question 14 about Mouse tıklama ömrü testi?",
-        "answer": "Answer regarding Mouse tıklama ömrü testi for TR users."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q15": {
-        "question": "Question 15 about Jitter click nasıl yapılır?",
-        "answer": "Answer regarding Jitter click nasıl yapılır for TR users."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "CPS testi nedir?",
+        "answer": "CPS testi, bir saniyede kaç tıklama yapabileceğinizi ölçer."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "Süre",
+    "score": "Skor",
+    "start": "Başla",
+    "active": "!!!",
+    "try_again": "Tekrar Dene",
+    "share": "Paylaş",
+    "result_msg": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+    "slow": "Rank 1",
+    "fast": "Rank 2",
+    "superhuman": "Rank 3"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "Anasayfa",
+    "how_to": "Guide",
+    "rank_up": "Rank Up",
+    "faq": "FAQ",
+    "related": "Tools",
+    "step1": "Başla",
+    "step2": "Click",
+    "step3": "Paylaş",
+    "rank_turtle": "Rank 1",
+    "rank_turtle_desc": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+    "rank_pro": "Rank 2",
+    "rank_pro_desc": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+    "rank_god": "Rank 3",
+    "rank_god_desc": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Dead Pixel",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (TR)",
+    "h1": "Touch Screen Test",
     "seo": {
-      "title": "Touch Screen Test Online (TR)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touch Screen Test",
+      "description": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (TR)",
-      "p_hook": "Localized intro for TR. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for TR.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for TR.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for TR.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in TR."
+      "h2_hook": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_hook": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "h2_science": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_science": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "h2_gaming": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_gaming": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "h2_hardware": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_hardware": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "h2_technique": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_technique": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (TR)",
+    "h1": "Mic Test",
     "seo": {
-      "title": "Microphone Test Online (TR)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Mic Test",
+      "description": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (TR)",
-      "p_hook": "Localized intro for TR. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for TR.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for TR.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for TR.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in TR."
+      "h2_hook": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_hook": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "h2_science": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_science": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "h2_gaming": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_gaming": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "h2_hardware": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_hardware": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "h2_technique": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_technique": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (TR)",
+    "h1": "Gamepad Test",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (TR)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Gamepad Test",
+      "description": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (TR)",
-      "p_hook": "Localized intro for TR. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for TR.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for TR.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for TR.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in TR."
+      "h2_hook": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_hook": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "h2_science": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_science": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "h2_gaming": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_gaming": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "h2_hardware": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_hardware": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "h2_technique": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_technique": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (TR)",
+    "h1": "Packet Loss Test",
     "seo": {
-      "title": "Packet Loss & Ping Test (TR)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Test",
+      "description": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (TR)",
-      "p_hook": "Localized intro for TR. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for TR.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for TR.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for TR.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in TR."
+      "h2_hook": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_hook": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "h2_science": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_science": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "h2_gaming": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_gaming": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "h2_hardware": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_hardware": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "h2_technique": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur.",
+      "p_technique": "Bu araç, oyuncuların tıklama hızını ve reaksiyon süresini ölçmelerine ve geliştirmelerine yardımcı olur."
     }
   }
 }

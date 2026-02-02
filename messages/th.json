@@ -1,477 +1,476 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "ทดสอบ CPS - ตรวจสอบความเร็วในการคลิก"
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start CPS Test",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
+    "h1": "ทดสอบความเร็วในการคลิก",
+    "description": "วัดจำนวนคลิกต่อวินาที (CPS) ของคุณ",
+    "start_btn": "เริ่ม",
+    "modes": "โหมด",
+    "rank_noob": "คะแนน 1",
+    "rank_pro": "คะแนน 2",
+    "rank_god": "คะแนน 3",
     "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "SCORE",
-    "timer": "TIMER",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "start": "START CLICKING",
+    "score": "คะแนน",
+    "timer": "เวลา",
+    "active": "ทดสอบความเร็วในการคลิก",
+    "try_again": "ลองอีกครั้ง",
+    "share": "แชร์",
+    "start": "เริ่ม",
     "result_msg": "Your speed is above average. Can you beat your personal best?",
     "slow": "🐢 Snail",
     "fast": "⚡ Pro",
     "superhuman": "👑 GODLIKE"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "home": "หน้าแรก",
+    "cps": "ทดสอบ CPS",
+    "reaction": "ปฏิกิริยา",
+    "typing": "พิมพ์",
+    "keyboard": "คีย์บอร์ด",
+    "privacy": "ความเป็นส่วนตัว"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
+    "cps_cluster": "ทดสอบ CPS",
+    "typing_cluster": "พิมพ์",
+    "reaction_cluster": "ปฏิกิริยา",
+    "keyboard_cluster": "คีย์บอร์ด",
+    "cps_1s": "CPS 1 วินาที",
+    "cps_5s": "CPS 5 วินาที",
+    "cps_60s": "CPS 60 วินาที",
     "jitter": "Jitter Click",
     "butterfly": "Butterfly Click",
     "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
+    "reaction": "ปฏิกิริยา",
+    "typing": "พิมพ์",
+    "keyboard": "คีย์บอร์ด",
+    "minecraft": "ทดสอบ CPS (Minecraft)",
+    "pubg": "ทดสอบ CPS (PUBG)",
+    "roblox": "ทดสอบ CPS (Roblox)",
+    "valorant": "ทดสอบ CPS (Valorant)",
+    "fortnite": "ทดสอบ CPS (Fortnite)",
     "hardware_tests": "ฮาร์ดแวร์",
     "game_challenges": "เกม",
-    "click_modes": "โหมดคลิก",
-    "time_modes": "โหมดเวลา",
+    "click_modes": "โหมด",
+    "time_modes": "โหมด",
     "community": "ชุมชน",
-    "touch_test": "Touch Screen Test (TH)",
-    "mic_test": "Mic Test (TH)",
-    "gamepad_test": "Gamepad Tester (TH)",
-    "packet_loss": "Packet Loss Test (TH)"
+    "touch_test": "ทดสอบ CPS (Touch)",
+    "mic_test": "Mic Test",
+    "gamepad_test": "Gamepad Test",
+    "packet_loss": "Packet Loss"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง"
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "title": "ความเป็นส่วนตัว",
+    "intro": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
     "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
+    "cookies_text": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+    "data_title": "Data",
+    "data_text": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
     "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "contact_text": "support@palmtweets.com"
   },
   "seo_content": {
-    "h2_improve": "Tips to Improve Clicking (TH)",
-    "p_improve": "Practice daily and use a good mouse.",
-    "h2_styles": "Clicking Styles",
-    "p_styles": "Learn Jitter and Butterfly clicking.",
-    "h2_record": "World Records",
-    "p_record": "Aim for 10+ CPS.",
-    "h2_useful": "Gaming Utility",
-    "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Section 4 (TH)",
-    "p_hardware": "Localized content for TH focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_hook": "Section 1 (TH)",
-    "p_hook": "Localized content for TH focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (TH)",
-    "p_science": "Localized content for TH focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (TH)",
-    "p_gaming": "Localized content for TH focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (TH)",
-    "p_technique": "Localized content for TH focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "ความสำคัญของความเร็วในการคลิก",
+    "p_improve": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+    "h2_styles": "ความสำคัญของความเร็วในการคลิก",
+    "p_styles": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+    "h2_record": "ความสำคัญของความเร็วในการคลิก",
+    "p_record": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+    "h2_useful": "ความสำคัญของความเร็วในการคลิก",
+    "p_useful": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+    "h2_hardware": "ความสำคัญของความเร็วในการคลิก",
+    "p_hardware": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+    "h2_games": "ความสำคัญของความเร็วในการคลิก",
+    "p_games": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+    "h2_hook": "ความสำคัญของความเร็วในการคลิก",
+    "p_hook": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+    "h2_science": "ความสำคัญของความเร็วในการคลิก",
+    "p_science": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+    "h2_gaming": "ความสำคัญของความเร็วในการคลิก",
+    "p_gaming": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+    "h2_technique": "ความสำคัญของความเร็วในการคลิก",
+    "p_technique": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง"
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "ทดสอบ CPS - ตรวจสอบความเร็วในการคลิก"
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "ทดสอบความเร็วในการคลิก"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "CPS 1 วินาที - ทดสอบ CPS - ตรวจสอบความเร็วในการคลิก"
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "CPS 1 วินาที"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
+      "title": "CPS 5 วินาที - ทดสอบ CPS - ตรวจสอบความเร็วในการคลิก",
       "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "CPS 5 วินาที"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
+      "title": "CPS 60 วินาที - ทดสอบ CPS - ตรวจสอบความเร็วในการคลิก",
       "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "CPS 60 วินาที"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
+      "title": "Jitter Click - ทดสอบ CPS - ตรวจสอบความเร็วในการคลิก",
       "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "Jitter Click"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
+      "title": "Butterfly Click - ทดสอบ CPS - ตรวจสอบความเร็วในการคลิก",
       "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "Butterfly Click"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
+      "title": "Drag Click - ทดสอบ CPS - ตรวจสอบความเร็วในการคลิก",
       "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "Drag Click"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
+      "title": "Minecraft ทดสอบ CPS - ตรวจสอบความเร็วในการคลิก",
       "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "Minecraft ทดสอบ CPS"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "ทดสอบเวลาปฏิกิริยา",
+      "description": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
-    "result": "{time} ms"
+    "h1": "ทดสอบเวลาปฏิกิริยา",
+    "wait": "...",
+    "click": "เริ่ม",
+    "too_soon": "ลองอีกครั้ง",
+    "result": "คะแนน: {time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "ทดสอบความเร็วการพิมพ์",
+      "description": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง"
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "ทดสอบความเร็วการพิมพ์"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "ทดสอบคีย์บอร์ด",
+      "description": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง"
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "ทดสอบคีย์บอร์ด"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for TH users."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for TH users."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for TH users."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for TH users."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for TH users."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for TH users."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for TH users."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for TH users."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for TH users."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for TH users."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for TH users."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for TH users."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for TH users."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for TH users."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for TH users."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "การทดสอบ CPS คืออะไร?",
+        "answer": "การทดสอบ CPS จะวัดจำนวนคลิกที่คุณสามารถทำได้ในหนึ่งวินาที"
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "เวลา",
+    "score": "คะแนน",
+    "start": "เริ่ม",
+    "active": "!!!",
+    "try_again": "ลองอีกครั้ง",
+    "share": "แชร์",
+    "result_msg": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+    "slow": "Rank 1",
+    "fast": "Rank 2",
+    "superhuman": "Rank 3"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "หน้าแรก",
+    "how_to": "Guide",
+    "rank_up": "Rank Up",
+    "faq": "FAQ",
+    "related": "Tools",
+    "step1": "เริ่ม",
+    "step2": "Click",
+    "step3": "แชร์",
+    "rank_turtle": "Rank 1",
+    "rank_turtle_desc": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+    "rank_pro": "Rank 2",
+    "rank_pro_desc": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+    "rank_god": "Rank 3",
+    "rank_god_desc": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง"
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Dead Pixel",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง"
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (TH)",
+    "h1": "Touch Screen Test",
     "seo": {
-      "title": "Touch Screen Test Online (TH)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touch Screen Test",
+      "description": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (TH)",
-      "p_hook": "Localized intro for TH. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for TH.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for TH.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for TH.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in TH."
+      "h2_hook": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_hook": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "h2_science": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_science": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "h2_gaming": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_gaming": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "h2_hardware": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_hardware": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "h2_technique": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_technique": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง"
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (TH)",
+    "h1": "Mic Test",
     "seo": {
-      "title": "Microphone Test Online (TH)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Mic Test",
+      "description": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (TH)",
-      "p_hook": "Localized intro for TH. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for TH.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for TH.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for TH.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in TH."
+      "h2_hook": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_hook": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "h2_science": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_science": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "h2_gaming": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_gaming": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "h2_hardware": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_hardware": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "h2_technique": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_technique": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง"
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (TH)",
+    "h1": "Gamepad Test",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (TH)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Gamepad Test",
+      "description": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (TH)",
-      "p_hook": "Localized intro for TH. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for TH.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for TH.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for TH.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in TH."
+      "h2_hook": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_hook": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "h2_science": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_science": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "h2_gaming": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_gaming": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "h2_hardware": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_hardware": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "h2_technique": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_technique": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง"
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (TH)",
+    "h1": "Packet Loss Test",
     "seo": {
-      "title": "Packet Loss & Ping Test (TH)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Test",
+      "description": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (TH)",
-      "p_hook": "Localized intro for TH. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for TH.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for TH.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for TH.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in TH."
+      "h2_hook": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_hook": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "h2_science": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_science": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "h2_gaming": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_gaming": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "h2_hardware": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_hardware": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "h2_technique": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง",
+      "p_technique": "เครื่องมือนี้ช่วยให้นักเล่นเกมวัดและปรับปรุงความเร็วในการคลิกและเวลาตอบสนอง"
     }
   }
 }

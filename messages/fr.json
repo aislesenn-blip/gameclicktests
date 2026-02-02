@@ -1,23 +1,23 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "Test CPS - Vérifiez votre Vitesse de Clic",
+    "description": "À quelle vitesse pouvez-vous cliquer ? Faites le test CPS de 10 secondes."
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
+    "h1": "Testez votre Vitesse de Clic",
+    "description": "Mesurez vos Clics Par Seconde (CPS) avec notre outil.",
     "start_btn": "Démarrer",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
+    "modes": "Modes",
+    "rank_noob": "Score 1",
+    "rank_pro": "Score 2",
+    "rank_god": "Score 3",
     "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
     "score": "Score",
     "timer": "Temps",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
+    "active": "Testez votre Vitesse de Clic",
+    "try_again": "Réessayer",
     "share": "Partager",
-    "start": "START CLICKING",
+    "start": "Démarrer",
     "result_msg": "Your speed is above average. Can you beat your personal best?",
     "slow": "🐢 Snail",
     "fast": "⚡ Pro",
@@ -25,455 +25,455 @@
   },
   "nav": {
     "home": "Accueil",
-    "cps": "Test Clic",
+    "cps": "Test CPS",
     "reaction": "Réaction",
     "typing": "Frappe",
-    "keyboard": "Keyboard",
+    "keyboard": "Clavier",
     "privacy": "Confidentialité"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS Test",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Réflexe",
-    "fortnite": "Fortnite Vitesse",
+    "cps_cluster": "Test CPS",
+    "typing_cluster": "Frappe",
+    "reaction_cluster": "Réaction",
+    "keyboard_cluster": "Clavier",
+    "cps_1s": "CPS 1 Seconde",
+    "cps_5s": "CPS 5 Secondes",
+    "cps_60s": "CPS 60 Secondes",
+    "jitter": "Clic Jitter",
+    "butterfly": "Clic Butterfly",
+    "drag": "Clic Drag",
+    "reaction": "Réaction",
+    "typing": "Frappe",
+    "keyboard": "Clavier",
+    "minecraft": "Test CPS (Minecraft)",
+    "pubg": "Test CPS (PUBG)",
+    "roblox": "Test CPS (Roblox)",
+    "valorant": "Test CPS (Valorant)",
+    "fortnite": "Test CPS (Fortnite)",
     "hardware_tests": "Matériel",
     "game_challenges": "Jeux",
-    "click_modes": "Modes Clic",
-    "time_modes": "Modes Temps",
+    "click_modes": "Modes",
+    "time_modes": "Modes",
     "community": "Communauté",
-    "touch_test": "Touch Screen Test (FR)",
-    "mic_test": "Mic Test (FR)",
-    "gamepad_test": "Gamepad Tester (FR)",
-    "packet_loss": "Packet Loss Test (FR)"
+    "touch_test": "Test CPS (Touch)",
+    "mic_test": "Mic Test",
+    "gamepad_test": "Gamepad Test",
+    "packet_loss": "Packet Loss"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "title": "Confidentialité",
+    "intro": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
     "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
+    "cookies_text": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+    "data_title": "Data",
+    "data_text": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
     "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "contact_text": "support@palmtweets.com"
   },
   "seo_content": {
-    "h2_improve": "Comment améliorer votre vitesse de clic",
-    "p_improve": "Améliorer votre vitesse nécessite de la pratique et le bon matériel. Commencez par détendre vos muscles.",
-    "h2_styles": "Butterfly clicking vs Jitter clicking",
-    "p_styles": "Le Jitter clicking implique de faire vibrer les muscles du bras. Le Butterfly clicking utilise deux doigts.",
-    "h2_record": "Quel est le record du monde de CPS ?",
-    "p_record": "Le record varie selon la durée. Pour 1 seconde, certains atteignent 30+ CPS.",
-    "h2_useful": "Le test CPS est-il utile pour les joueurs ?",
-    "p_useful": "Oui. Un CPS élevé est critique dans Minecraft et les FPS.",
-    "h2_hardware": "Section 4 (FR)",
-    "p_hardware": "Localized content for FR focusing on Logiciel macro souris. Detailed analysis of click speed and hardware performance.",
-    "h2_games": "CPS in Competitive Gaming",
-    "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended.",
-    "h2_hook": "Section 1 (FR)",
-    "p_hook": "Localized content for FR focusing on Test de vitesse de clic, Technique jitter click souris. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (FR)",
-    "p_science": "Localized content for FR focusing on Test double clic souris, Entrainement aim Fortnite. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (FR)",
-    "p_gaming": "Localized content for FR focusing on Clavier mécanique test, Molette souris bug. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (FR)",
-    "p_technique": "Localized content for FR focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "L'importance de la vitesse de clic",
+    "p_improve": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+    "h2_styles": "L'importance de la vitesse de clic",
+    "p_styles": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+    "h2_record": "L'importance de la vitesse de clic",
+    "p_record": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+    "h2_useful": "L'importance de la vitesse de clic",
+    "p_useful": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+    "h2_hardware": "L'importance de la vitesse de clic",
+    "p_hardware": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+    "h2_games": "L'importance de la vitesse de clic",
+    "p_games": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+    "h2_hook": "L'importance de la vitesse de clic",
+    "p_hook": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+    "h2_science": "L'importance de la vitesse de clic",
+    "p_science": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+    "h2_gaming": "L'importance de la vitesse de clic",
+    "p_gaming": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+    "h2_technique": "L'importance de la vitesse de clic",
+    "p_technique": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "Test CPS - Vérifiez votre Vitesse de Clic",
+      "description": "À quelle vitesse pouvez-vous cliquer ? Faites le test CPS de 10 secondes."
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "Testez votre Vitesse de Clic"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "CPS 1 Seconde - Test CPS - Vérifiez votre Vitesse de Clic",
+      "description": "À quelle vitesse pouvez-vous cliquer ? Faites le test CPS de 10 secondes."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "CPS 1 Seconde"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
+      "title": "CPS 5 Secondes - Test CPS - Vérifiez votre Vitesse de Clic",
       "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "CPS 5 Secondes"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
+      "title": "CPS 60 Secondes - Test CPS - Vérifiez votre Vitesse de Clic",
       "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "CPS 60 Secondes"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
+      "title": "Clic Jitter - Test CPS - Vérifiez votre Vitesse de Clic",
       "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "Clic Jitter"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
+      "title": "Clic Butterfly - Test CPS - Vérifiez votre Vitesse de Clic",
       "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "Clic Butterfly"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
+      "title": "Clic Drag - Test CPS - Vérifiez votre Vitesse de Clic",
       "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "Clic Drag"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
+      "title": "Minecraft Test CPS - Vérifiez votre Vitesse de Clic",
       "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "Minecraft Test CPS"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Test de Réaction",
+      "description": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction."
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
-    "result": "{time} ms"
+    "h1": "Test de Réaction",
+    "wait": "...",
+    "click": "Démarrer",
+    "too_soon": "Réessayer",
+    "result": "Score: {time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Vitesse de Frappe",
+      "description": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "Vitesse de Frappe"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Test Clavier",
+      "description": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "Test Clavier"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Technique jitter click souris?",
-        "answer": "Answer regarding Technique jitter click souris for FR users."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q2": {
-        "question": "Question 2 about Test double clic souris?",
-        "answer": "Answer regarding Test double clic souris for FR users."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q3": {
-        "question": "Question 3 about Entrainement aim Fortnite?",
-        "answer": "Answer regarding Entrainement aim Fortnite for FR users."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q4": {
-        "question": "Question 4 about Clavier mécanique test?",
-        "answer": "Answer regarding Clavier mécanique test for FR users."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q5": {
-        "question": "Question 5 about Molette souris bug?",
-        "answer": "Answer regarding Molette souris bug for FR users."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q6": {
-        "question": "Question 6 about Logiciel macro souris?",
-        "answer": "Answer regarding Logiciel macro souris for FR users."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q7": {
-        "question": "Question 7 about Test de vitesse de clic?",
-        "answer": "Answer regarding Test de vitesse de clic for FR users."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q8": {
-        "question": "Question 8 about Technique jitter click souris?",
-        "answer": "Answer regarding Technique jitter click souris for FR users."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q9": {
-        "question": "Question 9 about Test double clic souris?",
-        "answer": "Answer regarding Test double clic souris for FR users."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q10": {
-        "question": "Question 10 about Entrainement aim Fortnite?",
-        "answer": "Answer regarding Entrainement aim Fortnite for FR users."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q11": {
-        "question": "Question 11 about Clavier mécanique test?",
-        "answer": "Answer regarding Clavier mécanique test for FR users."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q12": {
-        "question": "Question 12 about Molette souris bug?",
-        "answer": "Answer regarding Molette souris bug for FR users."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q13": {
-        "question": "Question 13 about Logiciel macro souris?",
-        "answer": "Answer regarding Logiciel macro souris for FR users."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q14": {
-        "question": "Question 14 about Test de vitesse de clic?",
-        "answer": "Answer regarding Test de vitesse de clic for FR users."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q15": {
-        "question": "Question 15 about Technique jitter click souris?",
-        "answer": "Answer regarding Technique jitter click souris for FR users."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "Qu'est-ce qu'un test CPS ?",
+        "answer": "Un test CPS mesure combien de clics vous pouvez effectuer en une seconde."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "Temps",
+    "score": "Score",
+    "start": "Démarrer",
+    "active": "!!!",
+    "try_again": "Réessayer",
+    "share": "Partager",
+    "result_msg": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+    "slow": "Rank 1",
+    "fast": "Rank 2",
+    "superhuman": "Rank 3"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "Accueil",
+    "how_to": "Guide",
+    "rank_up": "Rank Up",
+    "faq": "FAQ",
+    "related": "Tools",
+    "step1": "Démarrer",
+    "step2": "Click",
+    "step3": "Partager",
+    "rank_turtle": "Rank 1",
+    "rank_turtle_desc": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+    "rank_pro": "Rank 2",
+    "rank_pro_desc": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+    "rank_god": "Rank 3",
+    "rank_god_desc": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction."
   },
   "dead_pixel": {
-    "h1": "Test de Pixel Mort",
+    "h1": "Dead Pixel",
     "seo": {
-      "description": "Vérifiez instantanément votre écran pour les pixels morts."
+      "description": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (FR)",
+    "h1": "Touch Screen Test",
     "seo": {
-      "title": "Touch Screen Test Online (FR)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touch Screen Test",
+      "description": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (FR)",
-      "p_hook": "Localized intro for FR. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for FR.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for FR.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for FR.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in FR."
+      "h2_hook": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_hook": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "h2_science": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_science": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "h2_gaming": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_gaming": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "h2_hardware": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_hardware": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "h2_technique": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_technique": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (FR)",
+    "h1": "Mic Test",
     "seo": {
-      "title": "Microphone Test Online (FR)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Mic Test",
+      "description": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (FR)",
-      "p_hook": "Localized intro for FR. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for FR.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for FR.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for FR.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in FR."
+      "h2_hook": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_hook": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "h2_science": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_science": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "h2_gaming": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_gaming": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "h2_hardware": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_hardware": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "h2_technique": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_technique": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (FR)",
+    "h1": "Gamepad Test",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (FR)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Gamepad Test",
+      "description": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (FR)",
-      "p_hook": "Localized intro for FR. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for FR.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for FR.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for FR.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in FR."
+      "h2_hook": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_hook": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "h2_science": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_science": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "h2_gaming": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_gaming": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "h2_hardware": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_hardware": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "h2_technique": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_technique": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (FR)",
+    "h1": "Packet Loss Test",
     "seo": {
-      "title": "Packet Loss & Ping Test (FR)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Test",
+      "description": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (FR)",
-      "p_hook": "Localized intro for FR. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for FR.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for FR.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for FR.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in FR."
+      "h2_hook": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_hook": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "h2_science": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_science": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "h2_gaming": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_gaming": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "h2_hardware": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_hardware": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "h2_technique": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction.",
+      "p_technique": "Cet outil aide les joueurs à mesurer et à améliorer leur vitesse de clic et leur temps de réaction."
     }
   }
 }

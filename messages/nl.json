@@ -1,23 +1,23 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPS Test - Check Je Kliksnelheid",
+    "description": "Hoe snel kun je klikken? Doe de 10-seconden CPS-test. Daag je vrienden uit en verbeter het wereldrecord."
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
+    "h1": "Test Je Kliksnelheid Direct",
+    "description": "Meet je Clicks Per Seconde (CPS) met onze ultrasnelle reflextesttool.",
+    "start_btn": "Start Test",
+    "modes": "Testmodi",
+    "rank_noob": "Score 1",
+    "rank_pro": "Score 2",
+    "rank_god": "Score 3",
     "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
     "score": "Score",
     "timer": "Tijd",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
+    "active": "Test Je Kliksnelheid Direct",
+    "try_again": "Opnieuw Proberen",
     "share": "Delen",
-    "start": "START CLICKING",
+    "start": "Start Test",
     "result_msg": "Your speed is above average. Can you beat your personal best?",
     "slow": "🐢 Snail",
     "fast": "⚡ Pro",
@@ -25,455 +25,455 @@
   },
   "nav": {
     "home": "Home",
-    "cps": "Klik Test",
-    "reaction": "Reactie",
+    "cps": "CPS Test",
+    "reaction": "Reactietijd",
     "typing": "Typen",
-    "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "keyboard": "Toetsenbord",
+    "privacy": "Privacybeleid"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
+    "cps_cluster": "CPS Test",
+    "typing_cluster": "Typen",
+    "reaction_cluster": "Reactietijd",
+    "keyboard_cluster": "Toetsenbord",
+    "cps_1s": "1 Seconde CPS",
+    "cps_5s": "5 Seconden CPS",
+    "cps_60s": "60 Seconden CPS",
+    "jitter": "Jitter Klikken",
+    "butterfly": "Butterfly Klikken",
+    "drag": "Drag Klikken",
+    "reaction": "Reactietijd",
+    "typing": "Typen",
+    "keyboard": "Toetsenbord",
+    "minecraft": "CPS Test (Minecraft)",
+    "pubg": "CPS Test (PUBG)",
+    "roblox": "CPS Test (Roblox)",
+    "valorant": "CPS Test (Valorant)",
+    "fortnite": "CPS Test (Fortnite)",
     "hardware_tests": "Hardware",
     "game_challenges": "Spellen",
-    "click_modes": "Klik Modi",
-    "time_modes": "Tijd Modi",
+    "click_modes": "Modi",
+    "time_modes": "Modi",
     "community": "Gemeenschap",
-    "touch_test": "Touch Screen Test (NL)",
-    "mic_test": "Mic Test (NL)",
-    "gamepad_test": "Gamepad Tester (NL)",
-    "packet_loss": "Packet Loss Test (NL)"
+    "touch_test": "CPS Test (Touch)",
+    "mic_test": "Mic Test",
+    "gamepad_test": "Gamepad Test",
+    "packet_loss": "Packet Loss"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "title": "Privacybeleid",
+    "intro": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
     "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
+    "cookies_text": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+    "data_title": "Data",
+    "data_text": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
     "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "contact_text": "support@palmtweets.com"
   },
   "seo_content": {
-    "h2_improve": "Hoe je kliksnelheid verbeteren",
-    "p_improve": "Oefening baart kunst. Ontspan je handspieren.",
-    "h2_styles": "Butterfly vs Jitter",
-    "p_styles": "Jitter is armtrilling. Butterfly is twee vingers.",
-    "h2_record": "Wat is het wereldrecord?",
-    "p_record": "30+ CPS voor 1 seconde.",
-    "h2_useful": "Is dit nuttig?",
-    "p_useful": "Ja, voor Minecraft en FPS.",
-    "h2_hardware": "Section 4 (NL)",
-    "p_hardware": "Localized content for NL focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_games": "CPS in Competitive Gaming",
-    "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended.",
-    "h2_hook": "Section 1 (NL)",
-    "p_hook": "Localized content for NL focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (NL)",
-    "p_science": "Localized content for NL focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (NL)",
-    "p_gaming": "Localized content for NL focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (NL)",
-    "p_technique": "Localized content for NL focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "Waarom Kliksnelheid Belangrijk Is",
+    "p_improve": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+    "h2_styles": "Waarom Kliksnelheid Belangrijk Is",
+    "p_styles": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+    "h2_record": "Waarom Kliksnelheid Belangrijk Is",
+    "p_record": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+    "h2_useful": "Waarom Kliksnelheid Belangrijk Is",
+    "p_useful": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+    "h2_hardware": "Waarom Kliksnelheid Belangrijk Is",
+    "p_hardware": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+    "h2_games": "Waarom Kliksnelheid Belangrijk Is",
+    "p_games": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+    "h2_hook": "Waarom Kliksnelheid Belangrijk Is",
+    "p_hook": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+    "h2_science": "Waarom Kliksnelheid Belangrijk Is",
+    "p_science": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+    "h2_gaming": "Waarom Kliksnelheid Belangrijk Is",
+    "p_gaming": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+    "h2_technique": "Waarom Kliksnelheid Belangrijk Is",
+    "p_technique": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "CPS Test - Check Je Kliksnelheid",
+      "description": "Hoe snel kun je klikken? Doe de 10-seconden CPS-test. Daag je vrienden uit en verbeter het wereldrecord."
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "Test Je Kliksnelheid Direct"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "1 Seconde CPS - CPS Test - Check Je Kliksnelheid",
+      "description": "Hoe snel kun je klikken? Doe de 10-seconden CPS-test. Daag je vrienden uit en verbeter het wereldrecord."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "1 Seconde CPS"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
+      "title": "5 Seconden CPS - CPS Test - Check Je Kliksnelheid",
       "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "5 Seconden CPS"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
+      "title": "60 Seconden CPS - CPS Test - Check Je Kliksnelheid",
       "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "60 Seconden CPS"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
+      "title": "Jitter Klikken - CPS Test - Check Je Kliksnelheid",
       "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "Jitter Klikken"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
+      "title": "Butterfly Klikken - CPS Test - Check Je Kliksnelheid",
       "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "Butterfly Klikken"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
+      "title": "Drag Klikken - CPS Test - Check Je Kliksnelheid",
       "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "Drag Klikken"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
+      "title": "Minecraft CPS Test - Check Je Kliksnelheid",
       "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "Minecraft CPS Test"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Reactietijd Test",
+      "description": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten."
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
-    "result": "{time} ms"
+    "h1": "Reactietijd Test",
+    "wait": "...",
+    "click": "Start Test",
+    "too_soon": "Opnieuw Proberen",
+    "result": "Score: {time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Typsnelheid Test",
+      "description": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "Typsnelheid Test"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Toetsenbord Test",
+      "description": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "Toetsenbord Test"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for NL users."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for NL users."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for NL users."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for NL users."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for NL users."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for NL users."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for NL users."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for NL users."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for NL users."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for NL users."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for NL users."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for NL users."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for NL users."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for NL users."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for NL users."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "Wat is een CPS-test?",
+        "answer": "Een CPS-test is een spel dat meet hoeveel klikken je in één seconde kunt maken."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "Tijd",
+    "score": "Score",
+    "start": "Start Test",
+    "active": "!!!",
+    "try_again": "Opnieuw Proberen",
+    "share": "Delen",
+    "result_msg": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+    "slow": "Rank 1",
+    "fast": "Rank 2",
+    "superhuman": "Rank 3"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "Home",
+    "how_to": "Guide",
+    "rank_up": "Rank Up",
+    "faq": "FAQ",
+    "related": "Tools",
+    "step1": "Start Test",
+    "step2": "Click",
+    "step3": "Delen",
+    "rank_turtle": "Rank 1",
+    "rank_turtle_desc": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+    "rank_pro": "Rank 2",
+    "rank_pro_desc": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+    "rank_god": "Rank 3",
+    "rank_god_desc": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Dead Pixel",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (NL)",
+    "h1": "Touch Screen Test",
     "seo": {
-      "title": "Touch Screen Test Online (NL)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touch Screen Test",
+      "description": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (NL)",
-      "p_hook": "Localized intro for NL. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for NL.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for NL.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for NL.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in NL."
+      "h2_hook": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_hook": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "h2_science": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_science": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "h2_gaming": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_gaming": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "h2_hardware": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_hardware": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "h2_technique": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_technique": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (NL)",
+    "h1": "Mic Test",
     "seo": {
-      "title": "Microphone Test Online (NL)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Mic Test",
+      "description": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (NL)",
-      "p_hook": "Localized intro for NL. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for NL.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for NL.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for NL.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in NL."
+      "h2_hook": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_hook": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "h2_science": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_science": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "h2_gaming": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_gaming": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "h2_hardware": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_hardware": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "h2_technique": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_technique": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (NL)",
+    "h1": "Gamepad Test",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (NL)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Gamepad Test",
+      "description": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (NL)",
-      "p_hook": "Localized intro for NL. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for NL.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for NL.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for NL.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in NL."
+      "h2_hook": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_hook": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "h2_science": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_science": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "h2_gaming": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_gaming": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "h2_hardware": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_hardware": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "h2_technique": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_technique": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (NL)",
+    "h1": "Packet Loss Test",
     "seo": {
-      "title": "Packet Loss & Ping Test (NL)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Test",
+      "description": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (NL)",
-      "p_hook": "Localized intro for NL. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for NL.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for NL.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for NL.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in NL."
+      "h2_hook": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_hook": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "h2_science": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_science": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "h2_gaming": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_gaming": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "h2_hardware": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_hardware": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "h2_technique": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten.",
+      "p_technique": "Deze tool helpt gamers hun kliksnelheid en reactietijd te meten en te verbeteren. Oefen regelmatig om je vaardigheden te vergroten."
     }
   }
 }

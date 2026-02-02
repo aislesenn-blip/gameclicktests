@@ -1,477 +1,476 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPS Тест - Перевір Швидкість Кліку"
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start CPS Test",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
+    "h1": "Перевір Свою Швидкість Кліку",
+    "description": "Виміряй кліки за секунду (CPS).",
+    "start_btn": "Почати",
+    "modes": "Режими",
+    "rank_noob": "Рахунок 1",
+    "rank_pro": "Рахунок 2",
+    "rank_god": "Рахунок 3",
     "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "SCORE",
-    "timer": "TIMER",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "start": "START CLICKING",
+    "score": "Рахунок",
+    "timer": "Час",
+    "active": "Перевір Свою Швидкість Кліку",
+    "try_again": "Ще Раз",
+    "share": "Поділитися",
+    "start": "Почати",
     "result_msg": "Your speed is above average. Can you beat your personal best?",
     "slow": "🐢 Snail",
     "fast": "⚡ Pro",
     "superhuman": "👑 GODLIKE"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "home": "Головна",
+    "cps": "CPS Тест",
+    "reaction": "Реакція",
+    "typing": "Друк",
+    "keyboard": "Клавіатура",
+    "privacy": "Конфіденційність"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
+    "cps_cluster": "CPS Тест",
+    "typing_cluster": "Друк",
+    "reaction_cluster": "Реакція",
+    "keyboard_cluster": "Клавіатура",
+    "cps_1s": "1 Секунда CPS",
+    "cps_5s": "5 Секунд CPS",
+    "cps_60s": "60 Секунд CPS",
+    "jitter": "Джиттер Клік",
+    "butterfly": "Батерфляй Клік",
+    "drag": "Драг Клік",
+    "reaction": "Реакція",
+    "typing": "Друк",
+    "keyboard": "Клавіатура",
+    "minecraft": "CPS Тест (Minecraft)",
+    "pubg": "CPS Тест (PUBG)",
+    "roblox": "CPS Тест (Roblox)",
+    "valorant": "CPS Тест (Valorant)",
+    "fortnite": "CPS Тест (Fortnite)",
     "hardware_tests": "Обладнання",
     "game_challenges": "Ігри",
-    "click_modes": "Режими Кліку",
-    "time_modes": "Режими Часу",
+    "click_modes": "Режими",
+    "time_modes": "Режими",
     "community": "Спільнота",
-    "touch_test": "Touch Screen Test (UK)",
-    "mic_test": "Mic Test (UK)",
-    "gamepad_test": "Gamepad Tester (UK)",
-    "packet_loss": "Packet Loss Test (UK)"
+    "touch_test": "CPS Тест (Touch)",
+    "mic_test": "Mic Test",
+    "gamepad_test": "Gamepad Test",
+    "packet_loss": "Packet Loss"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "title": "Конфіденційність",
+    "intro": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
     "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
+    "cookies_text": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+    "data_title": "Data",
+    "data_text": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
     "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "contact_text": "support@palmtweets.com"
   },
   "seo_content": {
-    "h2_improve": "Tips to Improve Clicking (UK)",
-    "p_improve": "Practice daily and use a good mouse.",
-    "h2_styles": "Clicking Styles",
-    "p_styles": "Learn Jitter and Butterfly clicking.",
-    "h2_record": "World Records",
-    "p_record": "Aim for 10+ CPS.",
-    "h2_useful": "Gaming Utility",
-    "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Section 4 (UK)",
-    "p_hardware": "Localized content for UK focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_hook": "Section 1 (UK)",
-    "p_hook": "Localized content for UK focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (UK)",
-    "p_science": "Localized content for UK focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (UK)",
-    "p_gaming": "Localized content for UK focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (UK)",
-    "p_technique": "Localized content for UK focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "Важливість швидкості кліку",
+    "p_improve": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+    "h2_styles": "Важливість швидкості кліку",
+    "p_styles": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+    "h2_record": "Важливість швидкості кліку",
+    "p_record": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+    "h2_useful": "Важливість швидкості кліку",
+    "p_useful": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+    "h2_hardware": "Важливість швидкості кліку",
+    "p_hardware": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+    "h2_games": "Важливість швидкості кліку",
+    "p_games": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+    "h2_hook": "Важливість швидкості кліку",
+    "p_hook": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+    "h2_science": "Важливість швидкості кліку",
+    "p_science": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+    "h2_gaming": "Важливість швидкості кліку",
+    "p_gaming": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+    "h2_technique": "Важливість швидкості кліку",
+    "p_technique": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "CPS Тест - Перевір Швидкість Кліку"
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "Перевір Свою Швидкість Кліку"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "1 Секунда CPS - CPS Тест - Перевір Швидкість Кліку"
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "1 Секунда CPS"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
+      "title": "5 Секунд CPS - CPS Тест - Перевір Швидкість Кліку",
       "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "5 Секунд CPS"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
+      "title": "60 Секунд CPS - CPS Тест - Перевір Швидкість Кліку",
       "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "60 Секунд CPS"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
+      "title": "Джиттер Клік - CPS Тест - Перевір Швидкість Кліку",
       "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "Джиттер Клік"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
+      "title": "Батерфляй Клік - CPS Тест - Перевір Швидкість Кліку",
       "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "Батерфляй Клік"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
+      "title": "Драг Клік - CPS Тест - Перевір Швидкість Кліку",
       "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "Драг Клік"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
+      "title": "Minecraft CPS Тест - Перевір Швидкість Кліку",
       "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "Minecraft CPS Тест"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Тест Реакції",
+      "description": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції."
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
-    "result": "{time} ms"
+    "h1": "Тест Реакції",
+    "wait": "...",
+    "click": "Почати",
+    "too_soon": "Ще Раз",
+    "result": "Рахунок: {time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Швидкість Друку",
+      "description": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "Швидкість Друку"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Тест Клавіатури",
+      "description": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "Тест Клавіатури"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for UK users."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for UK users."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for UK users."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for UK users."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for UK users."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for UK users."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for UK users."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for UK users."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for UK users."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for UK users."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for UK users."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for UK users."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for UK users."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for UK users."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for UK users."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "Що таке CPS тест?",
+        "answer": "CPS тест вимірює, скільки кліків ви можете зробити за одну секунду."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "Час",
+    "score": "Рахунок",
+    "start": "Почати",
+    "active": "!!!",
+    "try_again": "Ще Раз",
+    "share": "Поділитися",
+    "result_msg": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+    "slow": "Rank 1",
+    "fast": "Rank 2",
+    "superhuman": "Rank 3"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "Головна",
+    "how_to": "Guide",
+    "rank_up": "Rank Up",
+    "faq": "FAQ",
+    "related": "Tools",
+    "step1": "Почати",
+    "step2": "Click",
+    "step3": "Поділитися",
+    "rank_turtle": "Rank 1",
+    "rank_turtle_desc": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+    "rank_pro": "Rank 2",
+    "rank_pro_desc": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+    "rank_god": "Rank 3",
+    "rank_god_desc": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Dead Pixel",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (UK)",
+    "h1": "Touch Screen Test",
     "seo": {
-      "title": "Touch Screen Test Online (UK)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touch Screen Test",
+      "description": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (UK)",
-      "p_hook": "Localized intro for UK. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for UK.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for UK.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for UK.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in UK."
+      "h2_hook": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_hook": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "h2_science": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_science": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "h2_gaming": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_gaming": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "h2_hardware": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_hardware": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "h2_technique": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_technique": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (UK)",
+    "h1": "Mic Test",
     "seo": {
-      "title": "Microphone Test Online (UK)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Mic Test",
+      "description": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (UK)",
-      "p_hook": "Localized intro for UK. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for UK.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for UK.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for UK.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in UK."
+      "h2_hook": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_hook": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "h2_science": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_science": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "h2_gaming": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_gaming": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "h2_hardware": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_hardware": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "h2_technique": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_technique": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (UK)",
+    "h1": "Gamepad Test",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (UK)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Gamepad Test",
+      "description": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (UK)",
-      "p_hook": "Localized intro for UK. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for UK.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for UK.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for UK.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in UK."
+      "h2_hook": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_hook": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "h2_science": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_science": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "h2_gaming": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_gaming": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "h2_hardware": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_hardware": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "h2_technique": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_technique": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (UK)",
+    "h1": "Packet Loss Test",
     "seo": {
-      "title": "Packet Loss & Ping Test (UK)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Test",
+      "description": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (UK)",
-      "p_hook": "Localized intro for UK. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for UK.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for UK.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for UK.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in UK."
+      "h2_hook": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_hook": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "h2_science": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_science": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "h2_gaming": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_gaming": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "h2_hardware": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_hardware": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "h2_technique": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції.",
+      "p_technique": "Цей інструмент допомагає геймерам вимірювати та покращувати швидкість кліку та час реакції."
     }
   }
 }
