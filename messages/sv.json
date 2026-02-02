@@ -1,477 +1,476 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPS Test - Kolla Klickhastighet"
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start CPS Test",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
+    "h1": "Testa Din Klickhastighet",
+    "description": "Mät dina klick per sekund (CPS).",
+    "start_btn": "Starta",
+    "modes": "Lägen",
+    "rank_noob": "Poäng 1",
+    "rank_pro": "Poäng 2",
+    "rank_god": "Poäng 3",
     "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "SCORE",
-    "timer": "TIMER",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "start": "START CLICKING",
+    "score": "Poäng",
+    "timer": "Tid",
+    "active": "Testa Din Klickhastighet",
+    "try_again": "Försök Igen",
+    "share": "Dela",
+    "start": "Starta",
     "result_msg": "Your speed is above average. Can you beat your personal best?",
     "slow": "🐢 Snail",
     "fast": "⚡ Pro",
     "superhuman": "👑 GODLIKE"
   },
   "nav": {
-    "home": "Home",
+    "home": "Hem",
     "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "reaction": "Reaktion",
+    "typing": "Skrivtest",
+    "keyboard": "Tangentbord",
+    "privacy": "Integritet"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
+    "cps_cluster": "CPS Test",
+    "typing_cluster": "Skrivtest",
+    "reaction_cluster": "Reaktion",
+    "keyboard_cluster": "Tangentbord",
+    "cps_1s": "1 Sekund CPS",
+    "cps_5s": "5 Sekunder CPS",
+    "cps_60s": "60 Sekunder CPS",
+    "jitter": "Jitter Klick",
+    "butterfly": "Butterfly Klick",
+    "drag": "Drag Klick",
+    "reaction": "Reaktion",
+    "typing": "Skrivtest",
+    "keyboard": "Tangentbord",
+    "minecraft": "CPS Test (Minecraft)",
+    "pubg": "CPS Test (PUBG)",
+    "roblox": "CPS Test (Roblox)",
+    "valorant": "CPS Test (Valorant)",
+    "fortnite": "CPS Test (Fortnite)",
     "hardware_tests": "Hårdvara",
     "game_challenges": "Spel",
-    "click_modes": "Klicklägen",
-    "time_modes": "Tidslägen",
+    "click_modes": "Lägen",
+    "time_modes": "Lägen",
     "community": "Gemenskap",
-    "touch_test": "Touch Screen Test (SV)",
-    "mic_test": "Mic Test (SV)",
-    "gamepad_test": "Gamepad Tester (SV)",
-    "packet_loss": "Packet Loss Test (SV)"
+    "touch_test": "CPS Test (Touch)",
+    "mic_test": "Mic Test",
+    "gamepad_test": "Gamepad Test",
+    "packet_loss": "Packet Loss"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "title": "Integritet",
+    "intro": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
     "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
+    "cookies_text": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+    "data_title": "Data",
+    "data_text": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
     "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "contact_text": "support@palmtweets.com"
   },
   "seo_content": {
-    "h2_improve": "Tips to Improve Clicking (SV)",
-    "p_improve": "Practice daily and use a good mouse.",
-    "h2_styles": "Clicking Styles",
-    "p_styles": "Learn Jitter and Butterfly clicking.",
-    "h2_record": "World Records",
-    "p_record": "Aim for 10+ CPS.",
-    "h2_useful": "Gaming Utility",
-    "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Section 4 (SV)",
-    "p_hardware": "Localized content for SV focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_hook": "Section 1 (SV)",
-    "p_hook": "Localized content for SV focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (SV)",
-    "p_science": "Localized content for SV focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (SV)",
-    "p_gaming": "Localized content for SV focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (SV)",
-    "p_technique": "Localized content for SV focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "Vikten av klickhastighet",
+    "p_improve": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+    "h2_styles": "Vikten av klickhastighet",
+    "p_styles": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+    "h2_record": "Vikten av klickhastighet",
+    "p_record": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+    "h2_useful": "Vikten av klickhastighet",
+    "p_useful": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+    "h2_hardware": "Vikten av klickhastighet",
+    "p_hardware": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+    "h2_games": "Vikten av klickhastighet",
+    "p_games": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+    "h2_hook": "Vikten av klickhastighet",
+    "p_hook": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+    "h2_science": "Vikten av klickhastighet",
+    "p_science": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+    "h2_gaming": "Vikten av klickhastighet",
+    "p_gaming": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+    "h2_technique": "Vikten av klickhastighet",
+    "p_technique": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "CPS Test - Kolla Klickhastighet"
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "Testa Din Klickhastighet"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "1 Sekund CPS - CPS Test - Kolla Klickhastighet"
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "1 Sekund CPS"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
+      "title": "5 Sekunder CPS - CPS Test - Kolla Klickhastighet",
       "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "5 Sekunder CPS"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
+      "title": "60 Sekunder CPS - CPS Test - Kolla Klickhastighet",
       "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "60 Sekunder CPS"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
+      "title": "Jitter Klick - CPS Test - Kolla Klickhastighet",
       "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "Jitter Klick"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
+      "title": "Butterfly Klick - CPS Test - Kolla Klickhastighet",
       "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "Butterfly Klick"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
+      "title": "Drag Klick - CPS Test - Kolla Klickhastighet",
       "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "Drag Klick"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
+      "title": "Minecraft CPS Test - Kolla Klickhastighet",
       "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "Minecraft CPS Test"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Reaktionstest",
+      "description": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid."
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
-    "result": "{time} ms"
+    "h1": "Reaktionstest",
+    "wait": "...",
+    "click": "Starta",
+    "too_soon": "Försök Igen",
+    "result": "Poäng: {time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Skrivhastighet",
+      "description": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "Skrivhastighet"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Tangentbordstest",
+      "description": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "Tangentbordstest"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for SV users."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for SV users."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for SV users."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for SV users."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for SV users."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for SV users."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for SV users."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for SV users."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for SV users."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for SV users."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for SV users."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for SV users."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for SV users."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for SV users."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for SV users."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "Vad är ett CPS-test?",
+        "answer": "Ett CPS-test mäter hur många klick du kan göra på en sekund."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "Tid",
+    "score": "Poäng",
+    "start": "Starta",
+    "active": "!!!",
+    "try_again": "Försök Igen",
+    "share": "Dela",
+    "result_msg": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+    "slow": "Rank 1",
+    "fast": "Rank 2",
+    "superhuman": "Rank 3"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "Hem",
+    "how_to": "Guide",
+    "rank_up": "Rank Up",
+    "faq": "FAQ",
+    "related": "Tools",
+    "step1": "Starta",
+    "step2": "Click",
+    "step3": "Dela",
+    "rank_turtle": "Rank 1",
+    "rank_turtle_desc": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+    "rank_pro": "Rank 2",
+    "rank_pro_desc": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+    "rank_god": "Rank 3",
+    "rank_god_desc": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Dead Pixel",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (SV)",
+    "h1": "Touch Screen Test",
     "seo": {
-      "title": "Touch Screen Test Online (SV)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touch Screen Test",
+      "description": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (SV)",
-      "p_hook": "Localized intro for SV. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for SV.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for SV.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for SV.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in SV."
+      "h2_hook": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_hook": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "h2_science": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_science": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "h2_gaming": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_gaming": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "h2_hardware": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_hardware": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "h2_technique": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_technique": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (SV)",
+    "h1": "Mic Test",
     "seo": {
-      "title": "Microphone Test Online (SV)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Mic Test",
+      "description": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (SV)",
-      "p_hook": "Localized intro for SV. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for SV.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for SV.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for SV.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in SV."
+      "h2_hook": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_hook": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "h2_science": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_science": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "h2_gaming": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_gaming": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "h2_hardware": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_hardware": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "h2_technique": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_technique": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (SV)",
+    "h1": "Gamepad Test",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (SV)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Gamepad Test",
+      "description": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (SV)",
-      "p_hook": "Localized intro for SV. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for SV.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for SV.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for SV.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in SV."
+      "h2_hook": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_hook": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "h2_science": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_science": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "h2_gaming": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_gaming": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "h2_hardware": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_hardware": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "h2_technique": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_technique": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (SV)",
+    "h1": "Packet Loss Test",
     "seo": {
-      "title": "Packet Loss & Ping Test (SV)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Test",
+      "description": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (SV)",
-      "p_hook": "Localized intro for SV. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for SV.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for SV.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for SV.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in SV."
+      "h2_hook": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_hook": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "h2_science": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_science": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "h2_gaming": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_gaming": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "h2_hardware": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_hardware": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "h2_technique": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid.",
+      "p_technique": "Detta verktyg hjälper spelare att mäta och förbättra sin klickhastighet och reaktionstid."
     }
   }
 }

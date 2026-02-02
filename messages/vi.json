@@ -1,23 +1,22 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "Kiểm tra CPS - Đo Tốc độ Chuột"
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
+    "h1": "Kiểm tra Tốc độ Chuột",
+    "description": "Đo số lần nhấp chuột mỗi giây (CPS) của bạn.",
     "start_btn": "Bắt đầu",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
+    "modes": "Chế độ",
+    "rank_noob": "Điểm 1",
+    "rank_pro": "Điểm 2",
+    "rank_god": "Điểm 3",
     "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
     "score": "Điểm",
     "timer": "Thời gian",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
+    "active": "Kiểm tra Tốc độ Chuột",
+    "try_again": "Thử lại",
     "share": "Chia sẻ",
-    "start": "START CLICKING",
+    "start": "Bắt đầu",
     "result_msg": "Your speed is above average. Can you beat your personal best?",
     "slow": "🐢 Snail",
     "fast": "⚡ Pro",
@@ -25,455 +24,453 @@
   },
   "nav": {
     "home": "Trang chủ",
-    "cps": "Kiểm tra Click",
+    "cps": "Test CPS",
     "reaction": "Phản xạ",
     "typing": "Gõ phím",
-    "keyboard": "Keyboard",
+    "keyboard": "Bàn phím",
     "privacy": "Riêng tư"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
+    "cps_cluster": "Test CPS",
+    "typing_cluster": "Gõ phím",
+    "reaction_cluster": "Phản xạ",
+    "keyboard_cluster": "Bàn phím",
+    "cps_1s": "CPS 1 Giây",
+    "cps_5s": "CPS 5 Giây",
+    "cps_60s": "CPS 60 Giây",
     "jitter": "Jitter Click",
     "butterfly": "Butterfly Click",
     "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
+    "reaction": "Phản xạ",
+    "typing": "Gõ phím",
+    "keyboard": "Bàn phím",
+    "minecraft": "Test CPS (Minecraft)",
+    "pubg": "Test CPS (PUBG)",
+    "roblox": "Test CPS (Roblox)",
+    "valorant": "Test CPS (Valorant)",
+    "fortnite": "Test CPS (Fortnite)",
     "hardware_tests": "Phần cứng",
     "game_challenges": "Trò chơi",
-    "click_modes": "Chế độ nhấp",
-    "time_modes": "Chế độ thời gian",
+    "click_modes": "Chế độ",
+    "time_modes": "Chế độ",
     "community": "Cộng đồng",
-    "touch_test": "Touch Screen Test (VI)",
-    "mic_test": "Mic Test (VI)",
-    "gamepad_test": "Gamepad Tester (VI)",
-    "packet_loss": "Packet Loss Test (VI)"
+    "touch_test": "Test CPS (Touch)",
+    "mic_test": "Mic Test",
+    "gamepad_test": "Gamepad Test",
+    "packet_loss": "Packet Loss"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "title": "Riêng tư",
+    "intro": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
     "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
+    "cookies_text": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+    "data_title": "Data",
+    "data_text": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
     "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "contact_text": "support@palmtweets.com"
   },
   "seo_content": {
-    "h2_improve": "Cách cải thiện tốc độ nhấp chuột",
-    "p_improve": "Cần luyện tập và phần cứng tốt. Thư giãn tay.",
-    "h2_styles": "Butterfly vs Jitter",
-    "p_styles": "Jitter là rung tay. Butterfly dùng hai ngón.",
-    "h2_record": "Kỷ lục thế giới là gì?",
-    "p_record": "Hơn 30 CPS trong 1 giây.",
-    "h2_useful": "Có hữu ích không?",
-    "p_useful": "Có, rất quan trọng trong Minecraft PvP.",
-    "h2_hardware": "Section 4 (VI)",
-    "p_hardware": "Localized content for VI focusing on Phần mềm auto click nhẹ nhất. Detailed analysis of click speed and hardware performance.",
-    "h2_games": "CPS in Competitive Gaming",
-    "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended.",
-    "h2_hook": "Section 1 (VI)",
-    "p_hook": "Localized content for VI focusing on Test chuột double click, Kiểm tra bàn phím online. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (VI)",
-    "p_science": "Localized content for VI focusing on Cách jitter click hiệu quả, Test tốc độ gõ phím. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (VI)",
-    "p_gaming": "Localized content for VI focusing on Luyện phản xạ Liên Minh Huyền Thoại, Chuột bị liệt nút click. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (VI)",
-    "p_technique": "Localized content for VI focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "Tầm quan trọng của tốc độ nhấp chuột",
+    "p_improve": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+    "h2_styles": "Tầm quan trọng của tốc độ nhấp chuột",
+    "p_styles": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+    "h2_record": "Tầm quan trọng của tốc độ nhấp chuột",
+    "p_record": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+    "h2_useful": "Tầm quan trọng của tốc độ nhấp chuột",
+    "p_useful": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+    "h2_hardware": "Tầm quan trọng của tốc độ nhấp chuột",
+    "p_hardware": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+    "h2_games": "Tầm quan trọng của tốc độ nhấp chuột",
+    "p_games": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+    "h2_hook": "Tầm quan trọng của tốc độ nhấp chuột",
+    "p_hook": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+    "h2_science": "Tầm quan trọng của tốc độ nhấp chuột",
+    "p_science": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+    "h2_gaming": "Tầm quan trọng của tốc độ nhấp chuột",
+    "p_gaming": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+    "h2_technique": "Tầm quan trọng của tốc độ nhấp chuột",
+    "p_technique": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "Kiểm tra CPS - Đo Tốc độ Chuột"
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "Kiểm tra Tốc độ Chuột"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "CPS 1 Giây - Kiểm tra CPS - Đo Tốc độ Chuột"
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "CPS 1 Giây"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
+      "title": "CPS 5 Giây - Kiểm tra CPS - Đo Tốc độ Chuột",
       "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "CPS 5 Giây"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
+      "title": "CPS 60 Giây - Kiểm tra CPS - Đo Tốc độ Chuột",
       "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "CPS 60 Giây"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
+      "title": "Jitter Click - Kiểm tra CPS - Đo Tốc độ Chuột",
       "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "Jitter Click"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
+      "title": "Butterfly Click - Kiểm tra CPS - Đo Tốc độ Chuột",
       "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "Butterfly Click"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
+      "title": "Drag Click - Kiểm tra CPS - Đo Tốc độ Chuột",
       "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "Drag Click"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
+      "title": "Minecraft Kiểm tra CPS - Đo Tốc độ Chuột",
       "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "Minecraft Test CPS"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Kiểm tra Phản xạ",
+      "description": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng."
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
-    "result": "{time} ms"
+    "h1": "Kiểm tra Phản xạ",
+    "wait": "...",
+    "click": "Bắt đầu",
+    "too_soon": "Thử lại",
+    "result": "Điểm: {time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Kiểm tra Tốc độ Gõ",
+      "description": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "Kiểm tra Tốc độ Gõ"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Kiểm tra Bàn phím",
+      "description": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "Kiểm tra Bàn phím"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Kiểm tra bàn phím online?",
-        "answer": "Answer regarding Kiểm tra bàn phím online for VI users."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q2": {
-        "question": "Question 2 about Cách jitter click hiệu quả?",
-        "answer": "Answer regarding Cách jitter click hiệu quả for VI users."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q3": {
-        "question": "Question 3 about Test tốc độ gõ phím?",
-        "answer": "Answer regarding Test tốc độ gõ phím for VI users."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q4": {
-        "question": "Question 4 about Luyện phản xạ Liên Minh Huyền Thoại?",
-        "answer": "Answer regarding Luyện phản xạ Liên Minh Huyền Thoại for VI users."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q5": {
-        "question": "Question 5 about Chuột bị liệt nút click?",
-        "answer": "Answer regarding Chuột bị liệt nút click for VI users."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q6": {
-        "question": "Question 6 about Phần mềm auto click nhẹ nhất?",
-        "answer": "Answer regarding Phần mềm auto click nhẹ nhất for VI users."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q7": {
-        "question": "Question 7 about Test chuột double click?",
-        "answer": "Answer regarding Test chuột double click for VI users."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q8": {
-        "question": "Question 8 about Kiểm tra bàn phím online?",
-        "answer": "Answer regarding Kiểm tra bàn phím online for VI users."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q9": {
-        "question": "Question 9 about Cách jitter click hiệu quả?",
-        "answer": "Answer regarding Cách jitter click hiệu quả for VI users."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q10": {
-        "question": "Question 10 about Test tốc độ gõ phím?",
-        "answer": "Answer regarding Test tốc độ gõ phím for VI users."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q11": {
-        "question": "Question 11 about Luyện phản xạ Liên Minh Huyền Thoại?",
-        "answer": "Answer regarding Luyện phản xạ Liên Minh Huyền Thoại for VI users."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q12": {
-        "question": "Question 12 about Chuột bị liệt nút click?",
-        "answer": "Answer regarding Chuột bị liệt nút click for VI users."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q13": {
-        "question": "Question 13 about Phần mềm auto click nhẹ nhất?",
-        "answer": "Answer regarding Phần mềm auto click nhẹ nhất for VI users."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q14": {
-        "question": "Question 14 about Test chuột double click?",
-        "answer": "Answer regarding Test chuột double click for VI users."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q15": {
-        "question": "Question 15 about Kiểm tra bàn phím online?",
-        "answer": "Answer regarding Kiểm tra bàn phím online for VI users."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "CPS test là gì?",
+        "answer": "CPS test đo số lần bạn có thể nhấp chuột trong một giây."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "Thời gian",
+    "score": "Điểm",
+    "start": "Bắt đầu",
+    "active": "!!!",
+    "try_again": "Thử lại",
+    "share": "Chia sẻ",
+    "result_msg": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+    "slow": "Rank 1",
+    "fast": "Rank 2",
+    "superhuman": "Rank 3"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "Trang chủ",
+    "how_to": "Guide",
+    "rank_up": "Rank Up",
+    "faq": "FAQ",
+    "related": "Tools",
+    "step1": "Bắt đầu",
+    "step2": "Click",
+    "step3": "Chia sẻ",
+    "rank_turtle": "Rank 1",
+    "rank_turtle_desc": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+    "rank_pro": "Rank 2",
+    "rank_pro_desc": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+    "rank_god": "Rank 3",
+    "rank_god_desc": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Dead Pixel",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (VI)",
+    "h1": "Touch Screen Test",
     "seo": {
-      "title": "Touch Screen Test Online (VI)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touch Screen Test",
+      "description": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (VI)",
-      "p_hook": "Localized intro for VI. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for VI.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for VI.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for VI.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in VI."
+      "h2_hook": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_hook": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "h2_science": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_science": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "h2_gaming": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_gaming": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "h2_hardware": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_hardware": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "h2_technique": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_technique": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (VI)",
+    "h1": "Mic Test",
     "seo": {
-      "title": "Microphone Test Online (VI)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Mic Test",
+      "description": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (VI)",
-      "p_hook": "Localized intro for VI. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for VI.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for VI.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for VI.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in VI."
+      "h2_hook": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_hook": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "h2_science": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_science": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "h2_gaming": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_gaming": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "h2_hardware": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_hardware": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "h2_technique": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_technique": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (VI)",
+    "h1": "Gamepad Test",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (VI)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Gamepad Test",
+      "description": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (VI)",
-      "p_hook": "Localized intro for VI. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for VI.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for VI.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for VI.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in VI."
+      "h2_hook": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_hook": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "h2_science": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_science": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "h2_gaming": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_gaming": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "h2_hardware": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_hardware": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "h2_technique": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_technique": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (VI)",
+    "h1": "Packet Loss Test",
     "seo": {
-      "title": "Packet Loss & Ping Test (VI)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Test",
+      "description": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (VI)",
-      "p_hook": "Localized intro for VI. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for VI.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for VI.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for VI.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in VI."
+      "h2_hook": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_hook": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "h2_science": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_science": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "h2_gaming": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_gaming": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "h2_hardware": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_hardware": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "h2_technique": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng.",
+      "p_technique": "Công cụ này giúp game thủ đo lường và cải thiện tốc độ nhấp chuột và thời gian phản ứng."
     }
   }
 }

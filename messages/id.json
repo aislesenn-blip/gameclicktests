@@ -1,27 +1,27 @@
 {
   "seo": {
-    "title": "Tes Kecepatan Klik - Cek CPS Mouse",
-    "description": "Ukur kecepatan jari anda dengan Tes CPS ini. Mendukung Jitter Click dan Drag Click. Tanpa Lag. Cek skor anda sekarang."
+    "title": "Tes CPS - Cek Kecepatan Klik Anda",
+    "description": "Seberapa cepat Anda bisa mengklik? Ikuti tes CPS 10 detik."
   },
   "ui": {
-    "h1": "Tes Kecepatan Klik Anda Sekarang",
-    "description": "Ukur Klik Per Detik (CPS) Anda dengan alat tes refleks ultra-cepat kami. Dibuat untuk gamer, speed runner, dan pemain kompetitif di seluruh dunia.",
-    "start_btn": "Mulai Tes CPS",
-    "modes": "Mode Tes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "Skor saya {score} CPS. Coba kalahkan saya di Palmtweets!",
-    "score": "SKOR",
-    "timer": "WAKTU",
-    "active": "KLIK CEPAT!",
-    "try_again": "COBA LAGI",
-    "share": "BAGIKAN",
-    "start": "MULAI",
-    "result_msg": "Kecepatan Anda di atas rata-rata. Bisakah Anda mengalahkan rekor pribadi Anda?",
-    "slow": "🐢 Lambat",
-    "fast": "⚡ Jagoan",
-    "superhuman": "👑 DEWA"
+    "h1": "Tes Kecepatan Klik Anda",
+    "description": "Ukur Klik Per Detik (CPS) Anda dengan alat kami.",
+    "start_btn": "Mulai Tes",
+    "modes": "Mode",
+    "rank_noob": "Skor 1",
+    "rank_pro": "Skor 2",
+    "rank_god": "Skor 3",
+    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
+    "score": "Skor",
+    "timer": "Waktu",
+    "active": "Tes Kecepatan Klik Anda",
+    "try_again": "Coba Lagi",
+    "share": "Bagikan",
+    "start": "Mulai Tes",
+    "result_msg": "Your speed is above average. Can you beat your personal best?",
+    "slow": "🐢 Snail",
+    "fast": "⚡ Pro",
+    "superhuman": "👑 GODLIKE"
   },
   "nav": {
     "home": "Beranda",
@@ -33,447 +33,447 @@
   },
   "mobile_nav": {
     "cps_cluster": "Tes CPS",
-    "typing_cluster": "Tes Mengetik",
-    "reaction_cluster": "Tes Reaksi",
-    "keyboard_cluster": "Alat Keyboard",
-    "cps_1s": "1 Detik",
-    "cps_5s": "5 Detik",
-    "cps_60s": "60 Detik",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Waktu Reaksi",
-    "typing": "Mengetik WPM",
-    "keyboard": "Tes Keyboard",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "Hardware Tests",
-    "game_challenges": "Game Challenges",
-    "click_modes": "Click Modes",
-    "time_modes": "Time Modes",
-    "community": "Community",
-    "touch_test": "Touch Screen Test (ID)",
-    "mic_test": "Mic Test (ID)",
-    "gamepad_test": "Gamepad Tester (ID)",
-    "packet_loss": "Packet Loss Test (ID)"
+    "typing_cluster": "Mengetik",
+    "reaction_cluster": "Reaksi",
+    "keyboard_cluster": "Keyboard",
+    "cps_1s": "CPS 1 Detik",
+    "cps_5s": "CPS 5 Detik",
+    "cps_60s": "CPS 60 Detik",
+    "jitter": "Klik Jitter",
+    "butterfly": "Klik Butterfly",
+    "drag": "Klik Drag",
+    "reaction": "Reaksi",
+    "typing": "Mengetik",
+    "keyboard": "Keyboard",
+    "minecraft": "Tes CPS (Minecraft)",
+    "pubg": "Tes CPS (PUBG)",
+    "roblox": "Tes CPS (Roblox)",
+    "valorant": "Tes CPS (Valorant)",
+    "fortnite": "Tes CPS (Fortnite)",
+    "hardware_tests": "Perangkat Keras",
+    "game_challenges": "Permainan",
+    "click_modes": "Mode",
+    "time_modes": "Mode",
+    "community": "Komunitas",
+    "touch_test": "Tes CPS (Touch)",
+    "mic_test": "Mic Test",
+    "gamepad_test": "Gamepad Test",
+    "packet_loss": "Packet Loss"
   },
   "footer": {
-    "tagline": "Platform tes refleks & kecepatan tercepat di dunia."
+    "tagline": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka."
   },
   "privacy": {
-    "title": "Kebijakan Privasi",
-    "intro": "Di Palmtweets, kami menghargai privasi Anda.",
+    "title": "Privasi",
+    "intro": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
     "cookies_title": "Cookies",
-    "cookies_text": "Kami menggunakan cookie untuk meningkatkan pengalaman Anda.",
-    "data_title": "Pengumpulan Data",
-    "data_text": "Kami tidak mengumpulkan data pribadi.",
-    "contact_title": "Kontak",
-    "contact_text": "Hubungi support@palmtweets.com."
+    "cookies_text": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+    "data_title": "Data",
+    "data_text": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+    "contact_title": "Contact",
+    "contact_text": "support@palmtweets.com"
   },
   "seo_content": {
-    "h2_improve": "Cara meningkatkan kecepatan klik Anda",
-    "p_improve": "Meningkatkan kecepatan klik memerlukan latihan dan perangkat keras yang tepat. Mulailah dengan merilekskan otot tangan untuk mengurangi ketegangan. Gunakan mouse gaming dengan switch latensi rendah. Berlatih setiap hari selama 10-15 menit untuk membangun memori otot.",
-    "h2_styles": "Butterfly clicking vs Jitter clicking",
-    "p_styles": "Jitter clicking melibatkan menggetarkan otot lengan untuk mengklik cepat, sering mencapai 10-14 CPS. Butterfly clicking menggunakan dua jari pada satu tombol, bergantian menekan untuk mencapai 15-20+ CPS. Butterfly umumnya lebih aman untuk tendon Anda tetapi memerlukan mouse yang mendukung klik ganda.",
-    "h2_record": "Apa rekor dunia untuk CPS?",
-    "p_record": "Rekor dunia untuk CPS bervariasi berdasarkan durasi. Untuk 1 detik, beberapa pemain mencapai 30+ CPS menggunakan Drag Clicking. Untuk tes standar 10 detik, rekor berkisar sekitar 22-24 CPS menggunakan teknik canggih.",
-    "h2_useful": "Apakah tes CPS berguna untuk gamer?",
-    "p_useful": "Ya. CPS tinggi sangat penting dalam game seperti Minecraft (jembatan PvP), OSU!, dan First Person Shooters di mana senjata semi-otomatis digunakan. Melacak CPS Anda membantu mengukur peningkatan fisik dan kesiapan Anda untuk bermain kompetitif.",
-    "h2_hardware": "Section 4 (ID)",
-    "p_hardware": "Localized content for ID focusing on Kecepatan klik normal manusia, Aplikasi auto clicker android tanpa root. Detailed analysis of click speed and hardware performance.",
-    "h2_games": "CPS dalam Game Kompetitif",
-    "p_games": "Di Minecraft 1.8 PvP, CPS tinggi membantu dengan 'menerima lebih sedikit knockback' dan memulai combo. Dalam penembak seperti CS2 atau Valorant, waktu reaksi seringkali lebih penting daripada CPS mentah, tetapi konsistensi klik memastikan tembakan Anda mendarat saat dimaksudkan.",
-    "h2_hook": "Section 1 (ID)",
-    "p_hook": "Localized content for ID focusing on Tes respon tangan, Tes kecepatan jari HP. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (ID)",
-    "p_science": "Localized content for ID focusing on Latihan aim PUBG Mobile, Cara jitter click di mouse biasa. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (ID)",
-    "p_gaming": "Localized content for ID focusing on Mouse gaming murah terbaik, Tes keyboard rusak. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (ID)",
-    "p_technique": "Localized content for ID focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "Pentingnya Kecepatan Klik",
+    "p_improve": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+    "h2_styles": "Pentingnya Kecepatan Klik",
+    "p_styles": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+    "h2_record": "Pentingnya Kecepatan Klik",
+    "p_record": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+    "h2_useful": "Pentingnya Kecepatan Klik",
+    "p_useful": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+    "h2_hardware": "Pentingnya Kecepatan Klik",
+    "p_hardware": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+    "h2_games": "Pentingnya Kecepatan Klik",
+    "p_games": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+    "h2_hook": "Pentingnya Kecepatan Klik",
+    "p_hook": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+    "h2_science": "Pentingnya Kecepatan Klik",
+    "p_science": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+    "h2_gaming": "Pentingnya Kecepatan Klik",
+    "p_gaming": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+    "h2_technique": "Pentingnya Kecepatan Klik",
+    "p_technique": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "Tes CPS - Cek Kecepatan Klik Anda",
+      "description": "Seberapa cepat Anda bisa mengklik? Ikuti tes CPS 10 detik."
     },
-    "h1": "CPS TEST BLITZ"
+    "h1": "Tes Kecepatan Klik Anda"
   },
   "cps_1s": {
     "seo": {
-      "title": "Tes CPS 1 Detik - Palmtweets",
-      "description": "Tes kecepatan burst instan."
+      "title": "CPS 1 Detik - Tes CPS - Cek Kecepatan Klik Anda",
+      "description": "Seberapa cepat Anda bisa mengklik? Ikuti tes CPS 10 detik."
     },
-    "h1": "Tes CPS 1 Detik"
+    "h1": "CPS 1 Detik"
   },
   "cps_5s": {
     "seo": {
-      "title": "Tes CPS 5 Detik - Palmtweets",
-      "description": "Sprint pendek kecepatan klik."
+      "title": "CPS 5 Detik - Tes CPS - Cek Kecepatan Klik Anda",
+      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
     },
-    "h1": "Tes CPS 5 Detik"
+    "h1": "CPS 5 Detik"
   },
   "cps_60s": {
     "seo": {
-      "title": "Maraton 60 Detik - Palmtweets",
-      "description": "Tes ketahanan jari pamungkas."
+      "title": "CPS 60 Detik - Tes CPS - Cek Kecepatan Klik Anda",
+      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
     },
-    "h1": "Maraton 60 Detik"
+    "h1": "CPS 60 Detik"
   },
   "jitter": {
     "seo": {
-      "title": "Latihan Jitter Click - Palmtweets",
-      "description": "Kuasai teknik getaran untuk CPS tinggi."
+      "title": "Klik Jitter - Tes CPS - Cek Kecepatan Klik Anda",
+      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
     },
-    "h1": "Latihan Jitter Click"
+    "h1": "Klik Jitter"
   },
   "butterfly": {
     "seo": {
-      "title": "Tes Butterfly Click - Palmtweets",
-      "description": "Gunakan dua jari untuk menggandakan kecepatan."
+      "title": "Klik Butterfly - Tes CPS - Cek Kecepatan Klik Anda",
+      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
     },
-    "h1": "Tes Butterfly Click"
+    "h1": "Klik Butterfly"
   },
   "drag": {
     "seo": {
-      "title": "Tes Drag Click - Palmtweets",
-      "description": "Gunakan gesekan untuk banyak klik."
+      "title": "Klik Drag - Tes CPS - Cek Kecepatan Klik Anda",
+      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
     },
-    "h1": "Tes Drag Click"
+    "h1": "Klik Drag"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft PvP Click - Palmtweets",
-      "description": "Latih klik Anda untuk Minecraft PvP."
+      "title": "Minecraft Tes CPS - Cek Kecepatan Klik Anda",
+      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
     },
-    "h1": "Minecraft PvP Click"
+    "h1": "Minecraft Tes CPS"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Tes Waktu Reaksi",
+      "description": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka."
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
-    "result": "{time} ms"
+    "h1": "Tes Waktu Reaksi",
+    "wait": "...",
+    "click": "Mulai Tes",
+    "too_soon": "Coba Lagi",
+    "result": "Skor: {time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Tes Kecepatan Mengetik",
+      "description": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "Tes Kecepatan Mengetik"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Tes Keyboard",
+      "description": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "Tes Keyboard"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Tes kecepatan jari HP?",
-        "answer": "Answer regarding Tes kecepatan jari HP for ID users."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q2": {
-        "question": "Question 2 about Latihan aim PUBG Mobile?",
-        "answer": "Answer regarding Latihan aim PUBG Mobile for ID users."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q3": {
-        "question": "Question 3 about Cara jitter click di mouse biasa?",
-        "answer": "Answer regarding Cara jitter click di mouse biasa for ID users."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q4": {
-        "question": "Question 4 about Mouse gaming murah terbaik?",
-        "answer": "Answer regarding Mouse gaming murah terbaik for ID users."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q5": {
-        "question": "Question 5 about Tes keyboard rusak?",
-        "answer": "Answer regarding Tes keyboard rusak for ID users."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q6": {
-        "question": "Question 6 about Kecepatan klik normal manusia?",
-        "answer": "Answer regarding Kecepatan klik normal manusia for ID users."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q7": {
-        "question": "Question 7 about Aplikasi auto clicker android tanpa root?",
-        "answer": "Answer regarding Aplikasi auto clicker android tanpa root for ID users."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q8": {
-        "question": "Question 8 about Tes respon tangan?",
-        "answer": "Answer regarding Tes respon tangan for ID users."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q9": {
-        "question": "Question 9 about Tes kecepatan jari HP?",
-        "answer": "Answer regarding Tes kecepatan jari HP for ID users."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q10": {
-        "question": "Question 10 about Latihan aim PUBG Mobile?",
-        "answer": "Answer regarding Latihan aim PUBG Mobile for ID users."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q11": {
-        "question": "Question 11 about Cara jitter click di mouse biasa?",
-        "answer": "Answer regarding Cara jitter click di mouse biasa for ID users."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q12": {
-        "question": "Question 12 about Mouse gaming murah terbaik?",
-        "answer": "Answer regarding Mouse gaming murah terbaik for ID users."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q13": {
-        "question": "Question 13 about Tes keyboard rusak?",
-        "answer": "Answer regarding Tes keyboard rusak for ID users."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q14": {
-        "question": "Question 14 about Kecepatan klik normal manusia?",
-        "answer": "Answer regarding Kecepatan klik normal manusia for ID users."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q15": {
-        "question": "Question 15 about Aplikasi auto clicker android tanpa root?",
-        "answer": "Answer regarding Aplikasi auto clicker android tanpa root for ID users."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q6": {
-        "question": "Apa itu reaksi visual?",
-        "answer": "Waktu respon terhadap rangsang visual."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q7": {
-        "question": "Apa itu reaksi auditori?",
-        "answer": "Respon terhadap suara, biasanya lebih cepat."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q8": {
-        "question": "Kafein membantu?",
-        "answer": "Ya, dalam jumlah wajar meningkatkan kewaspadaan."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q9": {
-        "question": "Gamer pro pakai alat khusus?",
-        "answer": "Ya, monitor refresh rate tinggi."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q10": {
-        "question": "Cara tes akurasi?",
-        "answer": "Gunakan alat tes presisi kami."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q5": {
-        "question": "Apa itu keyboard mekanik?",
-        "answer": "Keyboard dengan switch fisik tiap tombol."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q6": {
-        "question": "Keyboard pengaruh kecepatan?",
-        "answer": "Ya, umpan balik taktil membantu ritme."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q7": {
-        "question": "Belajar mengetik cepat?",
-        "answer": "Mulai latihan dasar setiap hari."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q8": {
-        "question": "Rata-rata WPM?",
-        "answer": "Sekitar 40 WPM untuk umum."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q9": {
-        "question": "Apa itu akurasi 100%?",
-        "answer": "Mengetik tanpa error."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q10": {
-        "question": "Kurangi lelah mengetik?",
-        "answer": "Pakai sandaran tangan dan postur baik."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q5": {
-        "question": "Apa itu N-Key Rollover?",
-        "answer": "Mampu register semua tombol bersamaan."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q6": {
-        "question": "Apa itu switch Cherry?",
-        "answer": "Switch mekanik populer."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q7": {
-        "question": "Cara bersihkan keyboard?",
-        "answer": "Gunakan udara kompresi."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q8": {
-        "question": "Kenapa tombol macet?",
-        "answer": "Mungkin kotor atau rusak."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q9": {
-        "question": "Apa itu keyboard membran?",
-        "answer": "Pakai bantalan tekanan, lebih murah."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       },
       "q10": {
-        "question": "Ganti tombol laptop?",
-        "answer": "Bisa, tapi harus hati-hati."
+        "question": "Apa itu tes CPS?",
+        "answer": "Tes CPS mengukur berapa banyak klik yang bisa Anda lakukan dalam satu detik."
       }
     }
   },
   "game": {
-    "timer": "WAKTU",
-    "score": "SKOR",
-    "start": "MULAI",
-    "active": "KLIK CEPAT!",
-    "try_again": "COBA LAGI",
-    "share": "BAGIKAN",
-    "result_msg": "Kecepatan Anda di atas rata-rata. Bisakah Anda mengalahkan rekor pribadi Anda?",
-    "slow": "🐢 Lambat",
-    "fast": "⚡ Jagoan",
-    "superhuman": "👑 DEWA"
+    "timer": "Waktu",
+    "score": "Skor",
+    "start": "Mulai Tes",
+    "active": "!!!",
+    "try_again": "Coba Lagi",
+    "share": "Bagikan",
+    "result_msg": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+    "slow": "Rank 1",
+    "fast": "Rank 2",
+    "superhuman": "Rank 3"
   },
   "tool_layout": {
-    "about": "Tentang",
-    "how_to": "Cara Menggunakan",
-    "rank_up": "Cara Naik Peringkat?",
-    "faq": "Pertanyaan Umum",
-    "related": "Alat Terkait",
-    "step1": "Klik tombol mulai atau area yang ditentukan.",
-    "step2": "Lakukan tindakan secepat/seakurat mungkin.",
-    "step3": "Lihat hasil Anda dan bagikan dengan teman.",
-    "rank_turtle": "Kura-kura (0-5 CPS):",
-    "rank_turtle_desc": "Anda mengklik terlalu lambat!",
-    "rank_pro": "Jagoan (5-10 CPS):",
-    "rank_pro_desc": "Kecepatan gamer rata-rata.",
-    "rank_god": "Dewa (10+ CPS):",
-    "rank_god_desc": "Anda menguasai teknik canggih."
+    "about": "Beranda",
+    "how_to": "Guide",
+    "rank_up": "Rank Up",
+    "faq": "FAQ",
+    "related": "Tools",
+    "step1": "Mulai Tes",
+    "step2": "Click",
+    "step3": "Bagikan",
+    "rank_turtle": "Rank 1",
+    "rank_turtle_desc": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+    "rank_pro": "Rank 2",
+    "rank_pro_desc": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+    "rank_god": "Rank 3",
+    "rank_god_desc": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Dead Pixel",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (ID)",
+    "h1": "Touch Screen Test",
     "seo": {
-      "title": "Touch Screen Test Online (ID)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touch Screen Test",
+      "description": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (ID)",
-      "p_hook": "Localized intro for ID. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for ID.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for ID.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for ID.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in ID."
+      "h2_hook": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_hook": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "h2_science": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_science": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "h2_gaming": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_gaming": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "h2_hardware": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_hardware": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "h2_technique": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_technique": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (ID)",
+    "h1": "Mic Test",
     "seo": {
-      "title": "Microphone Test Online (ID)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Mic Test",
+      "description": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (ID)",
-      "p_hook": "Localized intro for ID. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for ID.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for ID.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for ID.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in ID."
+      "h2_hook": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_hook": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "h2_science": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_science": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "h2_gaming": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_gaming": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "h2_hardware": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_hardware": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "h2_technique": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_technique": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (ID)",
+    "h1": "Gamepad Test",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (ID)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Gamepad Test",
+      "description": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (ID)",
-      "p_hook": "Localized intro for ID. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for ID.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for ID.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for ID.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in ID."
+      "h2_hook": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_hook": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "h2_science": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_science": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "h2_gaming": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_gaming": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "h2_hardware": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_hardware": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "h2_technique": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_technique": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (ID)",
+    "h1": "Packet Loss Test",
     "seo": {
-      "title": "Packet Loss & Ping Test (ID)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Test",
+      "description": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (ID)",
-      "p_hook": "Localized intro for ID. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for ID.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for ID.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for ID.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in ID."
+      "h2_hook": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_hook": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "h2_science": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_science": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "h2_gaming": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_gaming": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "h2_hardware": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_hardware": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "h2_technique": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka.",
+      "p_technique": "Alat ini membantu gamer mengukur dan meningkatkan kecepatan klik serta waktu reaksi mereka."
     }
   }
 }

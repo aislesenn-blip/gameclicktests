@@ -1,477 +1,479 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPSテスト - クリック速度テスト",
+    "description": "あなたのクリック速度はどれくらいですか？10秒間のCPSテストを受けてください。友達と競い合い、世界記録を破りましょう。"
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start CPS Test",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
+    "h1": "クリック速度を即座にテスト",
+    "description": "超高速反射神経テストツールで1秒あたりのクリック数（CPS）を測定します。",
+    "start_btn": "テスト開始",
+    "modes": "テストモード",
+    "rank_noob": "スコア 1",
+    "rank_pro": "スコア 2",
+    "rank_god": "スコア 3",
     "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "SCORE",
-    "timer": "TIMER",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "start": "START CLICKING",
+    "score": "スコア",
+    "timer": "タイマー",
+    "active": "クリック速度を即座にテスト",
+    "try_again": "再試行",
+    "share": "共有",
+    "start": "テスト開始",
     "result_msg": "Your speed is above average. Can you beat your personal best?",
     "slow": "🐢 Snail",
     "fast": "⚡ Pro",
     "superhuman": "👑 GODLIKE"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "home": "ホーム",
+    "cps": "CPSテスト",
+    "reaction": "反応時間",
+    "typing": "タイピング",
+    "keyboard": "キーボード",
+    "privacy": "プライバシーポリシー"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
+    "cps_cluster": "CPSテスト",
+    "typing_cluster": "タイピング",
+    "reaction_cluster": "反応時間",
+    "keyboard_cluster": "キーボード",
+    "cps_1s": "1秒 CPS",
+    "cps_5s": "5秒 CPS",
+    "cps_60s": "60秒 CPS",
+    "jitter": "ジッタークリック",
+    "butterfly": "バタフライクリック",
+    "drag": "ドラッグクリック",
+    "reaction": "反応時間",
+    "typing": "タイピング",
+    "keyboard": "キーボード",
+    "minecraft": "CPSテスト (Minecraft)",
+    "pubg": "CPSテスト (PUBG)",
+    "roblox": "CPSテスト (Roblox)",
+    "valorant": "CPSテスト (Valorant)",
+    "fortnite": "CPSテスト (Fortnite)",
     "hardware_tests": "ハードウェア",
     "game_challenges": "ゲーム",
-    "click_modes": "クリックモード",
-    "time_modes": "時間モード",
+    "click_modes": "モード",
+    "time_modes": "モード",
     "community": "コミュニティ",
-    "touch_test": "Touch Screen Test (JA)",
-    "mic_test": "Mic Test (JA)",
-    "gamepad_test": "Gamepad Tester (JA)",
-    "packet_loss": "Packet Loss Test (JA)"
+    "touch_test": "CPSテスト (Touch)",
+    "mic_test": "Mic Test",
+    "gamepad_test": "Gamepad Test",
+    "packet_loss": "Packet Loss"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。"
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "title": "プライバシーポリシー",
+    "intro": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
     "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
+    "cookies_text": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+    "data_title": "Data",
+    "data_text": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
     "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "contact_text": "support@palmtweets.com"
   },
   "seo_content": {
-    "h2_improve": "Tips to Improve Clicking (JA)",
-    "p_improve": "Practice daily and use a good mouse.",
-    "h2_styles": "Clicking Styles",
-    "p_styles": "Learn Jitter and Butterfly clicking.",
-    "h2_record": "World Records",
-    "p_record": "Aim for 10+ CPS.",
-    "h2_useful": "Gaming Utility",
-    "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Section 4 (JA)",
-    "p_hardware": "Localized content for JA focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_hook": "Section 1 (JA)",
-    "p_hook": "Localized content for JA focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (JA)",
-    "p_science": "Localized content for JA focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (JA)",
-    "p_gaming": "Localized content for JA focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (JA)",
-    "p_technique": "Localized content for JA focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "クリック速度の重要性",
+    "p_improve": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+    "h2_styles": "クリック速度の重要性",
+    "p_styles": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+    "h2_record": "クリック速度の重要性",
+    "p_record": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+    "h2_useful": "クリック速度の重要性",
+    "p_useful": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+    "h2_hardware": "クリック速度の重要性",
+    "p_hardware": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+    "h2_games": "クリック速度の重要性",
+    "p_games": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+    "h2_hook": "クリック速度の重要性",
+    "p_hook": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+    "h2_science": "クリック速度の重要性",
+    "p_science": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+    "h2_gaming": "クリック速度の重要性",
+    "p_gaming": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+    "h2_technique": "クリック速度の重要性",
+    "p_technique": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。"
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "CPSテスト - クリック速度テスト",
+      "description": "あなたのクリック速度はどれくらいですか？10秒間のCPSテストを受けてください。友達と競い合い、世界記録を破りましょう。"
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "クリック速度を即座にテスト"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "1秒 CPS - CPSテスト - クリック速度テスト",
+      "description": "あなたのクリック速度はどれくらいですか？10秒間のCPSテストを受けてください。友達と競い合い、世界記録を破りましょう。"
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "1秒 CPS"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
+      "title": "5秒 CPS - CPSテスト - クリック速度テスト",
       "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "5秒 CPS"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
+      "title": "60秒 CPS - CPSテスト - クリック速度テスト",
       "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "60秒 CPS"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
+      "title": "ジッタークリック - CPSテスト - クリック速度テスト",
       "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "ジッタークリック"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
+      "title": "バタフライクリック - CPSテスト - クリック速度テスト",
       "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "バタフライクリック"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
+      "title": "ドラッグクリック - CPSテスト - クリック速度テスト",
       "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "ドラッグクリック"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
+      "title": "Minecraft CPSテスト - クリック速度テスト",
       "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "Minecraft CPSテスト"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "反応時間テスト",
+      "description": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
-    "result": "{time} ms"
+    "h1": "反応時間テスト",
+    "wait": "...",
+    "click": "テスト開始",
+    "too_soon": "再試行",
+    "result": "スコア: {time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "タイピング速度テスト",
+      "description": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。"
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "タイピング速度テスト"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "キーボードテスト",
+      "description": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。"
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "キーボードテスト"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for JA users."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for JA users."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for JA users."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for JA users."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for JA users."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for JA users."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for JA users."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for JA users."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for JA users."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for JA users."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for JA users."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for JA users."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for JA users."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for JA users."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for JA users."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "CPSテストとは何ですか？",
+        "answer": "CPSテストは、1秒間に何回クリックできるかを測定するゲームです。"
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "タイマー",
+    "score": "スコア",
+    "start": "テスト開始",
+    "active": "!!!",
+    "try_again": "再試行",
+    "share": "共有",
+    "result_msg": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+    "slow": "Rank 1",
+    "fast": "Rank 2",
+    "superhuman": "Rank 3"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "ホーム",
+    "how_to": "Guide",
+    "rank_up": "Rank Up",
+    "faq": "FAQ",
+    "related": "Tools",
+    "step1": "テスト開始",
+    "step2": "Click",
+    "step3": "共有",
+    "rank_turtle": "Rank 1",
+    "rank_turtle_desc": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+    "rank_pro": "Rank 2",
+    "rank_pro_desc": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+    "rank_god": "Rank 3",
+    "rank_god_desc": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。"
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Dead Pixel",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。"
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (JA)",
+    "h1": "Touch Screen Test",
     "seo": {
-      "title": "Touch Screen Test Online (JA)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touch Screen Test",
+      "description": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (JA)",
-      "p_hook": "Localized intro for JA. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for JA.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for JA.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for JA.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in JA."
+      "h2_hook": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_hook": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "h2_science": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_science": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "h2_gaming": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_gaming": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "h2_hardware": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_hardware": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "h2_technique": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_technique": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。"
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (JA)",
+    "h1": "Mic Test",
     "seo": {
-      "title": "Microphone Test Online (JA)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Mic Test",
+      "description": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (JA)",
-      "p_hook": "Localized intro for JA. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for JA.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for JA.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for JA.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in JA."
+      "h2_hook": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_hook": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "h2_science": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_science": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "h2_gaming": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_gaming": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "h2_hardware": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_hardware": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "h2_technique": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_technique": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。"
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (JA)",
+    "h1": "Gamepad Test",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (JA)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Gamepad Test",
+      "description": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (JA)",
-      "p_hook": "Localized intro for JA. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for JA.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for JA.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for JA.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in JA."
+      "h2_hook": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_hook": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "h2_science": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_science": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "h2_gaming": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_gaming": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "h2_hardware": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_hardware": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "h2_technique": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_technique": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。"
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (JA)",
+    "h1": "Packet Loss Test",
     "seo": {
-      "title": "Packet Loss & Ping Test (JA)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Test",
+      "description": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (JA)",
-      "p_hook": "Localized intro for JA. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for JA.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for JA.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for JA.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in JA."
+      "h2_hook": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_hook": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "h2_science": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_science": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "h2_gaming": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_gaming": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "h2_hardware": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_hardware": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "h2_technique": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。",
+      "p_technique": "このツールは、ゲーマーがクリック速度と反応時間を測定し、改善するのに役立ちます。定期的な練習でスキルを向上させましょう。"
     }
   }
 }

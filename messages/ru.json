@@ -1,479 +1,479 @@
 {
   "seo": {
-    "title": "КПС Тест - Проверка скорости клика",
-    "description": "Как быстро вы можете кликать мышкой? Пройдите 10-секундный КПС Тест. Соревнуйтесь с друзьями и бейте мировые рекорды."
+    "title": "CPS Тест - Проверь Скорость Клика",
+    "description": "Как быстро ты можешь кликать? Пройди 10-секундный тест CPS."
   },
   "ui": {
-    "h1": "Проверь Скорость Клика Мгновенно",
-    "description": "Измерьте свои Клики в Секунду (КПС) с нашим сверхбыстрым инструментом проверки рефлексов. Создано для геймеров, спидраннеров и профессиональных игроков по всему миру.",
-    "start_btn": "Начать КПС Тест",
+    "h1": "Проверь Свою Скорость Клика",
+    "description": "Измерь свои клики в секунду (CPS) с помощью нашего инструмента.",
+    "start_btn": "Начать",
     "modes": "Режимы",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "Мой результат {score} CPS на Palmtweets. Попробуй побить!",
-    "score": "СЧЕТ",
-    "timer": "ВРЕМЯ",
-    "active": "КЛИКАЙ!",
-    "try_again": "ПОВТОРИТЬ",
-    "share": "ПОДЕЛИТЬСЯ",
-    "start": "СТАРТ",
-    "result_msg": "Твоя скорость выше средней. Сможешь побить свой личный рекорд?",
-    "slow": "🐢 Черепаха",
-    "fast": "⚡ Профи",
-    "superhuman": "👑 БОГ"
+    "rank_noob": "Счет 1",
+    "rank_pro": "Счет 2",
+    "rank_god": "Счет 3",
+    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
+    "score": "Счет",
+    "timer": "Время",
+    "active": "Проверь Свою Скорость Клика",
+    "try_again": "Повторить",
+    "share": "Поделиться",
+    "start": "Начать",
+    "result_msg": "Your speed is above average. Can you beat your personal best?",
+    "slow": "🐢 Snail",
+    "fast": "⚡ Pro",
+    "superhuman": "👑 GODLIKE"
   },
   "nav": {
     "home": "Главная",
-    "cps": "КПС Тест",
+    "cps": "CPS Тест",
     "reaction": "Реакция",
     "typing": "Печать",
     "keyboard": "Клавиатура",
     "privacy": "Конфиденциальность"
   },
   "mobile_nav": {
-    "cps_cluster": "КПС Тесты",
-    "typing_cluster": "Тесты Печати",
-    "reaction_cluster": "Тесты Реакции",
-    "keyboard_cluster": "Инструменты Клавиатуры",
-    "cps_1s": "1 Секунда",
-    "cps_5s": "5 Секунд",
-    "cps_60s": "60 Секунд",
+    "cps_cluster": "CPS Тест",
+    "typing_cluster": "Печать",
+    "reaction_cluster": "Реакция",
+    "keyboard_cluster": "Клавиатура",
+    "cps_1s": "1 Секунда CPS",
+    "cps_5s": "5 Секунд CPS",
+    "cps_60s": "60 Секунд CPS",
     "jitter": "Джиттер Клик",
-    "butterfly": "Баттерфляй Клик",
+    "butterfly": "Батерфляй Клик",
     "drag": "Драг Клик",
-    "reaction": "Время Реакции",
-    "typing": "Скорость Печати",
-    "keyboard": "Тест Клавиатуры",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "Hardware Tests",
-    "game_challenges": "Game Challenges",
-    "click_modes": "Click Modes",
-    "time_modes": "Time Modes",
-    "community": "Community",
-    "touch_test": "Touch Screen Test (RU)",
-    "mic_test": "Mic Test (RU)",
-    "gamepad_test": "Gamepad Tester (RU)",
-    "packet_loss": "Packet Loss Test (RU)"
+    "reaction": "Реакция",
+    "typing": "Печать",
+    "keyboard": "Клавиатура",
+    "minecraft": "CPS Тест (Minecraft)",
+    "pubg": "CPS Тест (PUBG)",
+    "roblox": "CPS Тест (Roblox)",
+    "valorant": "CPS Тест (Valorant)",
+    "fortnite": "CPS Тест (Fortnite)",
+    "hardware_tests": "Оборудование",
+    "game_challenges": "Игры",
+    "click_modes": "Режимы",
+    "time_modes": "Режимы",
+    "community": "Сообщество",
+    "touch_test": "CPS Тест (Touch)",
+    "mic_test": "Mic Test",
+    "gamepad_test": "Gamepad Test",
+    "packet_loss": "Packet Loss"
   },
   "footer": {
-    "tagline": "Самая быстрая в мире платформа для проверки рефлексов и скорости."
+    "tagline": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции."
   },
   "privacy": {
-    "title": "Политика конфиденциальности",
-    "intro": "В Palmtweets мы ценим вашу конфиденциальность.",
+    "title": "Конфиденциальность",
+    "intro": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
     "cookies_title": "Cookies",
-    "cookies_text": "Мы используем куки для улучшения вашего опыта.",
-    "data_title": "Сбор данных",
-    "data_text": "Мы не собираем личные данные.",
-    "contact_title": "Контакты",
-    "contact_text": "Свяжитесь с support@palmtweets.com."
+    "cookies_text": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+    "data_title": "Data",
+    "data_text": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+    "contact_title": "Contact",
+    "contact_text": "support@palmtweets.com"
   },
   "seo_content": {
-    "h2_improve": "Как улучшить скорость клика",
-    "p_improve": "Улучшение скорости требует практики и правильного оборудования. Начните с расслабления мышц руки, чтобы уменьшить напряжение. Используйте игровую мышь с переключателями с низкой задержкой. Практикуйтесь ежедневно по 10-15 минут для создания мышечной памяти.",
-    "h2_styles": "Butterfly clicking против Jitter clicking",
-    "p_styles": "Jitter clicking включает вибрацию мышц руки для быстрого клика, часто достигая 10-14 CPS. Butterfly clicking использует два пальца на одной кнопке, чередуя удары для достижения 15-20+ CPS. Butterfly обычно безопаснее для сухожилий, но требует мышь, поддерживающую двойной клик.",
-    "h2_record": "Какой мировой рекорд CPS?",
-    "p_record": "Мировой рекорд CPS варьируется в зависимости от длительности. За 1 секунду некоторые игроки достигают 30+ CPS, используя Drag Clicking. Для стандартного теста 10 секунд рекорды колеблются около 22-24 CPS с использованием продвинутых техник.",
-    "h2_useful": "Полезен ли тест CPS для геймеров?",
-    "p_useful": "Да. Высокий CPS критичен в играх, таких как Minecraft (PvP bridging), OSU!, и шутерах от первого лица, где используется полуавтоматическое оружие. Отслеживание вашего CPS помогает измерить ваше физическое улучшение и готовность к соревновательной игре.",
-    "h2_hardware": "Лаборатория железа",
-    "p_hardware": "Этот инструмент важен для геймеров, желающих освоить Скролл тест мыши. Улучшение реакции жизненно важно. Игроки часто ищут 'Скролл тест мыши'.",
-    "h2_games": "CPS в Соревновательных Играх",
-    "p_games": "В Minecraft 1.8 PvP высокий CPS помогает 'получать меньше отбрасывания' и начинать комбо. В шутерах, таких как CS2 или Valorant, время реакции часто важнее, чем чистый CPS, но постоянство клика гарантирует, что ваши выстрелы попадут в цель.",
-    "h2_hook": "Почему важна скорость клика",
-    "p_hook": "Этот инструмент важен для геймеров, желающих освоить Тренировка аима кс 2, Тест мышки на дабл клик. Улучшение реакции жизненно важно. Игроки часто ищут 'Тренировка аима кс 2'.",
-    "h2_science": "Наука о CPS",
-    "p_science": "Этот инструмент важен для геймеров, желающих освоить Как повысить кпс в майнкрафте, Джиттер клик гайд. Улучшение реакции жизненно важно. Игроки часто ищут 'Как повысить кпс в майнкрафте'.",
-    "h2_gaming": "Игровой контекст: Майнкрафт и Шутеры",
-    "p_gaming": "Этот инструмент важен для геймеров, желающих освоить Проверка клавиатуры онлайн, Залипание клавиш тест. Улучшение реакции жизненно важно. Игроки часто ищут 'Проверка клавиатуры онлайн'.",
-    "h2_technique": "Гайд по техникам",
-    "p_technique": "Этот инструмент важен для геймеров, желающих освоить CPS. Улучшение реакции жизненно важно. Игроки часто ищут ''."
+    "h2_improve": "Важность скорости клика",
+    "p_improve": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+    "h2_styles": "Важность скорости клика",
+    "p_styles": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+    "h2_record": "Важность скорости клика",
+    "p_record": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+    "h2_useful": "Важность скорости клика",
+    "p_useful": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+    "h2_hardware": "Важность скорости клика",
+    "p_hardware": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+    "h2_games": "Важность скорости клика",
+    "p_games": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+    "h2_hook": "Важность скорости клика",
+    "p_hook": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+    "h2_science": "Важность скорости клика",
+    "p_science": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+    "h2_gaming": "Важность скорости клика",
+    "p_gaming": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+    "h2_technique": "Важность скорости клика",
+    "p_technique": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "CPS Тест - Проверь Скорость Клика",
+      "description": "Как быстро ты можешь кликать? Пройди 10-секундный тест CPS."
     },
-    "h1": "CPS TEST BLITZ"
+    "h1": "Проверь Свою Скорость Клика"
   },
   "cps_1s": {
     "seo": {
-      "title": "КПС Тест 1 Секунда - Palmtweets",
-      "description": "Мгновенный тест скорости."
+      "title": "1 Секунда CPS - CPS Тест - Проверь Скорость Клика",
+      "description": "Как быстро ты можешь кликать? Пройди 10-секундный тест CPS."
     },
-    "h1": "КПС Тест 1 Секунда"
+    "h1": "1 Секунда CPS"
   },
   "cps_5s": {
     "seo": {
-      "title": "КПС Тест 5 Секунд - Palmtweets",
-      "description": "Короткий спринт клика."
+      "title": "5 Секунд CPS - CPS Тест - Проверь Скорость Клика",
+      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
     },
-    "h1": "КПС Тест 5 Секунд"
+    "h1": "5 Секунд CPS"
   },
   "cps_60s": {
     "seo": {
-      "title": "Марафон 60 Секунд - Palmtweets",
-      "description": "Тест на выносливость пальцев."
+      "title": "60 Секунд CPS - CPS Тест - Проверь Скорость Клика",
+      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
     },
-    "h1": "Марафон 60 Секунд"
+    "h1": "60 Секунд CPS"
   },
   "jitter": {
     "seo": {
-      "title": "Джиттер Клик Тренинг - Palmtweets",
-      "description": "Освой технику вибрации."
+      "title": "Джиттер Клик - CPS Тест - Проверь Скорость Клика",
+      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
     },
-    "h1": "Джиттер Клик Тренинг"
+    "h1": "Джиттер Клик"
   },
   "butterfly": {
     "seo": {
-      "title": "Баттерфляй Клик Тест - Palmtweets",
-      "description": "Используй два пальца для скорости."
+      "title": "Батерфляй Клик - CPS Тест - Проверь Скорость Клика",
+      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
     },
-    "h1": "Баттерфляй Клик Тест"
+    "h1": "Батерфляй Клик"
   },
   "drag": {
     "seo": {
-      "title": "Драг Клик Тест - Palmtweets",
-      "description": "Используй трение для сотен кликов."
+      "title": "Драг Клик - CPS Тест - Проверь Скорость Клика",
+      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
     },
-    "h1": "Драг Клик Тест"
+    "h1": "Драг Клик"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft PvP Клик - Palmtweets",
-      "description": "Тренируй клик для Майнкрафт ПвП."
+      "title": "Minecraft CPS Тест - Проверь Скорость Клика",
+      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
     },
-    "h1": "Minecraft PvP Клик"
+    "h1": "Minecraft CPS Тест"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Тест Реакции",
+      "description": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции."
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
-    "result": "{time} ms"
+    "h1": "Тест Реакции",
+    "wait": "...",
+    "click": "Начать",
+    "too_soon": "Повторить",
+    "result": "Счет: {time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Скорость Печати",
+      "description": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "Скорость Печати"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Тест Клавиатуры",
+      "description": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "Тест Клавиатуры"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Тест мышки на дабл клик?",
-        "answer": "Answer regarding Тест мышки на дабл клик for RU users."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q2": {
-        "question": "Question 2 about Как повысить кпс в майнкрафте?",
-        "answer": "Answer regarding Как повысить кпс в майнкрафте for RU users."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q3": {
-        "question": "Question 3 about Джиттер клик гайд?",
-        "answer": "Answer regarding Джиттер клик гайд for RU users."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q4": {
-        "question": "Question 4 about Проверка клавиатуры онлайн?",
-        "answer": "Answer regarding Проверка клавиатуры онлайн for RU users."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q5": {
-        "question": "Question 5 about Залипание клавиш тест?",
-        "answer": "Answer regarding Залипание клавиш тест for RU users."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q6": {
-        "question": "Question 6 about Скролл тест мыши?",
-        "answer": "Answer regarding Скролл тест мыши for RU users."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q7": {
-        "question": "Question 7 about Тренировка аима кс 2?",
-        "answer": "Answer regarding Тренировка аима кс 2 for RU users."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q8": {
-        "question": "Question 8 about Тест мышки на дабл клик?",
-        "answer": "Answer regarding Тест мышки на дабл клик for RU users."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q9": {
-        "question": "Question 9 about Как повысить кпс в майнкрафте?",
-        "answer": "Answer regarding Как повысить кпс в майнкрафте for RU users."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q10": {
-        "question": "Question 10 about Джиттер клик гайд?",
-        "answer": "Answer regarding Джиттер клик гайд for RU users."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q11": {
-        "question": "Question 11 about Проверка клавиатуры онлайн?",
-        "answer": "Answer regarding Проверка клавиатуры онлайн for RU users."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q12": {
-        "question": "Question 12 about Залипание клавиш тест?",
-        "answer": "Answer regarding Залипание клавиш тест for RU users."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q13": {
-        "question": "Question 13 about Скролл тест мыши?",
-        "answer": "Answer regarding Скролл тест мыши for RU users."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q14": {
-        "question": "Question 14 about Тренировка аима кс 2?",
-        "answer": "Answer regarding Тренировка аима кс 2 for RU users."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q15": {
-        "question": "Question 15 about Тест мышки на дабл клик?",
-        "answer": "Answer regarding Тест мышки на дабл клик for RU users."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q6": {
-        "question": "Зрительная реакция?",
-        "answer": "Время отклика на визуальный сигнал."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q7": {
-        "question": "Слуховая реакция?",
-        "answer": "Отклик на звук, обычно быстрее."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q8": {
-        "question": "Кофеин помогает?",
-        "answer": "Да, умеренно повышает внимание."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q9": {
-        "question": "Профи используют девайсы?",
-        "answer": "Да, быстрые мониторы и мыши."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q10": {
-        "question": "Как проверить точность?",
-        "answer": "Используйте наши тесты точности."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q5": {
-        "question": "Механическая клавиатура?",
-        "answer": "Клавиатура с физическими свитчами."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q6": {
-        "question": "Влияет ли клавиатура?",
-        "answer": "Да, тактильность помогает ритму."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q7": {
-        "question": "Как научиться печатать?",
-        "answer": "Начните с упражнений и практикуйтесь."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q8": {
-        "question": "Средний WPM?",
-        "answer": "Около 40 WPM для обычных пользователей."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q9": {
-        "question": "100% точность?",
-        "answer": "Печать без ошибок."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q10": {
-        "question": "Усталость рук?",
-        "answer": "Используйте подставку и следите за осанкой."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q5": {
-        "question": "Что такое N-Key Rollover?",
-        "answer": "Регистрация всех нажатий одновременно."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q6": {
-        "question": "Что такое Cherry MX?",
-        "answer": "Популярные механические свитчи."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q7": {
-        "question": "Как чистить клавиатуру?",
-        "answer": "Сжатым воздухом и снимая клавиши."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q8": {
-        "question": "Залипает клавиша?",
-        "answer": "Возможно грязь или поломка."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q9": {
-        "question": "Мембранная клавиатура?",
-        "answer": "Использует резинки, дешевле."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       },
       "q10": {
-        "question": "Менять кнопки ноутбука?",
-        "answer": "Можно, но очень аккуратно."
+        "question": "Что такое CPS тест?",
+        "answer": "CPS тест измеряет, сколько кликов вы можете сделать за одну секунду."
       }
     }
   },
   "game": {
-    "timer": "ВРЕМЯ",
-    "score": "СЧЕТ",
-    "start": "СТАРТ",
-    "active": "КЛИКАЙ!",
-    "try_again": "ПОВТОРИТЬ",
-    "share": "ПОДЕЛИТЬСЯ",
-    "result_msg": "Твоя скорость выше средней. Сможешь побить свой личный рекорд?",
-    "slow": "🐢 Черепаха",
-    "fast": "⚡ Профи",
-    "superhuman": "👑 БОГ"
+    "timer": "Время",
+    "score": "Счет",
+    "start": "Начать",
+    "active": "!!!",
+    "try_again": "Повторить",
+    "share": "Поделиться",
+    "result_msg": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+    "slow": "Rank 1",
+    "fast": "Rank 2",
+    "superhuman": "Rank 3"
   },
   "tool_layout": {
-    "about": "О тесте",
-    "how_to": "Как использовать",
-    "rank_up": "Как повысить ранг?",
-    "faq": "Частые вопросы",
-    "related": "Похожие инструменты",
-    "step1": "Нажмите кнопку старта или в обозначенную область.",
-    "step2": "Выполняйте действие как можно быстрее и точнее.",
-    "step3": "Посмотрите результат и поделитесь с друзьями.",
-    "rank_turtle": "Черепаха (0-5 КПС):",
-    "rank_turtle_desc": "Ты кликаешь слишком медленно! Попробуй напрячь руку.",
-    "rank_pro": "Профи (5-10 КПС):",
-    "rank_pro_desc": "Средняя скорость геймера.",
-    "rank_god": "Бог (10+ КПС):",
-    "rank_god_desc": "Ты владеешь продвинутыми техниками."
+    "about": "Главная",
+    "how_to": "Guide",
+    "rank_up": "Rank Up",
+    "faq": "FAQ",
+    "related": "Tools",
+    "step1": "Начать",
+    "step2": "Click",
+    "step3": "Поделиться",
+    "rank_turtle": "Rank 1",
+    "rank_turtle_desc": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+    "rank_pro": "Rank 2",
+    "rank_pro_desc": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+    "rank_god": "Rank 3",
+    "rank_god_desc": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Dead Pixel",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (RU)",
+    "h1": "Touch Screen Test",
     "seo": {
-      "title": "Touch Screen Test Online (RU)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touch Screen Test",
+      "description": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (RU)",
-      "p_hook": "Localized intro for RU. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for RU.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for RU.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for RU.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in RU."
+      "h2_hook": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_hook": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "h2_science": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_science": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "h2_gaming": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_gaming": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "h2_hardware": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_hardware": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "h2_technique": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_technique": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (RU)",
+    "h1": "Mic Test",
     "seo": {
-      "title": "Microphone Test Online (RU)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Mic Test",
+      "description": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (RU)",
-      "p_hook": "Localized intro for RU. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for RU.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for RU.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for RU.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in RU."
+      "h2_hook": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_hook": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "h2_science": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_science": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "h2_gaming": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_gaming": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "h2_hardware": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_hardware": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "h2_technique": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_technique": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (RU)",
+    "h1": "Gamepad Test",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (RU)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Gamepad Test",
+      "description": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (RU)",
-      "p_hook": "Localized intro for RU. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for RU.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for RU.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for RU.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in RU."
+      "h2_hook": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_hook": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "h2_science": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_science": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "h2_gaming": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_gaming": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "h2_hardware": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_hardware": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "h2_technique": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_technique": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (RU)",
+    "h1": "Packet Loss Test",
     "seo": {
-      "title": "Packet Loss & Ping Test (RU)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Test",
+      "description": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (RU)",
-      "p_hook": "Localized intro for RU. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for RU.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for RU.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for RU.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in RU."
+      "h2_hook": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_hook": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "h2_science": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_science": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "h2_gaming": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_gaming": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "h2_hardware": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_hardware": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "h2_technique": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции.",
+      "p_technique": "Этот инструмент помогает геймерам измерять и улучшать скорость клика и время реакции."
     }
   }
 }
