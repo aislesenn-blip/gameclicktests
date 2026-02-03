@@ -1,26 +1,26 @@
 {
   "seo": {
-    "title": "CPS Test - Check Click Speed & Mouse Health | Palmtweets",
-    "description": "How fast can you click? Take the 10-second CPS Test. Practice Jitter & Butterfly clicking for Minecraft. Test for Mouse Double Clicks and Input Lag."
+    "title": "CPS Test - Click Speed Check Karein | Palmtweets",
+    "description": "Aap kitna tez click kar sakte hain? 10-second CPS Test lein. Minecraft PvP ke liye Jitter aur Butterfly click seekhein. Mouse double click check karein."
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-precise reflex tool. Optimized for Minecraft PvP, Valorant aim training, and competitive gaming.",
-    "start_btn": "START TEST",
+    "h1": "Apni Click Speed Test Karein",
+    "description": "Apne Clicks Per Second (CPS) ko measure karein. BGMI, Minecraft aur Free Fire players ke liye banaya gaya best tool.",
+    "start_btn": "TEST SHURU KAREIN",
     "modes": "Training Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
+    "rank_noob": "🐢 Rank: Kachua (Noob)",
+    "rank_pro": "⚡ Rank: Pro Player",
+    "rank_god": "👑 Rank: BHAGWAN (Godlike)",
+    "share_txt": "Maine Palmtweets par {score} CPS score kiya. Kya tum mujhe beat kar sakte ho?",
     "score": "SCORE",
     "timer": "TIME",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE RESULT",
+    "active": "JALDI CLICK KARO!",
+    "try_again": "FIR SE KOSHISH KAREIN",
+    "share": "SHARE KAREIN",
     "start": "START",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Slow",
-    "fast": "⚡ Fast",
+    "result_msg": "Aapki speed achi hai. Kya aap apna record tod sakte hain?",
+    "slow": "🐢 Dheere",
+    "fast": "⚡ Tez",
     "superhuman": "👑 Legend"
   },
   "nav": {
@@ -32,448 +32,448 @@
     "privacy": "Privacy"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS & Click Tests",
-    "typing_cluster": "Typing Speed (WPM)",
-    "reaction_cluster": "Reflex & Reaction",
-    "keyboard_cluster": "PC Diagnostics",
+    "cps_cluster": "CPS aur Click Tests",
+    "typing_cluster": "Typing Speed",
+    "reaction_cluster": "Reflex aur Reaction",
+    "keyboard_cluster": "PC/Mobile Check",
     "cps_1s": "1 Second (Burst)",
-    "cps_5s": "5 Seconds Test",
-    "cps_60s": "60 Seconds Marathon",
+    "cps_5s": "5 Second Test",
+    "cps_60s": "60 Second Challenge",
     "jitter": "Jitter Click Training",
     "butterfly": "Butterfly Click Test",
     "drag": "Drag Click Test",
     "reaction": "Reaction Time (ms)",
-    "typing": "Typing Speed Test",
-    "keyboard": "Keyboard Ghosting",
+    "typing": "Typing Test (WPM)",
+    "keyboard": "Keyboard Test",
     "minecraft": "Minecraft PvP CPS",
-    "pubg": "PUBG Aim Trainer",
+    "pubg": "BGMI/PUBG Aim",
     "roblox": "Roblox Clicker",
     "valorant": "Valorant Reflex",
     "fortnite": "Fortnite Edit Speed",
-    "hardware_tests": "Hardware Tests",
-    "game_challenges": "Gamer Challenges",
-    "click_modes": "Click Techniques",
+    "hardware_tests": "Hardware Test",
+    "game_challenges": "Game Challenges",
+    "click_modes": "Click Tarike",
     "time_modes": "Time Modes",
     "community": "Community",
     "touch_test": "Touch Screen Test",
-    "mic_test": "Microphone Test",
+    "mic_test": "Mic Test",
     "gamepad_test": "Controller Test (Drift)",
-    "packet_loss": "Ping & Packet Loss"
+    "packet_loss": "Ping aur Packet Loss"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & gaming hardware testing platform."
+    "tagline": "Duniya ka sabse tez reflex aur gaming hardware testing platform."
   },
   "privacy": {
     "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy.",
+    "intro": "Palmtweets par hum aapki privacy ki izzat karte hain.",
     "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve user experience and analyze traffic anonymously.",
+    "cookies_text": "Hum cookies ka use sirf experience behtar banane ke liye karte hain.",
     "data_title": "Data Collection",
-    "data_text": "We do not collect PII (Personal Identifiable Information). Game scores are stored locally on your device.",
-    "contact_title": "Contact",
-    "contact_text": "Questions? Email us at support@palmtweets.com."
+    "data_text": "Hum koi personal data nahi lete. Aapka score aapke browser mein hi save hota hai.",
+    "contact_title": "Sampark",
+    "contact_text": "Koi sawal? Email karein: support@palmtweets.com."
   },
   "seo_content": {
-    "h2_improve": "How to Increase Your CPS (Clicks Per Second)",
-    "p_improve": "High CPS isn't just about speed; it's about technique. Relax your forearm to prevent fatigue. Use a gaming mouse with high-quality switches (like Omron or Optical). Practice for 10 minutes daily to build muscle memory.",
-    "h2_styles": "Jitter Clicking vs. Butterfly Clicking",
-    "p_styles": "**Jitter Clicking** involves vibrating your arm muscles to achieve 12-14 CPS, offering steady aim. **Butterfly Clicking** uses two fingers alternating on one button to hit 20+ CPS, essential for 'Bridging' in Minecraft Bedwars. Note: Butterfly requires a mouse that supports double clicking (low debounce time).",
-    "h2_record": "What is the CPS World Record?",
-    "p_record": "The legitimate record for the 10-second test is around 22-24 CPS. However, using the **Drag Click** technique, some players can achieve burst speeds of over 30 CPS in a single second.",
-    "h2_useful": "Why does Click Speed matter in Gaming?",
-    "p_useful": "In Minecraft 1.8 PvP, high CPS reduces the 'Knockback' you take and helps start combos. In FPS games like Valorant or CS2, fast clicking helps with tap-firing semi-automatic weapons accurately.",
-    "h2_hardware": "Is your mouse Double Clicking randomly?",
-    "p_hardware": "If you click once but the PC registers two clicks, your mouse switch is faulty (Double Click Issue). Use our 'Mouse Test' tool to diagnose this hardware failure before buying a new mouse.",
-    "h2_games": "Improve Aim and Reaction Time",
-    "p_games": "Clicking fast is useless if you miss. Use our **Reaction Time Test** to lower your visual response latency. Pro esports athletes often average below 150ms.",
-    "h2_hook": "Phone screen acting weird? (Ghost Touch)",
-    "p_hook": "Is your character moving on its own in PUBG Mobile? That's 'Ghost Touch'. Use our Touch Screen Test to check for dead zones or digitizer failure on your smartphone.",
-    "h2_science": "Low Ping but still lagging? (Packet Loss)",
-    "p_science": "This is often **Packet Loss**. Game data is getting lost in transit. Speedtests only measure download speed; our tool measures connection STABILITY (Jitter and Loss) crucial for gaming.",
-    "h2_gaming": "Keyboard Ghosting & N-Key Rollover",
-    "p_gaming": "Can't run, jump, and reload at the same time? That's 'Ghosting'. Cheap keyboards lock up after 3 key presses. Check if your keyboard supports 'Anti-Ghosting' or NKRO here.",
-    "h2_technique": "The Art of Drag Clicking",
-    "p_technique": "Drag clicking involves dragging your finger across a matte mouse surface to create friction, generating hundreds of clicks in seconds. Required: Grip Tape and a suitable mouse."
+    "h2_improve": "CPS (Clicks Per Second) kaise badhayein?",
+    "p_improve": "High CPS sirf taqat nahi, technique hai. Apne haath ko relax rakhein taaki dard na ho. Achi gaming mouse use karein (jaise Logitech ya Razer). Roz 10 minute practice karein.",
+    "h2_styles": "Butterfly vs Jitter Click: Kaunsa behtar hai?",
+    "p_styles": "**Jitter Click** mein haath ko vibrate karke 12-14 CPS milta hai, jo aim ke liye acha hai. **Butterfly Click** mein do ungliyon ka use hota hai 20+ CPS ke liye, jo Minecraft Bedwars mein 'Bridging' ke liye zaroori hai.",
+    "h2_record": "CPS ka World Record kya hai?",
+    "p_record": "10 second mein legitimate record lagbhag 22-24 CPS hai. Lekin **Drag Click** technique se kuch players 30+ CPS tak pahunch jate hain.",
+    "h2_useful": "Gaming mein CPS kyu zaroori hai?",
+    "p_useful": "Minecraft PvP mein high CPS 'Knockback' kam karta hai aur combo marne mein madad karta hai. BGMI aur Free Fire mein tez tap karne se pistol firing tez hoti hai.",
+    "h2_hardware": "Kya aapka mouse apne aap Double Click kar raha hai?",
+    "p_hardware": "Agar aap ek baar click karein aur PC do baar register kare, toh mouse ka switch kharab hai. Hamara 'Mouse Test' tool use karein naya mouse khareedne se pehle.",
+    "h2_games": "Aim aur Reaction Time sudharein",
+    "p_games": "Tez click karne ka faida nahi agar nishana chook jaye. Hamara **Reaction Test** use karein. Pro esports players ka reaction time 150ms se kam hota hai.",
+    "h2_hook": "Phone screen atak rahi hai? (Ghost Touch)",
+    "p_hook": "Kya BGMI khelte waqt aim apne aap hil raha hai? Ye 'Ghost Touch' hai. Hamara Touch Screen Test use karein ye check karne ke liye ki screen kharab hai ya bas gandi hai.",
+    "h2_science": "Internet tez hai fir bhi Lag ho raha hai?",
+    "p_science": "Ye **Packet Loss** ho sakta hai. Game ka data beech mein kho raha hai. Speedtest sirf download speed batata hai, hum connection ki STABILITY check karte hain.",
+    "h2_gaming": "Keyboard Ghosting kya hai?",
+    "p_gaming": "Kya aap bhagte hue jump aur reload nahi kar pa rahe? Ye 'Ghosting' hai. Saste keyboards 3 button ek saath nahi le paate. Yahan check karein apna keyboard.",
+    "h2_technique": "Drag Click kya hai?",
+    "p_technique": "Ungli ko mouse par ghiss kar friction se tez click karna Drag Click hai. Iske liye Grip Tape aur matte mouse chahiye hota hai."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Measure Your Click Speed",
-      "description": "How fast are you? Take the 10-second test. Challenge friends and train for eSports tournaments."
+      "title": "CPS Test - Click Speed Naapein",
+      "description": "Aap kitne tez hain? 10-second test lein. Doston ko challenge karein."
     },
     "h1": "CLICK SPEED TEST (CPS)"
   },
   "cps_1s": {
     "seo": {
       "title": "1 Second CPS Test - Burst Speed",
-      "description": "Test your maximum burst speed in one second. Ideal for measuring Drag Click and Knockback reduction."
+      "description": "Ek second mein maximum speed check karein. Drag Click check karne ke liye best."
     },
     "h1": "BURST TEST (1 SECOND)"
   },
   "cps_5s": {
     "seo": {
       "title": "5 Second CPS Test - Short Sprint",
-      "description": "The gamer standard. How many clicks in 5 seconds? Pro average is 12+ CPS."
+      "description": "Gamer standard. 5 second mein kitne clicks? Pro players ka average 12+ CPS hai."
     },
     "h1": "5 SECOND TEST"
   },
   "cps_60s": {
     "seo": {
       "title": "60 Second Marathon - Stamina Test",
-      "description": "The ultimate endurance challenge. Can you maintain high CPS for a full minute without cramping?"
+      "description": "Himmat ka test. Kya aap 1 minute tak tez click kar sakte hain bina thake?"
     },
     "h1": "60 SECOND CHALLENGE"
   },
   "jitter": {
     "seo": {
       "title": "Jitter Click Training - Vibration Technique",
-      "description": "Learn Jitter Clicking. Vibrate your arm to hit 14+ CPS. Tutorial and safe practice tool."
+      "description": "Jitter Click seekhein. Haath vibrate karke 14+ CPS layein. Tutorial aur practice."
     },
     "h1": "JITTER CLICK TRAINING"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Technique",
-      "description": "Test your Butterfly Click speed. Use two fingers to double your CPS. Essential for Bedwars."
+      "title": "Butterfly Click Test - Double Click",
+      "description": "Butterfly speed test karein. Do ungliyon se CPS double karein. Bedwars ke liye zaroori."
     },
     "h1": "BUTTERFLY CLICK TEST"
   },
   "drag": {
     "seo": {
       "title": "Drag Click Test - Friction & Speed",
-      "description": "Test your Drag Click. Use friction to register hundreds of clicks in seconds."
+      "description": "Drag Click test karein. Friction use karke 100+ clicks layein."
     },
     "h1": "DRAG CLICK TEST"
   },
   "minecraft": {
     "seo": {
       "title": "Minecraft PvP Click Test - Combo Training",
-      "description": "Click training specifically for Minecraft PvP. Improve aim tracking and reduce knockback."
+      "description": "Minecraft PvP ke liye special training. Aim aur combo sudharein."
     },
     "h1": "MINECRAFT PVP TRAINING"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. Average is 250ms. Can you hit sub-150ms?"
+      "title": "Reaction Time Test - Human Benchmark India",
+      "description": "Apna visual reflex measure karein. Average 250ms hai. Kya aap 150ms se kam la sakte hain?"
     },
     "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too soon! Don't anticipate.",
+    "wait": "Hare Rang ka Intezaar Karein...",
+    "click": "ABHI CLICK KARO!",
+    "too_soon": "Jaldi kar diya! Intezaar karein.",
     "result": "{time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check WPM",
-      "description": "Free 1-minute typing test. Calculate Words Per Minute (WPM) and accuracy. Practice touch typing."
+      "title": "Typing Speed Test - WPM Check Karein",
+      "description": "Free 1-minute typing test. Sarkari exams aur coding ke liye apni WPM speed badhayein."
     },
     "h1": "TYPING SPEED (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester Online - Key Check",
-      "description": "Test every key on your keyboard. Find Ghosting, stuck keys, and broken switches."
+      "title": "Keyboard Tester Online - Button Check",
+      "description": "Keyboard ka har button check karein. Ghosting aur kharab keys dhoondein."
     },
-    "h1": "KEYBOARD DIAGNOSTICS"
+    "h1": "KEYBOARD CHECK"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "How to Drag Click on a normal mouse?",
-        "answer": "It's hard on office mice. You need a mouse with a matte/rough surface and switches that don't block 'Debounce Time'. Electrical tape (Grip Tape) helps significantly."
+        "question": "Normal mouse par Drag Click kaise karein?",
+        "answer": "Office mouse par mushkil hai. Matte surface wala mouse chahiye. Tape (Grip Tape) lagane se madad milti hai."
       },
       "q2": {
-        "question": "How to improve Aim in Valorant?",
-        "answer": "Clicking fast isn't enough. Set your DPI to a comfortable low range (400-800), disable 'Enhance pointer precision' in Windows, and practice Crosshair Placement."
+        "question": "Valorant/BGMI mein Aim kaise sudharein?",
+        "answer": "Sirf click speed kaafi nahi. DPI kam karein (400-800), mouse acceleration band karein aur Crosshair Placement par dhyaan dein."
       },
       "q3": {
-        "question": "How to tell if my keyboard is Mechanical?",
-        "answer": "Remove a keycap. If you see a cross-shaped switch (Blue, Red, Brown), it's mechanical. If you see a rubber dome, it's membrane."
+        "question": "Mera keyboard Mechanical hai ya nahi?",
+        "answer": "Ek keycap nikalein. Agar plus (+) shape ka switch dikhe (Blue/Red), toh mechanical hai. Agar rubber dikhe, toh membrane hai."
       },
       "q4": {
-        "question": "Is Jitter Clicking bad for your hand?",
-        "answer": "If done incorrectly, yes. It can lead to carpal tunnel due to tension. Stretch your wrists and take breaks if you feel pain."
+        "question": "Kya Jitter Clicking haath ke liye bura hai?",
+        "answer": "Galat tarike se karne par haan. Dard hone par ruk jayein aur haath ko stretch karein."
       },
       "q5": {
-        "question": "Best mouse for Butterfly Clicking?",
-        "answer": "The Glorious Model O, Logitech G Pro X Superlight, and Roccat Kain are popular because you can lower the 'Debounce Time' to allow double clicks."
+        "question": "Butterfly Click ke liye best mouse?",
+        "answer": "Glorious Model O aur Logitech G Pro X best hain kyunki unmein double click allow karne ki setting hoti hai."
       },
       "q6": {
-        "question": "What is Polling Rate (Hz)?",
-        "answer": "How often the mouse reports position to the PC. For gaming, 1000Hz (1ms) is standard. At 125Hz, the mouse feels choppy."
+        "question": "Polling Rate (Hz) kya hai?",
+        "answer": "Mouse PC ko kitni baar signal bhejta hai. Gaming ke liye 1000Hz zaroori hai."
       },
       "q7": {
-        "question": "Why does my mouse cursor stutter?",
-        "answer": "Often it's dust on the sensor or a dirty mousepad. Gently clean the sensor with a Q-tip."
+        "question": "Mouse cursor kyu atak raha hai?",
+        "answer": "Sensor par dhool ho sakti hai. Earbud se saaf karein."
       },
       "q8": {
-        "question": "How to test for Double Click issues?",
-        "answer": "Use our 'Mouse Test' tool. Click slowly 100 times. If the counter shows 102 or more, your switch is faulty."
+        "question": "Double Click issue kaise check karein?",
+        "answer": "Hamara 'Mouse Test' use karein. 100 baar click karein. Agar count 100 se zyada hai, toh mouse kharab hai."
       },
       "q9": {
-        "question": "What is the average human CPS?",
-        "answer": "The average is 6-7 clicks per second. Gamers hit 8-10. Minecraft pros hit 15+ with special techniques."
+        "question": "Average insaan ka CPS kya hai?",
+        "answer": "Average 6-7 CPS hota hai. Gamers 8-10 tak jate hain."
       },
       "q10": {
-        "question": "Best DPI for FPS games?",
-        "answer": "Low DPI (400-800) offers precision. High DPI (1600+) is good for MOBA. Important: Disable mouse acceleration."
+        "question": "FPS games ke liye best DPI?",
+        "answer": "Low DPI (400-800) best hai accuracy ke liye."
       },
       "q11": {
-        "question": "Does a mechanical keyboard make you faster?",
-        "answer": "Yes, the actuation point is more precise, allowing for faster strafing (ADAD) movements."
+        "question": "Kya Mechanical Keyboard se speed badhti hai?",
+        "answer": "Haan, buttons jaldi register hote hain, jisse movement fast hoti hai."
       },
       "q12": {
-        "question": "How to fix Controller Stick Drift?",
-        "answer": "Drift is caused by dust in the sensor. Try blowing compressed air into the stick base. If that fails, the module needs replacement."
+        "question": "Controller Drift kaise theek karein?",
+        "answer": "Stick ke neeche phoonk maarein (blow air). Dhool nikalne se theek ho sakta hai."
       },
       "q13": {
-        "question": "Why high ping with fast internet?",
-        "answer": "Download speed is not latency. Use an Ethernet cable instead of WiFi to eliminate ping spikes and packet loss."
+        "question": "Jio Fiber hone par bhi ping high kyu hai?",
+        "answer": "Download speed aur Ping alag hain. Gaming ke liye LAN cable use karein, WiFi nahi."
       },
       "q14": {
-        "question": "What is Keyboard Ghosting?",
-        "answer": "When you press multiple keys at once (e.g., W + Shift + Space) and one doesn't register. Good keyboards have 'N-Key Rollover'."
+        "question": "Keyboard Ghosting kya hai?",
+        "answer": "Jab keyboard ek saath dabaye gaye keys ko register nahi karta."
       },
       "q15": {
-        "question": "How to test if my mic has static?",
-        "answer": "Use our Microphone Test. If the wave line moves while you are silent, you have background noise or interference."
+        "question": "Mic mein shor (noise) kaise check karein?",
+        "answer": "Hamara Mic Test use karein. Agar chup rehne par bhi line hil rahi hai, toh shor hai."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and send the command to your finger to click."
+        "question": "Reaction time kya hai?",
+        "answer": "Dimag ko signal process karke ungli hilane mein laga waqt."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. F1 drivers and Pro Gamers hover around 150ms."
+        "question": "Acha reaction time kya hai?",
+        "answer": "Average 250ms hai. 200ms se kam bohot acha hai."
       },
       "q3": {
-        "question": "Can reflexes be trained?",
-        "answer": "Yes. Play fast-paced shooters, get enough sleep (sleep is crucial), and use Aim Trainers or our test daily."
+        "question": "Reflexes kaise badhayein?",
+        "answer": "Shooting games khelein aur achi neend lein."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, it peaks around age 24. However, experience (Game Sense) can compensate for raw speed."
+        "question": "Kya umar se reaction kam hota hai?",
+        "answer": "Haan, 24 saal ke baad thoda slow ho jata hai."
       },
       "q5": {
-        "question": "Does a 144Hz monitor help?",
-        "answer": "Massively! The image refreshes more often, letting you see the enemy milliseconds before someone on 60Hz."
+        "question": "144Hz monitor zaroori hai?",
+        "answer": "Haan, dushman jaldi dikhta hai."
       },
       "q6": {
-        "question": "Visual vs. Auditory reaction?",
-        "answer": "The brain processes sound (170ms) faster than light (250ms). This is why a good headset is vital for hearing footsteps."
+        "question": "Audio vs Visual reaction?",
+        "answer": "Audio reaction (170ms) visual se tez hoti hai. Headphone pehnein."
       },
       "q7": {
-        "question": "Does caffeine help?",
-        "answer": "It increases alertness temporarily, but too much causes jitteriness, ruining aim precision."
+        "question": "Coffee peene se faida hota hai?",
+        "answer": "Thoda faida hai, par zyada peene se haath kaanpne lagte hain."
       },
       "q8": {
-        "question": "Do wireless mice have lag?",
-        "answer": "Modern ones (Logitech Lightspeed, Razer) are as fast or faster than wired mice. Latency is a thing of the past."
+        "question": "Wireless mouse slow hota hai?",
+        "answer": "Nahi, aajkal ke wireless mouse wired jitne hi tez hain."
       },
       "q9": {
-        "question": "What is Input Lag?",
-        "answer": "The delay between your click and the action on screen. V-Sync and old monitors increase Input Lag."
+        "question": "Input Lag kya hai?",
+        "answer": "Click karne aur screen par action hone ke beech ka delay."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use 'Accuracy Tests' where you must click small, fast-disappearing targets."
+        "question": "Accuracy kaise test karein?",
+        "answer": "Hamare accuracy tools use karein."
       }
     },
     "typing": {
       "q1": {
-        "question": "What does WPM stand for?",
-        "answer": "Words Per Minute. It's the global standard for typing speed measurement."
+        "question": "WPM kya hai?",
+        "answer": "Words Per Minute (Shabd Prati Minute). Typing speed naapne ka tarika."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Learn Touch Typing (10 fingers). Do not look at the keyboard. Focus on accuracy before speed."
+        "question": "Tez kaise type karein?",
+        "answer": "Touch Typing seekhein. Keyboard na dekhein."
       },
       "q3": {
-        "question": "What is a good WPM score?",
-        "answer": "40 WPM is average. 60-70 WPM is good for office work. Over 100 WPM is competitive level."
+        "question": "Achi WPM kya hai?",
+        "answer": "40 average hai. 60+ achi hai."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, muscle memory takes over. You can focus on the screen and correct errors instantly."
+        "question": "Bina dekhe type karna behtar hai?",
+        "answer": "Haan, isse galti kam hoti hai aur speed badhti hai."
       },
       "q5": {
-        "question": "Blue or Red switches for typing?",
-        "answer": "Blue switches click loudly – many writers love the feedback. Red are quiet and linear, preferred for gaming."
+        "question": "Kaunsa switch typing ke liye best hai?",
+        "answer": "Blue switches typing ke liye best hain (clicky sound)."
       },
       "q6": {
-        "question": "Are laptop keyboards bad?",
-        "answer": "They have shallow travel distance. An external mechanical keyboard is more ergonomic and faster for long texts."
+        "question": "Laptop keyboard kharab hai kya?",
+        "answer": "Mechanical keyboard hamesha behtar hota hai."
       },
       "q7": {
-        "question": "How to practice typing?",
-        "answer": "Use sites like Palmtweets daily. Try re-typing book pages to vary your vocabulary."
+        "question": "Practice kaise karein?",
+        "answer": "Palmtweets par roz test dein."
       },
       "q8": {
-        "question": "What does Accuracy mean?",
-        "answer": "The percentage of correct keystrokes. 100 WPM with 80% accuracy is useless because correcting takes time."
+        "question": "Accuracy ka kya matlab hai?",
+        "answer": "Sahi shabd type karne ka percentage."
       },
       "q9": {
-        "question": "How to prevent wrist pain?",
-        "answer": "Keep wrists straight (don't rest them on the desk edge). Use a wrist rest."
+        "question": "Haath dard se kaise bachein?",
+        "answer": "Haath seedha rakhein aur wrist rest use karein."
       },
       "q10": {
-        "question": "Does keyboard layout matter?",
-        "answer": "QWERTY is standard. DVORAK is scientifically faster but requires relearning everything. Stick to what you know."
+        "question": "Keyboard layout zaroori hai?",
+        "answer": "India mein QWERTY chalta hai. Wahi use karein."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When keyboard inputs fail to register because too many keys were pressed simultaneously."
+        "question": "Ghosting kya hai?",
+        "answer": "Jab keyboard button press miss kar deta hai."
       },
       "q2": {
-        "question": "What is NKRO?",
-        "answer": "N-Key Rollover. You can press ALL keys at once and the PC registers every single one. Mandatory for gamers."
+        "question": "NKRO kya hai?",
+        "answer": "Saare buttons ek saath dabane par bhi kaam karna."
       },
       "q3": {
-        "question": "How to find a broken key?",
-        "answer": "Open our Keyboard Tester. Press the suspect key. If it doesn't light up green, the switch or circuit is dead."
+        "question": "Kharab button kaise dhoondein?",
+        "answer": "Hamara Keyboard Tester use karein."
       },
       "q4": {
-        "question": "Membrane vs. Mechanical?",
-        "answer": "Membrane uses rubber (cheap, mushy). Mechanical uses springs/switches (precise, durable)."
+        "question": "Membrane vs Mechanical?",
+        "answer": "Membrane sasta hai, Mechanical tez aur durable hai."
       },
       "q5": {
-        "question": "How to remove a keycap?",
-        "answer": "Use a Keycap Puller tool. Do not pry with a knife, you might break the switch stem."
+        "question": "Keycap kaise nikalein?",
+        "answer": "Keycap puller se. Haath se kheenchne par toot sakta hai."
       },
       "q6": {
-        "question": "What are Optical Switches?",
-        "answer": "They use light beams instead of metal contact to activate. Theoretically faster and more durable."
+        "question": "Optical Switch kya hai?",
+        "answer": "Light se chalne wala switch, bohot tez hota hai."
       },
       "q7": {
-        "question": "Why does my spacebar rattle?",
-        "answer": "The stabilizers (metal bars) are dry. Applying a little dielectric grease (Lube) fixes the rattle."
+        "question": "Spacebar awaaz kyu karta hai?",
+        "answer": "Lube (grease) lagane se awaaz kam ho jayegi."
       },
       "q8": {
-        "question": "Is TKL better?",
-        "answer": "Tenkeyless (no number pad) saves desk space. This gives more room for mouse movement in FPS games."
+        "question": "TKL kya hai?",
+        "answer": "Bina number pad wala chota keyboard."
       },
       "q9": {
-        "question": "What is 'Chattering'?",
-        "answer": "When a key is pressed once but types 'aa' or 'aaa'. A common defect in dirty mechanical keyboards."
+        "question": "Chattering kya hai?",
+        "answer": "Jab ek baar dabane par do baar type ho jaye."
       },
       "q10": {
-        "question": "Can I wash my keyboard?",
-        "answer": "NO (unless it's waterproof certified). Clean with compressed air and isopropyl alcohol."
+        "question": "Keyboard dho sakte hain?",
+        "answer": "Nahi! Sirf hawa aur kapde se saaf karein."
       }
     }
   },
   "game": {
-    "timer": "TIME",
+    "timer": "SAMAY",
     "score": "SCORE",
-    "start": "START",
-    "active": "FAST!",
-    "try_again": "AGAIN",
+    "start": "SHURU",
+    "active": "TEZ!",
+    "try_again": "FIR SE",
     "share": "SHARE",
-    "result_msg": "Excellent! You have ninja reflexes. Try to beat your record!",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Flash",
+    "result_msg": "Bohot badhiya! Ninja reflexes hain aapke.",
+    "slow": "🐢 Kachua",
+    "fast": "⚡ Bijli",
     "superhuman": "👑 Legend"
   },
   "tool_layout": {
-    "about": "About Tool",
-    "how_to": "How to Use",
-    "rank_up": "How to Improve?",
-    "faq": "FAQ",
-    "related": "Related Tools",
-    "step1": "Click the 'Start' button or the gray area.",
-    "step2": "Perform the action as quickly as possible.",
-    "step3": "View your rank and share the result.",
-    "rank_turtle": "Rank Turtle (0-5 CPS):",
-    "rank_turtle_desc": "Too slow! Try tensing your arm muscles.",
+    "about": "Tool Ke Baare Mein",
+    "how_to": "Kaise Use Karein",
+    "rank_up": "Improve Kaise Karein?",
+    "faq": "Sawaal Jawab",
+    "related": "Aur Tools",
+    "step1": "'Start' button par click karein.",
+    "step2": "Jitna tez ho sake task karein.",
+    "step3": "Apna rank dekhein aur share karein.",
+    "rank_turtle": "Rank Kachua (0-5 CPS):",
+    "rank_turtle_desc": "Bohot slow! Haath ko thoda tight karein.",
     "rank_pro": "Rank Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed.",
-    "rank_god": "Rank God (10+ CPS):",
-    "rank_god_desc": "You have mastered Jitter or Butterfly clicking."
+    "rank_pro_desc": "Ek normal gamer ki speed.",
+    "rank_god": "Rank Bhagwan (10+ CPS):",
+    "rank_god_desc": "Aap Jitter ya Butterfly click seekh gaye hain."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker (Monitor)",
+    "h1": "Dead Pixel Checker (Screen)",
     "seo": {
-      "description": "Check your monitor or phone screen for dead pixels, stuck pixels, or backlight bleeding."
+      "description": "Apne monitor ya phone screen ke dead pixels check karein."
     }
   },
   "touch_test": {
     "h1": "Touch Screen Test Online",
     "seo": {
-      "title": "Touch Screen Test - Check Ghost Touch",
-      "description": "Test your phone screen. Find dead zones, Ghost Touch, and check Multi-touch support."
+      "title": "Touch Test - Ghost Touch Check",
+      "description": "Phone screen test karein. Dead zones aur Ghost Touch dhoondein."
     },
     "content": {
-      "h2_hook": "Is your phone clicking on its own? (Ghost Touch)",
-      "p_hook": "If your crosshair in PUBG Mobile moves by itself, you have 'Ghost Touch'. It's frustrating and loses games. Use this tool to check if it's the screen or just dirt.",
-      "h2_science": "How does the test work?",
-      "p_science": "We display a grid. Swipe your finger everywhere. If a square doesn't turn green, that area is dead (Dead Zone).",
-      "h2_gaming": "Multi-touch Test (Claw Grip)",
-      "p_gaming": "Mobile gamers often use 4 fingers (Claw). Place all fingers on the screen. Our tool will tell you how many touch points your phone supports at once.",
-      "h2_hardware": "Software or Hardware?",
-      "p_hardware": "Common cause: Cheap chargers (static electricity) or thick screen protectors. If it only glitches while charging, change the cable.",
-      "h2_technique": "Quick Fix",
-      "p_technique": "Clean the screen (oil/sweat). Remove magnetic cases. Restart the device."
+      "h2_hook": "Kya phone apne aap click kar raha hai? (Ghost Touch)",
+      "p_hook": "Agar BGMI mein aim apne aap hil raha hai, toh ye 'Ghost Touch' hai. Ye tool batayega ki screen kharab hai ya nahi.",
+      "h2_science": "Ye kaise kaam karta hai?",
+      "p_science": "Hum ek grid dikhate hain. Ungli ghumao. Agar koi dabba green nahi hua, toh wo hissa kharab hai.",
+      "h2_gaming": "Multi-touch Test (4 Finger Claw)",
+      "p_gaming": "Agar aap 4 finger claw khelte hain, toh saari ungliyan screen par rakhein. Ye tool batayega kitne touch kaam kar rahe hain.",
+      "h2_hardware": "Software ya Hardware?",
+      "p_hardware": "Sasta charger ya mota screen guard aksar wajah hota hai. Charger hatake check karein.",
+      "h2_technique": "Jugaad Fix",
+      "p_technique": "Screen saaf karein (paseena/tel). Cover nikalein. Phone restart karein."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online",
+    "h1": "Mic Test Online",
     "seo": {
-      "title": "Test Mic - Check Noise and Volume",
-      "description": "Test your mic and headphones. Visualize sound waves, volume, and check for echo."
+      "title": "Mic Test - Shor aur Volume Check",
+      "description": "Mic aur headphone test karein. Awaaz ki quality check karein."
     },
     "content": {
-      "h2_hook": "Do you sound bad on Discord?",
-      "p_hook": "Check your audio before the match starts. Static or echo ruins team comms. Test your mic here for free without installing anything.",
-      "h2_science": "Wave Visualization",
-      "p_science": "This tool graphs your voice in real-time. If you speak and the line stays flat, your mic is muted or configured wrong in Windows.",
+      "h2_hook": "Discord par awaaz kharab aa rahi hai?",
+      "p_hook": "Game se pehle mic check karein. Shor ya dheemi awaaz game kharab kar sakti hai. Yahan free mein test karein.",
+      "h2_science": "Awaaz ka Graph",
+      "p_science": "Ye tool aapki awaaz dikhata hai. Agar graph nahi hil raha, toh mic mute hai ya kharab hai.",
       "h2_gaming": "Stereo Test (Left / Right)",
-      "p_gaming": "For headphones, knowing if sound comes from left or right is vital. Our channel test tells you if your headset is on backwards.",
-      "h2_hardware": "Compatibility",
-      "p_hardware": "We test lavalier mics, USB headsets, webcams, and studio mics. Remember to click 'Allow' on the browser permission.",
-      "h2_technique": "Remove Static Noise",
-      "p_technique": "Lower 'Microphone Boost' in Windows Sound settings. Static buzzing is often caused by bad grounding or loose cables."
+      "p_gaming": "Headphone ulta toh nahi pehna? Hamara test batayega awaaz left se aa rahi hai ya right se.",
+      "h2_hardware": "Support",
+      "p_hardware": "Hum earphone mic, USB mic aur laptop mic sab test karte hain. Browser mein 'Allow' zaroor karein.",
+      "h2_technique": "Shor (Noise) Hatayein",
+      "p_technique": "Windows setting mein 'Microphone Boost' kam karein. Earthing kharab hone se bhi shor aata hai."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester (Stick Drift)",
+    "h1": "Controller Test (Drift Check)",
     "seo": {
-      "title": "Controller Test PS4/PS5/Xbox - Check Drift",
-      "description": "Tool to test buttons and joysticks. Check for Stick Drift and vibration motors on PC."
+      "title": "Controller Test PS4/PS5/Xbox - Drift Check",
+      "description": "Buttons aur analog stick test karein. Stick Drift check karne ka tool."
     },
     "content": {
-      "h2_hook": "Character moving alone? (Stick Drift)",
-      "p_hook": "The #1 problem with DualSense and Xbox controllers is 'Drift'. Use our axis visualizer to see if the stick is truly centered at rest.",
+      "h2_hook": "Player apne aap chal raha hai? (Stick Drift)",
+      "p_hook": "PS5 aur Xbox controller ki sabse badi problem 'Drift' hai. Yahan check karein ki stick seedhi hai ya nahi.",
       "h2_science": "Axis Data",
-      "p_science": "We show X and Y values. A perfect controller sits at 0.00. If numbers jump without touching, you have drift.",
+      "p_science": "Hum X aur Y value dikhate hain. Agar bina chuye number badal rahe hain, toh drift hai.",
       "h2_gaming": "Compatibility",
-      "p_gaming": "Works natively with DualShock 4, DualSense (PS5), Xbox One/Series, and Switch Pro controllers. Just connect via USB or Bluetooth.",
-      "h2_hardware": "Vibration and Trigger Test",
-      "p_hardware": "Click 'Vibrate' to test motors. Also check if L2/R2 triggers respond smoothly from 0% to 100%.",
-      "h2_technique": "Fixing Drift",
-      "p_technique": "Try blowing compressed air into the stick base. Or increase the 'Deadzone' in your game settings to ignore small movements."
+      "p_gaming": "PS4, PS5, Xbox aur local USB controllers sab chalenge. Bas connect karein.",
+      "h2_hardware": "Vibration Test",
+      "p_hardware": "'Vibrate' par click karke motor check karein. L2/R2 button ka pressure bhi check kar sakte hain.",
+      "h2_technique": "Drift Kaise Theek Karein?",
+      "p_technique": "Analog stick mein phoonk maarein (blow air). Ya game setting mein 'Deadzone' badha dein."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test",
+    "h1": "Packet Loss aur Ping Test",
     "seo": {
-      "title": "Packet Loss Test - Check Lag and Jitter",
-      "description": "Fast internet but game lagging? Check for Packet Loss, Jitter, and real Ping stability."
+      "title": "Packet Loss Test - Lag Check Karein",
+      "description": "Net tez hai par game atak raha hai? Packet Loss aur Jitter check karein."
     },
     "content": {
-      "h2_hook": "Low ping but rubberbanding? (Lag Spikes)",
-      "p_hook": "That's 'Packet Loss'. Game data is getting lost on the way. Speedtests only measure download speed; we measure connection STABILITY.",
-      "h2_science": "What is Jitter?",
-      "p_science": "Jitter is the fluctuation of ping. Stable 50ms is better than 20ms that jumps to 100ms. High jitter causes teleporting.",
-      "h2_gaming": "WiFi vs Ethernet",
-      "p_gaming": "Golden Rule: DO NOT GAME ON WIFI. Radio signals are unstable. Use an Ethernet cable (LAN) to guarantee 0% packet loss.",
-      "h2_hardware": "Network Diagnosis",
-      "p_hardware": "If you have loss, restart your router. If it persists, it's your ISP (Internet Service Provider). Use this test as proof.",
-      "h2_technique": "Improve Ping",
-      "p_technique": "Close background downloads (Steam, Windows Update), disconnect phones from WiFi, and choose servers near your location."
+      "h2_hook": "Ping kam hai fir bhi teleport ho raha hai?",
+      "p_hook": "Ye 'Packet Loss' hai. Game ka data beech mein gir raha hai. Speedtest ye nahi batata.",
+      "h2_science": "Jitter kya hai?",
+      "p_science": "Ping ka baar-baar kam zyada hona. Stable 50ms behtar hai 20ms se jo baar baar 100ms ho jaye.",
+      "h2_gaming": "WiFi vs LAN Cable",
+      "p_gaming": "Gaming ke liye WiFi use NA karein. LAN cable lagayein taaki 0% loss mile.",
+      "h2_hardware": "Network Check",
+      "p_hardware": "Agar loss hai toh router restart karein. Agar fir bhi hai toh Jio/Airtel ki galti hai.",
+      "h2_technique": "Ping Sudharein",
+      "p_technique": "Background download band karein. Ghar ke baaki phone WiFi se hatayein."
     }
   }
 }
