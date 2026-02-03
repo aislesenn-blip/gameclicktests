@@ -1,477 +1,479 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPS Teszt - Kattintási Sebesség Mérése | Palmtweets",
+    "description": "Milyen gyorsan tudsz kattintani? Csináld meg a 10 másodperces CPS tesztet. Gyakorold a Jitter és Butterfly Click technikákat Minecraft PvP-hez. Egér dupla kattintás teszt."
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start CPS Test",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "SCORE",
-    "timer": "TIMER",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "start": "START CLICKING",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "h1": "Teszteld a Kattintási Sebességedet",
+    "description": "Mérd meg a másodpercenkénti kattintások számát (CPS) ultra-pontos eszközünkkel. Minecraft, CS2 és League of Legends játékosoknak fejlesztve Magyarországon.",
+    "start_btn": "TESZT INDÍTÁSA",
+    "modes": "Gyakorló Módok",
+    "rank_noob": "🐢 Rang: Csiga",
+    "rank_pro": "⚡ Rang: Profi Gamer",
+    "rank_god": "👑 Rang: ISTENI (Godlike)",
+    "share_txt": "{score} CPS-t értem el a Palmtweets-en. Meg tudsz verni?",
+    "score": "PONTSZÁM",
+    "timer": "IDŐ",
+    "active": "KATTINTS GYORSAN!",
+    "try_again": "ÚJRA",
+    "share": "MEGOSZTÁS",
+    "start": "START",
+    "result_msg": "A sebességed átlag feletti. Meg tudod dönteni a rekordodat?",
+    "slow": "🐢 Lassú",
+    "fast": "⚡ Gyors",
+    "superhuman": "👑 Legenda"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "home": "Főoldal",
+    "cps": "Kattintás Teszt",
+    "reaction": "Reakcióidő",
+    "typing": "Gépelés",
+    "keyboard": "Billentyűzet",
+    "privacy": "Adatvédelem"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "Hardver",
-    "game_challenges": "Játékok",
-    "click_modes": "Kattintási Módok",
+    "cps_cluster": "CPS és Kattintás Tesztek",
+    "typing_cluster": "Gépelési Sebesség",
+    "reaction_cluster": "Reflex és Reakció",
+    "keyboard_cluster": "PC Diagnosztika",
+    "cps_1s": "1 Másodperc (Burst)",
+    "cps_5s": "5 Másodperc Teszt",
+    "cps_60s": "60 Másodperc Maraton",
+    "jitter": "Jitter Click Tréning",
+    "butterfly": "Butterfly Click Teszt",
+    "drag": "Drag Click Teszt",
+    "reaction": "Reakcióidő (ms)",
+    "typing": "Gépelésteszt (WPM)",
+    "keyboard": "Billentyűzet Teszt",
+    "minecraft": "Minecraft PvP CPS",
+    "pubg": "PUBG Aim Tréning",
+    "roblox": "Klikker Robloxhoz",
+    "valorant": "Valorant Reflexek",
+    "fortnite": "Fortnite Építés",
+    "hardware_tests": "Hardver Tesztek",
+    "game_challenges": "Gamer Kihívások",
+    "click_modes": "Kattintási Technikák",
     "time_modes": "Idő Módok",
     "community": "Közösség",
-    "touch_test": "Touch Screen Test (HU)",
-    "mic_test": "Mic Test (HU)",
-    "gamepad_test": "Gamepad Tester (HU)",
-    "packet_loss": "Packet Loss Test (HU)"
+    "touch_test": "Érintőképernyő Teszt",
+    "mic_test": "Mikrofon Teszt",
+    "gamepad_test": "Kontroller Teszt (Drift)",
+    "packet_loss": "Ping és Csomagvesztés"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "A világ leggyorsabb reflex- és hardvertesztelő platformja."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
-    "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
-    "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "title": "Adatvédelmi Irányelvek",
+    "intro": "A Palmtweets tiszteletben tartja a magánéletét.",
+    "cookies_title": "Sütik (Cookies)",
+    "cookies_text": "Sütiket használunk a felhasználói élmény javítása és a forgalom névtelen elemzése érdekében.",
+    "data_title": "Adatgyűjtés",
+    "data_text": "Nem gyűjtünk személyes adatokat. Az eredményeid helyileg, a böngésződben tárolódnak.",
+    "contact_title": "Kapcsolat",
+    "contact_text": "Kérdésed van? Írj nekünk: support@palmtweets.com."
   },
   "seo_content": {
-    "h2_improve": "Tips to Improve Clicking (HU)",
-    "p_improve": "Practice daily and use a good mouse.",
-    "h2_styles": "Clicking Styles",
-    "p_styles": "Learn Jitter and Butterfly clicking.",
-    "h2_record": "World Records",
-    "p_record": "Aim for 10+ CPS.",
-    "h2_useful": "Gaming Utility",
-    "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Section 4 (HU)",
-    "p_hardware": "Localized content for HU focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_hook": "Section 1 (HU)",
-    "p_hook": "Localized content for HU focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (HU)",
-    "p_science": "Localized content for HU focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (HU)",
-    "p_gaming": "Localized content for HU focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (HU)",
-    "p_technique": "Localized content for HU focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "Hogyan növeld a CPS-t (Kattintás per másodperc)?",
+    "p_improve": "A magas CPS nem csak erő, hanem technika kérdése. Lazítsd el az alkarod, hogy elkerüld az ínhüvelygyulladást. Használj gamer egeret gyors kapcsolókkal (pl. Logitech vagy Razer). Gyakorolj napi 10 percet az izommemória érdekében.",
+    "h2_styles": "Butterfly Click vs. Jitter Click: Melyik a jobb?",
+    "p_styles": "A **Jitter Click** az alkar remegtetését használja a 12-14 CPS eléréséhez, ami jó a célzáshoz (aim). A **Butterfly Click** két ujjat használ felváltva a 20+ CPS eléréséhez, ami elengedhetetlen a 'Bridging'-hez a Minecraft Bedwars-ban. Megjegyzés: A Butterfly-hoz olyan egér kell, ami engedi a dupla kattintást.",
+    "h2_record": "Mennyi a CPS világrekord?",
+    "p_record": "A hiteles rekord 10 másodperc alatt kb. 22-24 CPS. Azonban a **Drag Click** technikával egyes játékosok 30 CPS feletti csúcssebességet (Burst) is elérhetnek egy másodperc alatt.",
+    "h2_useful": "Miért fontos a CPS a játékokban?",
+    "p_useful": "A Minecraft 1.8 PvP-ben a magas CPS csökkenti a kapott 'Knockback'-et (hátralökést) és segít a kombókban. Az olyan lövöldözős játékokban, mint a CS2 vagy a Valorant, a gyors kattintás segít a félautomata fegyverek pontosabb használatában.",
+    "h2_hardware": "Duplán kattint az egered magától?",
+    "p_hardware": "Ha egyszer kattintasz, de a gép kettőt érzékel, az egér kapcsolója hibás (Double Click Issue). Használd az 'Egér Teszt' eszközünket a hiba megerősítésére, mielőtt újat vennél.",
+    "h2_games": "Javítsd a Célzást (Aim) és a Reakcióidőt",
+    "p_games": "A gyors kattintás hiábavaló, ha nem találsz. Használd a **Reakcióidő Tesztünket** a vizuális késleltetés csökkentésére. A profi e-sportolók átlaga gyakran 150ms alatt van.",
+    "h2_hook": "Szórakozik a telefonod kijelzője? (Ghost Touch)",
+    "p_hook": "Magától mozog a célkereszt a PUBG Mobile-ban? Ez a 'Szellemek Érintése' (Ghost Touch). Használd az Érintőképernyő Tesztünket, hogy kiderítsd: a kijelző hibás vagy csak koszos.",
+    "h2_science": "Gyors a neted, mégis lagolsz? (Packet Loss)",
+    "p_science": "Ez gyakran a **Csomagvesztés** (Packet Loss) miatt van. A játékadatok elvesznek útközben. A Speedtest csak a letöltést méri, mi a kapcsolat STABILITÁSÁT mérjük (Telekom, Digi, Vodafone) játékhoz.",
+    "h2_gaming": "Billentyűzet Ghosting és N-Key Rollover",
+    "p_gaming": "Nem tudsz egyszerre futni, ugrani és tárazni? Ez a 'Ghosting'. Az olcsó billentyűzetek 3 gombnál lefagynak. Ellenőrizd itt, hogy a billentyűzeted támogatja-e az 'Anti-Ghosting'-ot vagy az NKRO-t.",
+    "h2_technique": "A Drag Click művészete",
+    "p_technique": "A Drag Click azt jelenti, hogy az ujjadat végighúzod az egér érdes felületén, hogy a súrlódás révén másodpercek alatt több száz kattintást generálj. Szükséges: Grip Tape (szalag) és matt egér."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "CPS Teszt - Mérd meg a kattintási sebességed",
+      "description": "Milyen gyors vagy? Csináld meg a 10 másodperces tesztet. Hívd ki a barátaidat és gyakorolj versenyekre."
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "KATTINTÁSI SEBESSÉG TESZT (CPS)"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "1 Másodperces CPS Teszt - Robbanékonyság",
+      "description": "Teszteld a maximális sebességedet egy másodperc alatt. Ideális a Drag Click és a Knockback mérésére."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "BURST TESZT (1 MÁSODPERC)"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
-      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "5 Másodperces CPS Teszt - Rövid Sprint",
+      "description": "A gamer szabvány. Hány kattintás megy 5 másodperc alatt? A profi átlag 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "5 MÁSODPERCES TESZT"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "60 Másodperces Maraton - Állóképesség",
+      "description": "A végső állóképességi teszt. Bírod a tempót egy percig görcs nélkül?"
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "60 MÁSODPERCES KIHÍVÁS"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "Jitter Click Tréning - Rezgés Technika",
+      "description": "Tanulj meg Jitterelni. Rezegtesd a karod a 14+ CPS eléréséhez. Útmutató és biztonságos teszt."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "JITTER CLICK TRÉNING"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
-      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "Butterfly Click Teszt - Dupla Kattintás",
+      "description": "Teszteld a Butterfly sebességedet. Használj két ujjat a CPS megduplázásához. Kötelező Bedwars-hoz."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "BUTTERFLY CLICK TESZT"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
-      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "Drag Click Teszt - Súrlódás és Sebesség",
+      "description": "Teszteld a Drag Click-et. Használd a súrlódást több száz kattintás regisztrálásához."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "DRAG CLICK TESZT"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
-      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "Minecraft PvP Kattintás Teszt - Kombó Tréning",
+      "description": "Kattintási gyakorlat kifejezetten Minecraft PvP-hez. Javítsd a célzást és csökkentsd a knockback-et."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "MINECRAFT PVP TRÉNING"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Reakcióidő Teszt - Human Benchmark Magyarország",
+      "description": "Mérd a vizuális reflexeidet ezredmásodpercben. Az átlag 250ms. Le tudsz menni 150ms alá?"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
+    "h1": "REAKCIÓIDŐ TESZT",
+    "wait": "Várj a Zöldre...",
+    "click": "KATTINTS MOST!",
+    "too_soon": "Túl korán! Ne tippelj.",
     "result": "{time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Gépelési Sebesség Teszt - WPM Ellenőrzés",
+      "description": "Ingyenes 1 perces gépelésteszt. Számold ki a Percenkénti Szavakat (WPM) és a pontosságot."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "GÉPELÉSI SEBESSÉG (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Billentyűzet Teszt Online - Gomb Ellenőrzés",
+      "description": "Teszteld a billentyűzet minden gombját. Találd meg a Ghostingot, beragadt gombokat és hibás kapcsolókat."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "BILLENTYŰZET DIAGNOSZTIKA"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for HU users."
+        "question": "Hogy csináljak Drag Click-et normál egérrel?",
+        "answer": "Irodai egéren nehéz. Szükséged van egy matt/érdes felületű egérre, és olyan kapcsolókra, amik nem blokkolják a 'Debounce Time'-ot. A szigetelőszalag (Grip Tape) sokat segít."
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for HU users."
+        "question": "Hogyan javítsam a Célzást (Aim) Valorantban?",
+        "answer": "A gyors kattintás nem elég. Állítsd alacsonyra a DPI-t (400-800), kapcsold ki a 'Mutató pontosságának javítását' a Windowsban, és gyakorold a célkereszt elhelyezését."
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for HU users."
+        "question": "Honnan tudom, hogy mechanikus-e a billentyűzetem?",
+        "answer": "Vegyél le egy billentyűsapkát (keycap). Ha kereszt alakú kapcsolót látsz (Kék, Piros, Barna), akkor mechanikus. Ha gumikupolát látsz, akkor membrános."
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for HU users."
+        "question": "Káros a Jitter Clicking a kézre?",
+        "answer": "Ha rosszul csinálod, igen. Ínhüvelygyulladást okozhat a feszültség miatt. Nyújtsd a csuklódat és tarts szüneteket."
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for HU users."
+        "question": "Melyik a legjobb egér Butterfly Click-hez?",
+        "answer": "A Glorious Model O, a Logitech G Pro X és a Roccat Kain népszerűek, mert a szoftverben csökkenthető a 'Debounce Time', ami engedélyezi a dupla kattintást."
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for HU users."
+        "question": "Mi az a Polling Rate (Hz)?",
+        "answer": "Milyen gyakran jelenti az egér a pozícióját a gépnek. Játékhoz 1000Hz (1ms) a standard. 125Hz-en az egér szaggatottnak érződik."
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for HU users."
+        "question": "Miért ugrik el az egér kurzora?",
+        "answer": "Gyakran por van az érzékelőn vagy koszos az egérpad. Óvatosan tisztítsd meg az érzékelőt egy fültisztító pálcikával."
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for HU users."
+        "question": "Hogy teszteljem a Dupla Kattintás hibát?",
+        "answer": "Használd az 'Egér Teszt' eszközünket. Kattints lassan 100-szor. Ha a számláló 102-t vagy többet mutat, a kapcsoló hibás."
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for HU users."
+        "question": "Mennyi az átlagos emberi CPS?",
+        "answer": "Az átlag 6-7 kattintás másodpercenként. Gamerek 8-10 körül vannak. Minecraft profik 15+ fölé menne speciális technikákkal."
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for HU users."
+        "question": "Legjobb DPI FPS játékokhoz?",
+        "answer": "Az alacsony DPI (400-800) pontosságot ad. A magas DPI (1600+) MOBA-hoz jó. Fontos: Kapcsold ki az egérgyorsítást."
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for HU users."
+        "question": "Gyorsabb leszek mechanikus billentyűzettől?",
+        "answer": "Igen, az aktiválási pont pontosabb, ami lehetővé teszi a gyorsabb oldalazást (strafing) a játékokban."
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for HU users."
+        "question": "Hogyan javítsam a kontroller Driftjét?",
+        "answer": "A Driftet gyakran por okozza az érzékelőben. Próbálj sűrített levegőt fújni a kar tövébe. Ha nem segít, a modult cserélni kell."
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for HU users."
+        "question": "Miért magas a pingem gyors nettel?",
+        "answer": "A letöltési sebesség nem a késleltetés (latency). Használj Ethernet kábelt WiFi helyett, hogy megszüntesd a ping ingadozást és a csomagvesztést."
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for HU users."
+        "question": "Mi az a Ghosting a billentyűzeten?",
+        "answer": "Amikor egyszerre sok gombot nyomsz le (pl. W + Shift + Space), és az egyik nem reagál. A jó billentyűzetekben van 'N-Key Rollover'."
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for HU users."
+        "question": "Hogy teszteljem, ha zúg a mikrofonom?",
+        "answer": "Használd a Mikrofon Tesztünket. Ha a hullámvonal mozog, amikor csendben vagy, akkor háttérzajod vagy elektromos interferenciád van."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Mi az a reakcióidő?",
+        "answer": "Az az idő, amíg az agy feldolgozza a vizuális jelet és parancsot küld az ujjadnak a kattintásra."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Mennyi a jó reakcióidő?",
+        "answer": "Az átlag 250ms. 200ms alatt kiváló. F1 pilóták és profi gamerek 150ms körül vannak."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Lehet fejleszteni a reflexeket?",
+        "answer": "Igen. Játssz gyors FPS játékokkal, aludj eleget (az alvás kulcsfontosságú) és használd az Aim Trainereket vagy a tesztünket naponta."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Az életkor rontja a reakciót?",
+        "answer": "Igen, a csúcs 24 éves kor körül van. De a tapasztalat (Game Sense) kompenzálhatja a nyers sebességet."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Segít a 144Hz-es monitor?",
+        "answer": "Rengeteget! A kép gyakrabban frissül, így ezredmásodpercekkel korábban látod az ellenséget, mint aki 60Hz-en játszik."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "Vizuális vagy hallási reakció?",
+        "answer": "Az agy a hangot (170ms) gyorsabban dolgozza fel, mint a fényt (250ms). Ezért létfontosságú a jó füles a lépések meghallásához."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "Segít a koffein/energiaital?",
+        "answer": "Ideiglenesen növeli az éberséget, de a túl sok koffein remegést (jitter) okoz, ami tönkreteszi a célzást."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "Késik a vezeték nélküli egér?",
+        "answer": "A modernek (Logitech Lightspeed, Razer) ugyanolyan gyorsak vagy gyorsabbak, mint a vezetékesek. A késés a múlté."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "Mi az Input Lag?",
+        "answer": "A késés a kattintásod és a képernyőn történő akció között. A V-Sync és a régi monitorok növelik az Input Lagot."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "Hogyan teszteljem a pontosságot?",
+        "answer": "Használd az 'Accuracy Test' módokat, ahol kicsi, gyorsan eltűnő célpontokra kell kattintani."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "Mit jelent a WPM?",
+        "answer": "Words Per Minute (Szó per perc). Ez a gépelési sebesség mérésének globális szabványa."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Hogy írjak gyorsabban?",
+        "answer": "Tanulj meg vakon gépelni (10 ujjas gépelés). Ne nézd a billentyűzetet. Először a pontosságra figyelj, ne a sebességre."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Mennyi a jó WPM?",
+        "answer": "40 WPM az átlag. 60-70 WPM jó irodai munkához. 100 WPM felett versenyzői szint."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Jobb vakon írni?",
+        "answer": "Igen, az izommemória átveszi az irányítást. A képernyőre koncentrálhatsz és azonnal javíthatod a hibákat."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "Kék vagy Piros kapcsoló íráshoz?",
+        "answer": "A Kék (Blue) hangosan kattog – sok író szereti az érzést. A Piros (Red) csendes és lineáris, játékhoz kedvelt."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "Rosszak a laptop billentyűzetek?",
+        "answer": "Rövid a leütési útjuk. Egy külső mechanikus billentyűzet ergonomikusabb és gyorsabb hosszú szövegekhez."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "Hogyan gyakoroljak?",
+        "answer": "Használj olyan oldalakat, mint a Palmtweets naponta. Próbálj meg könyvoldalakat másolni a szókincs bővítéséhez."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "Mit jelent a Pontosság (Accuracy)?",
+        "answer": "A helyes leütések százaléka. 100 WPM 80% pontossággal haszontalan, mert a javítás időt vesz igénybe."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "Hogy kerüljem el a csuklófájdalmat?",
+        "answer": "Tartsd egyenesen a csuklódat (ne támaszd az asztal szélének). Használj csuklótámaszt (Wrist Rest)."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "Számít a billentyűzetkiosztás?",
+        "answer": "Magyarországon a QWERTZ-t használjuk. Győződj meg róla, hogy a Windows magyarra van állítva, hogy az ékezetek jó helyen legyenek."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Mi a Ghosting?",
+        "answer": "Amikor a billentyűzet nem érzékel egy leütést, mert túl sok gombot nyomtál le egyszerre."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "Mi az NKRO?",
+        "answer": "N-Key Rollover. Egyszerre lenyomhatod az ÖSSZES gombot, és a gép mindet érzékeli. Gamereknek kötelező."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Hogy találok meg egy rossz gombot?",
+        "answer": "Nyisd meg a Billentyűzet Tesztünket. Nyomd meg a gyanús gombot. Ha nem zöldül ki, a kapcsoló vagy az áramkör halott."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Membrános vs Mechanikus?",
+        "answer": "A membrános gumit használ (olcsó, puha). A mechanikus rugókat/kapcsolókat (pontos, tartós)."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "Hogy vegyek le egy gombot?",
+        "answer": "Használj billentyűkiszedőt (Keycap Puller). Ne feszítsd késsel, eltörheted a kapcsoló szárát."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "Mik azok az Optikai Kapcsolók?",
+        "answer": "Fénysugarat használnak fém érintkezés helyett az aktiváláshoz. Elméletileg gyorsabbak és tartósabbak."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "Miért zörög a Space gombom?",
+        "answer": "A stabilizátorok (fém rudak) szárazak. Egy kis dielektromos zsír (Lube) elhallgattatja a zörgést."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "Jobb a TKL?",
+        "answer": "A Tenkeyless (numpad nélküli) helyet takarít meg. Több helyet hagy az egérmozgásnak FPS játékokban."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "Mi az a 'Chattering'?",
+        "answer": "Amikor egy gombot egyszer nyomsz le, de 'aa'-t vagy 'aaa'-t ír. Gyakori hiba koszos mechanikus billentyűzeteknél."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "Moshatom vízzel a billentyűzetet?",
+        "answer": "NEM (kivéve ha vízálló tanúsítványú). Tisztítsd sűrített levegővel és izopropil-alkohollal."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "IDŐ",
+    "score": "PONT",
+    "start": "START",
+    "active": "GYORSAN!",
+    "try_again": "ÚJRA",
+    "share": "MEGOSZTÁS",
+    "result_msg": "Kiváló! Ninja reflexeid vannak. Próbáld megdönteni a rekordodat!",
+    "slow": "🐢 Csiga",
+    "fast": "⚡ Villám",
+    "superhuman": "👑 Legenda"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "Az Eszközről",
+    "how_to": "Használat",
+    "rank_up": "Hogy fejlődjek?",
+    "faq": "Gyakori Kérdések",
+    "related": "Hasonló Eszközök",
+    "step1": "Kattints a 'Start' gombra vagy a szürke területre.",
+    "step2": "Végezd el a műveletet a lehető leggyorsabban.",
+    "step3": "Nézd meg a rangodat és oszd meg az eredményt.",
+    "rank_turtle": "Csiga Rang (0-5 CPS):",
+    "rank_turtle_desc": "Túl lassú! Próbáld meg feszíteni a karizmaidat.",
+    "rank_pro": "Profi Rang (5-10 CPS):",
+    "rank_pro_desc": "Egy átlagos játékos sebessége.",
+    "rank_god": "Isten Rang (10+ CPS):",
+    "rank_god_desc": "Mestere vagy a Jitter vagy Butterfly Clicknek."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Halott Pixel Teszt (Monitor)",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Ellenőrizd a monitorodat vagy telefonodat halott pixelek, beragadt pixelek vagy fényszivárgás ellen."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (HU)",
+    "h1": "Érintőképernyő Teszt Online",
     "seo": {
-      "title": "Touch Screen Test Online (HU)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touch Test - Szellem Érintés Ellenőrzés",
+      "description": "Teszteld a telefon kijelzőjét. Találd meg a halott zónákat, Ghost Touch-ot és a Multi-touchot."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (HU)",
-      "p_hook": "Localized intro for HU. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for HU.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for HU.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for HU.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in HU."
+      "h2_hook": "Magától kattint a telefon? (Ghost Touch)",
+      "p_hook": "Ha a célkereszt a PUBG Mobile-ban magától mozog, 'Ghost Touch'-od van. Ez idegesítő és vesztesz miatta. Használd ezt az eszközt, hogy kiderítsd: a kijelző rossz vagy csak koszos.",
+      "h2_science": "Hogy működik a teszt?",
+      "p_science": "Megjelenítünk egy rácsot. Húzd végig az ujjad mindenhol. Ha egy négyzet nem zöldül ki, az a zóna halott (Dead Zone).",
+      "h2_gaming": "Multi-touch Teszt (Claw Játékosok)",
+      "p_gaming": "A mobilgamerek gyakran 4 ujjat használnak (Claw). Tedd az összes ujjad a kijelzőre. Az eszköz megmutatja, hány érintést bír a telefon egyszerre.",
+      "h2_hardware": "Szoftver vagy Hardver?",
+      "p_hardware": "Gyakori ok: Olcsó töltők (statikus elektromosság) vagy vastag fólia. Ha csak töltés közben csinálja, cserélj kábelt.",
+      "h2_technique": "Gyorsjavítás",
+      "p_technique": "Töröld le a kijelzőt (zsír/izzadság). Vedd le a mágneses tokot. Indítsd újra a telefont."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (HU)",
+    "h1": "Mikrofon Teszt Online",
     "seo": {
-      "title": "Microphone Test Online (HU)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Mikrofon Teszt - Zaj és Hangerő",
+      "description": "Teszteld a mikrofont és a fejhallgatót. Nézd a hanghullámokat, hangerőt és visszhangot."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (HU)",
-      "p_hook": "Localized intro for HU. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for HU.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for HU.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for HU.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in HU."
+      "h2_hook": "Rosszul hallatszol Discordon?",
+      "p_hook": "Ellenőrizd a hangot meccs előtt. A zaj vagy a halk hang tönkreteszi a csapatkommunikációt. Teszteld a mikrofont itt ingyen, telepítés nélkül.",
+      "h2_science": "Hullám Vizualizáció",
+      "p_science": "Ez az eszköz valós időben mutatja a hangodat. Ha beszélsz és a vonal lapos, a mikrofon némítva van vagy rosszul van beállítva a Windowsban.",
+      "h2_gaming": "Sztereó Teszt (Bal / Jobb)",
+      "p_gaming": "Fejhallgatónál létfontosságú tudni, hogy balról vagy jobbról jön-e a hang. A csatornatesztünk megmondja, ha fordítva van rajtad a füles.",
+      "h2_hardware": "Kompatibilitás",
+      "p_hardware": "Tesztelünk csíptetős mikrofont, USB headsetet, webkamerát és stúdiómikrofont. Ne felejts el a 'Megenged' gombra kattintani a böngészőben.",
+      "h2_technique": "Zajszűrés",
+      "p_technique": "Vedd le a 'Microphone Boost'-ot a Windows hangbeállításaiban. A statikus zúgás gyakran rossz földelés vagy laza csatlakozó miatt van."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (HU)",
+    "h1": "Kontroller Teszt (Drift)",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (HU)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Teszteld a PS4, PS5, Xbox Kontrollert - Drift Hiba",
+      "description": "Eszköz gombok és karok tesztelésére. Ellenőrizd a Stick Driftet és a rezgést PC-n."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (HU)",
-      "p_hook": "Localized intro for HU. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for HU.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for HU.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for HU.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in HU."
+      "h2_hook": "Magától megy a karakter? (Stick Drift)",
+      "p_hook": "Az 1-es számú probléma a DualSense és Xbox kontrollereknél a 'Drift'. Használd a tengely-vizualizálónkat, hogy lásd, tényleg középen van-e a kar.",
+      "h2_science": "Tengely Adatok (Axis)",
+      "p_science": "Mutatjuk az X és Y értékeket. Egy tökéletes kontroller 0.00-n áll. Ha a számok ugrálnak érintés nélkül, driftel a kar.",
+      "h2_gaming": "Kompatibilitás",
+      "p_gaming": "Működik natívan DualShock 4, DualSense (PS5), Xbox One/Series és Switch Pro kontrollerekkel. Csak dugd be USB-n vagy Bluetooth-on.",
+      "h2_hardware": "Rezgés és Ravasz Teszt",
+      "p_hardware": "Kattints a 'Rezgés'-re a motorok teszteléséhez. Ellenőrizd azt is, hogy az L2/R2 ravaszok finoman reagálnak-e 0%-tól 100%-ig.",
+      "h2_technique": "Drift Javítása",
+      "p_technique": "Próbálj sűrített levegőt fújni a kar tövébe. Vagy növeld a 'Holtjátékot' (Deadzone) a játék beállításaiban, hogy figyelmen kívül hagyja a kis mozgásokat."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (HU)",
+    "h1": "Csomagvesztés és Ping Teszt",
     "seo": {
-      "title": "Packet Loss & Ping Test (HU)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Teszt - Lag és Jitter Ellenőrzés",
+      "description": "Gyors a net, de szaggat a játék? Ellenőrizd a csomagvesztést (Packet Loss), Jittert és a valódi Pinget."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (HU)",
-      "p_hook": "Localized intro for HU. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for HU.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for HU.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for HU.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in HU."
+      "h2_hook": "Alacsony ping, de teleportálsz (Lag Spikes)?",
+      "p_hook": "Ez a 'Packet Loss'. A játékadatok elvesznek útközben. A Speedtest csak a sebességet méri, mi a STABILITÁST mérjük.",
+      "h2_science": "Mi a Jitter?",
+      "p_science": "A Jitter a ping ingadozása. A stabil 50ms jobb, mint a 20ms, ami 100ms-re ugrik. A magas jitter teleportálást okoz.",
+      "h2_gaming": "WiFi vs Kábel",
+      "p_gaming": "Aranyszabály: NE JÁTSSZ WIFI-N. A rádiójelek instabilak. Használj Ethernet kábelt (LAN) a 0% packet loss garantálásához.",
+      "h2_hardware": "Hálózati Diagnosztika",
+      "p_hardware": "Ha van vesztés, indítsd újra a routert. Ha marad, a szolgáltató (Digi, Telekom) a hibás. Használd ezt a tesztet bizonyítéknak.",
+      "h2_technique": "Ping Javítása",
+      "p_technique": "Zárd be a háttérletöltéseket (Steam, Windows Update), vedd le a telefonokat a WiFi-ről és válassz közeli szervereket (pl. Bécs vagy Németország)."
     }
   }
 }
