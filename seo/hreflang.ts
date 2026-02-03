@@ -1,4 +1,6 @@
-export const LOCALES = ['en', 'pt', 'id', 'es', 'ru'];
+import { locales } from '../config/locales';
+
+export const LOCALES = locales;
 
 export function generateAlternates(path: string = '') {
   const languages: Record<string, string> = {};

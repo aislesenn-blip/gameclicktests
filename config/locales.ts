@@ -3,7 +3,8 @@ export const locales = [
   'de', 'fr', 'it', 'nl', 'pl',
   'tr', 'vi', 'th', 'sv', 'da',
   'fi', 'ro', 'cs', 'hu', 'uk',
-  'ja', 'ko', 'zh-TW', 'ms', 'ar'
+  'ja', 'ko', 'zh-TW', 'ms', 'ar',
+  'no', 'hi'
 ];
 
 export const localeNames: Record<string, string> = {
@@ -31,5 +32,7 @@ export const localeNames: Record<string, string> = {
   ko: "한국어",
   'zh-TW': "繁體中文",
   ms: "Bahasa Melayu",
-  ar: "العربية"
+  ar: "العربية",
+  no: "Norsk",
+  hi: "हिन्दी"
 };
