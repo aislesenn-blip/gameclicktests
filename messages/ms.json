@@ -1,477 +1,479 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPS Test - Uji Kelajuan Klik & Jari | Palmtweets",
+    "description": "Berapa laju jari anda? Buat ujian CPS 10 saat. Latih Jitter & Butterfly Click untuk Minecraft. Periksa 'Ghost Touch' pada skrin telefon anda."
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start CPS Test",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "SCORE",
-    "timer": "TIMER",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "start": "START CLICKING",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "h1": "Uji Kelajuan Klik Anda Sekarang",
+    "description": "Ukur Klik Sesaat (CPS) dengan alat ultra-tepat kami. Dibina untuk pemain Mobile Legends (Fast Hand), Minecraft PvP, dan FPS di Malaysia.",
+    "start_btn": "MULA UJIAN",
+    "modes": "Mod Latihan",
+    "rank_noob": "🐢 Rank: Siput (Noob)",
+    "rank_pro": "⚡ Rank: Pro Player",
+    "rank_god": "👑 Rank: DEWA (Godlike)",
+    "share_txt": "Saya dapat {score} CPS di Palmtweets. Boleh lawan tak?",
+    "score": "SKOR",
+    "timer": "MASA",
+    "active": "KLIK LAJU!",
+    "try_again": "CUBA LAGI",
+    "share": "KONGSI",
+    "start": "MULA",
+    "result_msg": "Kelajuan anda padu! Boleh pecahkan rekod sendiri tak?",
+    "slow": "🐢 Lembab",
+    "fast": "⚡ Pantas",
+    "superhuman": "👑 Dewa"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
+    "home": "Utama",
+    "cps": "Ujian Klik",
+    "reaction": "Reaksi",
+    "typing": "Menaip",
     "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "privacy": "Privasi"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "Perkakasan",
-    "game_challenges": "Permainan",
-    "click_modes": "Mod Klik",
+    "cps_cluster": "Ujian CPS & Klik",
+    "typing_cluster": "Kelajuan Menaip",
+    "reaction_cluster": "Refleks & Reaksi",
+    "keyboard_cluster": "Diagnostik PC/HP",
+    "cps_1s": "1 Saat (Burst)",
+    "cps_5s": "Ujian 5 Saat",
+    "cps_60s": "Maraton 60 Saat",
+    "jitter": "Latihan Jitter Click",
+    "butterfly": "Ujian Butterfly Click",
+    "drag": "Ujian Drag Click",
+    "reaction": "Masa Reaksi (ms)",
+    "typing": "Ujian Menaip (WPM)",
+    "keyboard": "Test Keyboard",
+    "minecraft": "Minecraft PvP CPS",
+    "pubg": "PUBG Aim Trainer",
+    "roblox": "Clicker untuk Roblox",
+    "valorant": "Refleks Valorant",
+    "fortnite": "Kelajuan Edit Fortnite",
+    "hardware_tests": "Ujian Hardware",
+    "game_challenges": "Cabaran Gamer",
+    "click_modes": "Teknik Klik",
     "time_modes": "Mod Masa",
     "community": "Komuniti",
-    "touch_test": "Touch Screen Test (MS)",
-    "mic_test": "Mic Test (MS)",
-    "gamepad_test": "Gamepad Tester (MS)",
-    "packet_loss": "Packet Loss Test (MS)"
+    "touch_test": "Test Touch Screen",
+    "mic_test": "Test Mic",
+    "gamepad_test": "Test Controller (Drift)",
+    "packet_loss": "Ping & Packet Loss"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "Platform ujian refleks dan gaming gear terpantas di dunia."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
-    "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
-    "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "title": "Dasar Privasi",
+    "intro": "Di Palmtweets, kami menghargai privasi anda.",
+    "cookies_title": "Kuki (Cookies)",
+    "cookies_text": "Kami menggunakan kuki untuk meningkatkan pengalaman dan menganalisis trafik secara awanama.",
+    "data_title": "Pengumpulan Data",
+    "data_text": "Kami tidak mengumpul maklumat peribadi. Skor anda disimpan secara tempatan dalam browser.",
+    "contact_title": "Hubungi",
+    "contact_text": "Ada soalan? Emel kami di support@palmtweets.com."
   },
   "seo_content": {
-    "h2_improve": "Tips to Improve Clicking (MS)",
-    "p_improve": "Practice daily and use a good mouse.",
-    "h2_styles": "Clicking Styles",
-    "p_styles": "Learn Jitter and Butterfly clicking.",
-    "h2_record": "World Records",
-    "p_record": "Aim for 10+ CPS.",
-    "h2_useful": "Gaming Utility",
-    "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Section 4 (MS)",
-    "p_hardware": "Localized content for MS focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_hook": "Section 1 (MS)",
-    "p_hook": "Localized content for MS focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (MS)",
-    "p_science": "Localized content for MS focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (MS)",
-    "p_gaming": "Localized content for MS focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (MS)",
-    "p_technique": "Localized content for MS focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "Macam mana nak lajukan jari (CPS)?",
+    "p_improve": "CPS tinggi bukan pakai tenaga je, tapi teknik. Rentangkan otot lengan untuk elak sakit. Guna gaming mouse yang switch dia sedap (macam Logitech G atau Razer). Latih 'Fast Hand' 10 minit setiap hari untuk Mobile Legends atau Minecraft.",
+    "h2_styles": "Butterfly vs Jitter Click: Mana lagi power?",
+    "p_styles": "**Jitter Click** getarkan otot lengan untuk dapat 12-14 CPS, bagus untuk aim stabil. **Butterfly Click** guna dua jari selang-seli untuk dapat 20+ CPS, wajib untuk 'Bridging' dalam Minecraft Bedwars. Nota: Butterfly kena ada mouse yang boleh double-click.",
+    "h2_record": "Apa rekod dunia CPS?",
+    "p_record": "Rekod sah untuk 10 saat ialah sekitar 22-24 CPS. Tapi dengan teknik **Drag Click**, ada player boleh cecah 30 CPS dalam satu saat (Burst).",
+    "h2_useful": "Penting ke CPS ni dalam Game?",
+    "p_useful": "Dalam Minecraft 1.8 PvP, CPS tinggi kurangkan 'Knockback' dan senang buat combo. Dalam game tembak macam Valorant atau PUBG, klik laju tolong masa guna pistol atau senjata semi-auto.",
+    "h2_hardware": "Mouse anda 'Double Click' sendiri?",
+    "p_hardware": "Kalau tekan sekali tapi PC detect dua kali, switch mouse tu dah rosak (Masalah Double Click). Guna tool 'Test Mouse' kami untuk confirmkan kerosakan sebelum beli baru kat Shopee/Lazada.",
+    "h2_games": "Improve Aim dan Masa Reaksi",
+    "p_games": "Klik laju tak guna kalau tak kena sasaran. Guna **Ujian Reaksi** kami untuk tajamkan mata. Pro player e-sukan selalunya bawah 150ms.",
+    "h2_hook": "Skrin telefon tekan sendiri? (Ghost Touch)",
+    "p_hook": "Tengah main PUBG Mobile, aim lari sendiri? Itu 'Ghost Touch'. Sangat potong stim masa rank. Guna Touch Screen Test kami untuk tengok sama ada skrin rosak atau cuma berminyak.",
+    "h2_science": "Line Unifi laju tapi lag? (Packet Loss)",
+    "p_science": "Ini selalunya **Packet Loss**. Data game hilang tengah jalan. Speedtest cuma ukur download, kami ukur KESTABILAN line (Maxis, Celcom, Digi, Unifi) untuk gaming.",
+    "h2_gaming": "Keyboard Ghosting & N-Key Rollover",
+    "p_gaming": "Tak boleh lari, lompat dan reload serentak? Itu 'Ghosting'. Keyboard murah selalunya jam bila tekan 3 button. Check sini kalau keyboard anda support 'Anti-Ghosting'.",
+    "h2_technique": "Apa itu Drag Click?",
+    "p_technique": "Drag click tu teknik seret jari atas permukaan mouse yang kasar untuk cipta geseran, boleh dapat ratusan klik dalam beberapa saat. Kena ada: Grip Tape dan mouse matte."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "Ujian CPS - Ukur Kelajuan Klik",
+      "description": "Laju mana jari anda? Buat ujian 10 saat. Cabar member dan latih untuk tournament."
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "UJIAN KELAJUAN KLIK (CPS)"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "Ujian CPS 1 Saat - Kelajuan Burst",
+      "description": "Uji kelajuan maksimum dalam satu saat. Sesuai untuk test Drag Click dan Knockback reduce."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "UJIAN BURST (1 SAAT)"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
-      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "Ujian CPS 5 Saat - Pecut Pendek",
+      "description": "Standard gamer. Berapa klik boleh buat dalam 5 saat? Purata pro ialah 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "UJIAN 5 SAAT"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "Maraton 60 Saat - Stamina Jari",
+      "description": "Cabaran ketahanan. Boleh kekalkan momentum seminit tanpa lenguh tangan?"
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "CABARAN 60 SAAT"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "Latihan Jitter Click - Teknik Getar",
+      "description": "Belajar Jitter Click. Getarkan lengan untuk capai 14+ CPS. Tutorial dan ujian selamat."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "LATIHAN JITTER CLICK"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
-      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "Ujian Butterfly Click - Klik Ganda",
+      "description": "Uji kelajuan Butterfly. Guna dua jari untuk gandakan CPS. Wajib untuk Bedwars."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "UJIAN BUTTERFLY CLICK"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
-      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "Ujian Drag Click - Geseran & Laju",
+      "description": "Uji Drag Click. Guna geseran untuk daftar ratusan klik sesaat."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "UJIAN DRAG CLICK"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
-      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "Ujian Klik Minecraft PvP - Latihan Combo",
+      "description": "Latihan klik khas untuk Minecraft PvP. Improve tracking aim dan kurangkan knockback."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "LATIHAN MINECRAFT PVP"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Ujian Masa Reaksi - Human Benchmark Malaysia",
+      "description": "Ukur refleks mata dalam milisaat. Purata 250ms. Boleh dapat bawah 150ms?"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
+    "h1": "UJIAN MASA REAKSI",
+    "wait": "Tunggu Hijau...",
+    "click": "KLIK SEKARANG!",
+    "too_soon": "Awal sangat! Jangan teka.",
     "result": "{time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Ujian Menaip - Cek WPM",
+      "description": "Ujian menaip 1 minit percuma. Kira Perkataan Seminit (WPM) dan ketepatan."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "KELAJUAN MENAIP (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Test Keyboard Online - Cek Butang Rosak",
+      "description": "Uji setiap butang keyboard. Cari Ghosting, butang lekat, dan switch rosak."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "DIAGNOSTIK KEYBOARD"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for MS users."
+        "question": "Macam mana nak Drag Click kat mouse biasa?",
+        "answer": "Susah kalau mouse ofis. Kena ada mouse permukaan kasar (matte) dan switch yang tak block 'Debounce Time'. Tape elektrik (Grip Tape) sangat membantu."
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for MS users."
+        "question": "Macam mana nak aim padu dalam Valorant?",
+        "answer": "Klik laju tak cukup. Set DPI rendah (400-800), tutup 'Enhance pointer precision' dalam Windows, dan latih letak crosshair kat paras kepala."
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for MS users."
+        "question": "Macam mana nak tahu keyboard mekanikal ke tak?",
+        "answer": "Cabut satu keycap. Kalau nampak switch bentuk tambah (+) warna Biru/Merah/Coklat, itu mekanikal. Kalau nampak getah bulat, itu membrane."
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for MS users."
+        "question": "Jitter Click bahaya tak?",
+        "answer": "Kalau salah teknik, ya. Boleh kena sakit urat atau Carpal Tunnel sebab tegang sangat. Regangkan tangan dan rehat bila sakit."
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for MS users."
+        "question": "Mouse apa paling best untuk Butterfly Click?",
+        "answer": "Glorious Model O, Logitech G Pro X, dan Roccat Kain popular sebab boleh rendahkan 'Debounce Time' dalam software untuk bagi double click."
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for MS users."
+        "question": "Apa itu Polling Rate (Hz)?",
+        "answer": "Berapa kerap mouse lapor posisi kat PC. Untuk gaming, 1000Hz (1ms) tu wajib. Kalau 125Hz rasa tersangkut-sangkut."
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for MS users."
+        "question": "Kenapa cursor mouse saya melompat?",
+        "answer": "Selalunya sebab habuk kat sensor atau mousepad kotor. Bersihkan sensor pelan-pelan guna putik kapas."
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for MS users."
+        "question": "Macam mana nak test masalah Double Click?",
+        "answer": "Guna tool 'Test Mouse' kami. Klik perlahan 100 kali. Kalau nombor naik 102 atau lebih, switch tu dah rosak."
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for MS users."
+        "question": "Berapa purata CPS manusia biasa?",
+        "answer": "Purata dalam 6-7 klik sesaat. Gamer biasa 8-10. Pro Minecraft boleh cecah 15+ guna teknik khas."
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for MS users."
+        "question": "DPI apa paling ngam untuk FPS?",
+        "answer": "DPI rendah (400-800) untuk tepat. DPI tinggi (1600+) untuk MOBA. Penting: Tutup mouse acceleration."
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for MS users."
+        "question": "Keyboard mekanikal buat kita lagi laju ke?",
+        "answer": "Ya, point tekan dia lagi tepat, so pergerakan 'strafing' (kiri-kanan) dalam game lagi responsif."
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for MS users."
+        "question": "Macam mana nak fix Analog Drift?",
+        "answer": "Drift ni sebab habuk masuk celah analog. Cuba tiup kuat-kuat atau guna compressed air kat pangkal analog. Kalau tak jadi, kena tukar."
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for MS users."
+        "question": "Kenapa ping tinggi walaupun pakai Unifi laju?",
+        "answer": "Speed download bukan latency. Pakai kabel LAN (Ethernet) jangan pakai WiFi kalau nak main game serius. WiFi memang tak stabil."
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for MS users."
+        "question": "Apa itu Keyboard Ghosting?",
+        "answer": "Bila tekan banyak butang serentak (contoh: W + Shift + Space) tapi satu tak detect. Keyboard gaming ada 'N-Key Rollover' untuk elak benda ni."
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for MS users."
+        "question": "Macam mana nak test mic bunyi bising?",
+        "answer": "Guna Test Mic kami. Kalau garisan gelombang gerak masa anda diam, maknanya ada bunyi bising atau grounding tak betul."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Apa itu masa reaksi?",
+        "answer": "Masa yang otak ambil untuk proses apa yang mata nampak dan suruh jari tekan."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Berapa masa reaksi yang bagus?",
+        "answer": "Purata 250ms. Bawah 200ms tu padu. Pemandu F1 dan Pro Gamer selalunya sekitar 150ms."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Boleh ke latih refleks?",
+        "answer": "Boleh. Main game tembak laju-laju, tidur cukup (sangat penting), dan guna Aim Trainer atau test kami hari-hari."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Umur kacau reaksi tak?",
+        "answer": "Ya, peak umur 24 tahun. Tapi pengalaman (Game Sense) boleh cover balik speed yang kurang."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Monitor 144Hz membantu tak?",
+        "answer": "Sangat membantu! Gambar refresh lagi kerap, so nampak musuh lagi awal dari orang yang pakai 60Hz."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "Reaksi mata vs telinga?",
+        "answer": "Otak proses bunyi (170ms) lagi laju dari cahaya (250ms). Sebab tu headset mahal penting untuk dengar tapak kaki (footsteps)."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "Minum kopi/energy drink jadi power tak?",
+        "answer": "Dia bagi segar kejap, tapi kalau minum banyak sangat tangan gigil (jitter), aim jadi kelaut."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "Mouse wireless ada delay tak?",
+        "answer": "Zaman sekarang tak dah. Logitech Lightspeed atau Razer wireless sama laju atau lagi laju dari wayar."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "Apa tu Input Lag?",
+        "answer": "Delay antara bila kita tekan dan bila benda jadi kat skrin. V-Sync dan monitor lama tambah Input Lag."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "Macam mana nak test ketepatan (Accuracy)?",
+        "answer": "Guna mode 'Accuracy Test', kena klik target kecik yang hilang cepat."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "Apa maksud WPM?",
+        "answer": "Words Per Minute (Perkataan Seminit). Standard dunia nak ukur laju menaip."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Macam mana nak taip laju?",
+        "answer": "Belajar Touch Typing (10 jari). Jangan tengok keyboard. Fokus betul dulu, baru laju."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Berapa WPM dikira laju?",
+        "answer": "40 WPM tu biasa. 60-70 WPM tu bagus untuk kerja ofis. Atas 100 WPM tu level pro."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Taip tak tengok keyboard lagi bagus ke?",
+        "answer": "Ya, muscle memory buat kerja. Mata boleh tengok skrin dan betulkan typo terus."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "Switch Biru atau Merah untuk menaip?",
+        "answer": "Biru (Blue) bunyi klik-klik kuat – ramai suka. Merah (Red) senyap dan lurus, gamer suka yang ni."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "Keyboard laptop tak elok ke?",
+        "answer": "Button dia cetek. Keyboard mekanikal asing lagi sedap tekan dan laju untuk karangan panjang."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "Macam mana nak practice?",
+        "answer": "Guna site macam Palmtweets hari-hari. Cuba taip balik muka surat buku untuk tambah vocabulary."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "Apa maksud Ketepatan (Accuracy)?",
+        "answer": "Peratus huruf yang betul ditekan. 100 WPM tapi accuracy 80% tak guna, sebab buang masa tekan backspace."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "Macam mana elak sakit tangan?",
+        "answer": "Pastikan pergelangan tangan lurus (jangan bengkok kat bucu meja). Guna Wrist Rest."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "Layout keyboard penting ke?",
+        "answer": "Malaysia guna standard QWERTY US. Pastikan setting Windows tu English (US) supaya simbol @ dan lain-lain duduk tempat betul."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Apa tu Ghosting?",
+        "answer": "Bila keyboard tak detect kita tekan, sebab tekan banyak sangat butang serentak."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "Apa tu NKRO?",
+        "answer": "N-Key Rollover. Boleh tekan SEMUA butang serentak dan PC detect semua. Wajib untuk gamer."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Macam mana cari butang rosak?",
+        "answer": "Buka Test Keyboard kami. Tekan butang yang syak rosak. Kalau tak bertukar hijau, switch atau litar dalam dah mati."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Membrane vs Mekanikal?",
+        "answer": "Membrane guna getah (murah, lembik). Mekanikal guna spring/switch (tepat, tahan lama)."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "Macam mana cabut keycap?",
+        "answer": "Guna Keycap Puller. Jangan umpil guna pisau, nanti patah kaki switch."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "Apa tu Optical Switch?",
+        "answer": "Guna cahaya infrared untuk detect tekan, bukan besi. Lagi laju dan tahan lasak."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "Kenapa butang Space bunyi bising?",
+        "answer": "Besi stabilizer dia kering. Letak sikit minyak gris (Lube) gerenti senyap."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "Keyboard TKL lagi best ke?",
+        "answer": "Tenkeyless (takde nombor tepi) jimat ruang meja. Ada ruang luas untuk gerak mouse main FPS."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "Apa tu 'Chattering'?",
+        "answer": "Bila tekan sekali tapi keluar huruf double (aa). Masalah biasa kalau keyboard mekanikal berhabuk."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "Boleh basuh keyboard dengan air?",
+        "answer": "JANGAN (kecuali certified waterproof). Bersihkan guna angin mampat dan alkohol sikit."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "MASA",
+    "score": "SKOR",
+    "start": "MULA",
+    "active": "LAJU!",
+    "try_again": "LAGI",
+    "share": "KONGSI",
+    "result_msg": "Padu! Refleks macam ninja. Cuba pecahkan rekod!",
+    "slow": "🐢 Siput",
+    "fast": "⚡ Kilat",
+    "superhuman": "👑 Lagenda"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "Tentang Alat",
+    "how_to": "Cara Guna",
+    "rank_up": "Cara Improve",
+    "faq": "Soalan Lazim",
+    "related": "Alat Berkaitan",
+    "step1": "Klik butang 'Mula' atau kawasan kelabu.",
+    "step2": "Buat aksi tu secepat mungkin.",
+    "step3": "Tengok rank anda dan share kat member.",
+    "rank_turtle": "Rank Siput (0-5 CPS):",
+    "rank_turtle_desc": "Slow sangat! Cuba keraskan otot lengan.",
+    "rank_pro": "Rank Pro (5-10 CPS):",
+    "rank_pro_desc": "Kelajuan purata gamer.",
+    "rank_god": "Rank Dewa (10+ CPS):",
+    "rank_god_desc": "Anda dah master Jitter atau Butterfly Click."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Test Dead Pixel (Monitor)",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Check monitor atau skrin telefon ada pixel mati, lekat, atau cahaya bocor (bleeding)."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (MS)",
+    "h1": "Test Touch Screen Online",
     "seo": {
-      "title": "Touch Screen Test Online (MS)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touch Test - Cek Ghost Touch",
+      "description": "Test skrin telefon. Cari kawasan mati (dead zone), Ghost Touch dan cek Multi-touch."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (MS)",
-      "p_hook": "Localized intro for MS. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for MS.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for MS.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for MS.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in MS."
+      "h2_hook": "Telefon tekan sendiri ke? (Ghost Touch)",
+      "p_hook": "Kalau aim PUBG lari sendiri, anda kena 'Ghost Touch'. Memang stres main game. Guna tool ni untuk tengok skrin rosak ke atau cuma kotor.",
+      "h2_science": "Macam mana test ni jalan?",
+      "p_science": "Kami tunjuk grid petak. Seret jari penuh skrin. Kalau ada petak tak jadi hijau, kawasan tu mati (Dead Zone).",
+      "h2_gaming": "Test Multi-touch (Player Claw)",
+      "p_gaming": "Player mobile selalu guna 4 jari (Claw). Letak semua jari kat skrin. Tool ni bagitahu berapa jari phone boleh detect serentak.",
+      "h2_hardware": "Masalah Software atau Hardware?",
+      "p_hardware": "Punca biasa: Charger murah (elektrik tak stabil) atau screen protector tebal sangat. Kalau jadi masa cas je, tukar kabel.",
+      "h2_technique": "Cara Fix Cepat",
+      "p_technique": "Lap skrin (minyak/peluh). Buka casing yang ada magnet. Restart telefon."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (MS)",
+    "h1": "Test Mic Online",
     "seo": {
-      "title": "Microphone Test Online (MS)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Test Mic - Cek Bunyi Bising & Volume",
+      "description": "Uji mikrofon dan headphone. Tengok gelombang suara, volume dan cek gema (echo)."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (MS)",
-      "p_hook": "Localized intro for MS. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for MS.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for MS.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for MS.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in MS."
+      "h2_hook": "Suara pecah kat Discord?",
+      "p_hook": "Cek suara sebelum start game. Bunyi bising atau slow sangat boleh kacau team. Test mic kat sini free je.",
+      "h2_science": "Visual Gelombang",
+      "p_science": "Tool ni tunjuk suara anda live. Kalau bercakap tapi garisan mendatar, mic mute atau setting Windows salah.",
+      "h2_gaming": "Test Stereo (Kiri / Kanan)",
+      "p_gaming": "Untuk headphone, wajib tahu bunyi datang dari kiri ke kanan. Test channel kami bagitahu kalau headphone terbalik.",
+      "h2_hardware": "Kompabiliti",
+      "p_hardware": "Kami test mic klip, headset USB, webcam dan mic studio. Ingat tekan 'Allow' kat browser.",
+      "h2_technique": "Hilangkan Bising",
+      "p_technique": "Kurangkan 'Microphone Boost' dalam setting bunyi Windows. Bunyi 'buzzing' tu selalunya sebab wayar longgar atau grounding tak betul."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (MS)",
+    "h1": "Test Controller (Drift)",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (MS)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Test Controller PS4, PS5, Xbox - Cek Drift",
+      "description": "Tool untuk test butang dan analog. Cek Stick Drift dan gegaran (vibrate) kat PC."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (MS)",
-      "p_hook": "Localized intro for MS. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for MS.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for MS.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for MS.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in MS."
+      "h2_hook": "Orang jalan sendiri? (Stick Drift)",
+      "p_hook": "Masalah utama controller PS5 dan Xbox ialah 'Drift'. Guna visualizer paksi kami untuk tengok analog tu betul-betul center ke tak.",
+      "h2_science": "Data Paksi (Axis)",
+      "p_science": "Kami tunjuk nilai X dan Y. Controller elok duduk kat 0.00. Kalau nombor lari tanpa sentuh, ada drift.",
+      "h2_gaming": "Kompabiliti",
+      "p_gaming": "Boleh guna terus controller PS4, PS5, Xbox dan Switch Pro. Cucuk je USB atau connect Bluetooth.",
+      "h2_hardware": "Test Gegar & Trigger",
+      "p_hardware": "Klik 'Vibrate' untuk test motor. Cek juga butang L2/R2 (Trigger) responsif tak dari 0% sampai 100%.",
+      "h2_technique": "Fix Drift",
+      "p_technique": "Cuba tiup kuat-kuat kat pangkal analog tu. Atau naikkan 'Deadzone' dalam setting game supaya dia tak detect gerak kecik-kecik."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (MS)",
+    "h1": "Test Packet Loss & Ping",
     "seo": {
-      "title": "Packet Loss & Ping Test (MS)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Test - Cek Lag & Jitter",
+      "description": "Internet laju tapi game sangkut? Cek Packet Loss, Jitter dan Ping sebenar."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (MS)",
-      "p_hook": "Localized intro for MS. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for MS.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for MS.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for MS.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in MS."
+      "h2_hook": "Ping rendah tapi teleport (Lag Spikes)?",
+      "p_hook": "Itu 'Packet Loss'. Data game hilang tengah jalan. Speedtest ukur download je, kami ukur KESTABILAN line.",
+      "h2_science": "Apa itu Jitter?",
+      "p_science": "Jitter tu ping tak stabil. 50ms stabil lagi bagus dari 20ms yang melompat ke 100ms. Jitter tinggi buat karakter teleport.",
+      "h2_gaming": "WiFi vs Kabel LAN",
+      "p_gaming": "Pantang larang: JANGAN MAIN GAME GUNA WIFI. Signal radio tak stabil. Pakai kabel LAN untuk gerenti 0% packet loss.",
+      "h2_hardware": "Diagnosa Network",
+      "p_hardware": "Kalau ada loss, restart router. Kalau jadi lagi, salah Telco (TM, Time, Maxis). Guna test ni sebagai bukti report.",
+      "h2_technique": "Kurangkan Ping",
+      "p_technique": "Tutup download background (Steam, Windows Update), putuskan WiFi telefon lain, dan pilih server dekat (Singapura atau Malaysia)."
     }
   }
 }
