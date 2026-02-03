@@ -1,479 +1,479 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "اختبار سرعة النقر (CPS) - افحص سرعتك الآن | Palmtweets",
+    "description": "كم نقرة يمكنك تسجيلها؟ جرب اختبار CPS لمدة 10 ثوانٍ. تحدى أصدقاءك وحطم الرقم القياسي العالمي. يدعم تقنيات جيتر كليك (Jitter) وبترفلاي (Butterfly)."
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second",
-    "start_btn": "ابدأ",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
+    "h1": "اختبر سرعة نقرك فوراً",
+    "description": "قياس عدد النقرات في الثانية (CPS)",
+    "start_btn": "إبدأ الاختبار",
+    "modes": "أوضاع الاختبار",
+    "rank_noob": "🐢 المستوى: سلحفاة",
+    "rank_pro": "⚡ المستوى: محترف (Pro)",
+    "rank_god": "👑 المستوى: أسطوري (GODLIKE)",
+    "share_txt": "لقد حققت {score} نقرة في الثانية (CPS) على موقع Palmtweets. هل يمكنك التغلب علي؟",
     "score": "النتيجة",
     "timer": "الوقت",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "مشاركة",
-    "start": "START CLICKING",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "active": "!إضغط بسرعة",
+    "try_again": "حاول مرة أخرى",
+    "share": "مشاركة النتيجة",
+    "start": "إبدأ النقر",
+    "result_msg": "سرعتك أعلى من المتوسط. هل يمكنك تحطيم رقمك القياسي؟",
+    "slow": "🐢 بطيء",
+    "fast": "⚡ سريع",
+    "superhuman": "👑 خارق"
   },
   "nav": {
     "home": "الرئيسية",
     "cps": "اختبار النقر",
-    "reaction": "رد فعل",
-    "typing": "طباعة",
-    "keyboard": "Keyboard",
-    "privacy": "خصوصية"
+    "reaction": "رد الفعل",
+    "typing": "سرعة الكتابة",
+    "keyboard": "فحص الكيبورد",
+    "privacy": "الخصوصية"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "أجهزة",
-    "game_challenges": "ألعاب",
+    "cps_cluster": "اختبارات CPS",
+    "typing_cluster": "اختبارات الكتابة",
+    "reaction_cluster": "سرعة البديهة",
+    "keyboard_cluster": "أدوات الكيبورد",
+    "cps_1s": "اختبار 1 ثانية",
+    "cps_5s": "اختبار 5 ثوانٍ",
+    "cps_60s": "اختبار 60 ثانية",
+    "jitter": "جيتر كليك (Jitter)",
+    "butterfly": "بترفلاي كليك (Butterfly)",
+    "drag": "دراج كليك (Drag)",
+    "reaction": "سرعة رد الفعل",
+    "typing": "سرعة الطباعة",
+    "keyboard": "فحص الأزرار",
+    "minecraft": "ماين كرافت CPS",
+    "pubg": "ايم ببجي (PUBG)",
+    "roblox": "نقر روبلوكس",
+    "valorant": "ريفليكس فالورانت",
+    "fortnite": "سرعة فورتنايت",
+    "hardware_tests": "فحص الأجهزة",
+    "game_challenges": "تحديات الألعاب",
     "click_modes": "أوضاع النقر",
-    "time_modes": "أوضاع الوقت",
-    "community": "مجتمع",
-    "touch_test": "Touch Screen Test (AR)",
-    "mic_test": "Mic Test (AR)",
-    "gamepad_test": "Gamepad Tester (AR)",
-    "packet_loss": "Packet Loss Test (AR)"
+    "time_modes": "تحديات الوقت",
+    "community": "المجتمع",
+    "touch_test": "فحص التاتش (Touch)",
+    "mic_test": "فحص المايك",
+    "gamepad_test": "فحص اليد (Controller)",
+    "packet_loss": "فحص اللاق (Packet Loss)"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "المنصة الأسرع عالمياً لاختبار ردود الفعل وسرعة الأداء."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
-    "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
-    "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "title": "سياسة الخصوصية",
+    "intro": "في Palmtweets، نقدر خصوصيتك. توضح هذه السياسة كيفية تعاملنا مع بياناتك.",
+    "cookies_title": "ملفات الارتباط (Cookies)",
+    "cookies_text": "نستخدم الكوكيز لتحسين تجربتك وتحليل الزيارات. نحن لا نخزن بيانات شخصية حساسة.",
+    "data_title": "جمع البيانات",
+    "data_text": "نحن لا نجمع معلومات تعريف شخصية. يتم تخزين نتائج الألعاب محلياً على جهازك.",
+    "contact_title": "اتصل بنا",
+    "contact_text": "للأسئلة، تواصل معنا عبر support@palmtweets.com."
   },
   "seo_content": {
-    "h2_improve": "كيف تحسن سرعة النقر",
-    "p_improve": "يتطلب الأمر ممارسة. ابدأ باسترخاء عضلات يدك.",
-    "h2_styles": "النقر بالفراشة مقابل الاهتزاز",
-    "p_styles": "الاهتزاز يستخدم عضلات الذراع. الفراشة تستخدم إصبعين.",
-    "h2_record": "ما هو الرقم القياسي العالمي؟",
-    "p_record": "لثانية واحدة هو أكثر من 30 نقرة.",
-    "h2_useful": "هل هو مفيد للاعبين؟",
-    "p_useful": "نعم، ضروري في ماين كرافت.",
-    "h2_hardware": "Section 4 (AR)",
-    "p_hardware": "Localized content for AR focusing on لعبة رد الفعل. Detailed analysis of click speed and hardware performance.",
-    "h2_games": "CPS in Competitive Gaming",
-    "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended.",
-    "h2_hook": "Section 1 (AR)",
-    "p_hook": "Localized content for AR focusing on اختبار سرعة النقر, تحسين الايم ببجي. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (AR)",
-    "p_science": "Localized content for AR focusing on اختبار الماوس دبل كليك, حل مشكلة الماوس يعلق. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (AR)",
-    "p_gaming": "Localized content for AR focusing on قياس سرعة الكتابة, اختبار الكيبورد. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (AR)",
-    "p_technique": "Localized content for AR focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "كيف تحسن سرعة النقر (CPS)؟",
+    "p_improve": "الأمر يتطلب الممارسة وتقوية عضلات اليد. ابدأ بتمارين استرخاء الأصابع، واستخدم ماوس احترافي (Gaming Mouse) يدعم النقرات السريعة.",
+    "h2_styles": "الفرق بين جيتر كليك وبترفلاي كليك",
+    "p_styles": "تقنية 'جيتر كليك' تعتمد على اهتزاز عضلات الذراع بالكامل للنقر بسرعة. أما 'بترفلاي كليك' فتستخدم إصبعين بالتناوب على نفس الزر لمضاعفة السرعة.",
+    "h2_record": "ما هو الرقم القياسي العالمي في CPS؟",
+    "p_record": "الرقم العالمي المسجل يتجاوز 22 نقرة في الثانية باستخدام تقنيات متقدمة مثل Drag Clicking.",
+    "h2_useful": "هل الـ CPS مهم للألعاب؟",
+    "p_useful": "نعم، ضروري جداً في ألعاب PvP مثل Minecraft (لتقليل الـ Knockback) وفي بناء الجسور السريع (Bridging).",
+    "h2_hardware": "تأثير الماوس والشاشة على الأداء",
+    "p_hardware": "استخدام ماوس بمفاتيح ميكانيكية وشاشة بتردد عالي (144Hz+) يقلل من تأخير الإدخال (Input Lag) ويحسن دقة التصويب.",
+    "h2_games": "الـ CPS في الألعاب التنافسية",
+    "p_games": "في Minecraft 1.8 PvP، يساعد الـ CPS العالي في السيطرة على الخصم. في ألعاب التصويب مثل CS2 أو Valorant، سرعة رد الفعل أهم من عدد النقرات، لكن الثبات في النقر يضمن دقة الطلقات.",
+    "h2_hook": "لماذا يجب عليك اختبار التاتش والشاشة؟",
+    "p_hook": "إذا كنت تعاني من 'لمسات وهمية' (Ghost Touch) أو مناطق ميتة في شاشة هاتفك، فإن أداة اختبار اللمس لدينا ستساعدك في تحديد المشكلة بدقة قبل الذهاب للصيانة.",
+    "h2_science": "كيف يعمل اختبار الماوس؟",
+    "p_science": "نقوم بقراءة إشارات الماوس الخام للكشف عن مشكلة 'الدبل كليك' (Double Click Issue) التي تصيب الفأرات القديمة، ونقيس دقة الاستجابة بالملي ثانية.",
+    "h2_gaming": "أهمية سرعة الكتابة للاعبين",
+    "p_gaming": "الكتابة السريعة ليست للعمل فقط! التواصل السريع مع فريقك في الشات (Team Chat) قد ينقذ المباراة. اختبر سرعتك وحاول الوصول لـ 80 كلمة في الدقيقة.",
+    "h2_technique": "تقنيات متقدمة: دراج كليك (Drag Click)",
+    "p_technique": "دراج كليك هي تقنية تعتمد على احتكاك الإصبع بسطح الماوس لتوليد مئات النقرات في وقت قصير جداً. تتطلب ماوس بسطح خشن وشريط خاص (Grip Tape)."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "اختبار سرعة النقر - افحص الـ CPS الخاص بك",
+      "description": "كم سرعتك في النقر؟ خذ اختبار الـ 10 ثواني. تحدى أصدقاءك وحطم الأرقام القياسية في ألعاب PvP."
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "اختبر سرعة النقر فوراً"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "اختبار نقر ثانية واحدة - فحص سرعة الانفجار",
+      "description": "اختبر سرعتك القصوى في ثانية واحدة. مثالي لقياس سرعة الـ Drag Click والـ Jitter Click اللحظية."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "اختبار ثانية واحدة (Burst)"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
-      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "اختبار 5 ثواني - سباق السرعة القصير",
+      "description": "الاختبار القياسي للاعبين. كم نقرة في 5 ثوانٍ؟ المحترفون يسجلون 12+ CPS في هذا الوضع."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "اختبار 5 ثواني"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "اختبار 60 ثانية - تحدي التحمل",
+      "description": "اختبار التحمل النهائي للأصابع. هل يمكنك الحفاظ على سرعة عالية لمدة دقيقة كاملة؟ تحذير: قد يسبب إرهاق اليد."
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "ماراثون 60 ثانية"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "اختبار جيتر كليك - احتراف الاهتزاز",
+      "description": "تدرب على الـ Jitter Clicking بأمان. استخدم اهتزاز عضلات الذراع للوصول إلى 14+ CPS. نصائح وتمارين شاملة."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "تدريب جيتر كليك (Jitter)"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
-      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "اختبار بترفلاي كليك - النقر المزدوج",
+      "description": "افحص سرعة الـ Butterfly Click. استخدم إصبعين لمضاعفة الـ CPS. تقنية أساسية لمحترفي Minecraft."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "اختبار بترفلاي كليك"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
-      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "اختبار دراج كليك - سرعة الاحتكاك",
+      "description": "اختبر سرعة الـ Drag Click. استخدم الاحتكاك لتسجيل مئات النقرات في ثوانٍ معدودة."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "اختبار دراج كليك (Drag)"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
-      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "اختبار ماين كرافت PvP - تدريب الكومبو",
+      "description": "تدرب على النقر من أجل Minecraft PvP. حسن دقة الضربات والـ Combo."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "تدريب ماين كرافت PvP"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "اختبار سرعة رد الفعل - المعيار البشري",
+      "description": "قس سرعة استجابتك البصرية بالملي ثانية. المتوسط البشري هو 250ms. هل يمكنك الوصول لـ 150ms؟"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
-    "result": "{time} ms"
+    "h1": "اختبار رد الفعل",
+    "wait": "...انتظر اللون الأخضر",
+    "click": "!إضغط الآن",
+    "too_soon": "!مبكر جداً! لا تستعجل",
+    "result": "{time} ملي ثانية"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute"
+      "title": "اختبار سرعة الطباعة - افحص الـ WPM",
+      "description": "اختبار طباعة مجاني لمدة دقيقة. احسب عدد الكلمات في الدقيقة (WPM) بدقة."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "اختبار سرعة الكتابة (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "فحص الكيبورد - اختبر كل الأزرار أونلاين",
+      "description": "افحص كل زر في لوحة المفاتيح. اكتشف مشاكل الـ Ghosting والأزرار المعطلة. يعمل مع الكيبورد الميكانيكي."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "فحص أزرار الكيبورد"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about تحسين الايم ببجي?",
-        "answer": "Answer regarding تحسين الايم ببجي for AR users."
+        "question": "كيف أحسن الايم (Aim) في ببجي وفالورانت؟",
+        "answer": "تحسين الايم يتطلب مزيجاً من ضبط حساسية الماوس (DPI)، التدريب على الذاكرة العضلية، واستخدام أدوات اختبار رد الفعل المتوفرة هنا لتحسين سرعة استجابتك."
       },
       "q2": {
-        "question": "Question 2 about اختبار الماوس دبل كليك?",
-        "answer": "Answer regarding اختبار الماوس دبل كليك for AR users."
+        "question": "كيف أفحص الماوس من مشكلة الدبل كليك؟",
+        "answer": "استخدم أداة 'اختبار الماوس' لدينا. انقر ببطء 100 مرة؛ إذا سجل النظام نقرات مزدوجة لنقرة واحدة، فالماوس يعاني من خلل في الـ Switch."
       },
       "q3": {
-        "question": "Question 3 about حل مشكلة الماوس يعلق?",
-        "answer": "Answer regarding حل مشكلة الماوس يعلق for AR users."
+        "question": "الماوس يعلق أو يقطع، ما الحل؟",
+        "answer": "قد يكون السبب الغبار على العدسة، أو مشاكل في السلك. جرب تنظيف السنسور بقطنة، أو استخدم اختبار الـ Polling Rate للتأكد من استقرار الاتصال."
       },
       "q4": {
-        "question": "Question 4 about قياس سرعة الكتابة?",
-        "answer": "Answer regarding قياس سرعة الكتابة for AR users."
+        "question": "ما هو معدل الـ CPS الطبيعي؟",
+        "answer": "المتوسط للشخص العادي هو 6-7 نقرات في الثانية. المحترفون يصلون إلى 10+، وخبراء الماين كرافت يتجاوزون 14+."
       },
       "q5": {
-        "question": "Question 5 about اختبار الكيبورد?",
-        "answer": "Answer regarding اختبار الكيبورد for AR users."
+        "question": "هل الكيبورد الميكانيكي يفرق في الألعاب؟",
+        "answer": "نعم، المفاتيح الميكانيكية (مثل Cherry MX Red) توفر استجابة أسرع ودقة أعلى مقارنة بالكيبورد العادي (Membrane)."
       },
       "q6": {
-        "question": "Question 6 about لعبة رد الفعل?",
-        "answer": "Answer regarding لعبة رد الفعل for AR users."
+        "question": "كيف أقيس سرعة النت الحقيقية للألعاب؟",
+        "answer": "لا تعتمد فقط على سرعة التحميل. استخدم 'فحص اللاق' (Packet Loss Test) لقياس استقرار الاتصال والـ Jitter المهم للألعاب أونلاين."
       },
       "q7": {
-        "question": "Question 7 about اختبار سرعة النقر?",
-        "answer": "Answer regarding اختبار سرعة النقر for AR users."
+        "question": "ما هي أفضل طريقة للنقر السريع؟",
+        "answer": "تعتمد على اللعبة. للـ PvP يفضل الـ Butterfly Click. للتصويب الدقيق يفضل النقر العادي والثابت."
       },
       "q8": {
-        "question": "Question 8 about تحسين الايم ببجي?",
-        "answer": "Answer regarding تحسين الايم ببجي for AR users."
+        "question": "هل الـ Jitter Clicking مضر باليد؟",
+        "answer": "إذا تم بشكل خاطئ، قد يسبب إجهاداً للعضلات (RSI). تأكد من أخذ فترات راحة وعدم الشد المبالغ فيه على الذراع."
       },
       "q9": {
-        "question": "Question 9 about اختبار الماوس دبل كليك?",
-        "answer": "Answer regarding اختبار الماوس دبل كليك for AR users."
+        "question": "ما هو الـ Ghosting في الكيبورد؟",
+        "answer": "هو عدم استجابة الكيبورد عند ضغط عدة أزرار في وقت واحد. استخدم اختبار الـ N-Key Rollover للتأكد من جودة الكيبورد."
       },
       "q10": {
-        "question": "Question 10 about حل مشكلة الماوس يعلق?",
-        "answer": "Answer regarding حل مشكلة الماوس يعلق for AR users."
+        "question": "كيف أصلح أزرار الكيبورد التي لا تعمل؟",
+        "answer": "أولاً استخدم 'فحص الكيبورد' لتحديد الزر. إذا كان ميكانيكياً، قد يحتاج لتنظيف بالكحول أو استبدال الـ Switch."
       },
       "q11": {
-        "question": "Question 11 about قياس سرعة الكتابة?",
-        "answer": "Answer regarding قياس سرعة الكتابة for AR users."
+        "question": "كيف أعرف الـ DPI الخاص بالماوس؟",
+        "answer": "غالباً يوجد زر في الماوس أو برنامج خاص (Driver). لا يمكن قياس الـ DPI بدقة عبر المتصفح، لكن يمكن قياس سرعة المؤشر."
       },
       "q12": {
-        "question": "Question 12 about اختبار الكيبورد?",
-        "answer": "Answer regarding اختبار الكيبورد for AR users."
+        "question": "ما هو أفضل معدل Polling Rate؟",
+        "answer": "للألعاب التنافسية، 1000Hz (1ms) هو المعيار الذهبي. الفأرات المكتبية تعمل عادة بـ 125Hz."
       },
       "q13": {
-        "question": "Question 13 about لعبة رد الفعل?",
-        "answer": "Answer regarding لعبة رد الفعل for AR users."
+        "question": "كيف أتدرب على الـ Drag Click؟",
+        "answer": "تحتاج لسطح ماوس خشن (Matte) وإصبع جاف قليلاً. مرر إصبعك بزاوية لتوليد احتكاك يسبب اهتزاز الزر."
       },
       "q14": {
-        "question": "Question 14 about اختبار سرعة النقر?",
-        "answer": "Answer regarding اختبار سرعة النقر for AR users."
+        "question": "هل يمكن استخدام التاتش في اختبار CPS؟",
+        "answer": "نعم، أدواتنا تدعم شاشات اللمس والموبايل، لكن النتائج تختلف عن الماوس."
       },
       "q15": {
-        "question": "Question 15 about تحسين الايم ببجي?",
-        "answer": "Answer regarding تحسين الايم ببجي for AR users."
+        "question": "لماذا البنق (Ping) عالي عندي؟",
+        "answer": "قد يكون بسبب بعد السيرفر، أو استخدام Wi-Fi بدلاً من كابل LAN. افحص فقدان الحزم (Packet Loss) لتشخيص المشكلة."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "ما هو وقت رد الفعل (Reaction Time)؟",
+        "answer": "هو الوقت الذي يستغرقه دماغك لمعالجة إشارة بصرية (مثل تغير اللون) وإرسال أمر ليدك للنقر."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "ما هو وقت رد الفعل الجيد؟",
+        "answer": "المتوسط هو 250ms. أقل من 200ms يعتبر ممتازاً. المحترفون يسجلون حوالي 150ms."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "كيف أحسن ردة فعلي؟",
+        "answer": "الممارسة المستمرة، النوم الجيد، شرب الماء، ولعب ألعاب تتطلب سرعة بديهة مثل FPS."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "هل يؤثر العمر على رد الفعل؟",
+        "answer": "نعم، سرعة رد الفعل تصل ذروتها في العشرينات وتبدأ بالتباطؤ تدريجياً مع التقدم في العمر."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "هل تردد الشاشة (Hz) يؤثر؟",
+        "answer": "نعم! شاشة 144Hz أو 240Hz تقلل تأخير العرض بشكل كبير مقارنة بـ 60Hz، مما يمنحك أفضلية."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "ما هو رد الفعل البصري؟",
+        "answer": "هو الاستجابة لمحفز تراه بالعين (مثل ظهور عدو في اللعبة)."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "ما هو رد الفعل السمعي؟",
+        "answer": "الاستجابة للصوت، وغالباً ما تكون أسرع من الاستجابة البصرية."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "هل الكافيين يحسن رد الفعل؟",
+        "answer": "نعم، بكميات معتدلة يزيد من اليقظة والتركيز."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "هل يستخدم المحترفون معدات خاصة؟",
+        "answer": "نعم، يستخدمون شاشات بتردد عالي، وفأرات بوزن خفيف وتأخير (Latency) منخفض جداً."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "كيف أقيس دقتي؟",
+        "answer": "استخدم أدوات اختبار الدقة (Aim Trainer) المتوفرة لدينا بجانب اختبار السرعة."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "ما هو الـ WPM؟",
+        "answer": "WPM تعني 'كلمة في الدقيقة' (Words Per Minute)، وهو المقياس العالمي لسرعة الكتابة."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "كيف أكتب بسرعة أكبر؟",
+        "answer": "تعلم 'الكتابة باللمس' (Touch Typing)، حافظ على وضعية يد صحيحة، ولا تنظر للكيبورد أثناء الكتابة."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "ما هي سرعة الكتابة الجيدة؟",
+        "answer": "المتوسط العالمي هو 40 WPM. المحترفون والمبرمجون غالباً ما يتجاوزون 80-100 WPM."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "هل الكتابة باللمس أفضل؟",
+        "answer": "نعم، لأنها تعتمد على الذاكرة العضلية وتسمح لك بالتركيز على الشاشة بدلاً من البحث عن الحروف."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "ما هو الكيبورد الميكانيكي؟",
+        "answer": "لوحة مفاتيح تستخدم مفاتيح فيزيائية مستقلة لكل زر، توفر شعوراً ودقة أفضل عند الكتابة."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "هل نوع الكيبورد يؤثر على السرعة؟",
+        "answer": "نعم، الكيبورد المريح ذو الاستجابة المحسوسة (Tactile) يساعد في الحفاظ على الإيقاع وتقليل الأخطاء."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "كيف أتعلم الطباعة العمياء؟",
+        "answer": "ابدأ بتمارين صف الارتكاز (Home Row) وتدرب يومياً لمدة 15 دقيقة."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "كم متوسط سرعة الطباعة بالعربي؟",
+        "answer": "مشابه للإنجليزية، حوالي 35-40 كلمة في الدقيقة للمستخدم العادي."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "ما هي الدقة 100%؟",
+        "answer": "هي الكتابة دون ارتكاب أي خطأ ودون الحاجة لاستخدام زر المسح (Backspace)."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "كيف أقلل إرهاق اليد أثناء الكتابة؟",
+        "answer": "استخدم مسند للمعصم، اجعل الكيبورد مسطحاً، وخذ فترات راحة قصيرة لتمديد الأصابع."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "ما هي مشكلة الـ Ghosting؟",
+        "answer": "عندما يفشل الكيبورد في تسجيل ضغطة زر إذا تم ضغط عدة أزرار أخرى معه في نفس الوقت."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "ما هو الـ Key Rollover؟",
+        "answer": "الحد الأقصى لعدد الأزرار التي يمكن للكيبورد تسجيلها في وقت واحد."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "كيف أفحص أزرار الكيبورد؟",
+        "answer": "اضغط على كل زر في لوحة المفاتيح وتأكد من تحوله للون الأخضر على شاشتنا."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "كيف أفحص السويتشات الميكانيكية؟",
+        "answer": "اضغط برفق للتأكد من نقطة الاستجابة (Actuation Point) قبل وصول الزر للقاع."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "ما هو N-Key Rollover؟",
+        "answer": "ميزة تسمح للكيبورد بتسجيل جميع الأزرار حتى لو ضغطتها كلها في وقت واحد (مهمة للاعبين)."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "ما هي سويتشات Cherry MX؟",
+        "answer": "أشهر أنواع المفاتيح الميكانيكية، تأتي بألوان مختلفة (أحمر، أزرق، بني) تعبر عن ملمس وصوت الزر."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "كيف أنظف الكيبورد؟",
+        "answer": "استخدم علبة هواء مضغوط لإخراج الغبار، ويمكنك فك الأزرار (Keycaps) لتنظيف أعمق."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "لماذا الزر يعلق (Sticky Key)؟",
+        "answer": "قد يكون بسبب انسكاب سائل سكري، أو تراكم الأوساخ داخل السويتش."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "ما هو كيبورد Membrane؟",
+        "answer": "الكيبورد العادي الذي يستخدم طبقة مطاطية تحت الأزرار، وهو أرخص ولكنه أقل دقة من الميكانيكي."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "هل يمكن تغيير أزرار اللابتوب؟",
+        "answer": "نعم، لكنها عملية دقيقة. غالباً يفضل تنظيفها أولاً قبل التفكير في الاستبدال."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "المؤقت",
+    "score": "النتيجة",
+    "start": "إبدأ النقر",
+    "active": "!بسرعة",
+    "try_again": "حاول مجدداً",
+    "share": "نشر النتيجة",
+    "result_msg": "أداء رائع! هل يمكنك تحسين نتيجتك؟",
+    "slow": "🐢 سلحفاة",
+    "fast": "⚡ محترف",
+    "superhuman": "👑 أسطوري"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "حول الأداة",
+    "how_to": "طريقة الاستخدام",
+    "rank_up": "كيف ترفع مستواك؟",
+    "faq": "أسئلة شائعة",
+    "related": "أدوات ذات صلة",
+    "step1": "اضغط على زر البدء أو المنطقة المخصصة.",
+    "step2": "قم بتنفيذ المهمة بأسرع وأدق شكل ممكن.",
+    "step3": "شاهد نتيجتك وشاركها مع أصدقائك.",
+    "rank_turtle": "سلحفاة",
+    "rank_turtle_desc": "أنت تنقر ببطء! حاول شد عضلات ساعدك قليلاً.",
+    "rank_pro": "محترف",
+    "rank_pro_desc": "متوسط سرعة اللاعبين (Gamer). جيد للعب العادي.",
+    "rank_god": "أسطوري (Godlike)",
+    "rank_god_desc": "أنت تتقن تقنيات متقدمة مثل الجيتر كليك والبترفلاي."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "فحص البيكسل الميت للشاشة",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "افحص شاشتك بحثاً عن النقاط الميتة (Dead Pixels) أو العالقة."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (AR)",
+    "h1": "فحص التاتش أونلاين (Touch Test)",
     "seo": {
-      "title": "Touch Screen Test Online (AR)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "فحص التاتش للموبايل - اختبار شاشة اللمس",
+      "description": "افحص شاشة هاتفك بحثاً عن المناطق الميتة واللمسات الوهمية (Ghost Touch) أونلاين."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (AR)",
-      "p_hook": "Localized intro for AR. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for AR.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for AR.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for AR.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in AR."
+      "h2_hook": "لماذا تفحص شاشة اللمس؟",
+      "p_hook": "هل تشعر أن هاتفك يضغط أزراراً لوحده؟ أو أن هناك جزءاً من الشاشة لا يستجيب؟ أداة فحص التاتش تساعدك في تشخيص مشاكل اللمس والـ Ghost Touch بدقة.",
+      "h2_science": "كيف يعمل الاختبار؟",
+      "p_science": "نقوم برسم شبكة تفاعلية على الشاشة. مرر إصبعك على المربعات؛ إذا لم يتحول المربع للون الأخضر، فهذا يعني أن تلك المنطقة من الشاشة 'ميتة' ولا تستجيب للمس.",
+      "h2_gaming": "التاتش والألعاب (PUBG & COD)",
+      "p_gaming": "في ألعاب مثل ببجي موبايل، عدم استجابة زر الإطلاق قد يكلفك الجيم. تأكد من أن الـ Multi-touch يعمل بشكل سليم (يدعم عدة أصابع في وقت واحد).",
+      "h2_hardware": "هل المشكلة سوفتوير أم هاردوير؟",
+      "p_hardware": "إذا كانت المناطق الميتة ثابتة، فغالباً الشاشة تحتاج تغيير. إذا كانت عشوائية، قد يكون السبب شاحن غير أصلي أو مشكلة في النظام.",
+      "h2_technique": "حلول سريعة",
+      "p_technique": "نظف الشاشة جيداً، انزع لاصقة الحماية (Screen Protector) وجرب الفحص مرة أخرى للتأكد."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (AR)",
+    "h1": "فحص الميكروفون أونلاين",
     "seo": {
-      "title": "Microphone Test Online (AR)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "اختبار المايك أونلاين - افحص الصوت والتسجيل",
+      "description": "افحص الميكروفون والسماعات. تأكد من نقاء الصوت وعمل القنوات اليمين واليسار (Stereo)."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (AR)",
-      "p_hook": "Localized intro for AR. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for AR.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for AR.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for AR.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in AR."
+      "h2_hook": "هل صوتك واضح؟",
+      "p_hook": "قبل الدخول في اجتماع Zoom أو مكالمة Discord، تأكد أن المايك يعمل بوضوح وأنه لا يوجد ضجيج أو تشويش في الخلفية.",
+      "h2_science": "تحليل الترددات",
+      "p_science": "تعرض أداتنا موجات الصوت بشكل مرئي (Visualizer) لتتمكن من رؤية شدة الصوت والتقاط المشاكل الدقيقة.",
+      "h2_gaming": "المايك في الألعاب",
+      "p_gaming": "التواصل هو مفتاح الفوز. افحص المايك للتأكد من أن فريقك يسمعك بوضوح دون صدى مزعج.",
+      "h2_hardware": "أنواع الميكروفونات",
+      "p_hardware": "سواء كنت تستخدم مايك اللابتوب المدمج أو مايك USB احترافي، أداتنا تدعم جميع أجهزة الإدخال.",
+      "h2_technique": "حل مشاكل الصوت",
+      "p_technique": "تأكد من إعطاء الصلاحية للمتصفح لاستخدام المايك. افحص إعدادات الصوت في الويندوز إذا لم يظهر أي نشاط."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (AR)",
+    "h1": "فحص يد التحكم (Controller Tester)",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (AR)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "فحص يد التحكم والكشف عن الدريفت (Drift)",
+      "description": "اختبر يد بلايستيشن 5، إكس بوكس، وSwitch. افحص الأزرار والأنالوج بحثاً عن الـ Stick Drift."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (AR)",
-      "p_hook": "Localized intro for AR. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for AR.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for AR.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for AR.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in AR."
+      "h2_hook": "مشكلة الدريفت (Stick Drift) المزعجة",
+      "p_hook": "هل يتحرك اللاعب لوحده؟ هذا يسمى 'دريفت'. استخدم أداتنا لفحص دقة الأنالوج (Analog Stick) ومعرفة ما إذا كنت بحاجة لتصليح اليد.",
+      "h2_science": "قراءات دقيقة",
+      "p_science": "نعرض لك قيم المحاور (X, Y Axis) بدقة عالية. أي حركة في القيم دون لمس اليد تعني وجود دريفت.",
+      "h2_gaming": "دعم جميع الأجهزة",
+      "p_gaming": "يدعم المتصفح أيادي PS4, PS5, Xbox Series X/S وحتى أيدي Pro Controller الخاصة بـ Nintendo Switch.",
+      "h2_hardware": "الاهتزاز والأزرار",
+      "p_hardware": "يمكنك أيضاً فحص خاصية الاهتزاز (Vibration) والتأكد من استجابة كل الأزرار والـ Triggers (L2/R2).",
+      "h2_technique": "ما العمل إذا وجد دريفت؟",
+      "p_technique": "جرب تنظيف الأنالوج بالهواء المضغوط. في بعض الحالات، يمكن ضبط الـ Deadzone في إعدادات اللعبة لتجاهل الدريفت البسيط."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (AR)",
+    "h1": "فحص اللاق وفقدان الحزم (Packet Loss)",
     "seo": {
-      "title": "Packet Loss & Ping Test (AR)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "اختبار Packet Loss والبنق - استقرار النت للألعاب",
+      "description": "افحص استقرار اتصالك، الـ Jitter، وفقدان البيانات (Packet Loss). أداة أساسية للاعبي الأونلاين."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (AR)",
-      "p_hook": "Localized intro for AR. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for AR.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for AR.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for AR.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in AR."
+      "h2_hook": "لماذا اللعبة تقطع رغم أن النت سريع؟",
+      "p_hook": "السرعة ليست كل شيء. الـ Packet Loss يعني أن بيانات اللعبة تضيع في الطريق، مما يسبب انتقالك من مكان لآخر فجأة (Rubber-banding).",
+      "h2_science": "ما هو البنق (Ping) والجيتر (Jitter)؟",
+      "p_science": "البنق هو زمن الوصول للسيرفر. الجيتر هو تذبذب هذا الزمن. اللاق الحقيقي يأتي من الجيتر العالي وفقدان الحزم.",
+      "h2_gaming": "تأثير اللاق على اللعب",
+      "p_gaming": "في فالورانت أو كود، فقدان 1% من الحزم قد يجعلك تخسر المواجهة. هذا الاختبار يحاكي إرسال بيانات اللعبة لكشف الحقيقة.",
+      "h2_hardware": "واي فاي أم كابل؟",
+      "p_hardware": "الواي فاي هو العدو الأول لاستقرار النت. دائماً ننصح باستخدام كابل Ethernet للحصول على 0% Packet Loss.",
+      "h2_technique": "كيف تحسن اتصالك؟",
+      "p_technique": "أغلق التحميلات في الخلفية، استخدم كابل LAN، وجرب إعادة تشغيل الراوتر. إذا استمرت المشكلة، اتصل بمزود الخدمة."
     }
   }
 }
