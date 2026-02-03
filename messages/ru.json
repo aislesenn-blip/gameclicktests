@@ -1,479 +1,479 @@
 {
   "seo": {
-    "title": "КПС Тест - Проверка скорости клика",
-    "description": "Как быстро вы можете кликать мышкой? Пройдите 10-секундный КПС Тест. Соревнуйтесь с друзьями и бейте мировые рекорды."
+    "title": "КПС Тест - Проверка скорости клика (CPS Test) | Palmtweets",
+    "description": "Сколько кликов в секунду (CPS) вы можете сделать? Тест Джиттер Клика, Баттерфляй и Драг Клика. Проверь мышку на дабл клик и скорость для Minecraft и CS2."
   },
   "ui": {
-    "h1": "Проверь Скорость Клика Мгновенно",
-    "description": "Измерьте свои Клики в Секунду (КПС) с нашим сверхбыстрым инструментом проверки рефлексов. Создано для геймеров, спидраннеров и профессиональных игроков по всему миру.",
-    "start_btn": "Начать КПС Тест",
-    "modes": "Режимы",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "Мой результат {score} CPS на Palmtweets. Попробуй побить!",
+    "h1": "Тест Скорости Клика (CPS)",
+    "description": "Точное измерение Кликов в Секунду (КПС). Идеально для тренировки PvP в Minecraft, улучшения Аима в CS2 и проверки игровых мышей.",
+    "start_btn": "НАЧАТЬ ТЕСТ",
+    "modes": "Режимы Тренировки",
+    "rank_noob": "🐢 Ранг: Нуб",
+    "rank_pro": "⚡ Ранг: Про Геймер",
+    "rank_god": "👑 Ранг: КИБЕРСПОРТСМЕН",
+    "share_txt": "Я выбил {score} CPS на Palmtweets. Сможешь перекликовть меня?",
     "score": "СЧЕТ",
     "timer": "ВРЕМЯ",
-    "active": "КЛИКАЙ!",
+    "active": "КЛИКАЙ БЫСТРЕЕ!",
     "try_again": "ПОВТОРИТЬ",
-    "share": "ПОДЕЛИТЬСЯ",
+    "share": "ПОДЕЛИТЬСЯ РЕЗУЛЬТАТОМ",
     "start": "СТАРТ",
-    "result_msg": "Твоя скорость выше средней. Сможешь побить свой личный рекорд?",
-    "slow": "🐢 Черепаха",
-    "fast": "⚡ Профи",
-    "superhuman": "👑 БОГ"
+    "result_msg": "Отличная реакция! Ты готов к рейтинговым матчам?",
+    "slow": "🐢 Медленно",
+    "fast": "⚡ Быстро",
+    "superhuman": "👑 Элита"
   },
   "nav": {
     "home": "Главная",
     "cps": "КПС Тест",
     "reaction": "Реакция",
     "typing": "Печать",
-    "keyboard": "Клавиатура",
+    "keyboard": "Тест Клавиатуры",
     "privacy": "Конфиденциальность"
   },
   "mobile_nav": {
-    "cps_cluster": "КПС Тесты",
-    "typing_cluster": "Тесты Печати",
-    "reaction_cluster": "Тесты Реакции",
-    "keyboard_cluster": "Инструменты Клавиатуры",
-    "cps_1s": "1 Секунда",
-    "cps_5s": "5 Секунд",
-    "cps_60s": "60 Секунд",
-    "jitter": "Джиттер Клик",
-    "butterfly": "Баттерфляй Клик",
-    "drag": "Драг Клик",
-    "reaction": "Время Реакции",
-    "typing": "Скорость Печати",
-    "keyboard": "Тест Клавиатуры",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "Hardware Tests",
-    "game_challenges": "Game Challenges",
-    "click_modes": "Click Modes",
-    "time_modes": "Time Modes",
-    "community": "Community",
-    "touch_test": "Touch Screen Test (RU)",
-    "mic_test": "Mic Test (RU)",
-    "gamepad_test": "Gamepad Tester (RU)",
-    "packet_loss": "Packet Loss Test (RU)"
+    "cps_cluster": "КПС Тесты (Click Speed)",
+    "typing_cluster": "Скорость Печати",
+    "reaction_cluster": "Реакция и Аим",
+    "keyboard_cluster": "Диагностика ПК",
+    "cps_1s": "Тест 1 Секунда (Бёрст)",
+    "cps_5s": "Тест 5 Секунд",
+    "cps_60s": "Марафон 60 Секунд",
+    "jitter": "Тренировка Джиттер Клик",
+    "butterfly": "Тренировка Баттерфляй",
+    "drag": "Тренировка Драг Клик",
+    "reaction": "Время Реакции (мс)",
+    "typing": "Скорость Печати (WPM)",
+    "keyboard": "Проверка Клавиш",
+    "minecraft": "Minecraft PvP CPS",
+    "pubg": "Тренировка Аима PUBG",
+    "roblox": "Кликер для Roblox",
+    "valorant": "Рефлексы Valorant",
+    "fortnite": "Скорость Редакта",
+    "hardware_tests": "Тест Железа",
+    "game_challenges": "Челленджи",
+    "click_modes": "Режимы Клика",
+    "time_modes": "Таймеры",
+    "community": "Сообщество",
+    "touch_test": "Тест Тачскрина",
+    "mic_test": "Проверка Микрофона",
+    "gamepad_test": "Тест Геймпада (Дрифт)",
+    "packet_loss": "Тест Пакетов и Пинга"
   },
   "footer": {
-    "tagline": "Самая быстрая в мире платформа для проверки рефлексов и скорости."
+    "tagline": "Главная платформа для киберспортсменов: тесты скорости, пинга и девайсов."
   },
   "privacy": {
     "title": "Политика конфиденциальности",
-    "intro": "В Palmtweets мы ценим вашу конфиденциальность.",
-    "cookies_title": "Cookies",
-    "cookies_text": "Мы используем куки для улучшения вашего опыта.",
+    "intro": "Palmtweets уважает вашу анонимность.",
+    "cookies_title": "Файлы Cookies",
+    "cookies_text": "Мы используем куки только для базовой аналитики и сохранения ваших рекордов локально.",
     "data_title": "Сбор данных",
-    "data_text": "Мы не собираем личные данные.",
+    "data_text": "Мы не собираем личные данные. Все тесты проводятся в вашем браузере.",
     "contact_title": "Контакты",
-    "contact_text": "Свяжитесь с support@palmtweets.com."
+    "contact_text": "Техподдержка: support@palmtweets.com."
   },
   "seo_content": {
-    "h2_improve": "Как улучшить скорость клика",
-    "p_improve": "Улучшение скорости требует практики и правильного оборудования. Начните с расслабления мышц руки, чтобы уменьшить напряжение. Используйте игровую мышь с переключателями с низкой задержкой. Практикуйтесь ежедневно по 10-15 минут для создания мышечной памяти.",
-    "h2_styles": "Butterfly clicking против Jitter clicking",
-    "p_styles": "Jitter clicking включает вибрацию мышц руки для быстрого клика, часто достигая 10-14 CPS. Butterfly clicking использует два пальца на одной кнопке, чередуя удары для достижения 15-20+ CPS. Butterfly обычно безопаснее для сухожилий, но требует мышь, поддерживающую двойной клик.",
-    "h2_record": "Какой мировой рекорд CPS?",
-    "p_record": "Мировой рекорд CPS варьируется в зависимости от длительности. За 1 секунду некоторые игроки достигают 30+ CPS, используя Drag Clicking. Для стандартного теста 10 секунд рекорды колеблются около 22-24 CPS с использованием продвинутых техник.",
-    "h2_useful": "Полезен ли тест CPS для геймеров?",
-    "p_useful": "Да. Высокий CPS критичен в играх, таких как Minecraft (PvP bridging), OSU!, и шутерах от первого лица, где используется полуавтоматическое оружие. Отслеживание вашего CPS помогает измерить ваше физическое улучшение и готовность к соревновательной игре.",
-    "h2_hardware": "Лаборатория железа",
-    "p_hardware": "Этот инструмент важен для геймеров, желающих освоить Скролл тест мыши. Улучшение реакции жизненно важно. Игроки часто ищут 'Скролл тест мыши'.",
-    "h2_games": "CPS в Соревновательных Играх",
-    "p_games": "В Minecraft 1.8 PvP высокий CPS помогает 'получать меньше отбрасывания' и начинать комбо. В шутерах, таких как CS2 или Valorant, время реакции часто важнее, чем чистый CPS, но постоянство клика гарантирует, что ваши выстрелы попадут в цель.",
-    "h2_hook": "Почему важна скорость клика",
-    "p_hook": "Этот инструмент важен для геймеров, желающих освоить Тренировка аима кс 2, Тест мышки на дабл клик. Улучшение реакции жизненно важно. Игроки часто ищут 'Тренировка аима кс 2'.",
-    "h2_science": "Наука о CPS",
-    "p_science": "Этот инструмент важен для геймеров, желающих освоить Как повысить кпс в майнкрафте, Джиттер клик гайд. Улучшение реакции жизненно важно. Игроки часто ищут 'Как повысить кпс в майнкрафте'.",
-    "h2_gaming": "Игровой контекст: Майнкрафт и Шутеры",
-    "p_gaming": "Этот инструмент важен для геймеров, желающих освоить Проверка клавиатуры онлайн, Залипание клавиш тест. Улучшение реакции жизненно важно. Игроки часто ищут 'Проверка клавиатуры онлайн'.",
-    "h2_technique": "Гайд по техникам",
-    "p_technique": "Этот инструмент важен для геймеров, желающих освоить CPS. Улучшение реакции жизненно важно. Игроки часто ищут ''."
+    "h2_improve": "Как поднять КПС (Клики в секунду)?",
+    "p_improve": "Высокий КПС — это сочетание техники и железа. Расслабьте кисть, чтобы избежать туннельного синдрома. Используйте мыши с легкими кликами (например, Bloody или Logitech G Pro). Ежедневная разминка по 10 минут перед каткой обязательна.",
+    "h2_styles": "Jitter Click против Butterfly Click: Что лучше?",
+    "p_styles": "**Джиттер Клик** использует микро-вибрации предплечья для достижения 12-14 CPS. Это стабильно для аима. **Баттерфляй Клик** использует два пальца поочередно для достижения 20+ CPS, что идеально для 'Бриджинга' в Minecraft, но требует мышь с поддержкой двойного клика.",
+    "h2_record": "Мировой Рекорд КПС",
+    "p_record": "В тесте на 10 секунд легитимный рекорд составляет около 22-24 CPS. С использованием техники **Drag Click** (Драг Клик) игроки могут выдавать короткие очереди (Burst) до 30+ CPS.",
+    "h2_useful": "Зачем нужен высокий CPS в Играх?",
+    "p_useful": "В Minecraft 1.8 PvP высокий КПС уменьшает отбрасывание (Knockback) и упрощает комбо. В шутерах (CS2, Valorant) скорость клика важна при стрельбе из пистолетов и полуавтоматических винтовок (tapping).",
+    "h2_hardware": "Проблема Дабл Клика (Double Click)",
+    "p_hardware": "Ваша мышка делает два клика вместо одного? Это частая поломка микриков (свитчей). Используйте наш тест, чтобы подтвердить брак перед походом в сервис или покупкой новой мыши.",
+    "h2_games": "Тренировка Аима и Реакции",
+    "p_games": "Быстрый клик бесполезен, если ты мажешь. Используйте наш **Тест Реакции**, чтобы уменьшить задержку между глазом и рукой. Про-игроки CS2 имеют реакцию около 160-180 мс.",
+    "h2_hook": "Телефон живет своей жизнью? (Фантомные нажатия)",
+    "p_hook": "В играх типа PUBG Mobile прицел срывается сам по себе? Это 'Ghost Touch'. Используйте наш Тест Тачскрина, чтобы найти мертвые зоны на экране смартфона.",
+    "h2_science": "Пинг есть, а лаги остались? (Packet Loss)",
+    "p_science": "Потеря пакетов (Packet Loss) страшнее высокого пинга. Это когда ваши пули пролетают сквозь врага. Наш инструмент симулирует игровой трафик, чтобы проверить стабильность вашего провайдера.",
+    "h2_gaming": "Гостинг Клавиатуры (Ghosting)",
+    "p_gaming": "Не срабатывает стрейф или прыжок, когда зажато много кнопок? Это 'Гостинг'. Проверьте свою клавиатуру на поддержку NKRO (N-Key Rollover) с помощью нашего инструмента.",
+    "h2_technique": "Секрет Драг Клика",
+    "p_technique": "Драг Клик — это скольжение пальца по шероховатой поверхности мыши для создания вибрации. Обязательно нужна специальная лента (Grip Tape) и матовая поверхность мыши."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "КПС Тест - Измерь скорость клика",
+      "description": "Как быстро ты кликаешь? Тест на 10 секунд. Соревнуйся с друзьями и тренируйся для турниров."
     },
-    "h1": "CPS TEST BLITZ"
+    "h1": "ТЕСТ СКОРОСТИ КЛИКА (CPS)"
   },
   "cps_1s": {
     "seo": {
-      "title": "КПС Тест 1 Секунда - Palmtweets",
-      "description": "Мгновенный тест скорости."
+      "title": "КПС Тест 1 Секунда - Моментальный замер",
+      "description": "Проверь максимальный бурст (Burst). Идеально для проверки Drag Click и Knockback."
     },
-    "h1": "КПС Тест 1 Секунда"
+    "h1": "БЫСТРЫЙ ТЕСТ (1 СЕКУНДА)"
   },
   "cps_5s": {
     "seo": {
-      "title": "КПС Тест 5 Секунд - Palmtweets",
-      "description": "Короткий спринт клика."
+      "title": "КПС Тест 5 Секунд - Короткий спринт",
+      "description": "Стандарт для геймеров. Сколько кликов за 5 секунд? Средний уровень про-игрока — 12+ CPS."
     },
-    "h1": "КПС Тест 5 Секунд"
+    "h1": "ТЕСТ 5 СЕКУНД"
   },
   "cps_60s": {
     "seo": {
-      "title": "Марафон 60 Секунд - Palmtweets",
-      "description": "Тест на выносливость пальцев."
+      "title": "Марафон 60 Секунд - Тест выносливости",
+      "description": "Сможешь ли ты держать высокий темп целую минуту? Проверка на усталость руки."
     },
-    "h1": "Марафон 60 Секунд"
+    "h1": "МАРАФОН 60 СЕКУНД"
   },
   "jitter": {
     "seo": {
-      "title": "Джиттер Клик Тренинг - Palmtweets",
-      "description": "Освой технику вибрации."
+      "title": "Тренировка Джиттер Клика - Техника вибрации",
+      "description": "Учись Джиттер Клику. Напряги руку для достижения 14+ CPS. Гайды и практика."
     },
-    "h1": "Джиттер Клик Тренинг"
+    "h1": "ТРЕНИРОВКА ДЖИТТЕР КЛИКА"
   },
   "butterfly": {
     "seo": {
-      "title": "Баттерфляй Клик Тест - Palmtweets",
-      "description": "Используй два пальца для скорости."
+      "title": "Баттерфляй Клик Тест - Двойной клик",
+      "description": "Проверь скорость Butterfly Click. Используй два пальца. Необходимая техника для Bedwars."
     },
-    "h1": "Баттерфляй Клик Тест"
+    "h1": "ТЕСТ БАТТЕРФЛЯЙ КЛИКА"
   },
   "drag": {
     "seo": {
-      "title": "Драг Клик Тест - Palmtweets",
-      "description": "Используй трение для сотен кликов."
+      "title": "Драг Клик Тест - Скольжение",
+      "description": "Проверь свой Drag Click. Используй трение для регистрации сотен кликов за секунды."
     },
-    "h1": "Драг Клик Тест"
+    "h1": "ТЕСТ ДРАГ КЛИКА"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft PvP Клик - Palmtweets",
-      "description": "Тренируй клик для Майнкрафт ПвП."
+      "title": "Minecraft PvP Тест - Тренировка Комбо",
+      "description": "Симулятор клика для Майнкрафт. Улучши свой стрейф и уменьши отбрасывание."
     },
-    "h1": "Minecraft PvP Клик"
+    "h1": "ТРЕНИРОВКА MINECRAFT PVP"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Тест на Реакцию - Human Benchmark Russia",
+      "description": "Измерь визуальную реакцию в миллисекундах. Средний человек — 250 мс. Сможешь выбить 150 мс?"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
-    "result": "{time} ms"
+    "h1": "ТЕСТ ВРЕМЕНИ РЕАКЦИИ",
+    "wait": "Жди Зеленый...",
+    "click": "ЖМИ СЕЙЧАС!",
+    "too_soon": "Рано! Не гадай.",
+    "result": "{time} мс"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Тест Скорости Печати - Проверь WPM",
+      "description": "Бесплатный тест печати на 1 минуту. Узнай свои Знаки в Минуту (CPM) и Слова в Минуту (WPM)."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "СКОРОСТЬ ПЕЧАТИ (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Тест Клавиатуры Онлайн - Проверка клавиш",
+      "description": "Проверь каждую кнопку клавиатуры. Найди залипания, гостинг и сломанные свитчи."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "ДИАГНОСТИКА КЛАВИАТУРЫ"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Тест мышки на дабл клик?",
-        "answer": "Answer regarding Тест мышки на дабл клик for RU users."
+        "question": "Как делать Драг Клик на обычной мышке?",
+        "answer": "На офисных мышках это сложно. Нужна мышь с матовым покрытием и свитчи без жесткой блокировки дребезга (debounce time). Помогает изолента на кнопке."
       },
       "q2": {
-        "question": "Question 2 about Как повысить кпс в майнкрафте?",
-        "answer": "Answer regarding Как повысить кпс в майнкрафте for RU users."
+        "question": "Как улучшить Аим в CS2 или Valorant?",
+        "answer": "Кликать быстро мало. Поставь комфортный DPI (400-800), отключи 'Акселерацию мыши' в Windows и тренируй пре-файр и ведение прицела (tracking)."
       },
       "q3": {
-        "question": "Question 3 about Джиттер клик гайд?",
-        "answer": "Answer regarding Джиттер клик гайд for RU users."
+        "question": "Как узнать, механическая клавиатура или нет?",
+        "answer": "Сними кейкап (колпачок). Если видишь крестообразный переключатель (синий, красный) — это механика. Если резиновую мембрану — это обычная."
       },
       "q4": {
-        "question": "Question 4 about Проверка клавиатуры онлайн?",
-        "answer": "Answer regarding Проверка клавиатуры онлайн for RU users."
+        "question": "Вреден ли Джиттер Клик для рук?",
+        "answer": "При неправильной технике — да. Сильное напряжение может вызвать боли в суставах. Делайте разминку и перерывы."
       },
       "q5": {
-        "question": "Question 5 about Залипание клавиш тест?",
-        "answer": "Answer regarding Залипание клавиш тест for RU users."
+        "question": "Какая мышь лучшая для Баттерфляй Клика?",
+        "answer": "Glorious Model O, Logitech G Pro X и мыши Bloody популярны, так как позволяют настроить Debounce Time для легкого прохождения двойных кликов."
       },
       "q6": {
-        "question": "Question 6 about Скролл тест мыши?",
-        "answer": "Answer regarding Скролл тест мыши for RU users."
+        "question": "Что такое Герцовка (Polling Rate) мыши?",
+        "answer": "Частота опроса сенсора. Для игр ставь 1000Hz (1 мс). На 125Hz курсор будет двигаться рывками."
       },
       "q7": {
-        "question": "Question 7 about Тренировка аима кс 2?",
-        "answer": "Answer regarding Тренировка аима кс 2 for RU users."
+        "question": "Почему мышка срывает сенсор?",
+        "answer": "Обычно это грязь на линзе сенсора или дешевый сенсор, не выдерживающий резких движений (фликов). Почисти сенсор ватной палочкой."
       },
       "q8": {
-        "question": "Question 8 about Тест мышки на дабл клик?",
-        "answer": "Answer regarding Тест мышки на дабл клик for RU users."
+        "question": "Как проверить мышь на Дабл Клик?",
+        "answer": "Используй наш инструмент 'Тест мыши'. Сделай 100 одиночных кликов. Если счетчик покажет больше 100 — свитчи умирают."
       },
       "q9": {
-        "question": "Question 9 about Как повысить кпс в майнкрафте?",
-        "answer": "Answer regarding Как повысить кпс в майнкрафте for RU users."
+        "question": "Какой средний КПС у человека?",
+        "answer": "Обычный пользователь: 6-7 CPS. Геймер: 8-10 CPS. Майнкрафтеры с драг кликом: 20+ CPS."
       },
       "q10": {
-        "question": "Question 10 about Джиттер клик гайд?",
-        "answer": "Answer regarding Джиттер клик гайд for RU users."
+        "question": "Какой DPI ставить для шутеров?",
+        "answer": "Низкий DPI (400-800) дает точность. Высокий (1600+) удобен для MOBA. Главное — отключить акселерацию."
       },
       "q11": {
-        "question": "Question 11 about Проверка клавиатуры онлайн?",
-        "answer": "Answer regarding Проверка клавиатуры онлайн for RU users."
+        "question": "Дает ли механика преимущество?",
+        "answer": "Да. Точка срабатывания (actuation point) у механики четче, что позволяет стрейфиться и реагировать быстрее."
       },
       "q12": {
-        "question": "Question 12 about Залипание клавиш тест?",
-        "answer": "Answer regarding Залипание клавиш тест for RU users."
+        "question": "Как починить дрифт стика на геймпаде?",
+        "answer": "Дрифт — это износ потенциометра. Попробуй продуть стик сжатым воздухом. Если не помогло — нужна перепайка механизма."
       },
       "q13": {
-        "question": "Question 13 about Скролл тест мыши?",
-        "answer": "Answer regarding Скролл тест мыши for RU users."
+        "question": "Почему высокий пинг при хорошем интернете?",
+        "answer": "Скорость скачивания не равна качеству связи. Используй LAN-кабель вместо Wi-Fi, чтобы убрать потерю пакетов и снизить пинг."
       },
       "q14": {
-        "question": "Question 14 about Тренировка аима кс 2?",
-        "answer": "Answer regarding Тренировка аима кс 2 for RU users."
+        "question": "Что такое Гостинг (Ghosting) клавиш?",
+        "answer": "Когда ты жмешь 3+ кнопки одновременно (например W+Shift+Space), и одна не срабатывает. Нужна клавиатура с NKRO."
       },
       "q15": {
-        "question": "Question 15 about Тест мышки на дабл клик?",
-        "answer": "Answer regarding Тест мышки на дабл клик for RU users."
+        "question": "Как проверить микрофон на шумы?",
+        "answer": "В нашем Тесте Микрофона посмотри на график тишины. Если линия скачет, когда ты молчишь — у тебя фоновый шум или наводки."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Что такое время реакции?",
+        "answer": "Время между появлением врага на экране и нажатием твоим пальцем на кнопку выстрела."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Какая реакция считается хорошей?",
+        "answer": "250 мс — норма. Ниже 200 мс — отлично. Киберспортсмены (s1mple, ZywOo) выдают 150-160 мс."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Как тренировать реакцию?",
+        "answer": "Играй в динамичные шутеры, спи, пей воду. Используй Aim Lab или наш тренажер реакции ежедневно."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Влияет ли возраст на реакцию?",
+        "answer": "Пик реакции — 20-24 года. Дальше она замедляется, но опыт (Game Sense) компенсирует это."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Монитор 144 Гц помогает?",
+        "answer": "Очень! Картинка обновляется чаще, ты видишь врага раньше, чем игрок с 60 Гц монитором. Это легальное преимущество."
       },
       "q6": {
-        "question": "Зрительная реакция?",
-        "answer": "Время отклика на визуальный сигнал."
+        "question": "Зрительная или слуховая реакция быстрее?",
+        "answer": "Мозг обрабатывает звук (170 мс) быстрее, чем свет (250 мс). Хорошие наушники — легальный чит."
       },
       "q7": {
-        "question": "Слуховая реакция?",
-        "answer": "Отклик на звук, обычно быстрее."
+        "question": "Энергетики помогают?",
+        "answer": "Кратковременно повышают фокус, но потом вызывают тремор рук, что убивает точность стрельбы."
       },
       "q8": {
-        "question": "Кофеин помогает?",
-        "answer": "Да, умеренно повышает внимание."
+        "question": "Есть ли задержка у беспроводных мышек?",
+        "answer": "Современные (Logitech Lightspeed, Razer HyperSpeed) работают так же быстро, как проводные. Разницы нет."
       },
       "q9": {
-        "question": "Профи используют девайсы?",
-        "answer": "Да, быстрые мониторы и мыши."
+        "question": "Что такое Инпут Лаг (Input Lag)?",
+        "answer": "Задержка вывода изображения. Слабая видеокарта или старый монитор увеличивают её, делая управление 'ватным'."
       },
       "q10": {
-        "question": "Как проверить точность?",
-        "answer": "Используйте наши тесты точности."
+        "question": "Как проверить точность клика?",
+        "answer": "Используй тесты на точность (Accuracy Test), где нужно кликать по исчезающим кругам."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "Что такое WPM?",
+        "answer": "Words Per Minute (Слова в минуту). Стандарт измерения скорости печати."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Как печатать вслепую?",
+        "answer": "Изучи 'Слепой метод печати'. Пальцы всегда на ФЫВА и ОЛДЖ. Не смотри на клавиатуру. Сначала медленно, потом полетишь."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Какой WPM нужен программисту?",
+        "answer": "40-50 WPM достаточно. Важнее умение быстро думать, чем быстро писать код."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Слепая печать лучше?",
+        "answer": "Да, ты смотришь на монитор, а не на руки. Это экономит время и бережет шею."
       },
       "q5": {
-        "question": "Механическая клавиатура?",
-        "answer": "Клавиатура с физическими свитчами."
+        "question": "Синие или Красные свитчи для текста?",
+        "answer": "Синие (Blue) кликают как машинка — приятно для текста. Красные (Red) тихие и линейные — топ для игр."
       },
       "q6": {
-        "question": "Влияет ли клавиатура?",
-        "answer": "Да, тактильность помогает ритму."
+        "question": "Клавиатура ноутбука плохая?",
+        "answer": "У нее малый ход клавиш. Внешняя механика всегда приятнее и быстрее для набора больших текстов."
       },
       "q7": {
-        "question": "Как научиться печатать?",
-        "answer": "Начните с упражнений и практикуйтесь."
+        "question": "Как тренировать печать?",
+        "answer": "Используй Palmtweets ежедневно. Пробуй перепечатывать книги. Главное — ритм."
       },
       "q8": {
-        "question": "Средний WPM?",
-        "answer": "Около 40 WPM для обычных пользователей."
+        "question": "Средняя скорость печати в России?",
+        "answer": "Около 200 знаков в минуту (cpm) или 40 слов в минуту."
       },
       "q9": {
-        "question": "100% точность?",
-        "answer": "Печать без ошибок."
+        "question": "Что важнее: Скорость или Точность?",
+        "answer": "Точность! Исправление ошибок Backspace-ом съедает кучу времени. Пиши чисто."
       },
       "q10": {
-        "question": "Усталость рук?",
-        "answer": "Используйте подставку и следите за осанкой."
+        "question": "Устают запястья, что делать?",
+        "answer": "Держи руки навесу или купи подставку под запястья. Угол локтя должен быть 90 градусов."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Что такое Гостинг (Ghosting)?",
+        "answer": "Когда дешевая клавиатура не регистрирует нажатие, если зажато уже 3-4 клавиши рядом."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "Что такое NKRO?",
+        "answer": "N-Key Rollover. Возможность нажать хоть все клавиши сразу, и все они сработают. Мастхэв для геймеров."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Как найти сломанную кнопку?",
+        "answer": "Открой наш Тест Клавиатуры. Жми подозреваемую кнопку. Если не горит зеленым — свитч мертв."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Мембрана против Механики?",
+        "answer": "Мембрана — резина, дешево, вязко. Механика — пружина, четко, долговечно, дорого."
       },
       "q5": {
-        "question": "Что такое N-Key Rollover?",
-        "answer": "Регистрация всех нажатий одновременно."
+        "question": "Как снять клавишу?",
+        "answer": "Используй пуллер (съемник). Не ковыряй ножом, сломаешь крепеж свитча."
       },
       "q6": {
-        "question": "Что такое Cherry MX?",
-        "answer": "Популярные механические свитчи."
+        "question": "Что такое Оптические свитчи?",
+        "answer": "Срабатывают от прерывания луча света. Самые быстрые на сегодня, быстрее обычной механики."
       },
       "q7": {
-        "question": "Как чистить клавиатуру?",
-        "answer": "Сжатым воздухом и снимая клавиши."
+        "question": "Почему пробел гремит?",
+        "answer": "Стабилизаторы (железки по бокам) сухие. Смазка Permatex или Krytox уберет этот звук."
       },
       "q8": {
-        "question": "Залипает клавиша?",
-        "answer": "Возможно грязь или поломка."
+        "question": "TKL клавиатура — это что?",
+        "answer": "Tenkeyless. Без цифрового блока справа. Оставляет больше места для мышки на столе."
       },
       "q9": {
-        "question": "Мембранная клавиатура?",
-        "answer": "Использует резинки, дешевле."
+        "question": "Что такое Дабл-тайпинг (Chattering)?",
+        "answer": "Жмешь букву один раз, а печатается 'ппривет'. Болезнь грязной механики."
       },
       "q10": {
-        "question": "Менять кнопки ноутбука?",
-        "answer": "Можно, но очень аккуратно."
+        "question": "Можно мыть клавиатуру?",
+        "answer": "НЕТ! Только если она водонепроницаемая. Протирай спиртом и продувай воздухом."
       }
     }
   },
   "game": {
-    "timer": "ВРЕМЯ",
+    "timer": "ТАЙМЕР",
     "score": "СЧЕТ",
     "start": "СТАРТ",
-    "active": "КЛИКАЙ!",
-    "try_again": "ПОВТОРИТЬ",
+    "active": "ЖМИ!",
+    "try_again": "ЗАНОВО",
     "share": "ПОДЕЛИТЬСЯ",
-    "result_msg": "Твоя скорость выше средней. Сможешь побить свой личный рекорд?",
-    "slow": "🐢 Черепаха",
-    "fast": "⚡ Профи",
-    "superhuman": "👑 БОГ"
+    "result_msg": "Супер! Реакция как у ниндзя. Попробуй побить рекорд!",
+    "slow": "🐢 Рак",
+    "fast": "⚡ Тащер",
+    "superhuman": "👑 Глобал"
   },
   "tool_layout": {
-    "about": "О тесте",
-    "how_to": "Как использовать",
-    "rank_up": "Как повысить ранг?",
-    "faq": "Частые вопросы",
-    "related": "Похожие инструменты",
-    "step1": "Нажмите кнопку старта или в обозначенную область.",
-    "step2": "Выполняйте действие как можно быстрее и точнее.",
-    "step3": "Посмотрите результат и поделитесь с друзьями.",
-    "rank_turtle": "Черепаха (0-5 КПС):",
-    "rank_turtle_desc": "Ты кликаешь слишком медленно! Попробуй напрячь руку.",
-    "rank_pro": "Профи (5-10 КПС):",
-    "rank_pro_desc": "Средняя скорость геймера.",
-    "rank_god": "Бог (10+ КПС):",
-    "rank_god_desc": "Ты владеешь продвинутыми техниками."
+    "about": "Об инструменте",
+    "how_to": "Как играть",
+    "rank_up": "Как поднять ранг?",
+    "faq": "Вопросы (FAQ)",
+    "related": "Похожие тесты",
+    "step1": "Нажми кнопку 'Старт' или серую зону.",
+    "step2": "Кликай или жми клавиши максимально быстро.",
+    "step3": "Узнай свой ранг и поделись с друзьями.",
+    "rank_turtle": "Ранг Черепаха (0-5 CPS):",
+    "rank_turtle_desc": "Очень медленно! Напряги руку.",
+    "rank_pro": "Ранг Профи (5-10 CPS):",
+    "rank_pro_desc": "Средняя скорость хорошего игрока.",
+    "rank_god": "Ранг Бог (10+ CPS):",
+    "rank_god_desc": "Ты освоил Джиттер или Баттерфляй клик."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Проверка Битых Пикселей",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Проверь монитор или экран телефона на битые пиксели, засветы и гостинг."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (RU)",
+    "h1": "Тест Тачскрина Онлайн",
     "seo": {
-      "title": "Touch Screen Test Online (RU)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Тест Тачскрина - Проверка на мертвые зоны",
+      "description": "Проверь экран телефона (Android/iPhone). Найди мертвые зоны, фантомные нажатия и проверь мультитач."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (RU)",
-      "p_hook": "Localized intro for RU. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for RU.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for RU.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for RU.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in RU."
+      "h2_hook": "Срывает сенсор в играх? (Ghost Touch)",
+      "p_hook": "Если в PUBG Mobile прицел дергается сам по себе, это 'Фантомные нажатия'. Это частая проблема бюджетных экранов. Проверь тачскрин здесь, чтобы понять: глюк софта или смерть экрана.",
+      "h2_science": "Как работает тест?",
+      "p_science": "Мы создаем сетку. Води пальцем по всему экрану. Зеленые зоны — рабочие. Если квадрат не красится — там мертвая зона (Dead Zone).",
+      "h2_gaming": "Тест Мультитача (Игра в 4 пальца)",
+      "p_gaming": "Играешь в 'Коготь' (Claw)? Положи 4-5 пальцев на экран. Наш тест покажет, сколько касаний держит телефон одновременно. Дешевые тачи срывает после 2 касаний.",
+      "h2_hardware": "Софт или Железо?",
+      "p_hardware": "Частая причина глюков — китайская зарядка (пробивает ток на корпус) или защитное стекло. Если лагает только на зарядке — меняй кабель.",
+      "h2_technique": "Быстрое решение",
+      "p_technique": "Протри экран спиртовой салфеткой. Сними чехол с магнитами. Перезагрузи телефон."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (RU)",
+    "h1": "Тест Микрофона Онлайн",
     "seo": {
-      "title": "Microphone Test Online (RU)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Проверка Микрофона - Тест звука и шумов",
+      "description": "Проверь микрофон и наушники. Визуализация звуковой волны, тест стерео и эха."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (RU)",
-      "p_hook": "Localized intro for RU. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for RU.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for RU.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for RU.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in RU."
+      "h2_hook": "Тебя плохо слышно в Дискорде?",
+      "p_hook": "Перед каткой проверь микро. Шумы, тихое эхо или 'робо-голос' руинят коммуникацию. Протестируй звук здесь без регистрации.",
+      "h2_science": "Визуализатор волн",
+      "p_science": "Смотри на график. Если ты говоришь, а линия прямая — микрофон выключен в Windows или сломан.",
+      "h2_gaming": "Тест Стерео (Лево / Право)",
+      "p_gaming": "Для наушников жизненно важно слышать шаги слева и справа. Наш тест каналов покажет, не перепутаны ли у тебя 'уши'.",
+      "h2_hardware": "Поддержка устройств",
+      "p_hardware": "Тестируем петлички, USB-микрофоны, вебки и студийные микрофоны. Не забудь разрешить доступ браузеру.",
+      "h2_technique": "Как убрать шум?",
+      "p_technique": "Убавь 'Усиление' (Gain) в настройках Windows. Статический шум — это часто плохой кабель или отсутствие заземления в розетке."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (RU)",
+    "h1": "Тест Геймпада (Дрифт Стика)",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (RU)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Тест Геймпада PS4, PS5, Xbox - Проверка Дрифта",
+      "description": "Инструмент для проверки кнопок и стиков. Найди дрифт аналогов и проверь вибрацию."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (RU)",
-      "p_hook": "Localized intro for RU. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for RU.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for RU.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for RU.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in RU."
+      "h2_hook": "Персонаж идет сам? (Stick Drift)",
+      "p_hook": "Главная болезнь DualShock и DualSense — дрифт стиков. Используй наш график осей, чтобы увидеть, стоит ли стик ровно в центре.",
+      "h2_science": "График Осей (Axis)",
+      "p_science": "Мы показываем координаты X и Y. Идеальный геймпад показывает 0.00 в покое. Если цифры бегают — у тебя дрифт.",
+      "h2_gaming": "Совместимость",
+      "p_gaming": "Работает с DualShock 4, DualSense (PS5), Xbox One/Series и китайскими USB-геймпадами. Подключи по проводу или Bluetooth.",
+      "h2_hardware": "Тест Вибрации и Курков",
+      "p_hardware": "Жми 'Vibrate', чтобы проверить моторы. Также проверь плавность нажатия курков L2/R2 (от 0% до 100%).",
+      "h2_technique": "Лечение Дрифта",
+      "p_technique": "Продуй стик сжатым воздухом. Или увеличь 'Мертвую зону' (Deadzone) в настройках игры, чтобы игнорировать мелкий дрифт."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (RU)",
+    "h1": "Тест Потери Пакетов и Пинга",
     "seo": {
-      "title": "Packet Loss & Ping Test (RU)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Тест Packet Loss - Проверка лагов и джиттера",
+      "description": "Интернет быстрый, а игра лагает? Проверь потерю пакетов (Packet Loss), джиттер и реальный пинг."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (RU)",
-      "p_hook": "Localized intro for RU. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for RU.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for RU.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for RU.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in RU."
+      "h2_hook": "Пинг низкий, а телепорты есть?",
+      "p_hook": "Это 'Packet Loss'. Данные игры теряются по пути. Спидтест меряет скорость скачивания, мы меряем СТАБИЛЬНОСТЬ соединения.",
+      "h2_science": "Что такое Джиттер?",
+      "p_science": "Джиттер — это скачки пинга. Стабильные 50 мс лучше, чем скачки от 20 до 100 мс. Высокий джиттер — причина лагов.",
+      "h2_gaming": "Wi-Fi против Кабеля",
+      "p_gaming": "Золотое правило: НЕ ИГРАЙ ПО WI-FI. Беспроводной сигнал нестабилен. Подключи кабель (Ethernet), чтобы получить 0% потерь.",
+      "h2_hardware": "Диагностика сети",
+      "p_hardware": "Есть потери? Перезагрузи роутер. Если не помогло — проблема у провайдера (Ростелеком, Дом.ру и т.д.). Покажи им этот тест.",
+      "h2_technique": "Как улучшить пинг",
+      "p_technique": "Закрой торренты и браузер. Отключи телефон от Wi-Fi. Выбирай сервера ближе к своему региону (например, Stockholm или Frankfurt для РФ)."
     }
   }
 }
