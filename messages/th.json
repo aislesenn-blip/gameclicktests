@@ -1,477 +1,479 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPS Test - ทดสอบความเร็วคลิก | Palmtweets",
+    "description": "คุณคลิกเมาส์ไวแค่ไหน? ลองทดสอบ CPS 10 วินาที ฝึก Jitter Click และ Butterfly Click สำหรับ Minecraft PvP และ ROV"
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start CPS Test",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "SCORE",
-    "timer": "TIMER",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "start": "START CLICKING",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "h1": "ทดสอบความเร็วในการคลิก (CPS)",
+    "description": "วัดจำนวนการคลิกต่อวินาที (CPS) ด้วยเครื่องมือที่แม่นยำที่สุด สร้างมาเพื่อเกมเมอร์ Minecraft, Free Fire และ Valorant",
+    "start_btn": "เริ่มทดสอบ",
+    "modes": "โหมดฝึกฝน",
+    "rank_noob": "🐢 ระดับ: เต่าคลาน",
+    "rank_pro": "⚡ ระดับ: โปรเพลเยอร์",
+    "rank_god": "👑 ระดับ: เทพเจ้า (GODLIKE)",
+    "share_txt": "ฉันทำได้ {score} CPS บน Palmtweets นายทำได้เท่าไหร่?",
+    "score": "คะแนน",
+    "timer": "เวลา",
+    "active": "คลิกรัวๆ!",
+    "try_again": "ลองอีกครั้ง",
+    "share": "แชร์ผลลัพธ์",
+    "start": "เริ่ม",
+    "result_msg": "ความเร็วของคุณเหนือกว่าคนทั่วไป! จะลองทำลายสถิติตัวเองดูไหม?",
+    "slow": "🐢 ช้า",
+    "fast": "⚡ เร็ว",
+    "superhuman": "👑 ขั้นเทพ"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "home": "หน้าแรก",
+    "cps": "ทดสอบคลิก",
+    "reaction": "ปฏิกิริยา",
+    "typing": "พิมพ์ดีด",
+    "keyboard": "คีย์บอร์ด",
+    "privacy": "ความเป็นส่วนตัว"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "ฮาร์ดแวร์",
-    "game_challenges": "เกม",
-    "click_modes": "โหมดคลิก",
-    "time_modes": "โหมดเวลา",
+    "cps_cluster": "ทดสอบ CPS & คลิก",
+    "typing_cluster": "ความเร็วพิมพ์ดีด",
+    "reaction_cluster": "ทดสอบปฏิกิริยา",
+    "keyboard_cluster": "เช็คอุปกรณ์ PC",
+    "cps_1s": "ทดสอบ 1 วินาที (Burst)",
+    "cps_5s": "ทดสอบ 5 วินาที",
+    "cps_60s": "มาราธอน 60 วินาที",
+    "jitter": "ฝึก Jitter Click",
+    "butterfly": "ฝึก Butterfly Click",
+    "drag": "ฝึก Drag Click",
+    "reaction": "เวลาตอบสนอง (ms)",
+    "typing": "ทดสอบพิมพ์ (WPM)",
+    "keyboard": "ทดสอบคีย์บอร์ด",
+    "minecraft": "Minecraft PvP CPS",
+    "pubg": "ฝึกเล็ง PUBG",
+    "roblox": "ออโต้คลิก Roblox",
+    "valorant": "ปฏิกิริยา Valorant",
+    "fortnite": "ความเร็ว Edit Fortnite",
+    "hardware_tests": "ทดสอบฮาร์ดแวร์",
+    "game_challenges": "ท้าทายเกมเมอร์",
+    "click_modes": "เทคนิคการคลิก",
+    "time_modes": "โหมดจับเวลา",
     "community": "ชุมชน",
-    "touch_test": "Touch Screen Test (TH)",
-    "mic_test": "Mic Test (TH)",
-    "gamepad_test": "Gamepad Tester (TH)",
-    "packet_loss": "Packet Loss Test (TH)"
+    "touch_test": "ทดสอบทัชสกรีน",
+    "mic_test": "ทดสอบไมค์",
+    "gamepad_test": "ทดสอบจอย (ดริฟต์)",
+    "packet_loss": "Ping & Packet Loss"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "แพลตฟอร์มทดสอบเกมมิ่งเกียร์และปฏิกิริยาที่เร็วที่สุดในโลก"
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
-    "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
-    "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "title": "นโยบายความเป็นส่วนตัว",
+    "intro": "ที่ Palmtweets เราให้ความสำคัญกับความเป็นส่วนตัวของคุณ",
+    "cookies_title": "คุกกี้ (Cookies)",
+    "cookies_text": "เราใช้คุกกี้เพื่อปรับปรุงประสบการณ์และวิเคราะห์การใช้งาน",
+    "data_title": "การเก็บข้อมูล",
+    "data_text": "เราไม่เก็บข้อมูลส่วนบุคคล คะแนนของคุณจะถูกบันทึกในเบราว์เซอร์เท่านั้น",
+    "contact_title": "ติดต่อ",
+    "contact_text": "มีคำถาม? ติดต่อ support@palmtweets.com"
   },
   "seo_content": {
-    "h2_improve": "Tips to Improve Clicking (TH)",
-    "p_improve": "Practice daily and use a good mouse.",
-    "h2_styles": "Clicking Styles",
-    "p_styles": "Learn Jitter and Butterfly clicking.",
-    "h2_record": "World Records",
-    "p_record": "Aim for 10+ CPS.",
-    "h2_useful": "Gaming Utility",
-    "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Section 4 (TH)",
-    "p_hardware": "Localized content for TH focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_hook": "Section 1 (TH)",
-    "p_hook": "Localized content for TH focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (TH)",
-    "p_science": "Localized content for TH focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (TH)",
-    "p_gaming": "Localized content for TH focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (TH)",
-    "p_technique": "Localized content for TH focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "วิธีเพิ่มความเร็วในการคลิก (CPS)",
+    "p_improve": "CPS สูงไม่ได้ใช้แค่แรง แต่ต้องใช้เทคนิค ผ่อนคลายข้อมือเพื่อป้องกันการบาดเจ็บ ใช้เมาส์เกมมิ่งที่มีสวิตช์ตอบสนองไว (เช่น Logitech หรือ Razer) ฝึกวันละ 10 นาทีเพื่อสร้างความจำกล้ามเนื้อ",
+    "h2_styles": "Butterfly Click vs Jitter Click: แบบไหนดีกว่า?",
+    "p_styles": "**Jitter Click** คือการเกร็งแขนให้สั่นเพื่อทำ 12-14 CPS เหมาะสำหรับการเล็งเป้า (Aim) **Butterfly Click** ใช้สองนิ้วเคาะสลับกันเพื่อทำ 20+ CPS เหมาะสำหรับการต่อบล็อก (Bridging) ใน Minecraft Bedwars หมายเหตุ: Butterfly ต้องใช้เมาส์ที่รองรับ Double Click",
+    "h2_record": "สถิติโลก CPS คือเท่าไหร่?",
+    "p_record": "สถิติอย่างเป็นทางการใน 10 วินาทีคือประมาณ 22-24 CPS แต่ถ้าใช้เทคนิค **Drag Click** บางคนสามารถทำได้ถึง 30 CPS ขึ้นไปในเสี้ยววินาที",
+    "h2_useful": "ทำไม CPS ถึงสำคัญในเกม Minecraft และ FPS?",
+    "p_useful": "ใน Minecraft 1.8 PvP ยิ่งคลิกไว ยิ่งโดนกระเด็น (Knockback) น้อยลง ในเกมยิงอย่าง Valorant หรือ Free Fire การคลิกไวช่วยให้ยิงปืนพกหรือปืนเคาะ (Tap fire) ได้รัวขึ้น",
+    "h2_hardware": "เมาส์ของคุณเบิ้ลเองหรือเปล่า?",
+    "p_hardware": "ถ้าคลิกทีเดียวแต่คอมฯ รับเป็นสองที แสดงว่าสวิตช์เมาส์เสีย (อาการเมาส์เบิ้ล) ใช้เครื่องมือ 'ทดสอบเมาส์' ของเราเช็คให้ชัวร์ก่อนซื้อใหม่",
+    "h2_games": "ฝึก Aim และ Reaction Time",
+    "p_games": "คลิกไวไปก็ไร้ประโยชน์ถ้ายิงไม่โดน ใช้ **ทดสอบปฏิกิริยา** เพื่อลดเวลาตอบสนองของสายตา โปรเพลเยอร์ส่วนใหญ่มีค่านี้ต่ำกว่า 180ms",
+    "h2_hook": "หน้าจอมือถือทัชเอง? (Ghost Touch)",
+    "p_hook": "เล่น ROV แล้วตัวเดินเอง? หรือเป้า PUBG ไหล? นี่คืออาการ 'Ghost Touch' (ผีหลอก) ใช้เครื่องมือทดสอบทัชสกรีนเพื่อดูว่าหน้าจอเสียหรือแค่สกปรก",
+    "h2_science": "เน็ตแรงแต่ทำไมเกมแลค? (Packet Loss)",
+    "p_science": "ปิง (Ping) ต่ำแต่ตัววาร์ป? อาจเกิดจาก **Packet Loss** (ข้อมูลหายระหว่างทาง) Speedtest วัดแค่ความเร็วโหลด แต่เราวัด 'ความนิ่ง' ของเน็ต (AIS, True, 3BB)",
+    "h2_gaming": "คีย์บอร์ดกดพร้อมกันไม่ได้ (Ghosting)",
+    "p_gaming": "วิ่ง กระโดด แล้วกดสกิลไม่ออก? คีย์บอร์ดราคาถูกมักกดพร้อมกันได้แค่ 3 ปุ่ม เช็คว่าคีย์บอร์ดของคุณรองรับ Anti-Ghosting หรือไม่ที่นี่",
+    "h2_technique": "เทคนิค Drag Click คืออะไร?",
+    "p_technique": "Drag Click คือการลากนิ้วผ่านผิวเมาส์สากๆ เพื่อให้เกิดแรงเสียดทานและสร้างการคลิกรัวๆ นับร้อยครั้ง ต้องใช้เทปพันสายไฟ (Grip Tape) ช่วย"
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "ทดสอบ CPS - วัดความเร็วคลิกเมาส์",
+      "description": "นิ้วคุณไวแค่ไหน? ทำแบบทดสอบ 10 วินาที ท้าแข่งกับเพื่อนและฝึกฝนเพื่อการแข่งขัน eSports"
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "ทดสอบความเร็วคลิก"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "ทดสอบ CPS 1 วินาที - วัดความไวชั่วพริบตา",
+      "description": "วัดความเร็วสูงสุดใน 1 วินาที เหมาะสำหรับเช็ค Drag Click และ Knockback"
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "ทดสอบความไว (1 วินาที)"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
-      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "ทดสอบ CPS 5 วินาที - ระยะสั้น",
+      "description": "มาตรฐานเกมเมอร์ 5 วินาทีคลิกได้กี่ครั้ง? ค่าเฉลี่ยโปรคือ 12+ CPS"
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "ทดสอบ 5 วินาที"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "มาราธอน 60 วินาที - ทดสอบความอึด",
+      "description": "บททดสอบความทนทาน นิ้วคุณจะรัวได้ต่อเนื่องตลอด 1 นาทีหรือไม่?"
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "ท้าทาย 60 วินาที"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "ฝึก Jitter Click - เทคนิคเกร็งแขน",
+      "description": "เรียนรู้วิธี Jitter Click เกร็งแขนให้สั่นเพื่อทำ 14+ CPS คู่มือและแบบฝึกหัดที่ปลอดภัย"
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "ฝึกฝน JITTER CLICK"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
-      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "ทดสอบ Butterfly Click - คลิกสองนิ้ว",
+      "description": "ทดสอบความเร็ว Butterfly Click ใช้นิ้วชี้และกลางสลับกันเพื่อเบิ้ล CPS เทคนิคสำคัญใน Bedwars"
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "ทดสอบ BUTTERFLY CLICK"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
-      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "ทดสอบ Drag Click - ลากเมาส์รัวๆ",
+      "description": "วัดผล Drag Click ใช้แรงเสียดทานลากนิ้วเพื่อทำ CPS สูงปรี๊ด"
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "ทดสอบ DRAG CLICK"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
-      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "Minecraft PvP Click Test - ฝึกคอมโบ",
+      "description": "ฝึกคลิกสำหรับ Minecraft PvP โดยเฉพาะ พัฒนาการเล็งและลดแรงกระแทก"
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "ฝึกฝน MINECRAFT PVP"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "ทดสอบความเร็วปฏิกิริยา - Human Benchmark ไทย",
+      "description": "วัดการตอบสนองทางสายตาเป็นมิลลิวินาที (ms) ค่าเฉลี่ยคนไทยคือ 250ms คุณทำได้ต่ำกว่า 150ms ไหม?"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
+    "h1": "ทดสอบปฏิกิริยาตอบสนอง",
+    "wait": "รอสีเขียว...",
+    "click": "คลิกเลย!",
+    "too_soon": "ใจร้อนไป! อย่าเดาสุ่ม",
     "result": "{time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "ทดสอบพิมพ์ดีด - วัดความเร็ว WPM",
+      "description": "ฝึกพิมพ์ดีด 1 นาทีฟรี คำนวณคำต่อนาที (WPM) และความแม่นยำ รองรับภาษาไทย/อังกฤษ"
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "ทดสอบความเร็วพิมพ์ (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "ทดสอบคีย์บอร์ดออนไลน์ - เช็คปุ่มเสีย",
+      "description": "กดทุกปุ่มเพื่อเช็คอาการ Ghosting ปุ่มค้าง หรือสวิตช์เสีย"
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "เช็คอาการคีย์บอร์ด"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for TH users."
+        "question": "ทำ Drag Click บนเมาส์ธรรมดาได้ไหม?",
+        "answer": "ยากมากสำหรับเมาส์ทำงานทั่วไป คุณต้องใช้เมาส์ผิวด้าน (Matte) และสวิตช์ที่ไม่มีการหน่วงเวลา (Debounce Time) แนะนำให้แปะเทปพันสายไฟ (Grip Tape) ช่วย"
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for TH users."
+        "question": "ทำยังไงให้ยิงแม่นขึ้นใน Valorant?",
+        "answer": "คลิกไวอย่างเดียวไม่พอ ปรับ DPI ให้ต่ำลง (400-800), ปิด 'Enhance pointer precision' ในวินโดวส์ และฝึกวางเป้า (Crosshair placement) ระดับหัวเสมอ"
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for TH users."
+        "question": "ดูยังไงว่าเป็นคีย์บอร์ด Mechanical หรือปุ่มยาง?",
+        "answer": "ลองดึงคีย์แคปออก ถ้าเห็นสวิตช์รูปบวก (+) สีฟ้า/แดง/น้ำตาล คือ Mechanical ถ้าเห็นลูกยางกลมๆ คือปุ่มยาง (Membrane)"
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for TH users."
+        "question": "Jitter Click อันตรายต่อมือไหม?",
+        "answer": "ถ้าทำผิดวิธีอาจทำให้เจ็บข้อมือหรือเป็นนิ้วล็อคได้ ควรวอร์มอัพก่อนและหยุดทันทีถ้ารู้สึกเจ็บ"
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for TH users."
+        "question": "เมาส์รุ่นไหนเหมาะกับ Butterfly Click?",
+        "answer": "Glorious Model O, Logitech G Pro X และ Roccat Kain ได้รับความนิยมมาก เพราะตั้งค่า Debounce Time ให้ต่ำเพื่อเบิ้ลคลิกได้ง่าย"
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for TH users."
+        "question": "Polling Rate (Hz) คืออะไร?",
+        "answer": "ความถี่ที่เมาส์ส่งข้อมูลเข้าคอมฯ สำหรับเล่นเกมควรใช้ 1000Hz (1ms) ถ้าใช้ 125Hz เมาส์จะรู้สึกลากไม่ไป"
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for TH users."
+        "question": "ทำไมเมาส์ชอบหลอน (Spin out)?",
+        "answer": "ส่วนใหญ่เกิดจากฝุ่นเกาะที่เซ็นเซอร์ หรือแผ่นรองเมาส์สกปรก ลองใช้คอตตอนบัดเช็ดเซ็นเซอร์ดู"
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for TH users."
+        "question": "วิธีเช็คอาการเมาส์เบิ้ล (Double Click)?",
+        "answer": "ใช้เครื่องมือ 'ทดสอบเมาส์' ของเรา ลองคลิกช้าๆ 100 ครั้ง ถ้าตัวนับขึ้นเกิน 100 แสดงว่าสวิตช์เริ่มพังแล้ว"
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for TH users."
+        "question": "คนทั่วไปคลิกได้กี่ CPS?",
+        "answer": "คนปกติได้ประมาณ 6-7 CPS เกมเมอร์ได้ 8-10 CPS ส่วนสาย Minecraft เทพๆ อาจได้ถึง 15+ ด้วยเทคนิคพิเศษ"
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for TH users."
+        "question": "เล่นเกมยิงปืนควรใช้ DPI เท่าไหร่?",
+        "answer": "DPI ต่ำ (400-800) ช่วยให้เล็งแม่นขึ้น ส่วน DPI สูง (1600+) เหมาะกับเกม MOBA อย่าลืมปิด Mouse Acceleration"
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for TH users."
+        "question": "คีย์บอร์ด Mechanical ทำให้เล่นเก่งขึ้นไหม?",
+        "answer": "ช่วยได้ครับ เพราะปุ่มตอบสนองไวกว่า ทำให้การเดิน (Strafing) หรือกดสกิลทำได้ดั่งใจกว่า"
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for TH users."
+        "question": "จอยดริฟต์ (Drift) แก้ยังไง?",
+        "answer": "ดริฟต์เกิดจากฝุ่นเข้าแกนอนาล็อก ลองใช้สเปรย์ลมเป่าอัดเข้าไป หรือเพิ่มค่า 'Deadzone' ในการตั้งค่าเกมเพื่อแก้ขัด"
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for TH users."
+        "question": "เน็ตแรงแต่ทำไมปิงเยอะ?",
+        "answer": "ความเร็วดาวน์โหลดไม่ใช่ค่าปิง (Latency) ลองเสียบสาย LAN แทนใช้ WiFi จะช่วยลดปิงและอาการแลคได้มาก"
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for TH users."
+        "question": "คีย์บอร์ด Ghosting คืออะไร?",
+        "answer": "อาการที่กดหลายปุ่มพร้อมกันแล้วบางปุ่มไม่ติด (เช่น W + Shift + Space) คีย์บอร์ดเกมมิ่งจะมีระบบ N-Key Rollover มาแก้ปัญหานี้"
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for TH users."
+        "question": "จะรู้ได้ไงว่าไมค์ช็อตหรือเปล่า?",
+        "answer": "ใช้เครื่องมือ 'ทดสอบไมค์' ของเรา ถ้ากราฟเสียงขยับแรงทั้งที่คุณเงียบ แสดงว่ามีเสียงรบกวนหรือไฟรั่ว"
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "เวลาปฏิกิริยาคืออะไร?",
+        "answer": "เวลาที่สมองใช้ประมวลผลภาพที่เห็นและสั่งให้นิ้วกดปุ่ม"
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "ค่าเฉลี่ยปฏิกิริยาคนทั่วไปเท่าไหร่?",
+        "answer": "ประมาณ 250ms (0.25 วินาที) ถ้าต่ำกว่า 200ms ถือว่าไวมาก นักแข่ง F1 หรือ Pro Player อยู่ที่ 150ms"
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "ฝึกให้ตาไวขึ้นได้ไหม?",
+        "answer": "ได้ครับ เล่นเกม FPS บ่อยๆ นอนให้พอ (สำคัญมาก) และใช้เว็บฝึก Aim หรือ Reaction Test ทุกวัน"
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "แก่แล้วจะช้าลงไหม?",
+        "answer": "ใช่ครับ ช่วงพีคคืออายุ 24 ปี หลังจากนั้นจะค่อยๆ ช้าลง แต่ประสบการณ์ (Game Sense) จะมาทดแทน"
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "จอ 144Hz ช่วยได้จริงไหม?",
+        "answer": "ช่วยได้เยอะมาก! ภาพลื่นไหลกว่าทำให้เห็นศัตรูเร็วกว่าคนใช้จอ 60Hz เสี้ยววินาที ซึ่งตัดสินแพ้ชนะได้เลย"
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "เสียงหรือภาพ อะไรเร็วกว่า?",
+        "answer": "สมองรับรู้เสียง (170ms) ไวกว่าภาพ (250ms) ดังนั้นหูฟังดีๆ จึงสำคัญมากในการฟังเสียงเท้า"
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "กินกาแฟ/ชูกำลัง ช่วยไหม?",
+        "answer": "ช่วยให้ตื่นตัวชั่วคราว แต่ถ้าดื่มเยอะไปมือจะสั่น (Jitter) ทำให้เล็งไม่แม่น"
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "เมาส์ไร้สายดีเลย์ไหม?",
+        "answer": "เมาส์เกมมิ่งยุคใหม่ (Logitech Lightspeed, Razer) ไวเท่าหรือไวกว่าแบบมีสายแล้ว อาการดีเลย์เป็นเรื่องอดีต"
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "Input Lag คืออะไร?",
+        "answer": "ความหน่วงตั้งแต่กดเมาส์จนภาพขยับในจอ คอมฯ ช้าหรือจอเก่าจะทำให้ Input Lag สูง"
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "จะทดสอบความแม่นยำยังไง?",
+        "answer": "ใช้โหมด 'Accuracy Test' ที่ต้องคลิกเป้าเล็กๆ ที่โผล่มาแบบสุ่ม"
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "WPM คืออะไร?",
+        "answer": "Words Per Minute (คำต่อนาที) เป็นหน่วยวัดความเร็วพิมพ์ดีดสากล"
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "ทำยังไงให้พิมพ์เร็ว?",
+        "answer": "ฝึกพิมพ์สัมผัส (ไม่มองแป้น) วางนิ้วให้ถูกตำแหน่ง (ฟ ห ก ด / A S D F) เน้นความแม่นยำก่อนความเร็ว"
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "WPM เท่าไหร่ถึงเรียกว่าเร็ว?",
+        "answer": "40 WPM คือค่าเฉลี่ย 60-70 WPM เหมาะสำหรับทำงานออฟฟิศ เกิน 100 WPM คือระดับเทพ"
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "ไม่มองแป้นดีกว่ายังไง?",
+        "answer": "ดีกว่ามาก เพราะกล้ามเนื้อจะจำตำแหน่งเอง ทำให้เรามองจอเพื่อแก้คำผิดได้ทันที"
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "Blue หรือ Red Switch พิมพ์มันส์กว่า?",
+        "answer": "Blue มีเสียง 'คลิกๆ' พิมพ์สนุกแต่เสียงดัง Red จะเงียบและนุ่ม เหมาะกับคนชอบน้ำหนักเบา"
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "คีย์บอร์ดโน้ตบุ๊คไม่ดีเหรอ?",
+        "answer": "ปุ่มมันตื้นทำให้พิมพ์ไม่มันส์และเมื่อยง่าย ต่อคีย์บอร์ดแยกจะดีต่อข้อมือมากกว่า"
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "เว็บฝึกพิมพ์ไหนดี?",
+        "answer": "Palmtweets หรือ Monkeytype ลองฝึกพิมพ์บทความยาวๆ เพื่อจำคำศัพท์"
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "ความแม่นยำ (Accuracy) สำคัญไหม?",
+        "answer": "สำคัญกว่าความเร็ว พิมพ์เร็วแต่ผิดเยอะต้องมานั่งลบ (Backspace) เสียเวลาเปล่า"
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "ทำไงไม่ให้ปวดข้อมือ?",
+        "answer": "วางข้อมือให้ตรง (อย่าหักข้อมือกับขอบโต๊ะ) หาที่รองข้อมือ (Wrist Rest) มาใช้"
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "แป้นไทยเกษมณี หรือ ปัตตะโชติ?",
+        "answer": "เกษมณีเป็นมาตรฐานที่ใช้ทั่วไป ปัตตะโชติออกแบบมาให้พิมพ์เร็วกว่าแต่นิยมน้อยกว่ามาก"
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Ghosting คืออะไร?",
+        "answer": "อาการที่กดปุ่มหลายปุ่มพร้อมกันแล้วบางปุ่มไม่ติด มักเกิดในคีย์บอร์ดราคาประหยัด"
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "NKRO คืออะไร?",
+        "answer": "N-Key Rollover คือกดทุกปุ่มพร้อมกันได้หมด เป็นฟีเจอร์บังคับของคีย์บอร์ดเกมมิ่ง"
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "หาปุ่มเสียยังไง?",
+        "answer": "เปิดหน้า 'ทดสอบคีย์บอร์ด' ของเรา แล้วไล่กดทีละปุ่ม ถ้าปุ่มไหนไม่ขึ้นสีเขียวแสดงว่าสวิตช์เสีย"
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "ต่างกันยังไง ปุ่มยาง vs แมคคานิคอล?",
+        "answer": "ปุ่มยาง (Membrane) นิ่มๆ ราคาถูก แมคคานิคอล (Mechanical) ใช้สปริง ทนทาน ฟีลลิ่งดีกว่า"
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "ถอดคีย์แคปยังไง?",
+        "answer": "ใช้ที่ดึงคีย์แคป (Keycap Puller) อย่าใช้ไม้บรรทัดงัด เดี๋ยวสวิตช์หัก"
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "Optical Switch คืออะไร?",
+        "answer": "ใช้แสงอินฟราเรดสั่งงานแทนหน้าสัมผัสทองแดง ทนกว่าและตอบสนองไวกว่าสวิตช์ปกติ"
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "ทำไมปุ่ม Spacebar เสียงดัง?",
+        "answer": "เหล็กกันโคลง (Stabilizer) มันแห้ง ลองหาน้ำมันจาระบี (Lube) มาทาบางๆ จะเงียบลง"
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "คีย์บอร์ด TKL ดีไหม?",
+        "answer": "ดีตรงที่ตัดปุ่มตัวเลขออก ทำให้มีพื้นที่ลากเมาส์กว้างขึ้น เหมาะกับสาย FPS"
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "Chattering คืออะไร?",
+        "answer": "กดทีเดียวแต่ตัวหนังสือเบิ้ล (เช่น กก หรือ กกก) มักเกิดจากฝุ่นเข้าไปในสวิตช์"
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "เอาคีย์บอร์ดไปล้างน้ำได้ไหม?",
+        "answer": "ไม่ได้เด็ดขาด! (ยกเว้นรุ่นกันน้ำ) ให้ใช้ลมเป่าฝุ่นและผ้าชุบแอลกอฮอล์เช็ด"
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "เวลา",
+    "score": "คะแนน",
+    "start": "เริ่ม",
+    "active": "เร็วกว่านี้!",
+    "try_again": "ลองใหม่",
+    "share": "แชร์",
+    "result_msg": "สุดยอด! ปฏิกิริยาไวเหมือนนินจา ลองทำลายสถิติดูสิ!",
+    "slow": "🐢 เต่า",
+    "fast": "⚡ สายฟ้า",
+    "superhuman": "👑 เทพเจ้า"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "เกี่ยวกับเครื่องมือ",
+    "how_to": "วิธีใช้งาน",
+    "rank_up": "วิธีเล่นให้เก่งขึ้น",
+    "faq": "คำถามที่พบบ่อย",
+    "related": "เครื่องมือที่เกี่ยวข้อง",
+    "step1": "คลิกปุ่ม 'เริ่ม' หรือพื้นที่สีเทา",
+    "step2": "ทำภารกิจให้เร็วที่สุดเท่าที่ทำได้",
+    "step3": "ดูระดับความเทพของคุณและแชร์อวดเพื่อน",
+    "rank_turtle": "ระดับเต่า (0-5 CPS):",
+    "rank_turtle_desc": "ช้าไปหน่อย! ลองเกร็งข้อมือดูสิ",
+    "rank_pro": "ระดับโปร (5-10 CPS):",
+    "rank_pro_desc": "ความเร็วมาตรฐานเกมเมอร์ไทย",
+    "rank_god": "ระดับเทพ (10+ CPS):",
+    "rank_god_desc": "คุณบรรลุวิชา Jitter หรือ Butterfly Click แล้วสินะ"
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "เช็คจุดเดดพิกเซล (Dead Pixel)",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "ตรวจสอบหน้าจอคอมหรือมือถือ หาจุดบอด (Dead Pixel) จุดค้าง (Stuck Pixel) หรือแสงรั่ว"
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (TH)",
+    "h1": "ทดสอบทัชสกรีนออนไลน์",
     "seo": {
-      "title": "Touch Screen Test Online (TH)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "เช็คจอสัมผัส - หาจุด Ghost Touch",
+      "description": "ทดสอบหน้าจอมือถือ หาจุดบอด ทัชเพี้ยน Ghost Touch และเช็คระบบ Multi-touch"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (TH)",
-      "p_hook": "Localized intro for TH. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for TH.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for TH.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for TH.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in TH."
+      "h2_hook": "มือถือทัชเองหรือเปล่า? (Ghost Touch)",
+      "p_hook": "เล่นเกมแล้วจอหมุนเอง? นั่นคืออาการ 'Ghost Touch' ใช้เครื่องมือนี้เช็คดูว่าเป็นที่จอพังหรือแค่ฟิล์มสกปรก",
+      "h2_science": "วิธีทดสอบ",
+      "p_science": "เราจะแสดงตารางบนหน้าจอ ใช้นิ้วลากไปให้ทั่ว ช่องไหนไม่เปลี่ยนเป็นสีเขียว แสดงว่าตรงนั้นทัชเสีย (Dead Zone)",
+      "h2_gaming": "ทดสอบ Multi-touch (สาย 4 นิ้ว)",
+      "p_gaming": "ใครเล่น PUBG 4 นิ้วต้องเช็ค วางทุกนิ้วลงบนจอ เครื่องมือจะบอกว่ามือถือคุณรับได้กี่นิ้วพร้อมกัน",
+      "h2_hardware": "เป็นที่ซอฟต์แวร์หรือฮาร์ดแวร์?",
+      "p_hardware": "สาเหตุฮิต: สายชาร์จปลอม (ไฟรั่ว) หรือฟิล์มหนาไป ถ้าเป็นเฉพาะตอนชาร์จ ให้เปลี่ยนสายชาร์จ",
+      "h2_technique": "วิธีแก้เบื้องต้น",
+      "p_technique": "เช็ดจอให้สะอาด ถอดเคสแม่เหล็กออก รีสตาร์ทเครื่อง"
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (TH)",
+    "h1": "ทดสอบไมโครโฟนออนไลน์",
     "seo": {
-      "title": "Microphone Test Online (TH)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "เช็คไมค์ - ตรวจเสียงซ่าและระดับเสียง",
+      "description": "ทดสอบไมค์และหูฟัง ดูกราฟเสียงเพื่อหาเสียงรบกวน เสียงสะท้อน (Echo) และเช็คความดัง"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (TH)",
-      "p_hook": "Localized intro for TH. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for TH.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for TH.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for TH.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in TH."
+      "h2_hook": "เพื่อนบ่นว่าไมค์ช็อต?",
+      "p_hook": "ก่อนเข้าเกม เช็คไมค์ก่อน เสียงซ่าหรือเสียงเบาทำให้สื่อสารพลาด เช็คไมค์ที่นี่ฟรี ไม่ต้องโหลดโปรแกรม",
+      "h2_science": "กราฟเสียง",
+      "p_science": "เราแสดงเสียงพูดของคุณเป็นกราฟ ถ้าพูดแล้วเส้นนิ่งสนิท แสดงว่าไมค์ปิดอยู่หรือตั้งค่าใน Windows ผิด",
+      "h2_gaming": "ทดสอบหูฟัง (ซ้าย / ขวา)",
+      "p_gaming": "ใส่หูฟังกลับด้านคือหายนะในเกม FPS ระบบเช็คเสียง Stereo ของเราจะบอกว่าคุณใส่ถูกข้างไหม",
+      "h2_hardware": "รองรับทุกอุปกรณ์",
+      "p_hardware": "ใช้ได้ทั้งหูฟังสมอลทอล์ค หูฟัง USB และไมค์ตั้งโต๊ะ อย่าลืมกด 'อนุญาต' (Allow) ให้เบราว์เซอร์ใช้ไมค์",
+      "h2_technique": "วิธีแก้เสียงซ่า",
+      "p_technique": "ลด 'Microphone Boost' ในตั้งค่าเสียง Windows เสียงจี่ (Static noise) มักเกิดจากไฟรั่วที่เคสคอมฯ"
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (TH)",
+    "h1": "ทดสอบจอยเกม (อนาล็อกเดินเอง)",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (TH)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "ทดสอบจอย PS4/PS5/Xbox - เช็คอาการดริฟต์",
+      "description": "เครื่องมือเช็คปุ่มกดและอนาล็อก ตรวจอาการ Analog Drift และระบบสั่นบน PC/มือถือ"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (TH)",
-      "p_hook": "Localized intro for TH. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for TH.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for TH.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for TH.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in TH."
+      "h2_hook": "ตัวละครเดินเอง? (Analog Drift)",
+      "p_hook": "โรคประจำตัวของจอย PS4/PS5 คือ 'ดริฟต์' (Drift) อนาล็อกขยับเองทั้งที่ไม่ได้แตะ ดูกราฟแกน X/Y ของเราเพื่อเช็คความนิ่ง",
+      "h2_science": "ค่าแกน (Axis)",
+      "p_science": "เราแสดงค่า X และ Y จอยดีๆ ต้องนิ่งที่ 0.00 ถ้าตัวเลขวิ่งไปมาเอง แสดงว่าจอยดริฟต์แล้ว",
+      "h2_gaming": "รองรับรุ่นไหนบ้าง",
+      "p_gaming": "ใช้ได้กับจอย PS4, PS5, Xbox และจอยจีนทั่วไป แค่เสียบสาย USB หรือต่อ Bluetooth",
+      "h2_hardware": "ทดสอบสั่นและปุ่มไกปืน (Trigger)",
+      "p_hardware": "กดปุ่ม 'สั่น' เพื่อเช็คมอเตอร์ และเช็คปุ่ม L2/R2 ว่ารับน้ำหนักกดได้ละเอียดแค่ไหน (0% ถึง 100%)",
+      "h2_technique": "วิธีแก้ดริฟต์",
+      "p_technique": "ลองเอาปากเป่าแรงๆ เข้าไปในซอกอนาล็อก หรือใช้สเปรย์ลม หรือปรับค่า 'Deadzone' ในเกมให้กว้างขึ้น"
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (TH)",
+    "h1": "ทดสอบ Packet Loss & Ping",
     "seo": {
-      "title": "Packet Loss & Ping Test (TH)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "เช็ค Packet Loss - หาสาเหตุแลคและกระตุก",
+      "description": "เน็ตแรงแต่เล่นเกมกระตุก? เช็คการสูญเสียข้อมูล (Packet Loss), ค่า Jitter และ Ping จริง"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (TH)",
-      "p_hook": "Localized intro for TH. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for TH.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for TH.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for TH.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in TH."
+      "h2_hook": "ปิงเขียวแต่ตัววาร์ป?",
+      "p_hook": "นั่นคือ 'Packet Loss' ข้อมูลเกมหายกลางทาง Speedtest วัดแค่ความเร็วโหลด แต่เราวัดความ 'นิ่ง' ของเน็ต",
+      "h2_science": "Jitter คืออะไร?",
+      "p_science": "Jitter คือความแกว่งของปิง ปิง 50ms นิ่งๆ ดีกว่าปิง 20ms ที่เด้งไป 100ms บ่อยๆ Jitter สูงทำให้เกิดอาการวาร์ป",
+      "h2_gaming": "WiFi vs สาย LAN",
+      "p_gaming": "กฎเหล็ก: อย่าใช้ WIFI เล่นเกม สัญญาณไร้สายไม่เสถียร เสียบสาย LAN เพื่อลด Packet Loss ให้เป็น 0%",
+      "h2_hardware": "วิเคราะห์เครือข่าย",
+      "p_hardware": "ถ้าขึ้น Loss ให้ลองรีสตาร์ทเราเตอร์ ถ้าไม่หายเป็นที่ค่ายเน็ต (3BB, True, AIS) ใช้ผลทดสอบนี้แจ้งช่างได้เลย",
+      "h2_technique": "วิธีลดปิง",
+      "p_technique": "ปิดโหลดเกมใน Steam, ปิด WiFi มือถือ และเลือกเซิร์ฟเวอร์เกมที่ใกล้ไทย (สิงคโปร์)"
     }
   }
 }
