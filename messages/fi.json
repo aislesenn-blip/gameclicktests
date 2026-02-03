@@ -1,477 +1,479 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPS Testi - Testaa Klikkausnopeus & Hiiri | Palmtweets",
+    "description": "Kuinka nopeasti klikkaat? Tee 10 sekunnin CPS-testi. Harjoittele Jitter ja Butterfly Click Minecraft PvP:tä varten. Testaa hiiren kaksoisklikkaus."
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start CPS Test",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "SCORE",
-    "timer": "TIMER",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "start": "START CLICKING",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "h1": "Testaa Klikkausnopeutesi Heti",
+    "description": "Mittaa klikkaukset sekunnissa (CPS) tarkalla työkalullamme. Tehty Minecraft-, CS2- ja ENCE-faneille Suomessa.",
+    "start_btn": "ALOITA TESTI",
+    "modes": "Harjoitustilat",
+    "rank_noob": "🐢 Taso: Etana",
+    "rank_pro": "⚡ Taso: Pro Pelaaja",
+    "rank_god": "👑 Taso: JUMALA (Godlike)",
+    "share_txt": "Sain {score} CPS Palmtweetsissä. Voitatko minut?",
+    "score": "PISTEET",
+    "timer": "AIKA",
+    "active": "KLIKKAA NOPEASTI!",
+    "try_again": "YRITÄ UUDELLEEN",
+    "share": "JAA",
+    "start": "ALOITA",
+    "result_msg": "Nopeutesi on keskitasoa parempi. Pystytkö rikkomaan ennätyksesi?",
+    "slow": "🐢 Hidas",
+    "fast": "⚡ Nopea",
+    "superhuman": "👑 Legenda"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "home": "Etusivu",
+    "cps": "Klikkaustesti",
+    "reaction": "Reaktio",
+    "typing": "Kirjoitustesti",
+    "keyboard": "Näppäimistö",
+    "privacy": "Tietosuoja"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "Laitteisto",
-    "game_challenges": "Pelit",
-    "click_modes": "Klikkaustilat",
+    "cps_cluster": "CPS & Klikkaustestit",
+    "typing_cluster": "Kirjoitusnopeus",
+    "reaction_cluster": "Refleksit & Reaktio",
+    "keyboard_cluster": "PC Diagnostiikka",
+    "cps_1s": "1 Sekunti (Burst)",
+    "cps_5s": "5 Sekunnin Testi",
+    "cps_60s": "60 Sekunnin Maraton",
+    "jitter": "Jitter Click Treeni",
+    "butterfly": "Butterfly Click Testi",
+    "drag": "Drag Click Testi",
+    "reaction": "Reaktioaika (ms)",
+    "typing": "Nopeustesti (WPM)",
+    "keyboard": "Näppäimistötesti",
+    "minecraft": "Minecraft PvP CPS",
+    "pubg": "PUBG Aim Treeni",
+    "roblox": "Klikkeri Robloxille",
+    "valorant": "Valorant Refleksit",
+    "fortnite": "Fortnite Edit Speed",
+    "hardware_tests": "Laitteistotesti",
+    "game_challenges": "Pelihaasteet",
+    "click_modes": "Klikkaustekniikat",
     "time_modes": "Aikatilat",
     "community": "Yhteisö",
-    "touch_test": "Touch Screen Test (FI)",
-    "mic_test": "Mic Test (FI)",
-    "gamepad_test": "Gamepad Tester (FI)",
-    "packet_loss": "Packet Loss Test (FI)"
+    "touch_test": "Kosketusnäyttötesti",
+    "mic_test": "Mikrofonitesti",
+    "gamepad_test": "Ohjaintesti (Drift)",
+    "packet_loss": "Ping & Pakettihäviö"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "Maailman nopein alusta refleksien ja pelilaitteiston testaamiseen."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
-    "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
-    "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "title": "Tietosuojakäytäntö",
+    "intro": "Palmtweets arvostaa yksityisyyttäsi.",
+    "cookies_title": "Evästeet",
+    "cookies_text": "Käytämme evästeitä parantaaksemme kokemusta ja analysoidaksemme liikennettä nimettömästi.",
+    "data_title": "Tiedonkeruu",
+    "data_text": "Emme kerää henkilötietoja. Tuloksesi tallennetaan paikallisesti selaimeen.",
+    "contact_title": "Ota yhteyttä",
+    "contact_text": "Kysyttävää? Sähköposti: support@palmtweets.com."
   },
   "seo_content": {
-    "h2_improve": "Tips to Improve Clicking (FI)",
-    "p_improve": "Practice daily and use a good mouse.",
-    "h2_styles": "Clicking Styles",
-    "p_styles": "Learn Jitter and Butterfly clicking.",
-    "h2_record": "World Records",
-    "p_record": "Aim for 10+ CPS.",
-    "h2_useful": "Gaming Utility",
-    "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Section 4 (FI)",
-    "p_hardware": "Localized content for FI focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_hook": "Section 1 (FI)",
-    "p_hook": "Localized content for FI focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (FI)",
-    "p_science": "Localized content for FI focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (FI)",
-    "p_gaming": "Localized content for FI focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (FI)",
-    "p_technique": "Localized content for FI focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "Miten parantaa CPS-lukemaa (klikkauksia sekunnissa)?",
+    "p_improve": "Korkea CPS on tekniikkaa, ei vain voimaa. Rentouta kyynärvarsi välttääksesi 'Hiirikäden' (RSI). Käytä pelihiirtä nopeilla kytkimillä (kuten Logitech tai Razer). Harjoittele 10 minuuttia päivittäin lihasmuistia varten.",
+    "h2_styles": "Butterfly Click vai Jitter Click: Kumpi on parempi?",
+    "p_styles": "**Jitter Click** tarkoittaa käden lihasten värisyttämistä 12-14 CPS:n saavuttamiseksi, hyvä tähtäämiseen (aim). **Butterfly Click** käyttää kahta sormea vuorotellen 20+ CPS:n saavuttamiseksi, välttämätön 'Bridging'-tekniikassa Minecraft Bedwarsissa. Huom: Butterfly vaatii hiiren, joka sallii kaksoisklikkauksen.",
+    "h2_record": "Mikä on CPS:n maailmanennätys?",
+    "p_record": "Virallinen ennätys 10 sekunnille on noin 22-24 CPS. Kuitenkin **Drag Click** -tekniikalla jotkut pelaajat voivat saavuttaa hetkellisesti (Burst) yli 30 CPS sekunnissa.",
+    "h2_useful": "Miksi CPS on tärkeä peleissä?",
+    "p_useful": "Minecraft 1.8 PvP:ssä korkea CPS vähentää saamaasi 'Knockbackia' ja auttaa komboissa. Räiskintäpeleissä kuten CS2 tai Valorant nopea klikkaus auttaa ampumaan puoliautomaattiaseilla (tapping) tarkemmin.",
+    "h2_hardware": "Klikkaako hiiresi kahdesti itsestään?",
+    "p_hardware": "Jos klikkaat kerran, mutta tietokone rekisteröi kaksi, hiiren kytkin on viallinen (Double Click Issue). Käytä 'Hiiritesti'-työkaluamme varmistaaksesi vian ennen uuden hiiren ostamista Verkkokaupasta.",
+    "h2_games": "Paranna Tähtäystä (Aim) ja Reaktioaikaa",
+    "p_games": "Nopea klikkaus on turhaa, jos et osu. Käytä **Reaktiotestiämme** visuaalisen viiveen pienentämiseen. Suomalaiset e-urheilijat pääsevät usein alle 150ms tuloksiin.",
+    "h2_hook": "Temppuileeko puhelimen näyttö? (Ghost Touch)",
+    "p_hook": "Liikkuuko tähtäin PUBG Mobilessa itsestään? Se on 'Haamukosketus' (Ghost Touch). Käytä kosketusnäyttötestiämme nähdäksesi, onko näyttö rikki vai vain likainen.",
+    "h2_science": "Onko sinulla valokuitu mutta silti lagia? (Packet Loss)",
+    "p_science": "Tämä on usein **Pakettihäviötä** (Packet Loss). Pelidata katoaa matkalla. Nopeustesti mittaa vain latausnopeutta, me mittaamme yhteytesi (Elisa, Telia, DNA) VAKAUTTA pelaamista varten.",
+    "h2_gaming": "Näppäimistön Ghosting & N-Key Rollover",
+    "p_gaming": "Etkö voi juosta, hypätä ja ladata asetta samaan aikaan? Se on 'Ghosting'. Halvat näppäimistöt lukkiutuvat 3 näppäimen kohdalla. Tarkista tästä, tukeeko näppäimistösi 'Anti-Ghostingia' tai NKRO:ta.",
+    "h2_technique": "Drag Click -tekniikan salat",
+    "p_technique": "Drag Click tarkoittaa sormen vetämistä karhealla hiiren pinnalla kitkan luomiseksi ja satojen klikkauksien tuottamiseksi sekunneissa. Vaatii: Grippiteippiä (Grip Tape) ja mattapintaisen hiiren."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "CPS Testi - Mittaa Klikkausnopeus",
+      "description": "Kuinka nopea olet? Tee 10 sekunnin testi. Haasta kaverit ja treenaa Assemblyä varten."
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "KLIKKAUSNOPEUSTESTI (CPS)"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "1 Sekunnin CPS Testi - Räjähtävä Nopeus",
+      "description": "Testaa maksiminopeutesi sekunnissa. Täydellinen Drag Clickin ja Knockbackin mittaamiseen."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "BURST TESTI (1 SEKUNTI)"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
-      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "5 Sekunnin CPS Testi - Lyhyt Sprintti",
+      "description": "Pelaajien standardi. Montako klikkausta 5 sekunnissa? Pro-keskiarvo on 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "5 SEKUNNIN TESTI"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "60 Sekunnin Maraton - Kestävyys",
+      "description": "Lopullinen kestävyystesti. Pystytkö pitämään tahdin minuutin ajan ilman kramppia?"
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "60 SEKUNNIN HAASTE"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "Jitter Click Treeni - Värinätekniikka",
+      "description": "Opi Jitter Click. Värisytä kättä saavuttaaksesi 14+ CPS. Opas ja turvallinen testi."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "JITTER CLICK TREENI"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
-      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "Butterfly Click Testi - Kaksoisklikkaus",
+      "description": "Testaa Butterfly-nopeutesi. Käytä kahta sormea tuplataksesi CPS:n. Pakollinen Bedwarsissa."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "BUTTERFLY CLICK TESTI"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
-      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "Drag Click Testi - Kitka & Nopeus",
+      "description": "Testaa Drag Click. Käytä kitkaa rekisteröidäksesi satoja klikkauksia sekunneissa."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "DRAG CLICK TESTI"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
-      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "Minecraft PvP Klikkaustesti - Kombo Treeni",
+      "description": "Klikkaustreeni erityisesti Minecraft PvP:lle. Paranna tähtäystä ja vähennä knockbackia."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "MINECRAFT PVP TREENI"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Reaktiotesti - Human Benchmark Suomi",
+      "description": "Mittaa visuaaliset refleksisi millisekunneissa. Keskiarvo on 250ms. Pääsetkö alle 150ms?"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
+    "h1": "REAKTIOAIKATESTI",
+    "wait": "Odota Vihreää...",
+    "click": "KLIKKAA NYT!",
+    "too_soon": "Liian aikaisin! Älä arvaa.",
     "result": "{time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Kirjoitustesti - Tarkista WPM",
+      "description": "Ilmainen 1 minuutin kirjoitustesti. Laske Sanat Minuutissa (WPM) ja tarkkuus."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "KIRJOITUSNOPEUS (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Näppäimistötesti Online - Tarkista Näppäimet",
+      "description": "Testaa jokainen näppäin. Löydä Ghosting, juuttuneet näppäimet ja rikkinäiset kytkimet."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "NÄPPÄIMISTÖDIAGNOSTIIKKA"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for FI users."
+        "question": "Miten tehdä Drag Click tavallisella hiirellä?",
+        "answer": "Se on vaikeaa toimistohiirillä. Tarvitset hiiren mattapinnalla/karhealla pinnalla ja kytkimillä, jotka eivät estä 'Debounce Timea'. Sähköteippi (Grip Tape) auttaa valtavasti."
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for FI users."
+        "question": "Miten parantaa Aimia CS2:ssa?",
+        "answer": "Nopeat klikkaukset eivät riitä. Aseta DPI matalaksi (400-800), ota Windowsin 'Hiiren kiihdytys' pois päältä ja harjoittele Crosshair Placementia."
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for FI users."
+        "question": "Mistä tiedän onko näppäimistöni mekaaninen?",
+        "answer": "Irrota näppäinhattu (keycap). Jos näet ristinmuotoisen kytkimen (Sininen, Punainen, Ruskea), se on mekaaninen. Jos näet kumikuvun, se on kalvonäppäimistö."
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for FI users."
+        "question": "Onko Jitter Clicking vaarallista kädelle?",
+        "answer": "Jos se tehdään väärin, kyllä. Se voi johtaa jännetuppitulehdukseen jännityksen vuoksi. Venyttele ranteita ja pidä taukoja."
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for FI users."
+        "question": "Paras hiiri Butterfly Clickille?",
+        "answer": "Glorious Model O, Logitech G Pro X ja Roccat Kain ovat suosittuja, koska niiden ohjelmistossa voi laskea 'Debounce Timea' kaksoisklikkausten sallimiseksi."
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for FI users."
+        "question": "Mikä on Polling Rate (Hz)?",
+        "answer": "Kuinka usein hiiri ilmoittaa sijaintinsa tietokoneelle. Pelaamiseen 1000Hz (1ms) on standardi. 125Hz:llä hiiri tuntuu nykivältä."
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for FI users."
+        "question": "Miksi hiiren kursori hyppii?",
+        "answer": "Usein syynä on pöly sensorissa tai likainen hiirimatto. Puhdista sensori varovasti vanupuikolla."
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for FI users."
+        "question": "Miten testaan Double Click -vian?",
+        "answer": "Käytä 'Hiiritesti'-työkaluamme. Klikkaa hitaasti 100 kertaa. Jos laskuri näyttää 102 tai enemmän, kytkin on rikki."
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for FI users."
+        "question": "Mikä on normaali CPS?",
+        "answer": "Keskiarvo on 6-7 klikkausta sekunnissa. Pelaajilla 8-10. Minecraft-ammattilaiset pääsevät yli 15:een erikoistekniikoilla."
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for FI users."
+        "question": "Paras DPI FPS-peleihin?",
+        "answer": "Matala DPI (400-800) antaa tarkkuutta. Korkea DPI (1600+) on hyvä MOBA-peleihin. Tärkeää: Ota hiiren kiihdytys pois päältä."
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for FI users."
+        "question": "Tekeekö mekaaninen näppäimistö minusta nopeamman?",
+        "answer": "Kyllä, kytkeytymispiste on tarkempi, mikä mahdollistaa nopeammat 'strafing'-liikkeet (ADAD) peleissä."
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for FI users."
+        "question": "Miten korjata ohjaimen Drift?",
+        "answer": "Drift johtuu usein pölystä sensorissa. Yritä puhaltaa paineilmaa tikun juureen. Jos se ei auta, moduuli pitää vaihtaa."
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for FI users."
+        "question": "Miksi ping on korkea vaikka netti on nopea?",
+        "answer": "Latausnopeus ei ole viive (latenssi). Käytä verkkokaapelia (Ethernet) Wi-Fin sijaan poistaaksesi ping-piikit ja pakettihäviön."
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for FI users."
+        "question": "Mikä on näppäimistön Ghosting?",
+        "answer": "Kun painat montaa näppäintä yhtä aikaa (esim. W + Shift + Välilyönti) ja yksi ei rekisteröidy. Hyvissä näppäimistöissä on 'N-Key Rollover'."
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for FI users."
+        "question": "Miten testaan suhiseeko mikrofoni?",
+        "answer": "Käytä Mikrofonitestiämme. Jos aaltoviiva liikkuu ollessasi hiljaa, sinulla on taustamelua tai sähköhäiriöitä."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Mitä on reaktioaika?",
+        "answer": "Aika, joka aivoilta kuluu visuaalisen signaalin käsittelyyn ja käskyn lähettämiseen sormelle klikata."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Mikä on hyvä reaktioaika?",
+        "answer": "Keskiarvo on 250ms. Alle 200ms on erinomainen. F1-kuskit ja e-urheilijat ovat noin 150ms tasolla."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Voiko refleksejä treenata?",
+        "answer": "Kyllä. Pelaa nopeatempoisia räiskintäpelejä, nuku riittävästi (uni on kriittistä) ja käytä Aim Trainereita tai testiämme päivittäin."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Vaikuttaako ikä reaktioihin?",
+        "answer": "Kyllä, huippu saavutetaan noin 24-vuotiaana. Mutta kokemus (Game Sense) voi korvata raa'an nopeuden."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Auttaako 144Hz näyttö?",
+        "answer": "Valtavasti! Kuva päivittyy useammin, jolloin näet vihollisen millisekunteja aiemmin kuin 60Hz näytöllä."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "Visuaalinen vai kuuloreaktio?",
+        "answer": "Aivot käsittelevät ääntä (170ms) nopeammin kuin valoa (250ms). Siksi hyvät kuulokkeet ovat elintärkeät askelten kuulemiseen."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "Auttaako kofeiini/energiajuoma?",
+        "answer": "Se lisää vireystilaa väliaikaisesti, mutta liika aiheuttaa tärinää (jitter), mikä pilaa tähtäyksen."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "Onko langattomissa hiirissä viivettä?",
+        "answer": "Nykyaikaiset (Logitech Lightspeed, Razer) ovat yhtä nopeita tai nopeampia kuin langalliset. Viive on historiaa."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "Mitä on Input Lag?",
+        "answer": "Viive klikkauksesi ja ruudulla tapahtuvan toiminnon välillä. V-Sync ja vanhat näytöt lisäävät Input Lagia."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "Miten testata tarkkuutta?",
+        "answer": "Käytä 'Accuracy Tests' -tiloja, joissa pitää klikata pieniä, nopeasti katoavia kohteita."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "Mitä WPM tarkoittaa?",
+        "answer": "Words Per Minute (Sanaa Minuutissa). Se on globaali standardi kirjoitusnopeuden mittaamiseen."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Miten kirjoittaa nopeammin?",
+        "answer": "Opettele kymmensormijärjestelmä (Touch Typing). Älä katso näppäimistöä. Keskity tarkkuuteen ennen nopeutta."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Mikä on hyvä WPM?",
+        "answer": "40 WPM on keskiarvo. 60-70 WPM on hyvä toimistotyöhön. Yli 100 WPM on kilpailutasoa."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Onko sokkokirjoitus parempi?",
+        "answer": "Kyllä, lihasmuisti ottaa vallan. Voit keskittyä näyttöön ja korjata virheet heti."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "Siniset vai Punaiset kytkimet kirjoittamiseen?",
+        "answer": "Siniset (Blue) naksuvat äänekkäästi – monet kirjoittajat rakastavat tunnetta. Punaiset (Red) ovat hiljaisia ja lineaarisia, suosittuja peleissä."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "Ovatko läppärin näppäimistöt huonoja?",
+        "answer": "Niissä on lyhyt painallusmatka. Erillinen mekaaninen näppäimistö on ergonomisempi ja nopeampi pitkiin teksteihin."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "Miten treenata?",
+        "answer": "Käytä Palmtweetsin kaltaisia sivuja päivittäin. Kokeile kirjoittaa kirjan sivuja puhtaaksi sanavaraston laajentamiseksi."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "Mitä Tarkkuus (Accuracy) tarkoittaa?",
+        "answer": "Oikeiden painallusten prosenttiosuus. 100 WPM 80% tarkkuudella on hyödytöntä, koska korjaaminen vie aikaa."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "Miten välttää rannesärky?",
+        "answer": "Pidä ranteet suorana (älä lepuuta niitä pöydän reunaa vasten). Käytä rannetukea (Wrist Rest)."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "Onko näppäimistöasettelulla väliä?",
+        "answer": "Suomessa käytämme QWERTY (Nordic/Finnish). Varmista, että Windows on asetettu suomeksi, jotta Ä ja Ö ovat oikeilla paikoillaan."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Mitä on Ghosting?",
+        "answer": "Kun näppäimistö ei rekisteröi painallusta, koska liian monta näppäintä painettiin yhtä aikaa."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "Mitä on NKRO?",
+        "answer": "N-Key Rollover. Voit painaa KAIKKI näppäimet alas yhtä aikaa ja tietokone rekisteröi ne kaikki. Vaatimus pelaajille."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Miten löydän rikkinäisen näppäimen?",
+        "answer": "Avaa Näppäimistötestimme. Paina epäiltyä näppäintä. Jos se ei muutu vihreäksi, kytkin tai piiri on rikki."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Kalvo vs Mekaaninen?",
+        "answer": "Kalvo käyttää kumia (halpa, pehmeä). Mekaaninen käyttää jousia/kytkimiä (tarkka, kestävä)."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "Miten irrottaa näppäinhattu?",
+        "answer": "Käytä näppäinhatun irrottajaa (Keycap Puller). Älä väännä veitsellä, voit katkaista kytkimen varren."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "Mitä ovat Optiset Kytkimet?",
+        "answer": "Ne käyttävät valonsädettä metallikontaktin sijaan aktivointiin. Teoriassa nopeampia ja kestävämpiä."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "Miksi välilyönti rämisee?",
+        "answer": "Vakaajat (metallitangot) ovat kuivia. Pieni määrä dielektristä rasvaa (Lube) hiljentää räminän."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "Onko TKL parempi?",
+        "answer": "Tenkeyless (ilman numpadia) säästää pöytätilaa. Antaa enemmän tilaa hiiren liikkeille FPS-peleissä."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "Mitä on 'Chattering'?",
+        "answer": "Kun näppäintä painetaan kerran, mutta se kirjoittaa 'aa' tai 'aaa'. Yleinen vika likaisissa mekaanisissa näppäimistöissä."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "Voiko näppäimistön pestä vedellä?",
+        "answer": "EI (ellei se ole vesitiiviiksi sertifioitu). Puhdista paineilmalla ja isopropanolilla."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "AIKA",
+    "score": "PISTEET",
+    "start": "ALOITA",
+    "active": "NOPEASTI!",
+    "try_again": "UUDESTAAN",
+    "share": "JAA",
+    "result_msg": "Erinomaista! Sinulla on ninja-refleksit. Yritä rikkoa ennätyksesi!",
+    "slow": "🐢 Etana",
+    "fast": "⚡ Salama",
+    "superhuman": "👑 Legenda"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "Tietoa Työkalusta",
+    "how_to": "Ohjeet",
+    "rank_up": "Miten kehittyä?",
+    "faq": "Usein Kysyttyä",
+    "related": "Vastaavat Työkalut",
+    "step1": "Klikkaa 'Aloita'-painiketta tai harmaata aluetta.",
+    "step2": "Suorita toiminto mahdollisimman nopeasti.",
+    "step3": "Katso sijoituksesi ja jaa tulos.",
+    "rank_turtle": "Taso Etana (0-5 CPS):",
+    "rank_turtle_desc": "Liian hidas! Yritä jännittää käsivarren lihaksia.",
+    "rank_pro": "Taso Pro (5-10 CPS):",
+    "rank_pro_desc": "Pelaajan keskinopeus.",
+    "rank_god": "Taso Jumala (10+ CPS):",
+    "rank_god_desc": "Hallitset Jitter tai Butterfly Clickin."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Kuolleiden Pikselien Testi (Näyttö)",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Tarkista onko näytössäsi tai puhelimessasi kuolleita pikseleitä, jumittuneita pikseleitä tai valovuotoa."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (FI)",
+    "h1": "Kosketusnäyttötesti Online",
     "seo": {
-      "title": "Touch Screen Test Online (FI)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touch Test - Tarkista Haamukosketus",
+      "description": "Testaa puhelimen näyttö. Löydä kuolleet alueet, Ghost Touch ja tarkista Multi-touch."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (FI)",
-      "p_hook": "Localized intro for FI. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for FI.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for FI.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for FI.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in FI."
+      "h2_hook": "Klikkaako puhelin itsestään? (Ghost Touch)",
+      "p_hook": "Jos tähtäin PUBG Mobilessa liikkuu itsestään, sinulla on 'Ghost Touch'. Se on turhauttavaa ja häviät pelejä. Käytä tätä työkalua nähdäksesi onko näyttö rikki vai vain likainen.",
+      "h2_science": "Miten testi toimii?",
+      "p_science": "Näytämme ruudukon. Vedä sormea kaikkialle. Jos ruutu ei muutu vihreäksi, alue on kuollut (Dead Zone).",
+      "h2_gaming": "Multi-touch Testi (Claw Pelaajat)",
+      "p_gaming": "Mobiilipelaajat käyttävät usein 4 sormea (Claw). Laita kaikki sormet näytölle. Työkalu näyttää montako kosketusta puhelin tukee yhtä aikaa.",
+      "h2_hardware": "Softa vai Rauta?",
+      "p_hardware": "Yleinen syy: Halvat laturit (staattinen sähkö) tai paksu panssarilasi. Jos vika ilmenee vain ladatessa, vaihda kaapeli.",
+      "h2_technique": "Pikakorjaus",
+      "p_technique": "Pyyhi näyttö (rasva/hiki). Poista magneettiset suojakuoret. Käynnistä puhelin uudelleen."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (FI)",
+    "h1": "Mikrofonitesti Online",
     "seo": {
-      "title": "Microphone Test Online (FI)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Testaa Mikki - Tarkista Kohina ja Voimakkuus",
+      "description": "Testaa mikrofoni ja kuulokkeet. Näe ääniaallot, äänenvoimakkuus ja tarkista kaiku."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (FI)",
-      "p_hook": "Localized intro for FI. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for FI.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for FI.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for FI.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in FI."
+      "h2_hook": "Kuulostatko huonolta Discordissa?",
+      "p_hook": "Tarkista ääni ennen matsia. Kohina tai hiljainen ääni pilaa tiimikommunikaation. Testaa mikki tässä ilmaiseksi ilman asennusta.",
+      "h2_science": "Aaltovisualisointi",
+      "p_science": "Tämä työkalu näyttää äänesi reaaliajassa. Jos puhut ja viiva on tasainen, mikki on mykistetty tai väärin asetettu Windowsissa.",
+      "h2_gaming": "Stereo Testi (Vasen / Oikea)",
+      "p_gaming": "Kuulokkeilla on elintärkeää tietää tuleeko ääni vasemmalta vai oikealta. Kanavatestimme kertoo onko kuulokkeet väärin päin.",
+      "h2_hardware": "Yhteensopivuus",
+      "p_hardware": "Testaamme nappimikit, USB-headsetit, webkamerat ja studiomikit. Muista painaa 'Salli' selaimessa.",
+      "h2_technique": "Poista kohina",
+      "p_technique": "Laske 'Microphone Boostia' Windowsin ääniasetuksissa. Staattinen surina johtuu usein huonosta maadoituksesta tai liitännöistä."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (FI)",
+    "h1": "Ohjaintesti (Drift)",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (FI)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Testaa Ohjain PS4, PS5, Xbox - Tarkista Drift",
+      "description": "Työkalu nappien ja tattien testaamiseen. Tarkista Stick Drift ja tärinä PC:llä."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (FI)",
-      "p_hook": "Localized intro for FI. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for FI.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for FI.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for FI.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in FI."
+      "h2_hook": "Liikkuuko hahmo itsestään? (Stick Drift)",
+      "p_hook": "Ongelma nro 1 DualSense- ja Xbox-ohjaimissa on 'Drift'. Käytä akselivisualisoijaa nähdäksesi onko tatti oikeasti keskellä.",
+      "h2_science": "Akselidata (Axis)",
+      "p_science": "Näytämme X- ja Y-arvot. Täydellinen ohjain pysyy arvossa 0.00. Jos numerot hyppivät ilman kosketusta, ohjaimessa on driftiä.",
+      "h2_gaming": "Yhteensopivuus",
+      "p_gaming": "Toimii suoraan DualShock 4, DualSense (PS5), Xbox One/Series ja Switch Pro -ohjaimilla. Kytke vain USB:llä tai Bluetoothilla.",
+      "h2_hardware": "Tärinä ja Liipaisin Testi",
+      "p_hardware": "Klikkaa 'Värinä' testataksesi moottorit. Tarkista myös reagoivatko L2/R2-liipaisimet pehmeästi 0%:sta 100%:iin.",
+      "h2_technique": "Korjaa Drift",
+      "p_technique": "Yritä puhaltaa paineilmaa tatin juureen. Tai nosta 'Deadzonea' (Kuollut alue) pelin asetuksissa pienten liikkeiden huomioimatta jättämiseksi."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (FI)",
+    "h1": "Pakettihäviö & Ping Testi",
     "seo": {
-      "title": "Packet Loss & Ping Test (FI)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Testi - Tarkista Lagi ja Jitter",
+      "description": "Nopea netti mutta peli pätkii? Tarkista pakettihäviö (Packet Loss), Jitter ja oikea Ping."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (FI)",
-      "p_hook": "Localized intro for FI. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for FI.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for FI.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for FI.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in FI."
+      "h2_hook": "Matala ping mutta ukko teleporttaa (Lag Spikes)?",
+      "p_hook": "Se on 'Packet Loss'. Pelidataa katoaa matkalla. Nopeustesti mittaa vain latausnopeutta, me mittaamme VAKAUTTA.",
+      "h2_science": "Mitä on Jitter?",
+      "p_science": "Jitter on pingin vaihtelua. Vakaa 50ms on parempi kuin 20ms joka hyppii 100ms:ään. Korkea jitter aiheuttaa teleporttailua.",
+      "h2_gaming": "WiFi vs Kaapeli",
+      "p_gaming": "Kultainen sääntö: ÄLÄ PELAA WIFILLÄ. Radiosignaalit ovat epävakaita. Käytä verkkokaapelia (LAN) taataksesi 0% packet lossin.",
+      "h2_hardware": "Verkkodiagnoosi",
+      "p_hardware": "Jos on häviötä, käynnistä reititin uudelleen. Jos jatkuu, vika on operaattorissa (Elisa, DNA). Käytä tätä testiä todisteena.",
+      "h2_technique": "Paranna Pingiä",
+      "p_technique": "Sulje taustalataukset (Steam, Windows Update), irrota puhelimet WiFistä ja valitse palvelimet läheltä (esim. Tukholma tai Saksa)."
     }
   }
 }
