@@ -1,479 +1,479 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPS Test - Klik Snelheid Testen & Oefenen | Palmtweets",
+    "description": "Hoe snel kun jij klikken? Doe de 10-seconden Klik Test (CPS). Oefen Jitter & Butterfly Click voor Minecraft. Check je muis en toetsenbord."
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "Score",
-    "timer": "Tijd",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "Delen",
-    "start": "START CLICKING",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "h1": "Test Je Kliksnelheid Direct",
+    "description": "Meet je Kliks Per Seconde (CPS) met onze supersnelle reflex-tool. Gemaakt voor gamers, speedrunners en competitieve spelers wereldwijd.",
+    "start_btn": "START TEST",
+    "modes": "Trainingsmodi",
+    "rank_noob": "🐢 Rang: Slak",
+    "rank_pro": "⚡ Rang: Pro Gamer",
+    "rank_god": "👑 Rang: GODELIJK",
+    "share_txt": "Ik heb {score} CPS gehaald op Palmtweets. Kun jij me verslaan?",
+    "score": "SCORE",
+    "timer": "TIJD",
+    "active": "KLIK SNEL!",
+    "try_again": "OPNIEUW",
+    "share": "DELEN",
+    "start": "START",
+    "result_msg": "Je snelheid is boven het gemiddelde. Kun je je persoonlijke record verbreken?",
+    "slow": "🐢 Traag",
+    "fast": "⚡ Snel",
+    "superhuman": "👑 Legende"
   },
   "nav": {
     "home": "Home",
     "cps": "Klik Test",
     "reaction": "Reactie",
     "typing": "Typen",
-    "keyboard": "Keyboard",
+    "keyboard": "Toetsenbord",
     "privacy": "Privacy"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
+    "cps_cluster": "CPS & Klik Tests",
+    "typing_cluster": "Typsnelheid (WPM)",
+    "reaction_cluster": "Reactievermogen",
+    "keyboard_cluster": "PC Diagnose",
+    "cps_1s": "1 Seconde (Burst)",
+    "cps_5s": "5 Seconden Test",
+    "cps_60s": "60 Seconden Marathon",
+    "jitter": "Jitter Click Training",
+    "butterfly": "Butterfly Click Test",
+    "drag": "Drag Click Test",
+    "reaction": "Reactietijd (ms)",
+    "typing": "Blind Typen Test",
+    "keyboard": "Toetsenbord Tester",
+    "minecraft": "Minecraft PvP CPS",
+    "pubg": "PUBG Aim Trainer",
     "roblox": "Roblox Clicker",
     "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "Hardware",
-    "game_challenges": "Spellen",
-    "click_modes": "Klik Modi",
+    "fortnite": "Fortnite Edit Speed",
+    "hardware_tests": "Hardware Testen",
+    "game_challenges": "Gamer Challenges",
+    "click_modes": "Klik Technieken",
     "time_modes": "Tijd Modi",
-    "community": "Gemeenschap",
-    "touch_test": "Touch Screen Test (NL)",
-    "mic_test": "Mic Test (NL)",
-    "gamepad_test": "Gamepad Tester (NL)",
-    "packet_loss": "Packet Loss Test (NL)"
+    "community": "Community",
+    "touch_test": "Touchscreen Test",
+    "mic_test": "Microfoon Test",
+    "gamepad_test": "Controller Test (Drift)",
+    "packet_loss": "Ping & Pakketverlies"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "Het snelste platform voor reflex- en hardware-tests ter wereld."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "title": "Privacybeleid",
+    "intro": "Bij Palmtweets hechten we waarde aan je privacy.",
     "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
+    "cookies_text": "We gebruiken cookies om de functionaliteit te verbeteren en anoniem verkeer te analyseren.",
+    "data_title": "Gegevensverzameling",
+    "data_text": "We verzamelen geen persoonlijk identificeerbare gegevens. Je scores worden lokaal opgeslagen.",
     "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "contact_text": "Vragen? Neem contact op via support@palmtweets.com."
   },
   "seo_content": {
-    "h2_improve": "Hoe je kliksnelheid verbeteren",
-    "p_improve": "Oefening baart kunst. Ontspan je handspieren.",
-    "h2_styles": "Butterfly vs Jitter",
-    "p_styles": "Jitter is armtrilling. Butterfly is twee vingers.",
-    "h2_record": "Wat is het wereldrecord?",
-    "p_record": "30+ CPS voor 1 seconde.",
-    "h2_useful": "Is dit nuttig?",
-    "p_useful": "Ja, voor Minecraft en FPS.",
-    "h2_hardware": "Section 4 (NL)",
-    "p_hardware": "Localized content for NL focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_games": "CPS in Competitive Gaming",
-    "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended.",
-    "h2_hook": "Section 1 (NL)",
-    "p_hook": "Localized content for NL focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (NL)",
-    "p_science": "Localized content for NL focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (NL)",
-    "p_gaming": "Localized content for NL focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (NL)",
-    "p_technique": "Localized content for NL focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "Hoe verhoog je je CPS (Kliks Per Seconde)?",
+    "p_improve": "Snel klikken is een vaardigheid, geen talent. Ontspan je hand om RSI te voorkomen. Gebruik een gamingmuis met snelle switches (zoals Logitech G Pro of Razer). Oefen dagelijks 10 minuten om je spiermuseum te trainen.",
+    "h2_styles": "Butterfly vs. Jitter Click: Wat is beter?",
+    "p_styles": "**Jitter Click** gebruikt armtrillingen voor 12-14 CPS, goed voor stabiel richten (aim). **Butterfly Click** gebruikt twee vingers om en om voor 20+ CPS, perfect voor 'Bridging' in Minecraft. Let op: Voor Butterfly heb je een muis nodig die 'Double Clicks' registreert.",
+    "h2_record": "Wat is het CPS Wereldrecord?",
+    "p_record": "Het legitieme record voor 10 seconden ligt rond de 22-24 CPS. Met de **Drag Click** techniek halen sommige spelers echter pieken van meer dan 30 CPS in één seconde.",
+    "h2_useful": "Waarom is CPS belangrijk in Games?",
+    "p_useful": "In Minecraft 1.8 PvP vermindert een hoge CPS de 'Knockback' (terugslag) die je krijgt. In shooters zoals Valorant of CS2 is CPS minder belangrijk dan precisie, maar snel klikken helpt bij semi-automatische wapens.",
+    "h2_hardware": "Klikt je muis dubbel zonder reden?",
+    "p_hardware": "Als je één keer klikt maar de PC registreert er twee, is je switch versleten (Double Click Issue). Gebruik onze Muis Test tool om deze hardwarefout te bevestigen voordat je een nieuwe koopt.",
+    "h2_games": "Verbeter je Aim en Reactietijd",
+    "p_games": "Snel klikken heeft geen zin als je mist. Gebruik onze **Reactietest** om je visuele verwerkingstijd te verkorten. Pro-gamers reageren vaak binnen 180ms.",
+    "h2_hook": "Spookaanrakingen op je scherm? (Ghost Touch)",
+    "p_hook": "Drukt je telefoon uit zichzelf op knoppen? Dat heet 'Ghost Touch'. Onze Touchscreen Test helpt je dode zones of defecte digitizers op je smartphonescherm te vinden.",
+    "h2_science": "Waarom lag ik met goed internet?",
+    "p_science": "Dat is vaak **Pakketverlies** (Packet Loss). Data raakt onderweg kwijt. Onze tool simuleert echt game-verkeer om de stabiliteit van je verbinding (Ziggo, KPN, Telenet) te testen.",
+    "h2_gaming": "Toetsenbord Ghosting & N-Key Rollover",
+    "p_gaming": "Kun je niet tegelijk lopen, springen en herladen? Dat is 'Ghosting'. Goedkope toetsenborden blokkeren bij meer dan 3 toetsen. Test hier of jouw toetsenbord 'Anti-Ghosting' heeft.",
+    "h2_technique": "De Drag Click Techniek",
+    "p_technique": "Drag Click is het glijden van je vinger over een stroeve muis om via wrijving extreem veel kliks te genereren. Essentieel: Grip Tape (tape) en een matte muis."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "CPS Test - Meet je Kliksnelheid",
+      "description": "Hoe snel ben jij? Doe de 10-seconden test. Daag vrienden uit en train voor eSports toernooien."
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "TEST JE KLIKSNELHEID"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "1 Seconde Klik Test - Speed Burst",
+      "description": "Test je maximale snelheid in één seconde. Ideaal voor Drag Click en Knockback tests."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "FLITSTEST (1 SECONDE)"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
-      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "5 Seconden Klik Test - Korte Sprint",
+      "description": "De standaard voor gamers. Hoeveel kliks haal jij in 5 seconden? Pro-gemiddelde is 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "5 SECONDEN TEST"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "60 Seconden Marathon - Uithoudingsvermogen",
+      "description": "De ultieme conditietest. Kun je het tempo een minuut lang volhouden zonder kramp?"
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "60 SECONDEN CHALLENGE"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "Jitter Click Training - Vibratie Techniek",
+      "description": "Leer Jitter Clicking. Vibreer je arm voor 14+ CPS. Tutorial en veilige training inbegrepen."
     },
     "h1": "JITTER CLICK TRAINING"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
-      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "Butterfly Click Test - Dubbelklik Techniek",
+      "description": "Test je Butterfly Click. Gebruik twee vingers voor dubbele CPS. Essentieel voor Minecraft Bedwars."
     },
     "h1": "BUTTERFLY CLICK TEST"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
-      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "Drag Click Test - Wrijving & Snelheid",
+      "description": "Test je Drag Click. Gebruik wrijving om honderden kliks in seconden te registreren."
     },
     "h1": "DRAG CLICK TEST"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
-      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "Minecraft PvP Klik Test - Combo Training",
+      "description": "Kliktraining speciaal voor Minecraft PvP. Verbeter je Aim en verminder Knockback."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "MINECRAFT PVP TRAINING"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Reactietest - Human Benchmark Nederlands",
+      "description": "Meet je visuele reactietijd in milliseconden. Het gemiddelde is 250ms. Haal jij onder de 150ms?"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
+    "h1": "REACTIETEST (MS)",
+    "wait": "Wacht op Groen...",
+    "click": "KLIK NU!",
+    "too_soon": "Te vroeg! Niet gokken.",
     "result": "{time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Typsnelheid Test - WPM Meten",
+      "description": "Gratis 1-minuut typtest. Bereken je Woorden Per Minuut (WPM) en nauwkeurigheid. Leer blind typen."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "TYPSNELHEID (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Toetsenbord Tester Online - Toetsen Checken",
+      "description": "Controleer elke toets van je toetsenbord. Vind Ghosting, klemmende toetsen en defecte switches."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "TOETSENBORD DIAGNOSE"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for NL users."
+        "question": "Hoe werkt Drag Click op een normale muis?",
+        "answer": "Op kantoormuizen is het lastig. Je hebt een muis nodig met een stroef oppervlak (mat) en switches die 'Debounce Time' niet blokkeren. Elektrische tape (Grip Tape) helpt enorm."
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for NL users."
+        "question": "Hoe verbeter ik mijn Aim in Valorant?",
+        "answer": "Snel klikken is niet genoeg. Zet je DPI op een comfortabele waarde (400-800), zet 'Muisacceleratie' uit in Windows en train Crosshair Placement."
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for NL users."
+        "question": "Hoe herken ik een mechanisch toetsenbord?",
+        "answer": "Trek een toets los. Zie je een kruisvormige schakelaar (blauw, rood, bruin)? Dan is het mechanisch. Zie je een rubberen dopje? Dan is het membraan."
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for NL users."
+        "question": "Is Jitter Click slecht voor je hand?",
+        "answer": "Bij verkeerde techniek: Ja. Het kan leiden tot RSI of peesontsteking. Rek je polsen en neem pauze als het pijn doet."
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for NL users."
+        "question": "Welke muis is het beste voor Butterfly Click?",
+        "answer": "De Glorious Model O, Logitech G Pro X en Roccat Kain zijn populair omdat je de 'Debounce Time' kunt aanpassen om dubbelklikken toe te staan."
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for NL users."
+        "question": "Wat is Polling Rate (Hz)?",
+        "answer": "Hoe vaak de muis zijn positie doorgeeft aan de PC. Voor gaming is 1000Hz (1ms) de standaard. Bij 125Hz voelt de muis schokkerig."
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for NL users."
+        "question": "Waarom hapert mijn muiscursor?",
+        "answer": "Vaak is het stof op de sensor of een vuile muismat. Maak de sensor voorzichtig schoon met een wattenstaafje."
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for NL users."
+        "question": "Hoe test ik op dubbelklik-fouten?",
+        "answer": "Gebruik onze 'Muis Test' tool. Doe 100 langzame enkele kliks. Als de teller 102 of meer aangeeft, is je switch defect."
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for NL users."
+        "question": "Wat is de gemiddelde CPS?",
+        "answer": "Normaal is 6-7 kliks per seconde. Gamers halen 8-10. Minecraft-pro's met speciale technieken halen boven de 15."
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for NL users."
+        "question": "Welke DPI voor shooters?",
+        "answer": "Lage DPI (400-800) biedt meer precisie. Hoge DPI (1600+) is fijn voor MOBA's. Belangrijk: zet muisacceleratie uit."
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for NL users."
+        "question": "Maakt een mechanisch toetsenbord je sneller?",
+        "answer": "Ja, het actuatiepunt (klikpunt) is preciezer, wat snellere reacties bij strafing (ADAD) mogelijk maakt."
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for NL users."
+        "question": "Hoe repareer ik Controller Stick Drift?",
+        "answer": "Drift komt door stof in de sensor. Probeer het schoon te blazen met perslucht. Als dat niet werkt, moet de module vervangen worden."
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for NL users."
+        "question": "Waarom heb ik hoge ping met goed internet?",
+        "answer": "Downloadsnelheid is geen latentie (Ping). Gebruik een kabel (Ethernet) in plaats van WiFi om ping-spikes en pakketverlies te elimineren."
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for NL users."
+        "question": "Wat is Ghosting bij toetsenborden?",
+        "answer": "Als je meerdere toetsen tegelijk indrukt (bijv. W + Shift + Spatie) en eentje reageert niet. Goede toetsenborden hebben 'N-Key Rollover'."
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for NL users."
+        "question": "Hoe test ik mijn microfoon op ruis?",
+        "answer": "Gebruik onze Microfoon Test. Als de golflijn beweegt terwijl je stil bent, heb je achtergrondruis of storing."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Wat is reactietijd?",
+        "answer": "De tijd die je hersenen nodig hebben om een visuele prikkel te verwerken en je vinger te laten klikken."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Wat is een goede reactietijd?",
+        "answer": "Het gemiddelde is 250ms. Onder de 200ms is erg goed. Formule 1-coureurs en pro-gamers zitten rond de 150ms."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Kun je reflexen trainen?",
+        "answer": "Ja. Speel snelle shooters, slaap genoeg (slaap is cruciaal) en gebruik Aim Trainers of onze reactietest dagelijks."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Wordt je reactie slechter als je ouder wordt?",
+        "answer": "Ja, de piek ligt rond de 24 jaar. Maar ervaring (Game Sense) kan de missende milliseconden compenseren."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Helpt een 144Hz monitor?",
+        "answer": "Absoluut! Het beeld ververst vaker, je ziet de vijand milliseconden eerder dan iemand met 60Hz. Een echt voordeel."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "Visuele vs. Auditieve reactie?",
+        "answer": "Het brein verwerkt geluid (170ms) sneller dan licht (250ms). Daarom is een goede headset voor voetstappen (steps) zo belangrijk."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "Helpen energiedrankjes?",
+        "answer": "Ze verhogen kortstondig de alertheid, maar te veel cafeïne zorgt voor trillen (jitter), wat je aim verslechtert."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "Hebben draadloze muizen vertraging?",
+        "answer": "Moderne muizen (Logitech Lightspeed, Razer) zijn net zo snel of sneller dan bedrade muizen. Vertraging is verleden tijd."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "Wat is Input Lag?",
+        "answer": "De vertraging tussen je muisklik en de actie op het scherm. V-Sync en oude monitoren verhogen de Input Lag."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "Hoe test ik mijn precisie?",
+        "answer": "Gebruik 'Accuracy Tests' waarbij je kleine, snel verdwijnende doelen moet raken."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "Wat betekent WPM?",
+        "answer": "Words Per Minute (Woorden Per Minuut). De wereldwijde standaard voor typsnelheid."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Hoe typ ik sneller?",
+        "answer": "Leer blind typen (10 vingers). Kijk niet naar het toetsenbord. Focus op nauwkeurigheid voor snelheid."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Welke WPM is goed?",
+        "answer": "40 WPM is gemiddeld. 60-70 WPM is goed voor kantoorwerk. Boven de 100 WPM is competitief niveau."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Is blind typen beter?",
+        "answer": "Ja, het spiergeheugen neemt het over. Je kunt op het scherm focussen en fouten direct zien."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "Blauwe of Rode switches voor typen?",
+        "answer": "Blauw (Blue) klikt hoorbaar – velen vinden dat fijn bij typen. Rood (Red) is stil en lineair, meer voor gaming."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "Zijn laptop-toetsenborden slecht?",
+        "answer": "Ze hebben weinig 'travel' (indrukweg). Een extern mechanisch toetsenbord typt fijner en sneller."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "Hoe oefen ik het beste?",
+        "answer": "Gebruik sites zoals Palmtweets dagelijks. Probeer echte boekteksten over te typen voor variatie in woordenschat."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "Wat betekent Nauwkeurigheid (Accuracy)?",
+        "answer": "Het percentage juiste aanslagen. 100 WPM met 80% nauwkeurigheid is nutteloos, want corrigeren kost tijd."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "Hoe voorkom ik pijn in mijn pols?",
+        "answer": "Houd je polsen recht (niet op de rand van de tafel laten rusten). Gebruik een polssteun."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "Maakt de toetsenbordindeling uit?",
+        "answer": "Ja, NL (QWERTY) vs BE (AZERTY). Overschakelen kost tijd om te wennen."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Wat is Ghosting?",
+        "answer": "Wanneer toetsaanslagen worden 'ingeslikt' omdat er te veel toetsen tegelijk worden ingedrukt."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "Wat is NKRO?",
+        "answer": "N-Key Rollover. Je kunt alle toetsen tegelijk indrukken en de PC registreert ze allemaal. Verplicht voor gamers."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Hoe vind ik kapotte toetsen?",
+        "answer": "Open onze Toetsenbord Tester. Druk op de toets. Als hij niet groen oplicht, is de switch of de bedrading defect."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Verschil Membraan vs. Mechanisch?",
+        "answer": "Membraan gebruikt rubber (goedkoop, zompig). Mechanisch gebruikt echte veren/schakelaars (precies, duurzaam)."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "Hoe verwijder ik een toets?",
+        "answer": "Gebruik een 'Keycap Puller'. Niet met een mes wrikken, dat kan de switch breken."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "Wat zijn optische switches?",
+        "answer": "Ze gebruiken lichtstralen in plaats van metaalcontact. Ze zijn theoretisch sneller en gaan langer mee."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "Waarom rammelt mijn spatiebalk?",
+        "answer": "De stabilisatoren (ijzerdraadjes) zijn droog. Een beetje smeermiddel (Lube) aan de zijkanten helpt tegen het rammelen."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "Is TKL beter?",
+        "answer": "Tenkeyless (zonder numpad) bespaart ruimte op je bureau. Dat geeft meer muisruimte voor gamers."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "Wat is 'Chattering'?",
+        "answer": "Als een toets één keer wordt ingedrukt, maar 'aa' of 'aaa' schrijft. Een veelvoorkomend defect bij mechanische toetsenborden."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "Kan ik mijn toetsenbord wassen?",
+        "answer": "NEE, niet onder de kraan (tenzij IP68 gecertificeerd). Reinig met perslucht en isopropylalcohol."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
+    "timer": "TIJD",
     "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "start": "START",
+    "active": "SNEL!",
+    "try_again": "NOG EENS",
+    "share": "DELEN",
+    "result_msg": "Uitstekend! Je hebt ninja-reflexen. Probeer je record te verbreken!",
+    "slow": "🐢 Slak",
+    "fast": "⚡ Flits",
+    "superhuman": "👑 Legende"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "Over deze tool",
+    "how_to": "Uitleg",
+    "rank_up": "Hoe word ik beter?",
+    "faq": "Veelgestelde Vragen",
+    "related": "Vergelijkbare Tools",
+    "step1": "Klik op 'Start' of het grijze gebied.",
+    "step2": "Voer de actie zo snel mogelijk uit.",
+    "step3": "Bekijk je rang en deel het resultaat.",
+    "rank_turtle": "Rang Slak (0-5 CPS):",
+    "rank_turtle_desc": "Te traag! Probeer je arm aan te spannen.",
+    "rank_pro": "Rang Prof (5-10 CPS):",
+    "rank_pro_desc": "Gemiddelde snelheid van een gamer.",
+    "rank_god": "Rang Legende (10+ CPS):",
+    "rank_god_desc": "Je beheerst Jitter of Butterfly Click perfect."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Dode Pixel Test (Monitor)",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Controleer je monitor of telefoonscherm op dode pixels, stuck pixels of backlight bleeding."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (NL)",
+    "h1": "Touchscreen Test Online",
     "seo": {
-      "title": "Touch Screen Test Online (NL)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touchscreen Test - Ghost Touch controleren",
+      "description": "Test je telefoonscherm. Vind dode zones, Ghost Touch en check multi-touch functionaliteit."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (NL)",
-      "p_hook": "Localized intro for NL. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for NL.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for NL.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for NL.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in NL."
+      "h2_hook": "Doet je telefoon raar? (Ghost Touch)",
+      "p_hook": "Als je vizier in PUBG Mobile uit zichzelf beweegt, heb je 'Ghost Touch'. Dat is irritant en kost je de winst. Gebruik deze tool om te checken of het aan het scherm ligt of aan vuil.",
+      "h2_science": "Hoe werkt de test?",
+      "p_science": "We tonen een raster. Veeg met je vinger over het hele scherm. Groene vakjes zijn goed. Blijft een vakje grijs, dan is dat gebied dood (Dead Zone).",
+      "h2_gaming": "Multi-touch Test (Claw Grip)",
+      "p_gaming": "Mobiele gamers gebruiken vaak 4 vingers (Claw). Leg alle vingers tegelijk op het scherm. Onze tool toont hoeveel aanraakpunten je telefoon tegelijk aankan.",
+      "h2_hardware": "Software of Hardware?",
+      "p_hardware": "Veelvoorkomende oorzaak: Goedkope oplaadkabels (lekstroom) of kapotte screenprotectors. Als de fout alleen tijdens het laden optreedt, vervang dan de kabel.",
+      "h2_technique": "Snelle Oplossing",
+      "p_technique": "Maak het scherm vetvrij. Verwijder hoesjes met magneten. Start het apparaat opnieuw op."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (NL)",
+    "h1": "Microfoon Test Online",
     "seo": {
-      "title": "Microphone Test Online (NL)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Microfoon Testen - Ruis en Volume Check",
+      "description": "Test microfoon en koptelefoon. Visualiseer geluidsgolven, volume en check op echo."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (NL)",
-      "p_hook": "Localized intro for NL. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for NL.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for NL.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for NL.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in NL."
+      "h2_hook": "Ben je slecht te verstaan op Discord?",
+      "p_hook": "Check je audio voordat de match begint. Ruis, echo of een robotstem verpesten de communicatie. Test je mic hier gratis en zonder installatie.",
+      "h2_science": "Golf-visualisatie",
+      "p_science": "Deze tool toont je stem in real-time. Als je praat en de lijn blijft vlak, staat je microfoon op mute of is hij verkeerd ingesteld in Windows.",
+      "h2_gaming": "Stereo Test (Links / Rechts)",
+      "p_gaming": "Voor headsets is het cruciaal om stappen van links of rechts te horen. Onze kanaaltest laat zien of je koptelefoon goed om zit.",
+      "h2_hardware": "Compatibiliteit",
+      "p_hardware": "We testen dasspeldmicrofoons, USB-headsets, webcams en studiomicrofoons. Vergeet niet de browser toegang te geven.",
+      "h2_technique": "Ruis verwijderen",
+      "p_technique": "Verlaag de 'Versterking' (Boost) in de Windows-geluidsinstellingen. Statische ruis komt vaak door slechte kabels of geen aarding."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (NL)",
+    "h1": "Gamepad Tester (Stick Drift)",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (NL)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Controller Test PS4/PS5/Xbox - Drift Check",
+      "description": "Tool om knoppen en joysticks te testen. Controleer op Stick Drift en vibratie op PC."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (NL)",
-      "p_hook": "Localized intro for NL. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for NL.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for NL.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for NL.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in NL."
+      "h2_hook": "Loopt je poppetje vanzelf? (Stick Drift)",
+      "p_hook": "Het grootste probleem bij DualSense en Xbox controllers is 'Drift'. Gebruik onze as-visualisatie om te zien of de stick echt in het midden staat.",
+      "h2_science": "As-waarden (Axis)",
+      "p_science": "We tonen X- en Y-waarden. Een perfecte controller toont 0.00 in rust. Als de cijfers dansen, heb je drift.",
+      "h2_gaming": "Compatibiliteit",
+      "p_gaming": "Werkt native met DualShock 4, DualSense (PS5), Xbox One/Series en Switch Pro Controller. Gewoon via USB of Bluetooth verbinden.",
+      "h2_hardware": "Vibratie- en Trigger-Test",
+      "p_hardware": "Klik op 'Vibreren' om de motoren te testen. Check ook of de L2/R2 triggers traploos van 0% tot 100% reageren.",
+      "h2_technique": "Drift verhelpen",
+      "p_technique": "Probeer de stick schoon te blazen met perslucht. Of verhoog de 'Deadzone' (Dode zone) in de game-instellingen om lichte bewegingen te negeren."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (NL)",
+    "h1": "Pakketverlies & Ping Test",
     "seo": {
-      "title": "Packet Loss & Ping Test (NL)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Test - Lags en Jitter Checken",
+      "description": "Internet snel, maar game lagt? Check pakketverlies (Packet Loss), Jitter en de echte ping."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (NL)",
-      "p_hook": "Localized intro for NL. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for NL.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for NL.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for NL.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in NL."
+      "h2_hook": "Lage ping maar toch haperingen (Lag Spikes)?",
+      "p_hook": "Dat is 'Packet Loss'. Speldata raakt onderweg kwijt. Een Speedtest meet alleen downloadsnelheid, wij meten de STABILITEIT.",
+      "h2_science": "Wat is Jitter?",
+      "p_science": "Jitter is de schommeling van de ping. Stabiele 50ms is beter dan sprongen van 20ms naar 100ms. Hoge jitter veroorzaakt 'rubberbanding'.",
+      "h2_gaming": "WiFi vs. LAN-kabel",
+      "p_gaming": "Gouden regel: GAME NIET VIA WIFI. Draadloos is onstabiel. Gebruik een LAN-kabel (Ethernet) om 0% pakketverlies te garanderen.",
+      "h2_hardware": "Netwerk Diagnose",
+      "p_hardware": "Heb je verlies? Herstart de router. Als het blijft, ligt het probleem bij de provider (Ziggo, KPN). Gebruik deze test als bewijs.",
+      "h2_technique": "Ping verbeteren",
+      "p_technique": "Sluit downloads op de achtergrond (Steam, Updates), haal telefoons van de WiFi en kies servers dichtbij (bijv. Amsterdam of Frankfurt)."
     }
   }
 }
