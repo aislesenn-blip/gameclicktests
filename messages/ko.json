@@ -1,477 +1,479 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPS Test - 클릭 속도 테스트 & 반응 속도 | Palmtweets",
+    "description": "당신의 피지컬은 몇 점입니까? 10초 CPS 테스트로 확인하세요. 롤(LoL) 카이팅과 마인크래프트 PvP를 위한 지터 클릭, 버터플라이 클릭 연습. 무설치."
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start CPS Test",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "SCORE",
-    "timer": "TIMER",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "start": "START CLICKING",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "h1": "클릭 속도 측정 (CPS 테스트)",
+    "description": "초당 클릭 수(CPS)를 정확하게 측정하세요. 리그 오브 레전드, 발로란트, 오버워치 2 게이머를 위한 궁극의 피지컬 측정 도구.",
+    "start_btn": "테스트 시작",
+    "modes": "훈련 모드",
+    "rank_noob": "🐢 등급: 심해 (Bronze)",
+    "rank_pro": "⚡ 등급: 천상계 (Challenger)",
+    "rank_god": "👑 등급: 페이커 (GODLIKE)",
+    "share_txt": "Palmtweets에서 {score} CPS를 기록했습니다. 저를 이길 수 있나요?",
+    "score": "점수",
+    "timer": "시간",
+    "active": "광클 시작!",
+    "try_again": "다시 하기",
+    "share": "결과 공유",
+    "start": "시작",
+    "result_msg": "당신의 손가락 속도는 평균 이상입니다. 자신의 한계에 도전해보세요!",
+    "slow": "🐢 거북이",
+    "fast": "⚡ 프로게이머",
+    "superhuman": "👑 신의 손"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "home": "홈",
+    "cps": "클릭 테스트",
+    "reaction": "반응 속도",
+    "typing": "타자 연습",
+    "keyboard": "키보드 테스트",
+    "privacy": "개인정보"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "하드웨어",
-    "game_challenges": "게임",
-    "click_modes": "클릭 모드",
+    "cps_cluster": "CPS & 광클 테스트",
+    "typing_cluster": "타자 속도 (한컴타자)",
+    "reaction_cluster": "반응 속도 & 에임",
+    "keyboard_cluster": "PC 하드웨어 점검",
+    "cps_1s": "1초 순발력 테스트",
+    "cps_5s": "5초 테스트",
+    "cps_60s": "60초 내구력 테스트",
+    "jitter": "지터 클릭 (떨기)",
+    "butterfly": "버터플라이 클릭",
+    "drag": "드래그 클릭 (마찰)",
+    "reaction": "반응 속도 (ms)",
+    "typing": "영타/한타 속도 측정",
+    "keyboard": "키보드 무한동시입력",
+    "minecraft": "마인크래프트 PvP",
+    "pubg": "배그 에임 연습",
+    "roblox": "로블록스 오토클릭",
+    "valorant": "발로란트 반응 속도",
+    "fortnite": "포트나이트 편집 속도",
+    "hardware_tests": "장비 테스트",
+    "game_challenges": "게이머 챌린지",
+    "click_modes": "클릭 기술",
     "time_modes": "시간 모드",
     "community": "커뮤니티",
-    "touch_test": "Touch Screen Test (KO)",
-    "mic_test": "Mic Test (KO)",
-    "gamepad_test": "Gamepad Tester (KO)",
-    "packet_loss": "Packet Loss Test (KO)"
+    "touch_test": "터치 스크린 테스트",
+    "mic_test": "마이크 테스트",
+    "gamepad_test": "패드 조이스틱 (쏠림)",
+    "packet_loss": "핑 & 패킷 로스"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "세계에서 가장 빠른 반응 속도 및 게이밍 기어 테스트 플랫폼."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
-    "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
-    "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "title": "개인정보 처리방침",
+    "intro": "Palmtweets는 귀하의 개인정보를 소중하게 생각합니다.",
+    "cookies_title": "쿠키 (Cookies)",
+    "cookies_text": "사용자 경험 개선 및 트래픽 분석을 위해 쿠키를 사용합니다.",
+    "data_title": "데이터 수집",
+    "data_text": "개인 식별 정보는 수집하지 않습니다. 모든 기록은 브라우저에만 저장됩니다.",
+    "contact_title": "문의",
+    "contact_text": "문의 사항은 support@palmtweets.com으로 보내주세요."
   },
   "seo_content": {
-    "h2_improve": "Tips to Improve Clicking (KO)",
-    "p_improve": "Practice daily and use a good mouse.",
-    "h2_styles": "Clicking Styles",
-    "p_styles": "Learn Jitter and Butterfly clicking.",
-    "h2_record": "World Records",
-    "p_record": "Aim for 10+ CPS.",
-    "h2_useful": "Gaming Utility",
-    "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Section 4 (KO)",
-    "p_hardware": "Localized content for KO focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_hook": "Section 1 (KO)",
-    "p_hook": "Localized content for KO focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (KO)",
-    "p_science": "Localized content for KO focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (KO)",
-    "p_gaming": "Localized content for KO focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (KO)",
-    "p_technique": "Localized content for KO focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "CPS(초당 클릭)와 피지컬 올리는 법",
+    "p_improve": "높은 CPS는 힘이 아니라 '텐션'입니다. 손목 터널 증후군을 예방하려면 손목을 풀어주세요. 로지텍(Logitech)이나 레이저(Razer) 같은 게이밍 마우스를 사용하면 반응 속도가 빨라집니다. 매일 10분씩 에임 부스터와 함께 연습하세요.",
+    "h2_styles": "지터 클릭 vs 버터플라이 클릭: 승자는?",
+    "p_styles": "**지터 클릭(Jitter)**은 팔 근육을 경련하듯 떨어 12-14 CPS를 만듭니다. 에임이 안정적입니다. **버터플라이 클릭(Butterfly)**은 두 손가락을 번갈아 사용하여 20 CPS 이상을 기록하며, 마인크래프트 건축(Bridging)에 필수입니다. 주의: 버터플라이는 '더블 클릭'이 지원되는 마우스가 필요합니다.",
+    "h2_record": "CPS 세계 신기록은?",
+    "p_record": "10초 테스트의 정석 기록은 약 22-24 CPS입니다. 하지만 **드래그 클릭(Drag Click)** 기술을 사용하면 순간적으로 30 CPS 이상(Burst)을 기록할 수 있습니다.",
+    "h2_useful": "롤(LoL)과 배그에서 CPS가 중요한가요?",
+    "p_useful": "마인크래프트 1.8 PvP에서는 CPS가 높을수록 '넉백(Knockback)'을 덜 받습니다. 롤(LoL)에서는 원딜 카이팅(Kiting) 시 정확한 클릭이 중요하며, 배그(PUBG)나 발로란트에서는 단발 광클(Tap fire)에 유리합니다.",
+    "h2_hardware": "마우스 더블 클릭 현상 (Double Click Issue)",
+    "p_hardware": "한 번 클릭했는데 두 번 입력되나요? 옴론(Omron) 스위치 고장일 수 있습니다. AS를 보내기 전에 저희 '마우스 테스트' 도구로 더블 클릭 불량인지 정확히 확인하세요.",
+    "h2_games": "에임과 반응 속도 (Reaction Time)",
+    "p_games": "클릭만 빠르면 소용없습니다. 페이커(Faker) 같은 프로게이머들은 평균 150ms 대의 반응 속도를 가집니다. **반응 속도 테스트**로 당신의 '뇌지컬'과 '피지컬'을 측정해보세요.",
+    "h2_hook": "갤럭시 터치 불량? (고스트 터치)",
+    "p_hook": "모바일 배그를 하는데 에임이 튀나요? '고스트 터치' 현상일 수 있습니다. 서비스 센터에 가기 전에 여기서 화면 데드존(Dead Zone)과 멀티터치 오류를 자가 진단하세요.",
+    "h2_science": "핑은 낮은데 렉이 걸려요? (패킷 로스)",
+    "p_science": "인터넷 속도가 빨라도 **패킷 로스(Packet Loss)**가 있으면 순간이동을 합니다. 스피드 테스트는 다운로드 속도만 봅니다. 저희 도구는 KT, SKT, LG U+ 회선의 게임 안정성을 테스트합니다.",
+    "h2_gaming": "키보드 고스팅과 무한동시입력(NKRO)",
+    "p_gaming": "스킬 콤보가 안 나가나요? 저가형 키보드는 3개 이상 누르면 씹히는 '고스팅'이 발생합니다. 당신의 키보드가 기계식 무한동시입력을 지원하는지 여기서 확인하세요.",
+    "h2_technique": "드래그 클릭 하는 법",
+    "p_technique": "드래그 클릭은 마우스 표면의 마찰을 이용해 드르륵 긁는 기술입니다. 전기 테이프(Grip Tape)나 무광 코팅 마우스가 있어야 제대로 됩니다."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "CPS 테스트 - 클릭 속도 측정",
+      "description": "당신의 손가락은 얼마나 빠릅니까? 10초 테스트에 도전하세요. 친구와 내기하고 티어를 확인하세요."
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "클릭 속도 테스트 (CPS)"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "1초 CPS 테스트 - 순간 폭발력",
+      "description": "1초 동안의 최대 속도를 측정합니다. 드래그 클릭 틱수 확인에 최적화되었습니다."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "순발력 테스트 (1초)"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
-      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "5초 CPS 테스트 - 짧은 스프린트",
+      "description": "게이머 표준 테스트. 5초에 몇 번 클릭할 수 있나요? 프로 평균은 12+ CPS입니다."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "5초 테스트"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "60초 마라톤 - 손가락 내구력",
+      "description": "극한의 지구력 테스트. 1분 동안 일정한 속도를 유지할 수 있습니까? 전완근 펌핑 주의."
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "60초 챌린지"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "지터 클릭 연습 - 떨기 기술",
+      "description": "지터 클릭을 마스터하세요. 팔에 힘을 주어 14+ CPS를 만드세요. 안전한 연습 도구."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "지터 클릭 트레이닝"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
-      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "버터플라이 클릭 테스트 - 두 손가락",
+      "description": "버터플라이 클릭 속도를 측정하세요. 두 손가락으로 CPS를 두 배로 늘리세요. 마크 배드워즈 필수."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "버터플라이 클릭 테스트"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
-      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "드래그 클릭 테스트 - 마찰 끌기",
+      "description": "드래그 클릭을 테스트하세요. 마찰을 이용해 1초에 수십 번의 클릭 신호를 보냅니다."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "드래그 클릭 테스트"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
-      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "마인크래프트 PvP 클릭 테스트 - 콤보 연습",
+      "description": "마크 PvP 전용 클릭 연습. 에임 트래킹을 개선하고 넉백을 줄이세요."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "마인크래프트 PvP 훈련"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "반응 속도 테스트 - 휴먼 벤치마크 코리아",
+      "description": "시각 반응 속도를 밀리초(ms)로 측정합니다. 한국인 평균은 250ms입니다. 페이커 급인 150ms에 도전하세요."
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
+    "h1": "반응 속도 테스트",
+    "wait": "초록색을 기다리세요...",
+    "click": "지금 클릭!",
+    "too_soon": "너무 빨라요! 예측 금지.",
     "result": "{time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "타자 연습 속도 측정 - 영타/한타 WPM",
+      "description": "무료 1분 타자 테스트. 분당 단어 수(WPM)와 정확도를 계산합니다. 한컴타자연습의 웹 버전."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "타자 속도 테스트 (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "키보드 테스트 온라인 - 고장난 키 찾기",
+      "description": "키보드의 모든 키를 검사합니다. 고스팅, 중복 입력, 스위치 고장을 즉시 확인하세요."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "키보드 고장 진단"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for KO users."
+        "question": "일반 마우스로 드래그 클릭 되나요?",
+        "answer": "사무용 마우스는 어렵습니다. 표면이 거친(무광) 게이밍 마우스가 필요하며, 디바운스 타임(Debounce Time) 조절이 가능해야 합니다. 절연 테이프를 붙이면 더 잘 됩니다."
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for KO users."
+        "question": "발로란트 에임 좋아지는 법?",
+        "answer": "단순 클릭 속도보단 정확도입니다. DPI를 400~800 저감도로 설정하고, 윈도우 '마우스 정확도 향상'을 끄세요. 그리고 헤드 라인 잡는 연습을 하세요."
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for KO users."
+        "question": "내 키보드가 기계식인지 멤브레인인지 어떻게 아나요?",
+        "answer": "키캡 하나를 빼보세요. 십자(+) 모양 스위치(청축, 적축 등)가 보이면 기계식입니다. 고무 돔이 보이면 멤브레인입니다."
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for KO users."
+        "question": "지터 클릭 하면 손목 망가지나요?",
+        "answer": "잘못된 자세로 힘만 주면 손목 터널 증후군이 올 수 있습니다. 팔 전체의 진동을 이용해야 하며, 통증이 오면 즉시 쉬어야 합니다."
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for KO users."
+        "question": "버터플라이 클릭에 좋은 마우스는?",
+        "answer": "글로리어스 모델 O (Model O), 로지텍 G Pro X, 로캣 콘퓨어 등이 인기 많습니다. 소프트웨어에서 더블 클릭을 허용하도록 설정할 수 있기 때문입니다."
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for KO users."
+        "question": "폴링레이트(Hz)가 뭔가요?",
+        "answer": "마우스가 PC에 신호를 보내는 빈도입니다. 게임용은 1000Hz(1ms)가 국룰입니다. 125Hz는 렉 걸린 것처럼 끊깁니다."
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for KO users."
+        "question": "마우스 커서가 튀거나 멈춰요 (스핀아웃).",
+        "answer": "주로 센서에 먼지가 끼었거나 마우스 패드가 너무 더러워서 그렇습니다. 면봉으로 센서를 살살 닦아주세요."
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for KO users."
+        "question": "마우스 더블 클릭 현상 테스트 방법?",
+        "answer": "저희 '마우스 테스트' 툴을 켜고 천천히 100번 클릭해보세요. 카운트가 102 이상 나오면 스위치 수명이 다한 겁니다."
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for KO users."
+        "question": "한국인 평균 CPS는?",
+        "answer": "일반인은 6~7 CPS입니다. PC방 좀 다니는 게이머는 8~10 CPS. 마크 고인물은 15 CPS 이상 나옵니다."
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for KO users."
+        "question": "롤(LoL) 할 때 DPI 몇이 좋나요?",
+        "answer": "페이커는 3500 DPI 쓰지만, 보통 800~1600 DPI가 무난합니다. 너무 빠르면 스킬 샷이 빗나갑니다. 본인에게 맞는 감도를 찾으세요."
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for KO users."
+        "question": "기계식 키보드가 반응 속도 더 빠르나요?",
+        "answer": "네, 입력 지점(Actuation point)이 명확해서 무빙이나 스킬 반응이 멤브레인보다 빠릅니다."
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for KO users."
+        "question": "패드 쏠림(Drift) 현상 수리법?",
+        "answer": "아날로그 스틱 틈새에 먼지가 껴서 그렇습니다. 입으로 불거나 에어 스프레이(BW-100)를 뿌려보세요. 그래도 안 되면 부품 교체해야 합니다."
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for KO users."
+        "question": "인터넷은 빠른데 핑(Ping)이 튀어요.",
+        "answer": "다운로드 속도와 핑은 다릅니다. 와이파이(Wi-Fi) 대신 랜선(Ethernet)을 꽂으세요. 무선은 패킷 손실이 생길 수밖에 없습니다."
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for KO users."
+        "question": "키보드 고스팅(Ghosting)이란?",
+        "answer": "키를 3개 이상 동시에 눌렀을 때(예: 대각선 점프 + 스킬) 인식이 안 되는 현상입니다. 게이밍 키보드는 '무한동시입력(NKRO)'으로 이걸 방지합니다."
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for KO users."
+        "question": "마이크 잡음/지지직 소리 없애는 법?",
+        "answer": "저희 마이크 테스트로 확인해보세요. 윈도우 소리 설정에서 '마이크 증폭'을 0으로 줄이세요. 접지 문제일 수도 있습니다."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "반응 속도란 무엇인가요?",
+        "answer": "눈으로 보고 뇌가 판단해서 손가락을 움직이기까지 걸리는 시간입니다."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "평균 반응 속도는?",
+        "answer": "일반인은 250ms(0.25초)입니다. 200ms 미만이면 상위권입니다. 프로게이머는 150ms 내외입니다."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "반응 속도도 훈련이 되나요?",
+        "answer": "네. FPS 게임을 많이 하고, 잠을 충분히 자면 좋아집니다. 에임 랩(Aim Lab)이나 저희 테스트를 매일 해보세요."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "나이가 들면 느려지나요?",
+        "answer": "네, 24세가 피크이고 그 후로 조금씩 느려집니다. 하지만 '뇌지컬'(예측과 경험)로 극복 가능합니다."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "144Hz / 240Hz 모니터가 중요한가요?",
+        "answer": "매우 중요합니다! 60Hz보다 화면 갱신이 빨라 적을 더 빨리 볼 수 있습니다. 장비빨은 실존합니다."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "시각 vs 청각, 뭐가 더 빠를까?",
+        "answer": "청각(170ms)이 시각(250ms)보다 빠릅니다. 그래서 사플(사운드 플레이)이 반응에 훨씬 유리합니다."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "카페인/에너지 드링크 효과 있나요?",
+        "answer": "일시적으로 각성 효과는 주지만, 많이 마시면 손떨림(Jitter)이 생겨 에임이 나빠집니다."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "무선 마우스는 반응이 느린가요?",
+        "answer": "옛날 얘기입니다. 요즘 로지텍이나 레이저 무선은 유선보다 빠릅니다. 프로들도 대회에서 무선 씁니다."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "인풋렉(Input Lag)이란?",
+        "answer": "마우스를 클릭했는데 화면 총알은 나중에 나가는 딜레이입니다. 수직동기화(V-Sync)를 끄면 줄어듭니다."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "정확도(Accuracy) 테스트는 어떻게?",
+        "answer": "'정확도 테스트' 모드를 사용하세요. 작고 빠르게 사라지는 타겟을 클릭하는 연습입니다."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "WPM이 뭔가요?",
+        "answer": "Words Per Minute (분당 단어 수). 전 세계적으로 쓰는 타자 속도 단위입니다. 한국의 '타수'와는 조금 다릅니다."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "타자 빨리 치는 법?",
+        "answer": "키보드를 보지 않고 치는 습관(블라인드 터치)을 들이세요. 처음엔 느려도 나중엔 훨씬 빨라집니다."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "타수 몇 타면 빠른 건가요?",
+        "answer": "한타 기준 300~400타면 일반인 평균, 600타 이상이면 고수입니다. 영타는 40 WPM이 평균입니다."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "안 보고 치는 게 좋나요?",
+        "answer": "무조건 좋습니다. 모니터를 보면서 오타를 실시간으로 수정할 수 있어 작업 속도가 배로 빨라집니다."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "타자 연습용 스위치: 청축 vs 적축?",
+        "answer": "청축(Blue)은 찰칵거리는 소리가 경쾌해 타자용으로 인기입니다. 적축(Red)은 조용하고 가벼워 구름타법에 좋습니다."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "노트북 키보드는 별로인가요?",
+        "answer": "키 깊이가 얕아 손맛이 덜하고 오타가 잘 납니다. 기계식 키보드를 연결해 쓰는 게 손목에 좋습니다."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "연습 사이트 추천?",
+        "answer": "한컴타자연습이 근본이지만, 설치 없이 바로 하려면 Palmtweets나 Monkeytype이 좋습니다."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "정확도가 중요한가요?",
+        "answer": "속도보다 중요합니다. 1000타를 쳐도 오타가 많으면 백스페이스 누르느라 시간 다 갑니다. 100% 정확도를 목표로 하세요."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "손목 통증 예방하려면?",
+        "answer": "팜레스트(손목 받침대)를 쓰세요. 손목이 책상 모서리에 꺾이면 신경이 눌려 터널 증후군이 옵니다."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "두벌식 vs 세벌식?",
+        "answer": "두벌식이 표준이라 어디서든 쓰기 편합니다. 세벌식은 익히기 어렵지만 타자가 훨씬 빠르고 손 피로가 적습니다."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "고스팅(Ghosting) 현상이란?",
+        "answer": "키를 동시에 여러 개 눌렀을 때 인식이 씹히는 현상입니다. 리듬게임이나 FPS 할 때 치명적입니다."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "NKRO(무한동시입력)란?",
+        "answer": "키보드의 모든 키를 동시에 눌러도 다 인식하는 기능입니다. 게이밍 키보드의 필수 조건입니다."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "고장난 키 찾는 법?",
+        "answer": "저희 키보드 테스트를 켜고 하나씩 눌러보세요. 색이 안 바뀌는 키는 스위치가 죽었거나 회로가 끊긴 겁니다."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "멤브레인 vs 기계식 차이?",
+        "answer": "멤브레인은 고무(싸고 물렁함). 기계식은 스프링과 스위치(비싸고 정확함, 타건감 좋음)."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "키캡 빼는 법?",
+        "answer": "키캡 리무버(Keycap Puller)를 쓰세요. 볼펜이나 칼로 억지로 빼면 스위치 축이 부러질 수 있습니다."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "광축(Optical) 키보드란?",
+        "answer": "금속 접점 대신 적외선 센서로 입력을 감지합니다. 반응이 빛의 속도고, 고장이 거의 안 납니다. PC방에서 많이 씁니다."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "스페이스바 찰찰거리는 소리 잡는 법?",
+        "answer": "스테빌라이저(철심)에 윤활제(구리스)를 바르면 조용해집니다. 이를 '스테빌 윤활'이라고 합니다."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "텐키리스(TKL)가 좋나요?",
+        "answer": "오른쪽 숫자패드가 없어서 마우스 공간이 넓어집니다. FPS 게이머에겐 텐키리스가 국룰입니다."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "채터링(Chattering)이란?",
+        "answer": "키를 한 번 눌렀는데 'ㄱㄱㄱ' 이렇게 여러 번 입력되는 고장입니다. 스위치 내부 먼지 때문일 확률이 높습니다."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "키보드 물청소 해도 되나요?",
+        "answer": "완전 방수(광축 등) 아니면 절대 안 됩니다. 에어 스프레이로 먼지 털고 알코올 솜으로 닦으세요."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "시간",
+    "score": "점수",
+    "start": "시작",
+    "active": "더 빠르게!",
+    "try_again": "다시 하기",
+    "share": "공유",
+    "result_msg": "대단합니다! 닌자 같은 반사신경이네요. 기록 경신에 도전하세요!",
+    "slow": "🐢 느림",
+    "fast": "⚡ 빠름",
+    "superhuman": "👑 초인"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "도구 정보",
+    "how_to": "사용 방법",
+    "rank_up": "실력 향상 팁",
+    "faq": "자주 묻는 질문",
+    "related": "관련 도구",
+    "step1": "'시작' 버튼이나 회색 영역을 클릭하세요.",
+    "step2": "제한 시간 동안 최대한 빠르게 행동하세요.",
+    "step3": "당신의 등급을 확인하고 친구에게 공유하세요.",
+    "rank_turtle": "등급 거북이 (0-5 CPS):",
+    "rank_turtle_desc": "너무 느려요! 팔에 힘을 주고 떨어보세요.",
+    "rank_pro": "등급 프로 (5-10 CPS):",
+    "rank_pro_desc": "한국 게이머 평균 속도입니다.",
+    "rank_god": "등급 신 (10+ CPS):",
+    "rank_god_desc": "지터 클릭이나 버터플라이 클릭을 마스터했군요."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "불량 화소 테스트 (모니터 무결점)",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "모니터나 스마트폰 화면의 불량 화소(데드 픽셀), 멍, 빛샘 현상을 확인하세요."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (KO)",
+    "h1": "터치 스크린 테스트 온라인",
     "seo": {
-      "title": "Touch Screen Test Online (KO)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "터치 테스트 - 고스트 터치 확인",
+      "description": "스마트폰 액정을 테스트하세요. 터치 불량, 고스트 터치, 멀티 터치 오류를 찾아냅니다."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (KO)",
-      "p_hook": "Localized intro for KO. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for KO.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for KO.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for KO.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in KO."
+      "h2_hook": "폰이지 혼자 눌려요? (고스트 터치)",
+      "p_hook": "배그 모바일 하는데 시점이 혼자 돌아간다면 '고스트 터치'입니다. 액정 문제인지 단순 이물질인지 이 툴로 확인하세요.",
+      "h2_science": "테스트 원리",
+      "p_science": "화면에 격자를 띄웁니다. 손가락으로 쓱 문지르세요. 초록색으로 안 바뀌는 부분이 있다면 그곳이 죽은 영역(Dead Zone)입니다.",
+      "h2_gaming": "멀티 터치 (4핑거)",
+      "p_gaming": "모바일 게임 고수들은 4핑거(Claw)를 씁니다. 손가락을 다 올려보세요. 몇 개까지 동시에 인식되는지 알려드립니다.",
+      "h2_hardware": "소프트웨어? 하드웨어?",
+      "p_hardware": "흔한 원인: 다이소 충전기(전압 불안정) 혹은 깨진 액정. 충전기 꼽을 때만 튀면 케이블을 바꾸세요.",
+      "h2_technique": "해결 방법",
+      "p_technique": "화면의 기름기를 닦으세요. 자석 달린 케이스를 빼세요. 폰을 재부팅하세요."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (KO)",
+    "h1": "마이크 테스트 온라인 (무설치)",
     "seo": {
-      "title": "Microphone Test Online (KO)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "마이크 테스트 - 잡음 및 볼륨 확인",
+      "description": "마이크와 헤드셋을 테스트하세요. 소리 파형을 시각화하여 노이즈, 에코, 볼륨을 체크합니다."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (KO)",
-      "p_hook": "Localized intro for KO. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for KO.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for KO.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for KO.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in KO."
+      "h2_hook": "디스코드에서 목소리가 끊기나요?",
+      "p_hook": "게임 시작 전 마이크 체크는 필수입니다. 지지직거리거나 로봇 목소리가 나면 팀원들이 싫어합니다. 여기서 무료로 테스트하세요.",
+      "h2_science": "파형 시각화",
+      "p_science": "내 목소리를 실시간 그래프로 보여줍니다. 말하는데 선이 일자라면 마이크가 음소거 상태거나 윈도우 설정이 꼬인 겁니다.",
+      "h2_gaming": "사운드 채널 테스트 (좌/우)",
+      "p_gaming": "헤드셋 좌우 반대로 끼면 발소리 반대로 들립니다. 스테레오 테스트로 왼쪽/오른쪽이 맞는지 확인하세요.",
+      "h2_hardware": "호환성",
+      "p_hardware": "이어폰, USB 헤드셋, 웹캠 마이크, 방송용 마이크 다 됩니다. 브라우저 마이크 권한을 '허용'해주세요.",
+      "h2_technique": "노이즈 없애기",
+      "p_technique": "윈도우 소리 설정에서 '마이크 증폭'을 끄거나 줄이세요. '웅~' 하는 소리는 본체 접지가 안 돼서 그럴 수 있습니다."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (KO)",
+    "h1": "게임패드 테스트 (아날로그 쏠림)",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (KO)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "패드 테스트 PS4/PS5/Xbox - 쏠림 확인",
+      "description": "컨트롤러 버튼과 조이스틱을 테스트하세요. 스틱 쏠림(Drift)과 진동 모터를 PC에서 확인."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (KO)",
-      "p_hook": "Localized intro for KO. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for KO.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for KO.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for KO.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in KO."
+      "h2_hook": "캐릭터가 혼자 움직여요? (스틱 쏠림)",
+      "p_hook": "듀얼센스와 엑박 패드의 고질병 '쏠림(Drift)'입니다. 손을 뗐는데도 입력이 들어가는지 축 그래프로 확인하세요.",
+      "h2_science": "축 데이터 (Axis)",
+      "p_science": "X축, Y축 값을 숫자로 보여줍니다. 정상 패드는 0.00에 멈춰있습니다. 숫자가 막 튀면 고장입니다.",
+      "h2_gaming": "호환 기기",
+      "p_gaming": "듀얼쇼크 4, 듀얼센스, 엑박 패드, 스위치 프로콘, 싸구려 PC 패드 다 됩니다. USB나 블루투스로 연결만 하세요.",
+      "h2_hardware": "진동 & 트리거 테스트",
+      "p_hardware": "'진동' 버튼을 눌러 모터를 확인하세요. L2/R2 트리거가 살살 누를 때부터 꽉 누를 때까지 부드럽게 인식되는지도 보세요.",
+      "h2_technique": "쏠림 해결법",
+      "p_technique": "스틱 틈새에 입바람을 불거나 BW-100(접점부활제)을 뿌려보세요. 아니면 게임 설정에서 '데드존(Deadzone)'을 늘리세요."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (KO)",
+    "h1": "패킷 로스 & 핑 테스트",
     "seo": {
-      "title": "Packet Loss & Ping Test (KO)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "패킷 손실 테스트 - 렉과 지터 확인",
+      "description": "인터넷은 빠른데 게임이 끊기나요? 패킷 로스(Packet Loss), 지터(Jitter), 실제 핑을 측정하세요."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (KO)",
-      "p_hook": "Localized intro for KO. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for KO.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for KO.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for KO.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in KO."
+      "h2_hook": "핑은 낮은데 순간이동 하나요?",
+      "p_hook": "그게 '패킷 로스'입니다. 게임 데이터가 가다가 증발하는 거죠. 일반 속도 측정은 다운로드 속도만 보지만, 우린 '회선 품질'을 봅니다.",
+      "h2_science": "지터(Jitter)가 뭔가요?",
+      "p_science": "핑이 튀는 정도입니다. 핑 10ms였다가 갑자기 100ms로 튀면 게임 못 합니다. 꾸준한 50ms가 널뛰기하는 10ms보다 낫습니다.",
+      "h2_gaming": "와이파이 vs 랜선",
+      "p_gaming": "국룰: **게임은 무조건 유선(랜선)으로**. 와이파이는 전파 방해 때문에 패킷이 무조건 손실됩니다.",
+      "h2_hardware": "네트워크 진단",
+      "p_hardware": "손실이 뜨면 공유기를 껐다 켜보세요. 그래도 뜨면 통신사(KT, SK, LG) 문제입니다. 기사님 부를 때 이 화면 보여주세요.",
+      "h2_technique": "핑 줄이는 법",
+      "p_technique": "스팀 다운로드나 윈도우 업데이트 끄세요. 폰 와이파이 끄세요. 한국 서버(KR)나 일본 서버(JP)를 쓰세요."
     }
   }
 }
