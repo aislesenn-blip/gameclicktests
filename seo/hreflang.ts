@@ -1,14 +1,43 @@
-export const LOCALES = ['en', 'pt', 'id', 'es', 'ru'];
+export const LOCALES = [
+  'en', // English
+  'ar', // Arabic
+  'cs', // Czech
+  'da', // Danish
+  'de', // German
+  'el', // Greek
+  'es', // Spanish
+  'fi', // Finnish
+  'fr', // French
+  'he', // Hebrew
+  'hi', // Hindi
+  'hu', // Hungarian
+  'id', // Indonesian
+  'it', // Italian
+  'ja', // Japanese
+  'ko', // Korean
+  'nl', // Dutch
+  'no', // Norwegian
+  'pl', // Polish
+  'pt', // Portuguese
+  'ro', // Romanian
+  'ru', // Russian
+  'sv', // Swedish
+  'th', // Thai
+  'tr', // Turkish
+  'uk', // Ukrainian
+  'vi', // Vietnamese
+  'zh'  // Chinese
+];
 
-export function generateAlternates(path: string = '') {
+export function generateAlternates(locale: string, path: string = '') {
   const languages: Record<string, string> = {};
 
-  LOCALES.forEach(locale => {
-    languages[locale] = `/${locale}${path}`;
+  LOCALES.forEach(lang => {
+    languages[lang] = `/${lang}${path}`;
   });
 
   return {
-    canonical: `/en${path}`,
+    canonical: `/${locale}${path}`,
     languages,
   };
 }
