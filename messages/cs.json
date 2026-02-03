@@ -1,477 +1,479 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPS Test - Otestuj rychlost klikání & myš | Palmtweets",
+    "description": "Jak rychle umíš klikat? Zkus 10sekundový CPS test. Trénuj Jitter a Butterfly Click pro Minecraft PvP. Otestuj myš na dvojklik."
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start CPS Test",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "SCORE",
-    "timer": "TIMER",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "start": "START CLICKING",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "h1": "Otestuj svou rychlost klikání (CPS)",
+    "description": "Zmierz své kliknutí za sekundu (CPS) s naším ultra přesným nástrojem. Vytvořeno pro hráče Minecraftu, CS2 a League of Legends v Česku.",
+    "start_btn": "SPUSTIT TEST",
+    "modes": "Tréninkové režimy",
+    "rank_noob": "🐢 Rank: Šnek",
+    "rank_pro": "⚡ Rank: Pro Hráč",
+    "rank_god": "👑 Rank: BŮH (Godlike)",
+    "share_txt": "Dal jsem {score} CPS na Palmtweets. Dokážeš mě porazit?",
+    "score": "SKÓRE",
+    "timer": "ČAS",
+    "active": "KLIKEJ RYCHLE!",
+    "try_again": "ZKUSIT ZNOVU",
+    "share": "SDÍLET",
+    "start": "START",
+    "result_msg": "Tvoje rychlost je nadprůměrná. Dokážeš překonat svůj rekord?",
+    "slow": "🐢 Pomalý",
+    "fast": "⚡ Rychlý",
+    "superhuman": "👑 Legenda"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "home": "Domů",
+    "cps": "Test Klikání",
+    "reaction": "Reakce",
+    "typing": "Psaní",
+    "keyboard": "Klávesnice",
+    "privacy": "Soukromí"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "Hardware",
-    "game_challenges": "Hry",
-    "click_modes": "Režimy Klikání",
+    "cps_cluster": "CPS a Klikací Testy",
+    "typing_cluster": "Rychlost Psaní",
+    "reaction_cluster": "Reflexy a Reakce",
+    "keyboard_cluster": "Diagnostika PC",
+    "cps_1s": "1 Sekunda (Burst)",
+    "cps_5s": "5 Sekund Test",
+    "cps_60s": "60 Sekund Maraton",
+    "jitter": "Jitter Click Trénink",
+    "butterfly": "Butterfly Click Test",
+    "drag": "Drag Click Test",
+    "reaction": "Reakční Doba (ms)",
+    "typing": "Test Rychlosti Psaní",
+    "keyboard": "Test Klávesnice",
+    "minecraft": "Minecraft PvP CPS",
+    "pubg": "PUBG Aim Trénink",
+    "roblox": "Clicker pro Roblox",
+    "valorant": "Valorant Reflexy",
+    "fortnite": "Fortnite Edit Speed",
+    "hardware_tests": "Test Hardwaru",
+    "game_challenges": "Herní Výzvy",
+    "click_modes": "Techniky Klikání",
     "time_modes": "Časové Režimy",
     "community": "Komunita",
-    "touch_test": "Touch Screen Test (CS)",
-    "mic_test": "Mic Test (CS)",
-    "gamepad_test": "Gamepad Tester (CS)",
-    "packet_loss": "Packet Loss Test (CS)"
+    "touch_test": "Test Dotykové Obrazovky",
+    "mic_test": "Test Mikrofonu",
+    "gamepad_test": "Test Ovladače (Drift)",
+    "packet_loss": "Ping a Ztráta Paketů"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "Nejrychlejší platforma pro testování reflexů a herního hardwaru."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "title": "Zásady ochrany osobních údajů",
+    "intro": "Na Palmtweets si vážíme tvého soukromí.",
     "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
-    "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "cookies_text": "Používáme cookies pro zlepšení zážitku a anonymní analýzu návštěvnosti.",
+    "data_title": "Sběr dat",
+    "data_text": "Nesbíráme osobní údaje. Tvé skóre se ukládá lokálně v prohlížeči.",
+    "contact_title": "Kontakt",
+    "contact_text": "Dotazy? Napiš nám na support@palmtweets.com."
   },
   "seo_content": {
-    "h2_improve": "Tips to Improve Clicking (CS)",
-    "p_improve": "Practice daily and use a good mouse.",
-    "h2_styles": "Clicking Styles",
-    "p_styles": "Learn Jitter and Butterfly clicking.",
-    "h2_record": "World Records",
-    "p_record": "Aim for 10+ CPS.",
-    "h2_useful": "Gaming Utility",
-    "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Section 4 (CS)",
-    "p_hardware": "Localized content for CS focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_hook": "Section 1 (CS)",
-    "p_hook": "Localized content for CS focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (CS)",
-    "p_science": "Localized content for CS focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (CS)",
-    "p_gaming": "Localized content for CS focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (CS)",
-    "p_technique": "Localized content for CS focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "Jak zvýšit své CPS (Kliknutí za sekundu)?",
+    "p_improve": "Vysoké CPS je o technice, ne jen o síle. Uvolni předloktí, abys předešel karpálnímu tunelu. Používej herní myš s rychlými spínači (jako Logitech nebo Razer). Trénuj 10 minut denně pro svalovou paměť.",
+    "h2_styles": "Butterfly Click vs. Jitter Click: Co je lepší?",
+    "p_styles": "**Jitter Click** využívá vibrace předloktí pro dosažení 12-14 CPS, dobré pro stabilní míření (aim). **Butterfly Click** používá dva prsty střídavě pro 20+ CPS, ideální pro stavění mostů (Bridging) v Minecraft Bedwars. Poznámka: Butterfly vyžaduje myš, která umožňuje dvojklik.",
+    "h2_record": "Jaký je světový rekord v CPS?",
+    "p_record": "Legitimní rekord pro 10 sekund je kolem 22-24 CPS. Avšak s technikou **Drag Click** mohou někteří hráči dosáhnout špiček (Burst) přes 30 CPS za sekundu.",
+    "h2_useful": "Proč je CPS důležité ve hrách?",
+    "p_useful": "V Minecraft 1.8 PvP vysoké CPS snižuje 'Knockback' (odhození), který dostáváš, a pomáhá s komby. Ve střílečkách jako CS2 nebo Valorant rychlé klikání pomáhá s přesnou střelbou z poloautomatických zbraní.",
+    "h2_hardware": "Kliká tvoje myš dvakrát sama od sebe?",
+    "p_hardware": "Pokud klikneš jednou, ale PC zaregistruje dvě kliknutí, je spínač myši vadný (Double Click Issue). Použij náš nástroj 'Test Myši' k potvrzení závady před nákupem nové.",
+    "h2_games": "Zlepši Míření (Aim) a Reakční dobu",
+    "p_games": "Rychlé klikání je k ničemu, pokud mineš. Použij náš **Test Reakce** ke snížení vizuální odezvy. Profesionální hráči CSka mají reakce pod 150ms.",
+    "h2_hook": "Blbne ti displej mobilu? (Ghost Touch)",
+    "p_hook": "Hýbe se zaměřovač v PUBG Mobile sám od sebe? To je 'Ghost Touch'. Použij náš Test Dotykové Obrazovky a zjisti, jestli je to vadný displej nebo jen špína.",
+    "h2_science": "Máš rychlý net, ale laguješ? (Packet Loss)",
+    "p_science": "To je často **Ztráta Paketů** (Packet Loss). Herní data se ztrácí po cestě. Speedtest měří jen rychlost stahování, my měříme STABILITU připojení pro hraní.",
+    "h2_gaming": "Ghosting klávesnice a N-Key Rollover",
+    "p_gaming": "Nemůžeš běжать, skákat a přebíjet zároveň? To je 'Ghosting'. Levné klávesnice se zaseknou při 3 klávesách. Zkontroluj zde, zda tvá klávesnice podporuje 'Anti-Ghosting' nebo NKRO.",
+    "h2_technique": "Umění Drag Clicku",
+    "p_technique": "Drag Click znamená táhnout prst po hrubém povrchu myši pro vytvoření tření a generování stovek kliknutí za sekundy. Vyžaduje: Grip Tape (pásku) a matnou myš."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "CPS Test - Změř rychlost klikání",
+      "description": "Jak jsi rychlý? Zkus 10sekundový test. Vyzvi kámoše a trénuj na turnaje."
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "TEST RYCHLOSTI KLIKÁNÍ (CPS)"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "1 Sekunda CPS Test - Výbušná Rychlost",
+      "description": "Otestuj svou maximální rychlost za sekundu. Ideální pro měření Drag Clicku a Knockbacku."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "BURST TEST (1 SEKUNDA)"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
-      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "5 Sekund CPS Test - Krátky Sprint",
+      "description": "Hráčský standard. Kolik kliknutí dáš za 5 sekund? Průměr pro je 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "TEST NA 5 SEKUND"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "60 Sekund Maraton - Výdrž",
+      "description": "Ultimátní test výdrže. Udržíš tempo minutu bez křeče v ruce?"
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "VÝZVA NA 60 SEKUND"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "Jitter Click Trénink - Vibrační Technika",
+      "description": "Nauč se Jitter Click. Rozvibruj ruku a dosáhni 14+ CPS. Návod a bezpečný test."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "TRÉNINK JITTER CLICKU"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
-      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "Butterfly Click Test - Dvojklik",
+      "description": "Otestuj Butterfly rychlost. Použij dva prsty pro zdvojnásobení CPS. Nutnost pro Bedwars."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "TEST BUTTERFLY CLICKU"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
-      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "Drag Click Test - Tření a Rychlost",
+      "description": "Otestuj Drag Click. Využij tření k registraci stovek kliknutí za sekundy."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "TEST DRAG CLICKU"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
-      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "Minecraft PvP Click Test - Trénink Komba",
+      "description": "Trénink klikání speciálně pro Minecraft PvP. Zlepši míření a sniž knockback."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "TRÉNINK MINECRAFT PVP"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Test Reakční Doby - Human Benchmark Česko",
+      "description": "Změř své vizuální reflexy v milisekundách. Průměr je 250ms. Dostaneš se pod 150ms?"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
+    "h1": "TEST REAKČNÍ DOBY",
+    "wait": "Čekej na Zelenou...",
+    "click": "KLIKNI TEĎ!",
+    "too_soon": "Moc brzy! Nehádej.",
     "result": "{time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Test Rychlosti Psaní - Zkontroluj WPM",
+      "description": "Zdarma 1minutový test psaní. Změř Slova Za Minutu (WPM) a přesnost."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "RYCHLOST PSANÍ (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Test Klávesnice Online - Kontrola Kláves",
+      "description": "Otestuj každou klávesu. Najdi Ghosting, zaseklé klávesy a vadné spínače."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "DIAGNOSTIKA KLÁVESNICE"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for CS users."
+        "question": "Jak dělat Drag Click na normální myši?",
+        "answer": "Na kancelářské myši to jde těžko. Potřebuješ myš s matným/hrubým povrchem a spínači, které neblokují 'Debounce Time'. Izolepa (Grip Tape) hodně pomůže."
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for CS users."
+        "question": "Jak zlepšit Aim ve Valorantu?",
+        "answer": "Rychlé klikání nestačí. Nastav si nízké DPI (400-800), vypni 'Zvýšit přesnost ukazatele' ve Windows a trénuj umístění zaměřovače (Crosshair Placement)."
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for CS users."
+        "question": "Jak poznám, jestli mám mechanickou klávesnici?",
+        "answer": "Sundej klávesu (keycap). Pokud vidíš křížový spínač (Modrý, Červený, Hnědý), je mechanická. Pokud vidíš gumovou kopuli, je membránová."
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for CS users."
+        "question": "Je Jitter Clicking škodlivý pro ruku?",
+        "answer": "Pokud se dělá špatně, ano. Může vést k zánětu šlach kvůli napětí. Dělej pauzy a protahuj zápěstí."
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for CS users."
+        "question": "Nejlepší myš pro Butterfly Click?",
+        "answer": "Glorious Model O, Logitech G Pro X a Roccat Kain jsou oblíbené, protože v softwaru můžeš snížit 'Debounce Time' a povolit tak dvojklik."
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for CS users."
+        "question": "Co je Polling Rate (Hz)?",
+        "answer": "Jak často myš hlásí polohu počítači. Pro hraní je standard 1000Hz (1ms). Při 125Hz se myš seká."
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for CS users."
+        "question": "Proč mi skáče kurzor myši?",
+        "answer": "Často je to prach na senzoru nebo špinavá podložka. Opatrně vyčisti senzor vatovou tyčinkou."
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for CS users."
+        "question": "Jak otestovat vadný dvojklik?",
+        "answer": "Použij náš nástroj 'Test Myši'. Klikni pomalu 100krát. Pokud počítadlo ukáže 102 nebo víc, spínač je vadný."
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for CS users."
+        "question": "Jaké je průměrné CPS člověka?",
+        "answer": "Průměr je 6-7 kliknutí za sekundu. Hráči mají 8-10. Minecraft profíci dosahují 15+ se speciálními technikami."
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for CS users."
+        "question": "Nejlepší DPI pro FPS hry?",
+        "answer": "Nízké DPI (400-800) dává přesnost. Vysoké DPI (1600+) je pro MOBA. Důležité: Vypni akceleraci myši."
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for CS users."
+        "question": "Udělá mě mechanická klávesnice rychlejším?",
+        "answer": "Ano, bod aktivace je přesnější, což umožňuje rychlejší úkroky (strafing) ve hrách."
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for CS users."
+        "question": "Jak opravit Drift na ovladači?",
+        "answer": "Drift je často prach v senzoru. Zkus fouknout stlačený vzduch k základně páčky. Pokud to nepomůže, modul se musí vyměnit."
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for CS users."
+        "question": "Proč mám vysoký ping s rychlým netem?",
+        "answer": "Rychlost stahování není odezva (latence). Použij ethernetový kabel místo WiFi, abys eliminoval skoky pingu a ztrátu paketů."
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for CS users."
+        "question": "Co je Ghosting klávesnice?",
+        "answer": "Když zmáčkneš více kláves najednou (např. W + Shift + Mezerník) a jedna nereaguje. Dobré klávesnice mají 'N-Key Rollover'."
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for CS users."
+        "question": "Jak otestovat, jestli mi šumí mikrofon?",
+        "answer": "Použij náš Test Mikrofonu. Pokud se vlnovka hýbe, když jsi potichu, máš šum na pozadí nebo elektrické rušení."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Co je reakční doba?",
+        "answer": "Čas, který mozek potřebuje ke zpracování vizuálního signálu a vyslání povelu prstu ke kliknutí."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Jaká je dobrá reakční doba?",
+        "answer": "Průměr je 250ms. Pod 200ms je výborné. Piloti F1 a Pro hráči mají kolem 150ms."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Dají se reflexy trénovat?",
+        "answer": "Ano. Hraj rychlé střílečky, spi dostatečně (spánek je klíčový) a používej Aim Trainery nebo náš test denně."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Zhoršuje věk reakce?",
+        "answer": "Ano, vrchol je kolem 24 let. Ale zkušenosti (Game Sense) mohou kompenzovat hrubou rychlost."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Pomůže 144Hz monitor?",
+        "answer": "Obrovsky! Obraz se obnovuje častěji, takže vidíš nepřítele o milisekundy dříve než někdo na 60Hz."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "Vizuální nebo sluchová reakce?",
+        "answer": "Mozek zpracovává zvuk (170ms) rychleji než světlo (250ms). Proto jsou dobrá sluchátka nutností pro slyšení kroků."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "Pomáhá kofein/energiťák?",
+        "answer": "Zvyšuje dočasně pozornost, ale moc kofeinu způsobuje třes (jitter), což ničí míření."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "Mají bezdrátové myši zpoždění?",
+        "answer": "Moderní (Logitech Lightspeed, Razer) jsou stejně rychlé nebo rychlejší než drátové. Lag je minulost."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "Co je Input Lag?",
+        "answer": "Zpoždění mezi tvým kliknutím a akcí na obrazovce. V-Sync a staré monitory zvyšují Input Lag."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "Jak otestovat přesnost?",
+        "answer": "Použij 'Accuracy Tests', kde musíš klikat na malé cíle, které rychle mizí."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "Co znamená WPM?",
+        "answer": "Words Per Minute (Slova za minutu). Je to globální standard pro měření rychlosti psaní."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Jak psát rychleji?",
+        "answer": "Nauč se psát všemi deseti (Touch Typing). Nedívej se na klávesnici. Soustřeď se na přesnost před rychlostí."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Jaké je dobré WPM?",
+        "answer": "40 WPM je průměr. 60-70 WPM je dobré pro kancelář. Přes 100 WPM je soutěžní úroveň."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Je lepší psát bez koukání?",
+        "answer": "Ano, svalová paměť převezme kontrolu. Můžeš se soustředit na obrazovku a hned opravovat chyby."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "Modré nebo Červené spínače na psaní?",
+        "answer": "Modré (Blue) hlasitě klikají – spisovatelé ten pocit milují. Červené (Red) jsou tiché a lineární, preferované pro hry."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "Jsou klávesnice na notebooku špatné?",
+        "answer": "Mají nízký zdvih. Externí mechanická klávesnice je ergonomičtější a rychlejší pro dlouhé texty."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "Jak trénovat?",
+        "answer": "Používej stránky jako Palmtweets denně. Zkus přepisovat stránky z knih pro rozšíření slovní zásoby."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "Co znamená Přesnost (Accuracy)?",
+        "answer": "Procento správných úhozů. 100 WPM s 80% přesností je k ničemu, protože ztrácíš čas opravováním."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "Jak předejít bolesti zápěstí?",
+        "answer": "Drž zápěstí rovně (neopírej je o hranu stolu). Používej opěrku (Wrist Rest)."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "Záleží na rozložení klávesnice?",
+        "answer": "V Česku používáme QWERTZ. Ujisti se, že máš Windows nastavený na češtinu, aby znaky jako ě, š, č seděly."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Co je Ghosting?",
+        "answer": "Když klávesnice nezaregistruje stisk, protože bylo stisknuto příliš mnoho kláves najednou."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "Co je NKRO?",
+        "answer": "N-Key Rollover. Můžeš zmáčknout VŠECHNY klávesy naráz a PC je zaregistruje. Nutnost pro hráče."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Jak najdu rozbitou klávesu?",
+        "answer": "Otevři náš Test Klávesnice. Stiskni podezřelou klávesu. Pokud nezezelená, spínač nebo obvod je mrtvý."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Membránová vs Mechanická?",
+        "answer": "Membránová používá gumu (levná, houbovitá). Mechanická používá pružiny/spínače (přesná, odolná)."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "Jak sundat klávesu?",
+        "answer": "Použij vytahovač kláves (Keycap Puller). Nepáči to nožem, můžeš ulomit trn spínače."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "Co jsou Optické Spínače?",
+        "answer": "Používají světelný paprsek místo kovového kontaktu pro aktivaci. Teoreticky rychlejší a odolnější."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "Proč mi chrastí mezerník?",
+        "answer": "Stabilizátory (kovové tyčky) jsou suché. Trocha dielektrického maziva (Lube) chrastění ztiší."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "Je TKL lepší?",
+        "answer": "Tenkeyless (bez numpadu) šetří místo na stole. Dává víc prostoru pro pohyb myši v FPS hrách."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "Co je 'Chattering'?",
+        "answer": "Když stiskneš klávesu jednou, ale napíše 'aa' nebo 'aaa'. Častá vada špinavých mechanických klávesnic."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "Můžu klávesnici umýt vodou?",
+        "answer": "NE (pokud není certifikovaná voděodolná). Čisti stlačeným vzduchem a isopropanolem."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "ČAS",
+    "score": "SKÓRE",
+    "start": "START",
+    "active": "RYCHLE!",
+    "try_again": "ZNOVU",
+    "share": "SDÍLET",
+    "result_msg": "Výborně! Máš reflexy ninji. Zkus překonat svůj rekord!",
+    "slow": "🐢 Šnek",
+    "fast": "⚡ Blesk",
+    "superhuman": "👑 Legenda"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "O Nástroji",
+    "how_to": "Návod",
+    "rank_up": "Jak se zlepšit?",
+    "faq": "Časté Dotazy",
+    "related": "Podobné Nástroje",
+    "step1": "Klikni na tlačítko 'Start' nebo šedou oblast.",
+    "step2": "Proved akci co nejrychleji.",
+    "step3": "Podívej se na svůj rank a sdílej výsledek.",
+    "rank_turtle": "Rank Šnek (0-5 CPS):",
+    "rank_turtle_desc": "Moc pomalé! Zkus zatnout svaly v paži.",
+    "rank_pro": "Rank Pro (5-10 CPS):",
+    "rank_pro_desc": "Průměrná rychlost hráče.",
+    "rank_god": "Rank Bůh (10+ CPS):",
+    "rank_god_desc": "Ovládáš Jitter nebo Butterfly Click."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Test Mrtvých Pixelů (Monitor)",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Zkontroluj monitor nebo displej mobilu na mrtvé pixely, zaseklé pixely nebo backlight bleeding."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (CS)",
+    "h1": "Test Dotykové Obrazovky Online",
     "seo": {
-      "title": "Touch Screen Test Online (CS)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touch Test - Kontrola Ghost Touch",
+      "description": "Otestuj displej mobilu. Najdi mrtvé zóny, Ghost Touch a zkontroluj Multi-touch."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (CS)",
-      "p_hook": "Localized intro for CS. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for CS.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for CS.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for CS.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in CS."
+      "h2_hook": "Kliká mobil sám od sebe? (Ghost Touch)",
+      "p_hook": "Pokud se zaměřovač v PUBG Mobile hýbe sám, máš 'Ghost Touch'. Je to frustrující a prohrává hry. Použij tento nástroj, abys zjistil, jestli je to displej nebo jen špína.",
+      "h2_science": "Jak test funguje?",
+      "p_science": "Zobrazíme mřížku. Přejeď prstem všude. Pokud nějaký čtverec nezezelená, je ta zóna mrtvá (Dead Zone).",
+      "h2_gaming": "Multi-touch Test (Claw Hráči)",
+      "p_gaming": "Mobilní hráči často používají 4 prsty (Claw). Polož všechny prsty na displej. Nástroj ukáže, kolik dotyků mobil zvládne naráz.",
+      "h2_hardware": "Software nebo Hardware?",
+      "p_hardware": "Častá příčina: Levné nabíječky (statická elektřina) nebo tlusté sklo. Pokud to dělá jen při nabíjení, vyměň kabel.",
+      "h2_technique": "Rychlá oprava",
+      "p_technique": "Otři displej (mastnota/pot). Sundej kryt s magnety. Restartuj mobil."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (CS)",
+    "h1": "Test Mikrofonu Online",
     "seo": {
-      "title": "Microphone Test Online (CS)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Test Mic - Kontrola Šumu a Hlasitosti",
+      "description": "Otestuj mikrofon a sluchátka. Sleduj zvukové vlny, hlasitost a zkontroluj ozvěnu."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (CS)",
-      "p_hook": "Localized intro for CS. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for CS.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for CS.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for CS.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in CS."
+      "h2_hook": "Zníš špatně na Discordu?",
+      "p_hook": "Zkontroluj zvuk před zápasem. Šum nebo nízká hlasitost ničí týmovou komunikaci. Otestuj mikrofon zde zdarma bez instalace.",
+      "h2_science": "Vizualizace Vln",
+      "p_science": "Tento nástroj graficky zobrazuje tvůj hlas v reálném čase. Pokud mluvíš a čára je rovná, mikrofon je ztlumený nebo špatně nastavený ve Windows.",
+      "h2_gaming": "Stereo Test (Levá / Pravá)",
+      "p_gaming": "U sluchátek je životně důležité vědět, jestli jde zvuk zleva nebo zprava. Náš test kanálů ti řekne, jestli máš sluchátka naopak.",
+      "h2_hardware": "Kompatibilita",
+      "p_hardware": "Testujeme klopové mikrofony, USB headsety, webkamery a studiové mikrofony. Nezapomeň kliknout na 'Povolit' v prohlížeči.",
+      "h2_technique": "Odstranění šumu",
+      "p_technique": "Sniž 'Zesílení mikrofonu' (Boost) v nastavení zvuku Windows. Statické bzučení je často způsobeno špatným uzemněním."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (CS)",
+    "h1": "Test Ovladače (Drift)",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (CS)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Test Ovladače PS4, PS5, Xbox - Kontrola Driftu",
+      "description": "Nástroj pro testování tlačítek a páček. Zkontroluj Stick Drift a vibrace na PC."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (CS)",
-      "p_hook": "Localized intro for CS. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for CS.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for CS.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for CS.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in CS."
+      "h2_hook": "Postava chodí sama? (Stick Drift)",
+      "p_hook": "Problém č. 1 u ovladačů DualSense a Xbox je 'Drift'. Použij náš vizualizér os, abys viděl, jestli je páčka opravdu ve středu.",
+      "h2_science": "Data Os (Axis)",
+      "p_science": "Ukazujeme hodnoty X a Y. Perfektní ovladač stojí na 0.00. Pokud čísla skáčou bez dotyku, máš drift.",
+      "h2_gaming": "Kompatibilita",
+      "p_gaming": "Funguje nativně s DualShock 4, DualSense (PS5), Xbox One/Series a Switch Pro. Stačí připojit přes USB nebo Bluetooth.",
+      "h2_hardware": "Test Vibrací a Spouští",
+      "p_hardware": "Klikni na 'Vibrovat' pro test motorků. Zkontroluj taky, jestli spouště L2/R2 reagují plynule od 0% do 100%.",
+      "h2_technique": "Oprava Driftu",
+      "p_technique": "Zkus fouknout stlačený vzduch do základny páčky. Nebo zvyš 'Mrtvou zónu' (Deadzone) v nastavení hry pro ignorování malých pohybů."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (CS)",
+    "h1": "Test Ztráty Paketů a Pingu",
     "seo": {
-      "title": "Packet Loss & Ping Test (CS)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Test - Kontrola Lagu a Jitteru",
+      "description": "Rychlý net, ale hra se seká? Zkontroluj ztrátu paketů (Packet Loss), Jitter a reálný Ping."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (CS)",
-      "p_hook": "Localized intro for CS. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for CS.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for CS.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for CS.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in CS."
+      "h2_hook": "Nízký ping, ale cukáš se (Lag Spikes)?",
+      "p_hook": "To je 'Packet Loss'. Herní data se ztrácí po cestě. Speedtest měří jen stahování, my měříme STABILITU připojení.",
+      "h2_science": "Co je Jitter?",
+      "p_science": "Jitter je kolísání pingu. Stabilních 50ms je lepší než 20ms, co skáče na 100ms. Vysoký jitter způsobuje teleportování.",
+      "h2_gaming": "WiFi vs Kabel",
+      "p_gaming": "Zlaté pravidlo: NEHRAJ NA WIFI. Rádiový signál je nestabilní. Použij ethernetový kabel (LAN) pro garanci 0% packet loss.",
+      "h2_hardware": "Diagnostika Sítě",
+      "p_hardware": "Máš ztráty? Restartuj router. Pokud to trvá, je to tvůj poskytovatel (UPC, O2, T-Mobile). Použij tento test jako důkaz.",
+      "h2_technique": "Snížení Pingu",
+      "p_technique": "Vypni stahování na pozadí (Steam, Windows Update), odpoj mobily z WiFi a vybírej servery blízko tebe (např. Frankfurt)."
     }
   }
 }
