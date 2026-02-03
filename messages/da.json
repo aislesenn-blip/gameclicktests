@@ -1,477 +1,479 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "Kliktest - Test din CPS & Mus | Palmtweets",
+    "description": "Hvor hurtigt kan du klikke? Tag vores 10-sekunders CPS-test. Træn Jitter og Butterfly Click til Minecraft. Tjek musen for dobbeltklik-fejl."
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start CPS Test",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
+    "h1": "Test din Klikhastighed Nu",
+    "description": "Mål dine Klik Per Sekund (CPS) med vores ultra-præcise værktøj. Skabt til gamere af Minecraft, CS2 og e-sport atleter i Danmark.",
+    "start_btn": "START TESTEN",
+    "modes": "Træningstilstande",
+    "rank_noob": "🐢 Rank: Snegl",
     "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
+    "rank_god": "👑 Rank: GUDDOMMELIG (Godlike)",
+    "share_txt": "Jeg fik {score} CPS på Palmtweets. Kan du slå mig?",
     "score": "SCORE",
-    "timer": "TIMER",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "start": "START CLICKING",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "TID",
+    "active": "KLIK HURTIGT!",
+    "try_again": "PRØV IGEN",
+    "share": "DEL",
+    "start": "START",
+    "result_msg": "Din hastighed er over gennemsnittet. Kan du slå din personlige rekord?",
+    "slow": "🐢 Langsom",
+    "fast": "⚡ Hurtig",
+    "superhuman": "👑 Legende"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "home": "Hjem",
+    "cps": "Kliktest",
+    "reaction": "Reaktion",
+    "typing": "Tastehastighed",
+    "keyboard": "Tastatur",
+    "privacy": "Privatliv"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "Hardware",
-    "game_challenges": "Spil",
-    "click_modes": "Klikindstillinger",
+    "cps_cluster": "CPS & Kliktest",
+    "typing_cluster": "Skrivehastighed",
+    "reaction_cluster": "Reflekser & Reaktion",
+    "keyboard_cluster": "PC Diagnose",
+    "cps_1s": "1 Sekund (Burst)",
+    "cps_5s": "5 Sekunder Test",
+    "cps_60s": "60 Sekunder Maraton",
+    "jitter": "Jitter Click Træning",
+    "butterfly": "Butterfly Click Test",
+    "drag": "Drag Click Test",
+    "reaction": "Reaktionstid (ms)",
+    "typing": "Hastighedstest (WPM)",
+    "keyboard": "Tastatur Test",
+    "minecraft": "Minecraft PvP CPS",
+    "pubg": "PUBG Aim Træning",
+    "roblox": "Klikker til Roblox",
+    "valorant": "Valorant Reflekser",
+    "fortnite": "Fortnite Edit Speed",
+    "hardware_tests": "Hardware Test",
+    "game_challenges": "Gamer Udfordringer",
+    "click_modes": "Klikteknikker",
     "time_modes": "Tidsindstillinger",
     "community": "Fællesskab",
-    "touch_test": "Touch Screen Test (DA)",
-    "mic_test": "Mic Test (DA)",
-    "gamepad_test": "Gamepad Tester (DA)",
-    "packet_loss": "Packet Loss Test (DA)"
+    "touch_test": "Touch Screen Test",
+    "mic_test": "Mikrofon Test",
+    "gamepad_test": "Controller Test (Drift)",
+    "packet_loss": "Ping & Pakketab"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "Verdens hurtigste platform til test af reflekser og gaming hardware."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "title": "Privatlivspolitik",
+    "intro": "Hos Palmtweets værdsætter vi dit privatliv.",
     "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
-    "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "cookies_text": "Vi bruger cookies til at forbedre oplevelsen og analysere trafik anonymt.",
+    "data_title": "Dataindsamling",
+    "data_text": "Vi indsamler ikke personlige oplysninger. Dine resultater gemmes lokalt i browseren.",
+    "contact_title": "Kontakt",
+    "contact_text": "Spørgsmål? Skriv til os på support@palmtweets.com."
   },
   "seo_content": {
-    "h2_improve": "Tips to Improve Clicking (DA)",
-    "p_improve": "Practice daily and use a good mouse.",
-    "h2_styles": "Clicking Styles",
-    "p_styles": "Learn Jitter and Butterfly clicking.",
-    "h2_record": "World Records",
-    "p_record": "Aim for 10+ CPS.",
-    "h2_useful": "Gaming Utility",
-    "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Section 4 (DA)",
-    "p_hardware": "Localized content for DA focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_hook": "Section 1 (DA)",
-    "p_hook": "Localized content for DA focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (DA)",
-    "p_science": "Localized content for DA focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (DA)",
-    "p_gaming": "Localized content for DA focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (DA)",
-    "p_technique": "Localized content for DA focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "Hvordan øger man sin CPS (Klik i sekundet)?",
+    "p_improve": "Høj CPS handler om teknik, ikke kun styrke. Slap af i underarmen for at undgå 'Musearm' (RSI). Brug en gamingmus med hurtige switches (som SteelSeries eller Logitech). Træn 10 minutter dagligt for muskelhukommelse.",
+    "h2_styles": "Butterfly Click vs. Jitter Click: Hvad er bedst?",
+    "p_styles": "**Jitter Click** indebærer at vibrere underarmen for at opnå 12-14 CPS, godt til at sigte (aim). **Butterfly Click** bruger to fingre skiftevis for at nå 20+ CPS, perfekt til 'Bridging' i Minecraft Bedwars. Bemærk: Butterfly kræver en mus, der tillader dobbeltklik.",
+    "h2_record": "Hvad er verdensrekorden i CPS?",
+    "p_record": "Den legitime rekord for 10 sekunder er omkring 22-24 CPS. Men med **Drag Click**-teknikken kan visse spillere nå toppe (Burst) på over 30 CPS på et sekund.",
+    "h2_useful": "Hvorfor er CPS vigtigt i Gaming?",
+    "p_useful": "I Minecraft 1.8 PvP mindsker høj CPS den 'Knockback', du tager, og hjælper med combos. I skydespil som CS2 eller Valorant hjælper hurtige klik med at skyde halvautomatiske våben (tapping) mere præcist.",
+    "h2_hardware": "Dobbeltklikker din mus af sig selv?",
+    "p_hardware": "Hvis du klikker én gang, men computeren registrerer to, er din mus' switch defekt (Double Click Issue). Brug vores værktøj 'Mus Test' til at bekræfte fejlen, før du køber nyt udstyr.",
+    "h2_games": "Forbedr Aim og Reaktionstid",
+    "p_games": "At klikke hurtigt er ligegyldigt, hvis du rammer ved siden af. Brug vores **Reaktionstest** til at sænke din visuelle forsinkelse. Danske CS-proffer ligger ofte under 150ms.",
+    "h2_hook": "Opfører din mobilskærm sig underligt? (Ghost Touch)",
+    "p_hook": "Bevæger sigtekornet i PUBG Mobile sig af sig selv? Det er 'Ghost Touch'. Brug vores Touch Screen Test til at se, om det er skærmen, der er i stykker, eller bare snavs.",
+    "h2_science": "Har du Fibernet men stadig lag? (Pakketab)",
+    "p_science": "Dette er ofte **Pakketab** (Packet Loss). Spildata forsvinder undervejs. Hastighedstest måler kun download, vi måler STABILITETEN i din forbindelse (YouSee, Norlys, Hiper) til gaming.",
+    "h2_gaming": "Tastatur Ghosting & N-Key Rollover",
+    "p_gaming": "Kan du ikke løbe, hoppe og genlade samtidig? Det er 'Ghosting'. Billige tastaturer låser ved 3 taster. Tjek her, om dit tastatur klarer 'Anti-Ghosting' eller NKRO.",
+    "h2_technique": "Kunsten at Drag Clicke",
+    "p_technique": "Drag Click indebærer at trække fingeren over en ru museoverflade for at skabe friktion og generere hundredvis af klik på sekunder. Kræver: Grip Tape og en mat mus."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "Kliktest - Mål din Klikhastighed",
+      "description": "Hvor hurtig er du? Tag 10-sekunders testen. Udfordr vennerne og træn til LAN-parties."
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "TEST KLIKHASTIGHED (CPS)"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "1 Sekund CPS Test - Eksplosiv Fart",
+      "description": "Test din maksfart på et sekund. Perfekt til at måle Drag Click og Knockback-reducering."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "BURST TEST (1 SEKUND)"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
-      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "5 Sekunder CPS Test - Kort Sprint",
+      "description": "Gamer-standarden. Hvor mange klik på 5 sekunder? Proffernes snit er 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "5 SEKUNDER TEST"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "60 Sekunder Maraton - Udholdenhed",
+      "description": "Den ultimative udholdenhedstest. Kan du holde tempoet i et minut uden at få krampe?"
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "60 SEKUNDER UDFORDRING"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "Jitter Click Træning - Vibrationsteknik",
+      "description": "Lær at Jitter Clicke. Vibrer armen for at nå 14+ CPS. Guide og sikkert testværktøj."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "JITTER CLICK TRÆNING"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
-      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "Butterfly Click Test - Dobbeltklik",
+      "description": "Test din Butterfly-hastighed. Brug to fingre for dobbelte CPS. Et must til Bedwars."
     },
     "h1": "BUTTERFLY CLICK TEST"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
-      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "Drag Click Test - Friktion & Fart",
+      "description": "Test Drag Click. Brug friktion til at registrere hundredvis af klik på sekunder."
     },
     "h1": "DRAG CLICK TEST"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
-      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "Minecraft PvP Kliktest - Combo Træning",
+      "description": "Kliktræning specifikt til Minecraft PvP. Forbedr sigte og mindsk knockback."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "MINECRAFT PVP TRÆNING"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Reaktionstest - Human Benchmark Danmark",
+      "description": "Mål dine visuelle reflekser i millisekunder. Snittet er 250ms. Kan du komme under 150ms?"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
+    "h1": "REAKTIONSTID TEST",
+    "wait": "Vent på Grønt...",
+    "click": "KLIK NU!",
+    "too_soon": "For tidligt! Gæt ikke.",
     "result": "{time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Skrivetest - Tjek WPM",
+      "description": "Gratis 1-minuts skrivetest. Beregn Ord Per Minut (WPM) og præcision."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "SKRIVEHASTIGHED (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Tastatur Test Online - Tjek Knapper",
+      "description": "Test hver tast på tastaturet. Find Ghosting, fastsiddende knapper og ødelagte switches."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "TASTATUR DIAGNOSE"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for DA users."
+        "question": "Hvordan Drag Clicker man på en normal mus?",
+        "answer": "Det er svært på kontormus. Du skal bruge en mus med mat/ru overflade og switches, der ikke blokerer 'Debounce Time'. Tape (Grip Tape) hjælper enormt."
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for DA users."
+        "question": "Hvordan forbedrer man Aim i CS2?",
+        "answer": "Hurtige klik er ikke nok. Sæt din DPI lavt (400-800), slå 'Museacceleration' fra i Windows og træn Crosshair Placement."
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for DA users."
+        "question": "Hvordan ved jeg om mit tastatur er Mekanisk?",
+        "answer": "Fjern en tast (keycap). Ser du en krydsformet kontakt (Blå, Rød, Brun), er det mekanisk. Ser du en gummikuppel, er det membran."
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for DA users."
+        "question": "Er Jitter Clicking farligt for hånden?",
+        "answer": "Hvis det gøres forkert, ja. Det kan føre til 'Musearm' eller karpaltunnelsyndrom pga. spændinger. Stræk håndleddene ud og hold pauser."
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for DA users."
+        "question": "Bedste mus til Butterfly Click?",
+        "answer": "Glorious Model O, Logitech G Pro X og Roccat Kain er populære, fordi man kan sænke 'Debounce Time' i softwaren for at tillade dobbeltklik."
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for DA users."
+        "question": "Hvad er Polling Rate (Hz)?",
+        "answer": "Hvor ofte musen rapporterer position til computeren. Til gaming er 1000Hz (1ms) standard. Ved 125Hz føles musen hakkende."
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for DA users."
+        "question": "Hvorfor hakker min musemarkør?",
+        "answer": "Ofte er det støv på sensoren eller en beskidt musemåtte. Rengør sensoren forsigtigt med en vatpind."
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for DA users."
+        "question": "Hvordan tester jeg for Dobbeltklik-fejl?",
+        "answer": "Brug vores værktøj 'Mus Test'. Klik langsomt 100 gange. Hvis tælleren viser 102 eller mere, er din switch defekt."
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for DA users."
+        "question": "Hvad er snittet for CPS?",
+        "answer": "Snittet for en almindelig person er 6-7 klik/sek. Gamere ligger på 8-10. Minecraft-proffer når 15+ med specialteknikker."
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for DA users."
+        "question": "Bedste DPI til FPS-spil?",
+        "answer": "Lav DPI (400-800) giver præcision. Høj DPI (1600+) er godt til MOBA. Vigtigt: Slå museacceleration fra."
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for DA users."
+        "question": "Gør et mekanisk tastatur mig hurtigere?",
+        "answer": "Ja, aktiveringspunktet er mere præcist, hvilket tillader hurtigere 'strafing' (ADAD-bevægelser) i spil."
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for DA users."
+        "question": "Hvordan fixer man Drift på controller?",
+        "answer": "Drift skyldes ofte støv i sensoren. Prøv at blæse trykluft ind ved basen af pinden. Hjælper det ikke, skal modulet skiftes."
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for DA users."
+        "question": "Hvorfor har jeg høj ping med Fibernet?",
+        "answer": "Downloadhastighed er ikke latency. Brug netværkskabel (Ethernet) i stedet for WiFi for at undgå ping-spikes og pakketab."
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for DA users."
+        "question": "Hvad er Ghosting på tastatur?",
+        "answer": "Når du trykker på mange taster samtidig (f.eks. W + Shift + Space) og en ikke registreres. Gode tastaturer har 'N-Key Rollover'."
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for DA users."
+        "question": "Hvordan tester jeg om min mikrofon støjer?",
+        "answer": "Brug vores Mikrofontest. Hvis bølgelinjen bevæger sig, når du er stille, har du baggrundsstøj eller elektrisk interferens."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Hvad er reaktionstid?",
+        "answer": "Tiden det tager for hjernen at behandle et visuelt signal og sende ordren til fingeren om at klikke."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Hvad er en god reaktionstid?",
+        "answer": "Snittet er 250ms. Under 200ms er fremragende. F1-kørere og CS-proffer ligger omkring 150ms."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Kan man træne sine reflekser?",
+        "answer": "Ja. Spil hurtige skydespil, sov ordentligt (søvn er afgørende) og brug Aim Trainers eller vores test dagligt."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Påvirker alder reaktionsevnen?",
+        "answer": "Ja, toppen nås omkring 24 års alderen. Men erfaring (Game Sense) kan kompensere for rå hastighed."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Hjælper en 144Hz-skærm?",
+        "answer": "Enormt! Billedet opdateres oftere, hvilket lader dig se fjenden millisekunder før en på 60Hz."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "Visuel eller auditiv reaktion?",
+        "answer": "Hjernen behandler lyd (170ms) hurtigere end lys (250ms). Derfor er et godt headset livsvigtigt for at høre fodtrin."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "Hjælper koffein/energidrik?",
+        "answer": "Det øger vågenheden midlertidigt, men for meget forårsager rystelser (jitter), hvilket ødelægger dit aim."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "Har trådløse mus lag?",
+        "answer": "Moderne (Logitech Lightspeed, Razer) er lige så hurtige eller hurtigere end kablede. Lag er fortid."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "Hvad er Input Lag?",
+        "answer": "Forsinkelsen mellem dit klik og handlingen på skærmen. V-Sync og gamle skærme øger Input Lag."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "Hvordan tester man præcision?",
+        "answer": "Brug 'Accuracy Tests', hvor du skal klikke på små mål, der forsvinder hurtigt."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "Hvad betyder WPM?",
+        "answer": "Words Per Minute (Ord Per Minut). Det er den globale standard for at måle skrivehastighed."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Hvordan skriver man hurtigere?",
+        "answer": "Lær Touch Typing (10 fingre). Kig ikke på tastaturet. Fokuser på præcision før fart."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Hvad er en god WPM?",
+        "answer": "40 WPM er snittet. 60-70 WPM er godt til kontorarbejde. Over 100 WPM er konkurrenceniveau."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Er det bedre at skrive uden at kigge?",
+        "answer": "Ja, muskelhukommelsen tager over. Du kan fokusere på skærmen og rette fejl med det samme."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "Blå eller Røde switches til at skrive?",
+        "answer": "Blå (Blue) klikker højt – mange skribenter elsker følelsen. Røde (Red) er stille og lineære, foretrækkes til gaming."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "Er laptop-tastaturer dårlige?",
+        "answer": "De har kort vandring. Et eksternt mekanisk tastatur er mere ergonomisk og hurtigere til lange tekster."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "Hvordan træner man?",
+        "answer": "Brug sider som Palmtweets dagligt. Prøv at skrive bogsider af for at variere ordforrådet."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "Hvad betyder Præcision (Accuracy)?",
+        "answer": "Procentdelen af korrekte anslag. 100 WPM med 80% præcision er ubrugeligt, da det tager tid at slette."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "Hvordan undgår man ondt i håndleddet?",
+        "answer": "Hold håndleddene lige (hvil dem ikke mod bordkanten). Brug en håndledsstøtte (Wrist Rest)."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "Betyder tastaturlayout noget?",
+        "answer": "I Danmark bruger vi QWERTY (Nordisk). Sørg for, at Windows er indstillet til Dansk, så Æ, Ø, Å sidder rigtigt."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Hvad er Ghosting?",
+        "answer": "Når tastaturet misser et tryk, fordi for mange taster blev trykket ned samtidig."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "Hvad er NKRO?",
+        "answer": "N-Key Rollover. Du kan trykke ALLE taster ned samtidig, og computeren registrerer dem alle. Et krav for gamere."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Hvordan finder jeg en ødelagt knap?",
+        "answer": "Åbn vores Tastatur Test. Tryk på den mistænkte knap. Lyser den ikke grønt, er switchen eller kredsløbet dødt."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Membran vs Mekanisk?",
+        "answer": "Membran bruger gummi (billigt, svampet). Mekanisk bruger fjedre/switches (præcist, holdbart)."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "Hvordan fjerner man en tast?",
+        "answer": "Brug en Keycap Puller. Vip ikke med en kniv, du kan knække switch-pinden."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "Hvad er Optiske Switches?",
+        "answer": "De bruger lysstråler i stedet for metalkontakt til at aktivere. Teoretisk hurtigere og mere holdbare."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "Hvorfor skramler min Space-knap?",
+        "answer": "Stabilisatorerne (metalstængerne) er tørre. Lidt dielektrisk fedt (Lube) dæmper skramleriet."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "Er TKL bedre?",
+        "answer": "Tenkeyless (uden numpad) sparer skrivebordsplads. Giver mere plads til musebevægelser i FPS-spil."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "Hvad er 'Chattering'?",
+        "answer": "Når en tast trykkes én gang, men skriver 'aa' eller 'aaa'. En almindelig fejl på beskidte mekaniske tastaturer."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "Kan jeg vaske tastaturet?",
+        "answer": "NEJ (medmindre det er vandtæt certificeret). Rengør med trykluft og isopropylalkohol."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "TID",
+    "score": "POINT",
+    "start": "START",
+    "active": "HURTIGT!",
+    "try_again": "IGEN",
+    "share": "DEL",
+    "result_msg": "Fremragende! Du har ninja-reflekser. Prøv at slå din rekord!",
+    "slow": "🐢 Snegl",
+    "fast": "⚡ Lynet",
+    "superhuman": "👑 Legende"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "Om Værktøjet",
+    "how_to": "Instruktioner",
+    "rank_up": "Hvordan bliver jeg bedre?",
+    "faq": "Ofte Stillede Spørgsmål",
+    "related": "Lignende Værktøjer",
+    "step1": "Klik på 'Start'-knappen eller det grå område.",
+    "step2": "Udfør handlingen så hurtigt som muligt.",
+    "step3": "Se din rank og del resultatet.",
+    "rank_turtle": "Rank Snegl (0-5 CPS):",
+    "rank_turtle_desc": "For langsomt! Prøv at spænde armmusklerne.",
+    "rank_pro": "Rank Pro (5-10 CPS):",
+    "rank_pro_desc": "Gennemsnitsfarten for en gamer.",
+    "rank_god": "Rank Gud (10+ CPS):",
+    "rank_god_desc": "Du mestrer Jitter eller Butterfly Click."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Døde Pixels Test (Skærm)",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Tjek om din skærm eller mobil har døde pixels, fastlåste pixels eller backlight bleeding."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (DA)",
+    "h1": "Touch Screen Test Online",
     "seo": {
-      "title": "Touch Screen Test Online (DA)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Touch Test - Tjek Ghost Touch",
+      "description": "Test mobilskærmen. Find døde zoner, Ghost Touch og tjek Multi-touch."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (DA)",
-      "p_hook": "Localized intro for DA. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for DA.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for DA.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for DA.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in DA."
+      "h2_hook": "Klikker mobilen af sig selv? (Ghost Touch)",
+      "p_hook": "Hvis sigtekornet i PUBG Mobile bevæger sig selv, har du 'Ghost Touch'. Det er frustrerende og ødelægger spillet. Brug dette værktøj til at se, om skærmen er i stykker eller bare beskidt.",
+      "h2_science": "Hvordan virker testen?",
+      "p_science": "Vi viser et gitter. Træk fingeren overalt. Hvis en firkant ikke bliver grøn, er zonen død (Dead Zone).",
+      "h2_gaming": "Multi-touch Test (Claw Spillere)",
+      "p_gaming": "Mobilgamere bruger ofte 4 fingre (Claw). Læg alle fingre på skærmen. Værktøjet viser, hvor mange tryk din mobil klarer samtidig.",
+      "h2_hardware": "Software eller Hardware?",
+      "p_hardware": "Almindelig årsag: Billige opladere (statisk elektricitet) eller tyk skærmbeskyttelse. Hvis det kun sker ved opladning, skift kabel.",
+      "h2_technique": "Hurtigt fix",
+      "p_technique": "Tør skærmen af (fedt/sved). Fjern covers med magneter. Genstart mobilen."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (DA)",
+    "h1": "Mikrofon Test Online",
     "seo": {
-      "title": "Microphone Test Online (DA)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Test Mic - Tjek Støj og Lydstyrke",
+      "description": "Test mikrofon og høretelefoner. Se lydbølger, volumen og tjek for ekko."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (DA)",
-      "p_hook": "Localized intro for DA. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for DA.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for DA.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for DA.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in DA."
+      "h2_hook": "Lyder du dårligt på Discord?",
+      "p_hook": "Tjek lyden inden kampen. Støj eller lav volumen ødelægger holdkommunikationen. Test mikrofonen her gratis uden installation.",
+      "h2_science": "Bølgevisualisering",
+      "p_science": "Dette værktøj viser din stemme i realtid. Hvis du taler, og linjen er flad, er mikrofonen mutet eller forkert indstillet i Windows.",
+      "h2_gaming": "Stereo Test (Venstre / Højre)",
+      "p_gaming": "For høretelefoner er det livsvigtigt at vide, om lyden kommer fra venstre eller højre. Vores kanaltest siger, om du har vendt headsettet forkert.",
+      "h2_hardware": "Kompatibilitet",
+      "p_hardware": "Vi tester myggemikrofoner, USB-headsets, webkameraer og studiemikrofoner. Husk at klikke 'Tillad' i browseren.",
+      "h2_technique": "Fjern støj",
+      "p_technique": "Sænk 'Microphone Boost' i Windows lydindstillinger. Statisk støj skyldes ofte dårlig jording eller løse stik."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (DA)",
+    "h1": "Controller Test (Drift)",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (DA)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Test Controller PS4, PS5, Xbox - Tjek Drift",
+      "description": "Værktøj til at teste knapper og pinde. Tjek Stick Drift og vibration på PC."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (DA)",
-      "p_hook": "Localized intro for DA. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for DA.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for DA.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for DA.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in DA."
+      "h2_hook": "Går figuren af sig selv? (Stick Drift)",
+      "p_hook": "Problem nr. 1 med DualSense og Xbox-controllere er 'Drift'. Brug vores akse-visualisering til at se, om pinden virkelig er centreret.",
+      "h2_science": "Aksedata (Axis)",
+      "p_science": "Vi viser X- og Y-værdier. En perfekt controller står på 0.00. Hvis tallene hopper uden at du rører, har du drift.",
+      "h2_gaming": "Kompatibilitet",
+      "p_gaming": "Virker direkte med DualShock 4, DualSense (PS5), Xbox One/Series og Switch Pro. Bare tilslut via USB eller Bluetooth.",
+      "h2_hardware": "Vibration og Trigger Test",
+      "p_hardware": "Klik 'Vibrer' for at teste motorerne. Tjek også om L2/R2-knapperne svarer blødt fra 0% til 100%.",
+      "h2_technique": "Fix Drift",
+      "p_technique": "Prøv at blæse trykluft ind ved basen af pinden. Eller øg 'Deadzone' (Dødzone) i spillets indstillinger for at ignorere små bevægelser."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (DA)",
+    "h1": "Pakketab & Ping Test",
     "seo": {
-      "title": "Packet Loss & Ping Test (DA)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Test - Tjek Lag og Jitter",
+      "description": "Hurtigt net, men spillet lagger? Tjek pakketab (Packet Loss), Jitter og rigtig Ping."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (DA)",
-      "p_hook": "Localized intro for DA. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for DA.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for DA.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for DA.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in DA."
+      "h2_hook": "Lav ping men gummibåndseffekt (Lag Spikes)?",
+      "p_hook": "Det er 'Packet Loss'. Spildata forsvinder på vejen. Hastighedstest måler kun fart, vi måler STABILITET.",
+      "h2_science": "Hvad er Jitter?",
+      "p_science": "Jitter er hvor meget pingen svinger. Stabil 50ms er bedre end 20ms der hopper til 100ms. Højt jitter forårsager teleportering.",
+      "h2_gaming": "WiFi vs Kabel",
+      "p_gaming": "Gylden regel: SPIL IKKE PÅ WIFI. Radiosignaler er ustabile. Brug netværkskabel (LAN) for at garantere 0% pakketab.",
+      "h2_hardware": "Netværksdiagnose",
+      "p_hardware": "Har du tab, genstart routeren. Fortsætter det, er det din udbyder (YouSee, Norlys). Brug denne test som bevis.",
+      "h2_technique": "Forbedr Ping",
+      "p_technique": "Luk baggrundsdownloads (Steam, Windows Update), kobl mobiler fra WiFi og vælg servere tæt på dig (f.eks. Stockholm eller Frankfurt)."
     }
   }
 }
