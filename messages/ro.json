@@ -1,477 +1,479 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "Test CPS - Verifică Viteza de Click & Mouse | Palmtweets",
+    "description": "Cât de repede poți să dai click? Fă testul CPS de 10 secunde. Antrenează-te pentru Jitter și Butterfly Click în Minecraft. Verifică dacă mouse-ul face dublu click."
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start CPS Test",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "SCORE",
-    "timer": "TIMER",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "start": "START CLICKING",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "h1": "Testează-ți Viteza de Click Instant",
+    "description": "Măsoară Click-uri Pe Secundă (CPS) cu cel mai precis instrument. Creat pentru jucătorii de Minecraft PvP, CS2 și League of Legends din România.",
+    "start_btn": "ÎNCEPE TESTUL",
+    "modes": "Moduri Antrenament",
+    "rank_noob": "🐢 Rang: Melc",
+    "rank_pro": "⚡ Rang: Pro Gamer",
+    "rank_god": "👑 Rang: ZEU (Godlike)",
+    "share_txt": "Am scos {score} CPS pe Palmtweets. Poți să mă bați?",
+    "score": "SCOR",
+    "timer": "TIMP",
+    "active": "CLICK RAPID!",
+    "try_again": "ÎNCEARCĂ IAR",
+    "share": "DISTRIBUIE",
+    "start": "START",
+    "result_msg": "Viteza ta este peste medie. Poți să-ți dobori recordul personal?",
+    "slow": "🐢 Încet",
+    "fast": "⚡ Rapid",
+    "superhuman": "👑 Legendă"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "home": "Acasă",
+    "cps": "Test Click",
+    "reaction": "Reacție",
+    "typing": "Dactilografie",
+    "keyboard": "Tastatură",
+    "privacy": "Confidențialitate"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "Hardware",
-    "game_challenges": "Jocuri",
-    "click_modes": "Moduri Clic",
+    "cps_cluster": "Teste CPS & Click",
+    "typing_cluster": "Viteză Scriere (WPM)",
+    "reaction_cluster": "Reflexe & Reacție",
+    "keyboard_cluster": "Diagnostic PC",
+    "cps_1s": "Test 1 Secundă (Burst)",
+    "cps_5s": "Test 5 Secunde",
+    "cps_60s": "Maraton 60 Secunde",
+    "jitter": "Antrenament Jitter Click",
+    "butterfly": "Test Butterfly Click",
+    "drag": "Test Drag Click",
+    "reaction": "Timp de Reacție (ms)",
+    "typing": "Test Viteză Tastare",
+    "keyboard": "Tester Tastatură",
+    "minecraft": "Minecraft PvP CPS",
+    "pubg": "PUBG Aim Trainer",
+    "roblox": "Clicker pentru Roblox",
+    "valorant": "Reflexe Valorant",
+    "fortnite": "Viteză Edit Fortnite",
+    "hardware_tests": "Teste Hardware",
+    "game_challenges": "Provocări Gamer",
+    "click_modes": "Tehnici de Click",
     "time_modes": "Moduri Timp",
     "community": "Comunitate",
-    "touch_test": "Touch Screen Test (RO)",
-    "mic_test": "Mic Test (RO)",
-    "gamepad_test": "Gamepad Tester (RO)",
-    "packet_loss": "Packet Loss Test (RO)"
+    "touch_test": "Test Touch Screen",
+    "mic_test": "Test Microfon",
+    "gamepad_test": "Test Controller (Drift)",
+    "packet_loss": "Ping & Packet Loss"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "Cea mai rapidă platformă de testare a reflexelor și hardware-ului de gaming."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
-    "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
+    "title": "Politica de Confidențialitate",
+    "intro": "La Palmtweets, îți respectăm intimitatea.",
+    "cookies_title": "Cookie-uri",
+    "cookies_text": "Folosim cookie-uri pentru a îmbunătăți experiența și a analiza traficul anonim.",
+    "data_title": "Colectarea Datelor",
+    "data_text": "Nu colectăm date personale. Scorurile tale sunt salvate local în browser.",
     "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "contact_text": "Întrebări? Scrie-ne la support@palmtweets.com."
   },
   "seo_content": {
-    "h2_improve": "Tips to Improve Clicking (RO)",
-    "p_improve": "Practice daily and use a good mouse.",
-    "h2_styles": "Clicking Styles",
-    "p_styles": "Learn Jitter and Butterfly clicking.",
-    "h2_record": "World Records",
-    "p_record": "Aim for 10+ CPS.",
-    "h2_useful": "Gaming Utility",
-    "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Section 4 (RO)",
-    "p_hardware": "Localized content for RO focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_hook": "Section 1 (RO)",
-    "p_hook": "Localized content for RO focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (RO)",
-    "p_science": "Localized content for RO focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (RO)",
-    "p_gaming": "Localized content for RO focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (RO)",
-    "p_technique": "Localized content for RO focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "Cum să îți mărești CPS (Click-uri Pe Secundă)?",
+    "p_improve": "Viteza nu înseamnă doar forță, ci tehnică. Relaxează antebrațul pentru a evita durerile. Folosește un mouse de gaming cu switch-uri rapide (Logitech G sau Razer). Antrenează-te 10 minute zilnic pentru memoria musculară.",
+    "h2_styles": "Butterfly Click vs. Jitter Click: Care e mai bun?",
+    "p_styles": "**Jitter Click** folosește vibrația brațului pentru 12-14 CPS, bun pentru țintă (aim) stabilă. **Butterfly Click** folosește două degete alternativ pentru 20+ CPS, esențial pentru 'Bridging' în Minecraft Bedwars. Notă: Butterfly necesită un mouse care permite dublu-click.",
+    "h2_record": "Care este Recordul Mondial CPS?",
+    "p_record": "Recordul legitim pentru 10 secunde este de aproximativ 22-24 CPS. Totuși, folosind tehnica **Drag Click**, unii jucători ating vârfuri (Burst) de peste 30 CPS într-o secundă.",
+    "h2_useful": "De ce contează CPS în Gaming?",
+    "p_useful": "În Minecraft 1.8 PvP, CPS mare reduce 'Knockback-ul' (respingerea) primit și ajută la combo-uri. În shootere precum CS2 sau Valorant, click-ul rapid ajută la tragerea cu pistoalele sau armele semi-automate.",
+    "h2_hardware": "Mouse-ul tău face Dublu Click singur?",
+    "p_hardware": "Dacă dai un click și PC-ul înregistrează două, switch-ul mouse-ului este defect (Double Click Issue). Folosește unealta noastră 'Test Mouse' pentru a confirma defecțiunea înainte să cumperi unul nou.",
+    "h2_games": "Îmbunătățește Ținta (Aim) și Reacția",
+    "p_games": "Să dai click repede e inutil dacă nu nimerești. Folosește **Testul de Reacție** pentru a reduce latența vizuală. Jucătorii Pro de CS2 au reacții sub 180ms.",
+    "h2_hook": "Ecranul telefonului o ia razna? (Ghost Touch)",
+    "p_hook": "Ținta din PUBG Mobile se mișcă singură? Asta e 'Ghost Touch'. E frustrant să pierzi meciul din cauza telefonului. Folosește testul nostru Touch Screen pentru a vedea dacă e de la ecran sau doar mizerie.",
+    "h2_science": "Ai net de la Digi dar ai lag? (Packet Loss)",
+    "p_science": "Asta e adesea **Packet Loss** (Pierdere de Pachete). Viteza de la Speedtest e irelevantă dacă pachetele se pierd. Unealta noastră măsoară STABILITATEA conexiunii tale pentru gaming.",
+    "h2_gaming": "Keyboard Ghosting & N-Key Rollover",
+    "p_gaming": "Nu poți să alergi, să sari și să schimbi arma simultan? Asta e 'Ghosting'. Tastaturile ieftine se blochează la 3 taste. Verifică aici dacă tastatura ta suportă 'Anti-Ghosting' sau NKRO.",
+    "h2_technique": "Arta Drag Click-ului",
+    "p_technique": "Drag Click înseamnă să tragi degetul pe o suprafață mată a mouse-ului pentru a crea frecare și sute de click-uri. Ai nevoie de bandă izolatoare (Grip Tape) și un mouse aderent."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "Test CPS - Măsoară Viteza de Click",
+      "description": "Cât de rapid ești? Fă testul de 10 secunde. Provoacă-ți prietenii și antrenează-te pentru turnee eSports."
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "TEST VITEZĂ CLICK (CPS)"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "Test CPS 1 Secundă - Viteză Explozivă",
+      "description": "Testează viteza maximă într-o secundă. Ideal pentru a măsura Drag Click și reducerea Knockback-ului."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "TEST BURST (1 SECUNDĂ)"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
-      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "Test CPS 5 Secunde - Sprint Scurt",
+      "description": "Standardul gamerilor. Câte click-uri faci în 5 secunde? Media pro este 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "TEST 5 SECUNDE"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "Maraton 60 Secunde - Rezistență",
+      "description": "Provocarea supremă de anduranță. Poți menține ritmul un minut fără să te doară mâna?"
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "PROVOCAREA 60 SECUNDE"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "Antrenament Jitter Click - Tehnica Vibrației",
+      "description": "Învață Jitter Click. Vibrează brațul pentru a atinge 14+ CPS. Tutorial și test sigur."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "ANTRENAMENT JITTER CLICK"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
-      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "Test Butterfly Click - Dublu Click",
+      "description": "Testează viteza Butterfly. Folosește două degete pentru a dubla CPS. Esențial pentru Bedwars."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "TEST BUTTERFLY CLICK"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
-      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "Test Drag Click - Frecare și Viteză",
+      "description": "Testează Drag Click. Folosește frecarea pentru a înregistra sute de click-uri în câteva secunde."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "TEST DRAG CLICK"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
-      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "Minecraft PvP Click Test - Antrenament Combo",
+      "description": "Antrenament de click specific pentru Minecraft PvP. Îmbunătățește ținta și redu knockback-ul."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "ANTRENAMENT MINECRAFT PVP"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Test Timp de Reacție - Human Benchmark România",
+      "description": "Măsoară reflexele vizuale în milisecunde. Media este 250ms. Poți scoate sub 150ms?"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
+    "h1": "TEST TIMP DE REACȚIE",
+    "wait": "Așteaptă Verde...",
+    "click": "CLICK ACUM!",
+    "too_soon": "Prea devreme! Nu ghici.",
     "result": "{time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Test Viteză Scriere - Verifică WPM",
+      "description": "Test de dactilografie gratuit (1 minut). Calculează Cuvinte Pe Minut (WPM) și precizia."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "VITEZĂ SCRIERE (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Test Tastatură Online - Verificare Taste",
+      "description": "Testează fiecare tastă. Găsește Ghosting, taste blocate și switch-uri stricate."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "DIAGNOSTIC TASTATURĂ"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for RO users."
+        "question": "Cum fac Drag Click pe un mouse normal?",
+        "answer": "E greu pe maușii de birou. Îți trebuie un mouse cu suprafață mată/aderentă și switch-uri care nu blochează 'Debounce Time'. Banda izolatoare (Grip Tape) ajută enorm."
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for RO users."
+        "question": "Cum îmbunătățesc Ținta (Aim) în Valorant?",
+        "answer": "Click-ul rapid nu e totul. Setează DPI-ul jos (400-800), dezactivează 'Enhance pointer precision' în Windows și antrenează-te să ții ținta la nivelul capului (Crosshair Placement)."
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for RO users."
+        "question": "Cum știu dacă am tastatură mecanică?",
+        "answer": "Scoate o tastă (keycap). Dacă vezi un switch în formă de cruce (Albastru, Roșu, Maro), e mecanică. Dacă vezi o cupolă de cauciuc, e cu membrană."
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for RO users."
+        "question": "Jitter Click e rău pentru mână?",
+        "answer": "Dacă e făcut incorect, da. Poate duce la sindrom de tunel carpian din cauza tensiunii. Fă pauze și exerciții de încălzire."
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for RO users."
+        "question": "Cel mai bun mouse pentru Butterfly Click?",
+        "answer": "Glorious Model O, Logitech G Pro X și Roccat Kain sunt populare pentru că poți scădea 'Debounce Time' din soft pentru a permite dublu-click-uri."
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for RO users."
+        "question": "Ce este Polling Rate (Hz)?",
+        "answer": "Cât de des raportează mouse-ul poziția la PC. Pentru gaming folosește 1000Hz (1ms). La 125Hz mouse-ul se simte sacadat."
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for RO users."
+        "question": "De ce cursorul mouse-ului sare aiurea?",
+        "answer": "De obicei e praf pe senzor sau mousepad-ul e murdar. Curăță senzorul ușor cu un bețișor de urechi."
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for RO users."
+        "question": "Cum testez problema de Double Click?",
+        "answer": "Folosește unealta noastră 'Test Mouse'. Dă 100 de click-uri lente. Dacă numărătorul arată 102 sau mai mult, switch-ul e stricat."
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for RO users."
+        "question": "Care e media CPS a unui om?",
+        "answer": "Media e 6-7 click-uri pe secundă. Gamerii ating 8-10. Profesioniștii de Minecraft depășesc 15 cu tehnici speciale."
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for RO users."
+        "question": "Ce DPI să folosesc la shootere?",
+        "answer": "DPI mic (400-800) oferă precizie. DPI mare (1600+) e bun pentru MOBA. Important: dezactivează accelerația mouse-ului."
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for RO users."
+        "question": "Tastatura mecanică te face mai rapid?",
+        "answer": "Da, punctul de activare e mai precis, permițând mișcări de strafe (ADAD) mai rapide."
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for RO users."
+        "question": "Cum repar Drift-ul la controller?",
+        "answer": "Drift-ul e cauzat de praf în senzor. Încearcă să sufli aer comprimat la baza stick-ului. Dacă nu merge, modulul trebuie înlocuit."
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for RO users."
+        "question": "De ce am ping mare cu net de Gigabit?",
+        "answer": "Viteza de download nu e latență. Folosește cablu Ethernet în loc de WiFi pentru a elimina fluctuațiile de ping și pierderea de pachete."
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for RO users."
+        "question": "Ce este Keyboard Ghosting?",
+        "answer": "Când apeși mai multe taste deodată (ex: W + Shift + Space) și una nu răspunde. Tastaturile bune au 'N-Key Rollover'."
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for RO users."
+        "question": "Cum testez dacă microfonul fâșâie?",
+        "answer": "Folosește Testul nostru de Microfon. Dacă linia undei se mișcă în timp ce taci, ai zgomot de fond sau interferențe electrice."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Ce este timpul de reacție?",
+        "answer": "Timpul necesar creierului să proceseze un semnal vizual și să trimită comanda degetului să apese click."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Care e un timp de reacție bun?",
+        "answer": "Media e 250ms. Sub 200ms e excelent. Piloții F1 și Pro Gamerii au în jur de 150ms."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Se pot antrena reflexele?",
+        "answer": "Da. Joacă shootere rapide, dormi suficient (somnul e crucial) și folosește Aim Trainere sau testul nostru zilnic."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Vârsta afectează reacția?",
+        "answer": "Da, vârful e pe la 24 de ani. Dar experiența (Game Sense) poate compensa viteza brută."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Ajută un monitor de 144Hz?",
+        "answer": "Enorm! Imaginea se reîmprospătează mai des, vezi inamicul cu câteva milisecunde înaintea unuia cu 60Hz."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "Reacție vizuală vs auditivă?",
+        "answer": "Creierul procesează sunetul (170ms) mai repede decât lumina (250ms). De aceea căștile bune sunt vitale pentru a auzi pașii."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "Ajută cofeina/energizantele?",
+        "answer": "Cresc alerta temporar, dar prea multă cofeină cauzează tremurat (jitter), care strică ținta."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "Mouse-ul wireless are lag?",
+        "answer": "Cele moderne (Logitech Lightspeed, Razer) sunt la fel de rapide sau mai rapide decât cele cu fir. Latența e istorie."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "Ce este Input Lag?",
+        "answer": "Întârzierea dintre click și acțiunea pe ecran. V-Sync și monitoarele vechi cresc Input Lag-ul."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "Cum testez precizia?",
+        "answer": "Folosește teste de 'Accuracy' unde trebuie să dai click pe ținte mici care dispar repede."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "Ce înseamnă WPM?",
+        "answer": "Words Per Minute (Cuvinte Pe Minut). E standardul global pentru viteza de scriere."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Cum scriu mai repede?",
+        "answer": "Învață dactilografie oarbă (Touch Typing - 10 degete). Nu te uita la tastatură. Prioritizează precizia, nu viteza."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Ce WPM e bun?",
+        "answer": "40 WPM e media. 60-70 WPM e bun pentru birou. Peste 100 WPM e nivel competitiv."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "E mai bine să scriu fără să mă uit?",
+        "answer": "Da, memoria musculară preia controlul. Te poți concentra pe ecran și corectezi greșelile instant."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "Switch-uri Blue sau Red pentru scris?",
+        "answer": "Blue au un click auditiv satisfăcător pentru scris. Red sunt liniare și silențioase, preferate pentru gaming."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "Tastatura de laptop e rea?",
+        "answer": "Are cursa tastelor mică. O tastatură mecanică externă e mai ergonomică și rapidă pentru texte lungi."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "Cum exersez?",
+        "answer": "Folosește site-uri ca Palmtweets zilnic. Încearcă să rescrii pagini din cărți pentru a varia vocabularul."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "Ce înseamnă Precizia (Accuracy)?",
+        "answer": "Procentul de taste apăsate corect. 100 WPM cu 80% precizie e inutil pentru că pierzi timp corectând."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "Cum previn durerea de încheieturi?",
+        "answer": "Ține încheieturile drepte (nu le sprijini de marginea biroului). Folosește un Wrist Rest."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "Contează layout-ul tastaturii?",
+        "answer": "În România folosim QWERTY (US). Asigură-te că Windows e setat pe US International pentru a avea toate simbolurile la loc."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Ce este Ghosting?",
+        "answer": "Când tastatura nu înregistrează o tastă pentru că ai apăsat prea multe deodată."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "Ce este NKRO?",
+        "answer": "N-Key Rollover. Poți apăsa TOATE tastele deodată și PC-ul le vede pe toate. Obligatoriu pentru gameri."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Cum găsesc o tastă stricată?",
+        "answer": "Deschide Testerul nostru de Tastatură. Apasă tasta suspectă. Dacă nu se face verde, switch-ul sau circuitul e mort."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Membrană vs Mecanică?",
+        "answer": "Membrana folosește cauciuc (ieftin, moale). Mecanica folosește arcuri/switch-uri (precis, durabil)."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "Cum scot o tastă?",
+        "answer": "Folosește un extractor (Keycap Puller). Nu forța cu cuțitul, poți rupe piciorușul switch-ului."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "Ce sunt Switch-urile Optice?",
+        "answer": "Folosesc fascicule de lumină în loc de metal pentru activare. Teoretic mai rapide și mai durabile."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "De ce zdrăngăne tasta Space?",
+        "answer": "Stabilizatoarele (barele de metal) sunt uscate. Puțină vaselină dielectrică (Lube) rezolvă zgomotul."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "Tastatura TKL e mai bună?",
+        "answer": "Tenkeyless (fără numpad) economisește spațiu pe birou. Lasă mai mult loc pentru mișcarea mouse-ului în FPS-uri."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "Ce este 'Chattering'?",
+        "answer": "Când apeși o tastă o dată dar scrie 'aa' sau 'aaa'. Defect comun la tastaturile mecanice murdare."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "Pot spăla tastatura cu apă?",
+        "answer": "NU (decât dacă e certificată waterproof). Curăță cu aer comprimat și alcool izopropilic."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
+    "timer": "TIMP",
+    "score": "SCOR",
+    "start": "START",
+    "active": "REPEDE!",
+    "try_again": "DIN NOU",
     "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "result_msg": "Excelent! Ai reflexe de ninja. Încearcă să-ți bați recordul!",
+    "slow": "🐢 Melc",
+    "fast": "⚡ Fulger",
+    "superhuman": "👑 Legendă"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "Despre Unealtă",
+    "how_to": "Cum se folosește",
+    "rank_up": "Cum devin mai bun?",
+    "faq": "Întrebări Frecvente",
+    "related": "Unelte Similare",
+    "step1": "Apasă butonul 'Start' sau zona gri.",
+    "step2": "Execută acțiunea cât mai repede posibil.",
+    "step3": "Vezi rangul tău și distribuie rezultatul.",
+    "rank_turtle": "Rang Melc (0-5 CPS):",
+    "rank_turtle_desc": "Prea încet! Încearcă să încordezi brațul.",
+    "rank_pro": "Rang Pro (5-10 CPS):",
+    "rank_pro_desc": "Viteza medie a unui gamer.",
+    "rank_god": "Rang Zeu (10+ CPS):",
+    "rank_god_desc": "Stăpânești Jitter sau Butterfly Click."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Test Pixeli Morți (Monitor)",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Verifică monitorul sau ecranul telefonului pentru pixeli morți, blocați sau bleeding (scurgere de lumină)."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (RO)",
+    "h1": "Test Touch Screen Online",
     "seo": {
-      "title": "Touch Screen Test Online (RO)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Test Touch Screen - Verificare Ghost Touch",
+      "description": "Testează ecranul telefonului. Găsește zone moarte, Ghost Touch și verifică Multi-touch."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (RO)",
-      "p_hook": "Localized intro for RO. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for RO.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for RO.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for RO.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in RO."
+      "h2_hook": "Telefonul dă click singur? (Ghost Touch)",
+      "p_hook": "Dacă ținta din PUBG Mobile se mișcă singură, ai 'Ghost Touch'. E frustrant și pierzi meciuri. Folosește unealta asta să vezi dacă e ecranul sau doar mizerie.",
+      "h2_science": "Cum merge testul?",
+      "p_science": "Afișăm o grilă. Treci cu degetul peste tot. Dacă un pătrat nu se face verde, zona aia e moartă (Dead Zone).",
+      "h2_gaming": "Test Multi-touch (Jucători Claw)",
+      "p_gaming": "Gamerii de mobil folosesc 4 degete (Claw). Pune toate degetele pe ecran. Unealta îți spune câte puncte de atingere suportă telefonul simultan.",
+      "h2_hardware": "Problemă Soft sau Hard?",
+      "p_hardware": "Cauză comună: Încărcătoare ieftine (curent instabil) sau folie prea groasă. Dacă face așa doar la încărcat, schimbă cablul.",
+      "h2_technique": "Soluție Rapidă",
+      "p_technique": "Șterge ecranul (grăsime/transpirație). Scoate husa dacă are magneți. Repornește telefonul."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (RO)",
+    "h1": "Test Microfon Online",
     "seo": {
-      "title": "Microphone Test Online (RO)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Test Microfon - Verificare Zgomot și Volum",
+      "description": "Testează microfonul și căștile. Vizualizează undele sonore, volumul și verifică ecoul."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (RO)",
-      "p_hook": "Localized intro for RO. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for RO.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for RO.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for RO.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in RO."
+      "h2_hook": "Te auzi prost pe Discord?",
+      "p_hook": "Înainte de meci, verifică audio. Fâșâitul sau volumul mic strică comunicarea în echipă. Testează microfonul aici gratis, fără instalare.",
+      "h2_science": "Vizualizator Unde",
+      "p_science": "Această unealtă îți arată vocea în timp real. Dacă vorbești și linia rămâne plată, microfonul e pe Mute sau configurat greșit în Windows.",
+      "h2_gaming": "Test Stereo (Stânga / Dreapta)",
+      "p_gaming": "Pentru căști, să știi dacă sunetul vine din stânga sau dreapta e vital. Testul nostru de canale îți spune dacă ai căștile puse invers.",
+      "h2_hardware": "Compatibilitate",
+      "p_hardware": "Testăm microfoane lavalieră, căști USB, webcam și microfoane de studio. Nu uita să dai 'Allow' la permisiunea browserului.",
+      "h2_technique": "Scoate zgomotul de fond",
+      "p_technique": "Scade 'Microphone Boost' din setările de sunet Windows. Bâzâitul static vine adesea de la cabluri proaste sau lipsa împământării."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (RO)",
+    "h1": "Test Controller (Drift)",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (RO)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Test Controller PS4, PS5, Xbox - Verificare Drift",
+      "description": "Unealtă pentru testat butoane și joystick-uri. Verifică Stick Drift și motoarele de vibrație pe PC."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (RO)",
-      "p_hook": "Localized intro for RO. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for RO.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for RO.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for RO.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in RO."
+      "h2_hook": "Caracterul merge singur? (Stick Drift)",
+      "p_hook": "Problema nr. 1 la controllerele DualSense și Xbox e 'Drift-ul'. Folosește vizualizatorul nostru de axe să vezi dacă stick-ul stă perfect centrat.",
+      "h2_science": "Date Axe (Axis)",
+      "p_science": "Arătăm valorile X și Y. Un controller perfect stă la 0.00. Dacă cifrele sar fără să atingi, ai drift.",
+      "h2_gaming": "Compatibilitate",
+      "p_gaming": "Merge nativ cu DualShock 4, DualSense (PS5), Controller Xbox și Switch Pro. Doar conectează prin USB sau Bluetooth.",
+      "h2_hardware": "Test Vibrație și Triggere",
+      "p_hardware": "Apasă 'Vibrate' pentru a testa motoarele. Verifică și dacă triggerele L2/R2 răspund progresiv (de la 0% la 100%).",
+      "h2_technique": "Reparare Drift",
+      "p_technique": "Încearcă să sufli aer comprimat la baza stick-ului. Sau mărește 'Deadzone' (Zona Moartă) în setările jocului pentru a ignora mișcările mici."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (RO)",
+    "h1": "Test Packet Loss și Ping",
     "seo": {
-      "title": "Packet Loss & Ping Test (RO)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Test Packet Loss - Verificare Lag și Jitter",
+      "description": "Ai net rapid dar jocul sacadează? Verifică pierderea de pachete (Packet Loss), Jitter și Ping-ul real."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (RO)",
-      "p_hook": "Localized intro for RO. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for RO.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for RO.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for RO.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in RO."
+      "h2_hook": "Ping mic dar te teleportezi (Lag Spikes)?",
+      "p_hook": "Asta e 'Packet Loss'. Datele jocului se pierd pe drum. Speedtest măsoară doar viteza de download, noi măsurăm STABILITATEA conexiunii.",
+      "h2_science": "Ce este Jitter?",
+      "p_science": "Jitter e fluctuația ping-ului. 50ms stabil e mai bine decât 20ms care sare la 100ms. Jitter-ul mare cauzează teleportări.",
+      "h2_gaming": "WiFi vs Cablu LAN",
+      "p_gaming": "Regula de Aur: NU TE JUCA PE WIFI. Semnalul radio e instabil. Folosește un cablu Ethernet pentru a garanta 0% packet loss.",
+      "h2_hardware": "Diagnostic Rețea",
+      "p_hardware": "Dacă ai pierderi, restartează routerul. Dacă persistă, e vina providerului (Digi, Orange). Folosește testul ăsta ca dovadă.",
+      "h2_technique": "Îmbunătățire Ping",
+      "p_technique": "Închide download-urile de fundal (Steam, Windows Update), deconectează telefoanele de la WiFi și alege servere aproape de tine (ex: Germania)."
     }
   }
 }
