@@ -1,368 +1,368 @@
 {
   "seo": {
-    "title": "Test de Velocidad de Clic - Contador de Clicks",
-    "description": "¿Qué tan rápido puedes hacer clic? Haz el Test de CPS de 10 segundos. Desafía a tus amigos y bate el récord mundial. Compatible con Jitter y Butterfly Click."
+    "title": "Test de CPS - Contador de Clicks y Velocidad | Palmtweets",
+    "description": "¿Qué tan rápido eres? Haz el Test de Clicks (CPS) de 10 segundos. Entrena Jitter Click, Drag Click y Butterfly para Minecraft PvP. Sin Lag."
   },
   "ui": {
-    "h1": "Prueba Tu Velocidad de Clic Al Instante",
-    "description": "Mide tus Clics Por Segundo (CPS) con nuestra herramienta de prueba de reflejos ultrarrápida. Creada para gamers, speed runners y jugadores competitivos de todo el mundo.",
-    "start_btn": "Iniciar Test CPS",
-    "modes": "Modos de Prueba",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "Hice {score} CPS en Palmtweets. ¿Puedes vencerme?",
+    "h1": "Test de Velocidad de Clic (CPS)",
+    "description": "Mide tus Clics Por Segundo (CPS) con precisión milimétrica. Herramienta esencial para gamers competitivos, PvP de Minecraft y shooters.",
+    "start_btn": "INICIAR TEST",
+    "modes": "Modos de Entrenamiento",
+    "rank_noob": "🐢 Rango: Novato",
+    "rank_pro": "⚡ Rango: Pro Player",
+    "rank_god": "👑 Rango: DIOS (Godlike)",
+    "share_txt": "Acabo de hacer {score} CPS en Palmtweets. ¿Puedes superarme?",
     "score": "PUNTOS",
     "timer": "TIEMPO",
-    "active": "¡CLIC RÁPIDO!",
-    "try_again": "INTENTAR DE NUEVO",
-    "share": "COMPARTIR",
-    "start": "EMPEZAR",
-    "result_msg": "Tu velocidad está por encima del promedio. ¿Puedes superar tu récord personal?",
-    "slow": "🐢 Tortuga",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 DIOS"
+    "active": "¡DALE RÁPIDO!",
+    "try_again": "REPETIR",
+    "share": "COMPARTIR RESULTADO",
+    "start": "EMPEZAR A CLICAR",
+    "result_msg": "¡Velocidad impresionante! ¿Estás listo para los eSports?",
+    "slow": "🐢 Lento",
+    "fast": "⚡ Rápido",
+    "superhuman": "👑 Leyenda"
   },
   "nav": {
     "home": "Inicio",
-    "cps": "Test CPS",
-    "reaction": "Reacción",
-    "typing": "Escribir",
-    "keyboard": "Teclado",
+    "cps": "Test de CPS",
+    "reaction": "Test de Reacción",
+    "typing": "Mecanografía",
+    "keyboard": "Test de Teclado",
     "privacy": "Privacidad"
   },
   "mobile_nav": {
-    "cps_cluster": "Pruebas CPS",
-    "typing_cluster": "Pruebas de Escritura",
-    "reaction_cluster": "Pruebas de Reacción",
-    "keyboard_cluster": "Herramientas de Teclado",
-    "cps_1s": "1 Segundo",
-    "cps_5s": "5 Segundos",
-    "cps_60s": "60 Segundos",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
+    "cps_cluster": "Pruebas de CPS",
+    "typing_cluster": "Mecanografía y WPM",
+    "reaction_cluster": "Reflejos y Reacción",
+    "keyboard_cluster": "Diagnóstico de PC",
+    "cps_1s": "Test 1 Segundo (Burst)",
+    "cps_5s": "Test 5 Segundos",
+    "cps_60s": "Reto 60 Segundos",
+    "jitter": "Entrenar Jitter Click",
+    "butterfly": "Entrenar Butterfly Click",
+    "drag": "Entrenar Drag Click",
     "reaction": "Tiempo de Reacción",
-    "typing": "Escritura WPM",
-    "keyboard": "Prueba de Teclado",
-    "minecraft": "Minecraft CPS",
-    "pubg": "Prueba PUBG",
-    "roblox": "Roblox Clic",
+    "typing": "Velocidad de Escritura",
+    "keyboard": "Comprobar Teclas",
+    "minecraft": "Minecraft CPS PvP",
+    "pubg": "Aim Trainer PUBG",
+    "roblox": "Clicker para Roblox",
     "valorant": "Reflejos Valorant",
-    "fortnite": "Velocidad Fortnite",
-    "hardware_tests": "Pruebas Hardware",
-    "game_challenges": "Desafíos",
+    "fortnite": "Edición Fortnite",
+    "hardware_tests": "Test de Hardware",
+    "game_challenges": "Desafíos Gamer",
     "click_modes": "Modos de Clic",
     "time_modes": "Modos de Tiempo",
     "community": "Comunidad",
-    "touch_test": "Touch Screen Test (ES)",
-    "mic_test": "Mic Test (ES)",
-    "gamepad_test": "Gamepad Tester (ES)",
-    "packet_loss": "Packet Loss Test (ES)"
+    "touch_test": "Test Pantalla Táctil",
+    "mic_test": "Probar Micrófono",
+    "gamepad_test": "Test de Mando (Gamepad)",
+    "packet_loss": "Test de Ping y Lag"
   },
   "footer": {
-    "tagline": "La plataforma de pruebas de velocidad y reflejos más rápida del mundo."
+    "tagline": "La plataforma #1 en el mundo para pruebas de velocidad y hardware gaming."
   },
   "privacy": {
     "title": "Política de Privacidad",
-    "intro": "En Palmtweets, valoramos su privacidad.",
-    "cookies_title": "Cookies",
-    "cookies_text": "Usamos cookies para mejorar su experiencia.",
+    "intro": "En Palmtweets, tu privacidad es sagrada.",
+    "cookies_title": "Uso de Cookies",
+    "cookies_text": "Usamos cookies para mejorar la funcionalidad y analizar el tráfico de forma anónima.",
     "data_title": "Recopilación de Datos",
-    "data_text": "No recopilamos datos personales.",
+    "data_text": "No guardamos datos personales. Los récords se almacenan localmente en tu navegador.",
     "contact_title": "Contacto",
-    "contact_text": "Contacte support@palmtweets.com."
+    "contact_text": "¿Dudas? Escríbenos a support@palmtweets.com."
   },
   "seo_content": {
-    "h2_improve": "Cómo mejorar tu velocidad de clic",
-    "p_improve": "Mejorar tu velocidad requiere práctica y el hardware adecuado. Empieza relajando los músculos de la mano para reducir la tensión. Usa un ratón gaming con interruptores de baja latencia. Practica diariamente durante 10-15 minutos para desarrollar memoria muscular.",
-    "h2_styles": "Butterfly clicking vs Jitter clicking",
-    "p_styles": "Jitter clicking implica vibrar los músculos del brazo para hacer clic rápido, a menudo alcanzando 10-14 CPS. Butterfly clicking usa dos dedos en un botón, alternando golpes para lograr 15-20+ CPS. Butterfly es generalmente más seguro para tus tendones pero requiere un ratón que soporte doble clic.",
-    "h2_record": "¿Cuál es el récord mundial de CPS?",
-    "p_record": "El récord mundial de CPS varía según la duración. Para 1 segundo, algunos jugadores alcanzan 30+ CPS usando Drag Clicking. Para la prueba estándar de 10 segundos, los récords rondan los 22-24 CPS usando técnicas avanzadas.",
-    "h2_useful": "¿Es útil la prueba de CPS para gamers?",
-    "p_useful": "Sí. Un alto CPS es crítico en juegos como Minecraft (PvP bridging), OSU!, y shooters en primera persona donde se usan armas semiautomáticas. Rastrear tu CPS ayuda a medir tu mejora física y preparación para el juego competitivo.",
-    "h2_hardware": "Laboratorio de Hardware",
-    "p_hardware": "Esta herramienta es esencial para gamers que buscan dominar Best mouse for jitter clicking, Chromebook touchpad click test. Mejorar tu tiempo de reacción es vital. Muchos jugadores preguntan sobre 'Best mouse for jitter clicking'.",
-    "h2_games": "CPS en Juegos Competitivos",
-    "p_games": "En Minecraft 1.8 PvP, un alto CPS ayuda a 'recibir menos retroceso' y comenzar combos. En shooters como CS2 o Valorant, el tiempo de reacción es a menudo más crítico que el CPS bruto, pero la consistencia del clic asegura que tus disparos acierten cuando se pretende.",
-    "h2_hook": "El Gancho: Por qué importa la velocidad",
-    "p_hook": "Esta herramienta es esencial para gamers que buscan dominar Unblocked CPS test at school, Mouse double click test. Mejorar tu tiempo de reacción es vital. Muchos jugadores preguntan sobre 'Unblocked CPS test at school'.",
-    "h2_science": "La Ciencia del CPS",
-    "p_science": "Esta herramienta es esencial para gamers que buscan dominar Spacebar counter 60 seconds, Polling rate checker 1000hz. Mejorar tu tiempo de reacción es vital. Muchos jugadores preguntan sobre 'Spacebar counter 60 seconds'.",
-    "h2_gaming": "Contexto Gaming: Minecraft & FPS",
-    "p_gaming": "Esta herramienta es esencial para gamers que buscan dominar Input lag test for Valorant, How to drag click on Model O. Mejorar tu tiempo de reacción es vital. Muchos jugadores preguntan sobre 'Input lag test for Valorant'.",
-    "h2_technique": "Guía de Técnica",
-    "p_technique": "Esta herramienta es esencial para gamers que buscan dominar CPS. Mejorar tu tiempo de reacción es vital. Muchos jugadores preguntan sobre ''."
+    "h2_improve": "Cómo aumentar tus CPS (Clics Por Segundo)",
+    "p_improve": "La velocidad no es solo fuerza, es técnica. Relaja la muñeca para evitar el túnel carpiano. Usa un mouse gamer con switches ópticos (como Razer o Logitech) para reducir la latencia. Practica 10 minutos al día para crear memoria muscular.",
+    "h2_styles": "¿Butterfly Click o Jitter Click? ¿Cuál es mejor?",
+    "p_styles": "El **Jitter Click** usa la vibración del antebrazo para lograr 12-14 CPS, ideal para PvP clásico. El **Butterfly Click** usa dos dedos alternados para lograr 20+ CPS, perfecto para hacer 'Bridging' en Minecraft Bedwars. Nota: Para Butterfly necesitas un mouse que soporte doble clic.",
+    "h2_record": "¿Cuál es el Récord Mundial de CPS?",
+    "p_record": "El récord legítimo en 10 segundos ronda los 22-24 CPS. Sin embargo, usando la técnica de **Drag Click**, algunos jugadores logran picos de 30+ CPS en un segundo (Burst).",
+    "h2_useful": "Importancia del CPS en Minecraft y Shooters",
+    "p_useful": "En Minecraft 1.8, un CPS alto reduce el 'Knockback' (retroceso) que recibes. En Shooters como Valorant o CS2, el CPS es menos importante que la precisión, pero un clic rápido ayuda con armas semiautomáticas.",
+    "h2_hardware": "¿Tu Mouse hace Doble Clic solo?",
+    "p_hardware": "Si al hacer un clic tu PC registra dos, tu switch está fallando. Esto es común en mouses antiguos. Usa nuestra herramienta de prueba para confirmar si necesitas cambiar tu mouse o limpiar los switches.",
+    "h2_games": "Mejora tu Aim y Tiempo de Reacción",
+    "p_games": "Tener un clic rápido no sirve si fallas el tiro. Usa nuestro **Test de Reacción** para entrenar tus reflejos. Los jugadores profesionales reaccionan en menos de 180ms ante un estímulo visual.",
+    "h2_hook": "¿Pantalla Loca? (Ghost Touch)",
+    "p_hook": "¿Tu celular toca botones solo mientras juegas Free Fire? Eso se llama 'Toque Fantasma'. Usa nuestro Test de Pantalla Táctil para identificar zonas muertas antes de ir al técnico.",
+    "h2_science": "Ping vs Packet Loss: El enemigo del Gamer",
+    "p_science": "Tener fibra óptica no garantiza cero lag. Si tu personaje se teletransporta, sufres de 'Packet Loss' (Pérdida de Paquetes). Nuestra herramienta simula tráfico de juego para diagnosticar tu conexión real.",
+    "h2_gaming": "Test de Teclado Mecánico y Ghosting",
+    "p_gaming": "¿Al presionar W + A + Espacio no salta tu personaje? Eso es 'Ghosting'. Usa nuestro test para verificar si tu teclado soporta 'N-Key Rollover' (pulsaciones simultáneas).",
+    "h2_technique": "La técnica del Drag Click",
+    "p_technique": "El Drag Click consiste en arrastrar el dedo sobre una superficie rugosa para generar fricción y múltiples clics. Es esencial usar cinta de agarre (Grip Tape) y un mouse con switches mecánicos robustos."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "Test de CPS - Mide tu Velocidad de Clic",
+      "description": "¿Qué tan rápido eres? Haz el test de 10 segundos. Desafía a tus amigos y entrena para torneos de eSports."
     },
-    "h1": "CPS TEST BLITZ"
+    "h1": "TEST DE VELOCIDAD DE CLIC"
   },
   "cps_1s": {
     "seo": {
-      "title": "Test CPS 1 Segundo - Palmtweets",
-      "description": "Prueba de velocidad de ráfaga."
+      "title": "Test CPS 1 Segundo - Velocidad Explosiva",
+      "description": "Prueba tu velocidad máxima instantánea. Ideal para medir picos de Drag Click y Knockback."
     },
-    "h1": "Test CPS 1 Segundo"
+    "h1": "TEST RÁPIDO (1 SEGUNDO)"
   },
   "cps_5s": {
     "seo": {
-      "title": "Test CPS 5 Segundos - Palmtweets",
-      "description": "Sprint corto de velocidad."
+      "title": "Test CPS 5 Segundos - Sprint Corto",
+      "description": "El estándar para gamers. ¿Cuántos clics haces en 5 segundos? El promedio pro es 12+ CPS."
     },
-    "h1": "Test CPS 5 Segundos"
+    "h1": "TEST DE 5 SEGUNDOS"
   },
   "cps_60s": {
     "seo": {
-      "title": "Maratón 60 Segundos - Palmtweets",
-      "description": "La prueba definitiva de resistencia."
+      "title": "Maratón 60 Segundos - Resistencia",
+      "description": "La prueba definitiva de resistencia. ¿Puedes mantener el ritmo durante un minuto sin cansarte?"
     },
-    "h1": "Maratón 60 Segundos"
+    "h1": "DESAFÍO DE 60 SEGUNDOS"
   },
   "jitter": {
     "seo": {
-      "title": "Entrenamiento Jitter - Palmtweets",
-      "description": "Domina la técnica de vibración."
+      "title": "Entrenamiento Jitter Click - Técnica de Vibración",
+      "description": "Aprende y entrena Jitter Click. Vibra el brazo para lograr 14+ CPS. Tutorial y práctica segura."
     },
-    "h1": "Entrenamiento Jitter"
+    "h1": "ENTRENAMIENTO JITTER CLICK"
   },
   "butterfly": {
     "seo": {
-      "title": "Prueba Butterfly Click - Palmtweets",
-      "description": "Usa dos dedos para duplicar tu velocidad."
+      "title": "Test Butterfly Click - Doble Clic",
+      "description": "Prueba tu velocidad con Butterfly Click. Usa dos dedos para duplicar tus CPS. Esencial para Bedwars."
     },
-    "h1": "Prueba Butterfly Click"
+    "h1": "TEST BUTTERFLY CLICK"
   },
   "drag": {
     "seo": {
-      "title": "Prueba Drag Click - Palmtweets",
-      "description": "Usa fricción para registrar cientos de clics."
+      "title": "Test Drag Click - Fricción y Velocidad",
+      "description": "Prueba tu Drag Click. Usa la fricción para registrar cientos de clics en segundos."
     },
-    "h1": "Prueba Drag Click"
+    "h1": "TEST DE DRAG CLICK"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft PvP Click - Palmtweets",
-      "description": "Practica tu clic para PvP en Minecraft."
+      "title": "Minecraft PvP Click Test - Entrena Combos",
+      "description": "Practica tu clic específicamente para PvP de Minecraft. Mejora tu Aim y reduce el Knockback."
     },
-    "h1": "Minecraft PvP Click"
+    "h1": "ENTRENAMIENTO MINECRAFT PVP"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Test de Tiempo de Reacción - Reflejos Humanos",
+      "description": "Mide tus reflejos visuales en milisegundos. El promedio humano es 250ms. ¿Puedes bajar de 150ms?"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
+    "h1": "TEST DE TIEMPO DE REACCIÓN",
+    "wait": "Espera al Verde...",
+    "click": "¡CLIC AHORA!",
+    "too_soon": "¡Muy pronto! No te adelantes.",
     "result": "{time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Test de Mecanografía - Velocidad de Escritura WPM",
+      "description": "Prueba de escritura de 1 minuto gratis. Calcula tus Palabras Por Minuto (WPM) y precisión."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "TEST DE MECANOGRAFÍA (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Test de Teclado Online - Comprobar Teclas",
+      "description": "Prueba cada tecla de tu teclado. Detecta Ghosting, teclas trabadas y problemas de switches."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "DIAGNÓSTICO DE TECLADO"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for ES users."
+        "question": "¿Cómo hacer Drag Click en un mouse normal?",
+        "answer": "Es difícil en mouses de oficina. Necesitas un mouse con superficie mate/rugosa y switches que no bloqueen el 'debounce'. La cinta eléctrica (Grip Tape) ayuda mucho."
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for ES users."
+        "question": "¿Cómo mejorar el Aim en Valorant o CS2?",
+        "answer": "No es solo clicar rápido. Ajusta tu DPI a algo cómodo (400-800), desactiva la 'Aceleración del Mouse' en Windows y entrena el posicionamiento de la mira (Crosshair placement)."
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for ES users."
+        "question": "¿Cómo saber si mi teclado es mecánico?",
+        "answer": "Quita una tecla (keycap). Si ves un interruptor en forma de cruz (azul, rojo, marrón), es mecánico. Si ves una goma plástica, es de membrana."
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for ES users."
+        "question": "¿El Jitter Click es malo para la salud?",
+        "answer": "Si se hace mal, sí. Puede causar tendinitis o síndrome del túnel carpiano por la tensión. Haz estiramientos y para si sientes dolor."
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for ES users."
+        "question": "¿Cuál es el mejor mouse para Butterfly Click?",
+        "answer": "El Glorious Model O, Logitech G Pro y Razer Viper son populares porque permiten ajustar el 'Debounce Time' para registrar dobles clics fácilmente."
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for ES users."
+        "question": "¿Qué es el 'Polling Rate' del mouse?",
+        "answer": "Es la frecuencia con la que el mouse reporta su posición al PC. Para gaming, usa 1000Hz (1ms). Si usas 125Hz, sentirás lag."
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for ES users."
+        "question": "¿Por qué mi mouse da tirones o se traba?",
+        "answer": "Puede ser suciedad en el sensor óptico o un mousepad sucio. Limpia el sensor con un bastoncillo y alcohol isopropílico."
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for ES users."
+        "question": "¿Cómo probar el doble clic del mouse?",
+        "answer": "Usa nuestra herramienta de prueba. Haz 100 clics lentos. Si el contador marca 102 o más, tu switch está defectuoso."
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for ES users."
+        "question": "¿Cuál es el CPS promedio de una persona?",
+        "answer": "El promedio es 6-7 clics por segundo. Los gamers activos llegan a 8-10. Los pros de Minecraft pasan de 15 con técnicas especiales."
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for ES users."
+        "question": "¿Qué DPI es mejor para jugar?",
+        "answer": "DPI es sensibilidad. Para shooters, DPI bajo (400-800) da más precisión. Para MOBA (LoL), DPI alto (1600+) permite mover la cámara rápido."
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for ES users."
+        "question": "¿Un teclado mecánico te hace más rápido?",
+        "answer": "Sí, el punto de actuación es más corto y preciso, permitiendo reacciones más rápidas que un teclado de membrana."
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for ES users."
+        "question": "¿Cómo arreglar el Drift del mando PS4/PS5?",
+        "answer": "El Drift es suciedad en el potenciómetro del joystick. Intenta limpiarlo con aire comprimido. Si no funciona, el componente debe ser reemplazado."
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for ES users."
+        "question": "¿Por qué tengo ping alto si mi internet es rápido?",
+        "answer": "La velocidad (Mbps) no es lo mismo que latencia (Ping). Usa cable Ethernet en lugar de WiFi para bajar el ping y eliminar la pérdida de paquetes."
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for ES users."
+        "question": "¿Qué es el Ghosting en teclados?",
+        "answer": "Es cuando pulsas varias teclas a la vez y algunas no se registran. Los teclados 'Anti-Ghosting' o 'N-Key Rollover' solucionan esto."
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for ES users."
+        "question": "¿Cómo probar si mi micrófono funciona?",
+        "answer": "Usa nuestro Test de Micrófono. Habla y mira si las ondas se mueven. Si la línea está plana, revisa los permisos del navegador."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "¿Qué es el tiempo de reacción?",
+        "answer": "Es el tiempo que tarda tu cerebro en procesar un estímulo visual y enviar la orden a tu dedo para hacer clic."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "¿Cuál es un buen tiempo de reacción?",
+        "answer": "El promedio es 250ms. Menos de 200ms es excelente. Pilotos de F1 y Pro Players rondan los 150ms."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "¿Cómo entrenar los reflejos?",
+        "answer": "Juega FPS, duerme bien (el sueño es clave), hidrátate y usa entrenadores de puntería (Aim Trainers) regularmente."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "¿La edad afecta los reflejos?",
+        "answer": "Sí, el pico es a los 24 años, luego baja lentamente. Pero la experiencia (Game Sense) compensa la velocidad."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "¿Un monitor 144Hz ayuda?",
+        "answer": "¡Mucho! Actualiza la imagen más rápido, permitiéndote ver al enemigo milisegundos antes que alguien con 60Hz."
       },
       "q6": {
-        "question": "¿Qué es reacción visual?",
-        "answer": "Tiempo de respuesta a un estímulo visual."
+        "question": "¿Reacción visual vs auditiva?",
+        "answer": "El cerebro procesa el sonido (170ms) más rápido que la luz (250ms). Por eso escuchar los pasos es vital en juegos competitivos."
       },
       "q7": {
-        "question": "¿Qué es reacción auditiva?",
-        "answer": "Respuesta al sonido, usualmente más rápida."
+        "question": "¿La cafeína mejora la reacción?",
+        "answer": "Aumenta la alerta temporalmente, pero el exceso causa temblores (jitter) que empeoran la puntería."
       },
       "q8": {
-        "question": "¿La cafeína ayuda?",
-        "answer": "Sí, moderadamente puede aumentar la alerta."
+        "question": "¿Los mouse inalámbricos tienen lag?",
+        "answer": "Los modernos (Logitech Lightspeed, Razer) tienen latencia imperceptible, igual o mejor que los de cable."
       },
       "q9": {
-        "question": "¿Usan equipo especial los pros?",
-        "answer": "Sí, monitores rápidos y ratones de baja latencia."
+        "question": "¿Qué es el Input Lag?",
+        "answer": "Es el retraso entre pulsar el botón y ver la acción en pantalla. Un PC lento o monitor antiguo aumenta este tiempo."
       },
       "q10": {
-        "question": "¿Cómo probar precisión?",
-        "answer": "Usa nuestras herramientas de precisión."
+        "question": "¿Cómo probar mi precisión?",
+        "answer": "Usa tests de 'Click Accuracy' donde debes clicar objetivos pequeños que aparecen y desaparecen rápido."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "¿Qué es WPM?",
+        "answer": "Words Per Minute (Palabras Por Minuto). Es la medida estándar de velocidad de escritura."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "¿Cómo escribir más rápido?",
+        "answer": "Aprende mecanografía (Touch Typing), usa los 10 dedos y no mires el teclado. Prioriza precisión sobre velocidad al inicio."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "¿Cuál es un buen WPM?",
+        "answer": "40 WPM es el promedio. 60-70 WPM es bueno para trabajar. Más de 100 WPM es nivel competitivo."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "¿Es mejor escribir sin mirar?",
+        "answer": "Sí, el 'Touch Typing' usa la memoria muscular, permitiéndote enfocarte en la pantalla y escribir mucho más rápido."
       },
       "q5": {
-        "question": "¿Qué es teclado mecánico?",
-        "answer": "Teclado con interruptores físicos por tecla."
+        "question": "¿Switch Blue o Red para escribir?",
+        "answer": "El Blue tiene un 'clic' táctil satisfactorio para escribir. El Red es lineal y silencioso, preferido por gamers."
       },
       "q6": {
-        "question": "¿Afecta el teclado la velocidad?",
-        "answer": "Sí, la respuesta táctil ayuda al ritmo."
+        "question": "¿El teclado de portátil es malo?",
+        "answer": "Suele tener poco recorrido. Un teclado externo mecánico mejora la velocidad y reduce la fatiga."
       },
       "q7": {
-        "question": "¿Cómo aprender mecanografía?",
-        "answer": "Empieza con ejercicios y practica a diario."
+        "question": "¿Cómo practicar mecanografía?",
+        "answer": "Usa sitios de test como Palmtweets a diario. Intenta transcribir textos reales para variar el vocabulario."
       },
       "q8": {
-        "question": "¿Cuál es el promedio WPM?",
-        "answer": "Alrededor de 40 WPM para usuarios normales."
+        "question": "¿Qué significa Precisión (Accuracy)?",
+        "answer": "Es el porcentaje de teclas correctas. 100 WPM con 80% de precisión es peor que 80 WPM con 100% de precisión."
       },
       "q9": {
-        "question": "¿Qué es 100% precisión?",
-        "answer": "Escribir sin errores ni correcciones."
+        "question": "¿Cómo evitar dolor de muñecas?",
+        "answer": "Mantén las muñecas rectas (no apoyadas en el borde de la mesa) y usa un reposamuñecas. Haz pausas cada hora."
       },
       "q10": {
-        "question": "¿Cómo reducir fatiga?",
-        "answer": "Usa reposamuñecas y buena postura."
+        "question": "¿El idioma del teclado importa?",
+        "answer": "El layout (ISO vs ANSI) cambia la posición del Enter y símbolos. Acostúmbrate a uno para ganar velocidad."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "¿Qué es el Ghosting?",
+        "answer": "Cuando pulsas muchas teclas y algunas no se registran. Común en teclados de membrana baratos."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "¿Qué es NKRO?",
+        "answer": "N-Key Rollover. Significa que puedes pulsar TODAS las teclas a la vez y el PC las registrará todas."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "¿Cómo probar teclas rotas?",
+        "answer": "Abre nuestro Test de Teclado. Pulsa la tecla sospechosa. Si no se ilumina en verde, el switch está dañado."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "¿Diferencia Membrana vs Mecánico?",
+        "answer": "Membrana usa una goma (barato, tacto esponjoso). Mecánico usa interruptores físicos (duradero, preciso)."
       },
       "q5": {
-        "question": "¿Qué es N-Key Rollover?",
-        "answer": "Capacidad de registrar todas las teclas a la vez."
+        "question": "¿Cómo quitar una tecla?",
+        "answer": "Usa un extractor de teclas (Keycap Puller). No uses cuchillos o destornilladores, puedes romper el switch."
       },
       "q6": {
-        "question": "¿Qué son switches Cherry?",
-        "answer": "Interruptores mecánicos populares."
+        "question": "¿Qué son los Switches Ópticos?",
+        "answer": "Usan luz infrarroja para activar la tecla en lugar de metal. Son los más rápidos del mundo actualmente."
       },
       "q7": {
-        "question": "¿Cómo limpiar teclado?",
-        "answer": "Usa aire comprimido y quita teclas."
+        "question": "¿Por qué mi barra espaciadora suena mal?",
+        "answer": "Los estabilizadores (alambres laterales) pueden estar secos. Ponerles un poco de lubricante elimina el ruido."
       },
       "q8": {
-        "question": "¿Por qué se atasca mi tecla?",
-        "answer": "Puede ser suciedad o rotura."
+        "question": "¿Teclado TKL es bueno?",
+        "answer": "Tenkeyless (sin pad numérico). Es excelente para jugar porque deja más espacio para mover el mouse."
       },
       "q9": {
-        "question": "¿Qué es teclado de membrana?",
-        "answer": "Usa almohadillas de presión, más barato."
+        "question": "¿Qué es 'Chattering'?",
+        "answer": "Pulsas una tecla una vez y escribe 'aa' o 'aaa'. Es un fallo común en switches mecánicos sucios."
       },
       "q10": {
-        "question": "¿Cambiar teclas de portátil?",
-        "answer": "Sí, pero con cuidado."
+        "question": "¿Puedo lavar mi teclado?",
+        "answer": "NO lo sumerjas en agua. Limpia con trapo húmedo y alcohol isopropílico, o aire comprimido."
       }
     }
   },
@@ -370,110 +370,110 @@
     "timer": "TIEMPO",
     "score": "PUNTOS",
     "start": "EMPEZAR",
-    "active": "¡CLIC RÁPIDO!",
-    "try_again": "INTENTAR DE NUEVO",
+    "active": "¡RÁPIDO!",
+    "try_again": "REPETIR",
     "share": "COMPARTIR",
-    "result_msg": "Tu velocidad está por encima del promedio. ¿Puedes superar tu récord personal?",
+    "result_msg": "¡Excelente! Tienes reflejos de ninja. ¡Intenta batir tu récord!",
     "slow": "🐢 Tortuga",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 DIOS"
+    "fast": "⚡ Rápido",
+    "superhuman": "👑 Leyenda"
   },
   "tool_layout": {
-    "about": "Sobre",
-    "how_to": "Cómo Usar",
+    "about": "Sobre la Herramienta",
+    "how_to": "Cómo Jugar",
     "rank_up": "¿Cómo Subir de Rango?",
     "faq": "Preguntas Frecuentes",
     "related": "Herramientas Relacionadas",
-    "step1": "Haz clic en el botón de inicio o en el área designada.",
-    "step2": "Realiza la acción lo más rápido/preciso posible.",
-    "step3": "Mira tu resultado y compártelo con amigos.",
-    "rank_turtle": "Tortuga (0-5 CPS):",
-    "rank_turtle_desc": "¡Estás haciendo clic muy lento!",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "Velocidad media de jugador.",
-    "rank_god": "Dios (10+ CPS):",
-    "rank_god_desc": "Dominas técnicas avanzadas."
+    "step1": "Haz clic en el botón 'Empezar' o en el área gris.",
+    "step2": "Realiza la acción lo más rápido posible hasta que acabe el tiempo.",
+    "step3": "Mira tu puntuación y compártela en redes.",
+    "rank_turtle": "Rango Tortuga (0-5 CPS):",
+    "rank_turtle_desc": "¡Muy lento! Intenta tensar los músculos del brazo.",
+    "rank_pro": "Rango Pro (5-10 CPS):",
+    "rank_pro_desc": "Velocidad promedio de un jugador competitivo.",
+    "rank_god": "Rango Dios (10+ CPS):",
+    "rank_god_desc": "Dominas técnicas avanzadas como Jitter o Butterfly."
   },
   "dead_pixel": {
     "h1": "Verificador de Píxeles Muertos",
     "seo": {
-      "description": "Comprueba tu pantalla en busca de píxeles muertos."
+      "description": "Comprueba si tu pantalla tiene píxeles muertos, atascados o fugas de luz. Test de monitor online."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (ES)",
+    "h1": "Test de Pantalla Táctil Online",
     "seo": {
-      "title": "Touch Screen Test Online (ES)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Test de Pantalla Táctil - Detectar Toque Fantasma",
+      "description": "Prueba la pantalla de tu celular. Detecta zonas muertas, Ghost Touch y fallos de Multi-touch."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (ES)",
-      "p_hook": "Localized intro for ES. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for ES.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for ES.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for ES.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in ES."
+      "h2_hook": "¿Tu celular se vuelve loco? (Ghost Touch)",
+      "p_hook": "Si la mira se mueve sola en PUBG o Free Fire, tienes 'Toque Fantasma'. Es frustrante perder por culpa del hardware. Usa esta herramienta para diagnosticar si es la pantalla o solo suciedad.",
+      "h2_science": "¿Cómo funciona el test?",
+      "p_science": "Generamos una cuadrícula interactiva. Pasa el dedo por toda la pantalla. Si algún cuadro no se pone verde, esa zona está muerta (Dead Zone) y requiere reparación.",
+      "h2_gaming": "Prueba Multi-Touch (Jugadores de Claw)",
+      "p_gaming": "Los jugadores de móvil usan 3 o 4 dedos (Claw). Pon todos tus dedos en la pantalla a la vez. Nuestra herramienta te dirá cuántos puntos táctiles soporta tu dispositivo simultáneamente.",
+      "h2_hardware": "¿Problema de Hardware o Software?",
+      "p_hardware": "Causa común: Cargadores genéricos (mala corriente), pantalla rota o protectores de vidrio muy gruesos. Si el fallo ocurre solo al cargar, cambia el cable.",
+      "h2_technique": "Solución Rápida",
+      "p_technique": "Limpia la pantalla de grasa y sudor. Quita la funda si tiene imanes. Reinicia el dispositivo para descartar fallos de software."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (ES)",
+    "h1": "Test de Micrófono Online",
     "seo": {
-      "title": "Microphone Test Online (ES)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Probar Micrófono - Test de Audio y Ruido",
+      "description": "Prueba tu micrófono y audífonos. Visualiza la onda de sonido, volumen y detecta eco o estática."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (ES)",
-      "p_hook": "Localized intro for ES. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for ES.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for ES.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for ES.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in ES."
+      "h2_hook": "¿Te escuchan mal en Discord?",
+      "p_hook": "Antes de entrar a la partida, verifica tu audio. Un micrófono con estática o volumen bajo arruina la comunicación del equipo. Pruébalo aquí gratis.",
+      "h2_science": "Visualizador de Ondas",
+      "p_science": "Esta herramienta muestra tu voz en tiempo real. Si hablas y la línea sigue plana, tu micrófono está silenciado o mal configurado en Windows.",
+      "h2_gaming": "Test Estéreo (Izquierda / Derecha)",
+      "p_gaming": "Para los auriculares, saber si el sonido viene de la izquierda o derecha es vital para escuchar los pasos enemigos en juegos FPS.",
+      "h2_hardware": "Compatible con todo",
+      "p_hardware": "Probamos micrófonos de solapa, headsets USB, webcams y micrófonos de estudio. Recuerda dar permiso al navegador para acceder al micro.",
+      "h2_technique": "Cómo quitar el ruido de fondo",
+      "p_technique": "Baja la 'Ganancia' o 'Sensibilidad' en la configuración de sonido. El ruido estático suele venir de cables mal conectados o interferencia eléctrica."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (ES)",
+    "h1": "Test de Mando (Gamepad) Online",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (ES)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Test de Mando PS4, PS5, Xbox - Comprobar Drift",
+      "description": "Herramienta para probar botones y joysticks. Verifica Stick Drift y vibración en PC y Consola."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (ES)",
-      "p_hook": "Localized intro for ES. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for ES.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for ES.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for ES.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in ES."
+      "h2_hook": "¿Tu personaje camina solo? (Stick Drift)",
+      "p_hook": "El problema más común en mandos modernos es el 'Drift'. Usa nuestro visualizador de ejes para ver si el joystick está centrado o se mueve solo.",
+      "h2_science": "Lectura de Ejes (Axis)",
+      "p_science": "Mostramos los valores X e Y del joystick. Un mando perfecto marca 0.00 en reposo. Si los números bailan sin tocar nada, tienes Drift.",
+      "h2_gaming": "Compatibilidad",
+      "p_gaming": "Funciona nativamente con DualShock 4, DualSense (PS5), Xbox Controller y Pro Controller de Switch. Conecta por USB o Bluetooth.",
+      "h2_hardware": "Prueba de Vibración y Gatillos",
+      "p_hardware": "Pulsa 'Vibrar' para probar los motores hápticos. Verifica también que los gatillos L2/R2 respondan progresivamente (0% a 100%).",
+      "h2_technique": "¿Cómo arreglar el Drift?",
+      "p_technique": "Intenta limpiar la base del joystick con aire comprimido. O aumenta la 'Zona Muerta' (Deadzone) en la configuración del juego para ignorar el movimiento leve."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (ES)",
+    "h1": "Test de Packet Loss y Ping",
     "seo": {
-      "title": "Packet Loss & Ping Test (ES)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Test de Packet Loss - Comprobar Lag y Jitter",
+      "description": "¿Tienes internet rápido pero el juego va mal? Comprueba la pérdida de paquetes, Jitter y latencia real."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (ES)",
-      "p_hook": "Localized intro for ES. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for ES.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for ES.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for ES.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in ES."
+      "h2_hook": "Ping bajo pero con Tirones (Lag Spikes)",
+      "p_hook": "Eso es 'Packet Loss'. Los datos del juego se pierden en el camino. Un Speedtest normal solo mide velocidad de descarga, nosotros medimos ESTABILIDAD.",
+      "h2_science": "¿Qué es el Jitter?",
+      "p_science": "El Jitter es la variación del ping. Tener 20ms estables es mejor que tener 10ms que saltan a 100ms. El Jitter alto causa que los enemigos se teletransporten.",
+      "h2_gaming": "WiFi vs Cable Ethernet",
+      "p_gaming": "Regla de oro: NO JUEGUES POR WIFI. La señal inalámbrica es inestable. Usa cable LAN para asegurar 0% de pérdida de paquetes.",
+      "h2_hardware": "Diagnóstico de Red",
+      "p_hardware": "Si tienes pérdida de paquetes, reinicia el router. Si persiste, el problema es de tu proveedor de internet (ISP). Usa este test como prueba para reclamar.",
+      "h2_technique": "Cómo mejorar la conexión",
+      "p_technique": "Cierra descargas en segundo plano (Steam, Torrent), desconecta otros dispositivos del WiFi y elige servidores cercanos a tu región."
     }
   }
 }
