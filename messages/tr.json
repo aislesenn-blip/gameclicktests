@@ -1,479 +1,479 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPS Testi - Tıklama Hızı Testi & Mouse Testi | Palmtweets",
+    "description": "Mouse ile ne kadar hızlı tıklayabilirsin? 10 saniyelik CPS Testi yap. Minecraft SonOyuncu ve CraftRise için Jitter/Butterfly Click teknikleri. Donma yok."
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Başlat",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "Puan",
-    "timer": "Süre",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "Paylaş",
-    "start": "START CLICKING",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "h1": "Tıklama Hızını Anında Ölç (CPS)",
+    "description": "Saniye Başına Tıklama (CPS) hızını en hassas araçla ölç. Valorant, CS2 ve Minecraft oyuncuları için refleks geliştirme aracı.",
+    "start_btn": "TESTİ BAŞLAT",
+    "modes": "Antrenman Modları",
+    "rank_noob": "🐢 Rütbe: Kaplumbağa",
+    "rank_pro": "⚡ Rütbe: Pro Oyuncu",
+    "rank_god": "👑 Rütbe: EFSANE (Godlike)",
+    "share_txt": "Palmtweets'te {score} CPS yaptım. Beni geçebilir misin?",
+    "score": "PUAN",
+    "timer": "SÜRE",
+    "active": "HIZLI TIKLA!",
+    "try_again": "TEKRAR DENE",
+    "share": "PAYLAŞ",
+    "start": "BAŞLA",
+    "result_msg": "Hızın ortalamanın üzerinde! Kendi rekorunu kırabilir misin?",
+    "slow": "🐢 Yavaş",
+    "fast": "⚡ Hızlı",
+    "superhuman": "👑 İnanılmaz"
   },
   "nav": {
     "home": "Anasayfa",
     "cps": "Tıklama Testi",
     "reaction": "Refleks",
-    "typing": "Yazma",
-    "keyboard": "Keyboard",
+    "typing": "Yazma Hızı",
+    "keyboard": "Klavye Testi",
     "privacy": "Gizlilik"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "Donanım",
-    "game_challenges": "Oyunlar",
-    "click_modes": "Tıklama Modları",
+    "cps_cluster": "CPS ve Tıklama Testleri",
+    "typing_cluster": "Klavye Yazma Hızı",
+    "reaction_cluster": "Refleks Testleri",
+    "keyboard_cluster": "PC Donanım Testi",
+    "cps_1s": "1 Saniye Testi (Burst)",
+    "cps_5s": "5 Saniye Testi",
+    "cps_60s": "60 Saniye Maraton",
+    "jitter": "Jitter Click Eğitimi",
+    "butterfly": "Butterfly Click Testi",
+    "drag": "Drag Click Testi",
+    "reaction": "Reaksiyon Süresi (ms)",
+    "typing": "10 Parmak Yazma Testi",
+    "keyboard": "Klavye Tuş Testi",
+    "minecraft": "Minecraft PvP CPS",
+    "pubg": "PUBG Aim Çalışması",
+    "roblox": "Roblox Tıklayıcı",
+    "valorant": "Valorant Refleks",
+    "fortnite": "Fortnite Edit Hızı",
+    "hardware_tests": "Donanım Testleri",
+    "game_challenges": "Oyuncu Meydan Okumaları",
+    "click_modes": "Tıklama Teknikleri",
     "time_modes": "Zaman Modları",
     "community": "Topluluk",
-    "touch_test": "Touch Screen Test (TR)",
-    "mic_test": "Mic Test (TR)",
-    "gamepad_test": "Gamepad Tester (TR)",
-    "packet_loss": "Packet Loss Test (TR)"
+    "touch_test": "Dokunmatik Ekran Testi",
+    "mic_test": "Mikrofon Testi",
+    "gamepad_test": "Gamepad Testi (Drift)",
+    "packet_loss": "Ping ve Paket Kaybı"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "Dünyanın en hızlı refleks ve oyuncu donanımı test platformu."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
-    "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
-    "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "title": "Gizlilik Politikası",
+    "intro": "Palmtweets olarak gizliliğinize önem veriyoruz.",
+    "cookies_title": "Çerezler (Cookies)",
+    "cookies_text": "Deneyiminizi geliştirmek ve trafiği analiz etmek için çerez kullanıyoruz.",
+    "data_title": "Veri Toplama",
+    "data_text": "Kişisel verilerinizi toplamıyoruz. Skorlarınız tarayıcınızda yerel olarak saklanır.",
+    "contact_title": "İletişim",
+    "contact_text": "Sorularınız için: support@palmtweets.com."
   },
   "seo_content": {
-    "h2_improve": "Tıklama hızınızı nasıl geliştirirsiniz",
-    "p_improve": "Hızlanmak pratik gerektirir. El kaslarınızı gevşeterek başlayın.",
-    "h2_styles": "Butterfly ve Jitter Tıklama",
-    "p_styles": "Jitter kol kaslarını titretmeyi içerir. Butterfly iki parmak kullanır.",
-    "h2_record": "CPS dünya rekoru nedir?",
-    "p_record": "1 saniye için rekor 30+ CPS'dir.",
-    "h2_useful": "Oyuncular için yararlı mı?",
-    "p_useful": "Evet, Minecraft PvP ve FPS oyunları için kritiktir.",
-    "h2_hardware": "Section 4 (TR)",
-    "p_hardware": "Localized content for TR focusing on Valorant aim geliştirme. Detailed analysis of click speed and hardware performance.",
-    "h2_games": "CPS in Competitive Gaming",
-    "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended.",
-    "h2_hook": "Section 1 (TR)",
-    "p_hook": "Localized content for TR focusing on Mouse tıklama ömrü testi, Jitter click nasıl yapılır. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (TR)",
-    "p_science": "Localized content for TR focusing on Makro testi, Refleks testi oyunu. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (TR)",
-    "p_gaming": "Localized content for TR focusing on Klavye tuş testi çalışmıyor, En hızlı tıklama rekoru. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (TR)",
-    "p_technique": "Localized content for TR focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "Tıklama Hızı (CPS) Nasıl Artırılır?",
+    "p_improve": "Yüksek CPS sadece güç değil, tekniktir. Bileğinizi gevşetin ve parmak kaslarınızı kullanın. Düşük gecikmeli (Low Latency) switch'lere sahip bir oyuncu mouse'u kullanın (Logitech veya Razer gibi). Günde 10 dakika antrenman yapın.",
+    "h2_styles": "Butterfly Click mi Jitter Click mi: Hangisi Daha İyi?",
+    "p_styles": "**Jitter Click**, kol kaslarını titrestirerek 12-14 CPS yapmanızı sağlar, Aim almak için daha stabildir. **Butterfly Click**, iki parmağı sırayla kullanarak 20+ CPS'e ulaşır, Minecraft Bedwars 'Yol Yapma' (Bridging) için mükemmeldir. Not: Butterfly için 'Double Click' destekleyen bir mouse gerekir.",
+    "h2_record": "Dünya CPS Rekoru Kaç?",
+    "p_record": "10 saniyelik testte meşru rekor 22-24 CPS civarındadır. Ancak **Drag Click** tekniği ile bazı oyuncular anlık olarak (Burst) 30 CPS üzerine çıkabilmektedir.",
+    "h2_useful": "Minecraft ve FPS Oyunlarında CPS Neden Önemli?",
+    "p_useful": "Minecraft 1.8 PvP'de yüksek CPS, aldığınız 'Geri Tepmeyi' (Knockback) azaltır ve kombo yapmanızı kolaylaştırır. Valorant veya CS2 gibi FPS oyunlarında ise hızlı tıklamak, yarı otomatik silahlarla daha seri ateş etmenizi sağlar.",
+    "h2_hardware": "Mouse'unuz Kendi Kendine Çift mi Tıklıyor?",
+    "p_hardware": "Bir kez tıkladığınızda bilgisayar iki kez algılıyorsa, mouse switch'iniz bozulmuş demektir (Double Click Sorunu). Yeni bir mouse almadan önce emin olmak için 'Mouse Testi' aracımızı kullanın.",
+    "h2_games": "Aim ve Reaksiyon Süresini Geliştirme",
+    "p_games": "Hızlı tıklamak, isabet ettiremezseniz işe yaramaz. Görsel tepki sürenizi düşürmek için **Reaksiyon Testi**mizi kullanın. E-sporcular genellikle 180ms'nin altında tepki verir.",
+    "h2_hook": "Telefon Ekranı Kendi Kendine mi Basıyor? (Ghost Touch)",
+    "p_hook": "PUBG Mobile oynarken nişangah kendi kendine mi kayıyor? Buna 'Hayalet Dokunuş' (Ghost Touch) denir. Tamirciye gitmeden önce Dokunmatik Ekran Testi ile ekranınızın ölü bölgelerini tespit edin.",
+    "h2_science": "İnternet Hızlı Ama Oyun Kasıyor? (Packet Loss)",
+    "p_science": "Ping düşük olsa bile oyun takılıyorsa, sorun **Paket Kaybı**dır (Packet Loss). Veriler yolda kaybolur. Aracımız, Türk Telekom veya Superonline bağlantınızın oyun içi kararlılığını test eder.",
+    "h2_gaming": "Klavye Ghosting ve N-Key Rollover",
+    "p_gaming": "Aynı anda koşup, zıplayıp silah değiştiremiyor musunuz? Bu 'Ghosting' sorunudur. Ucuz klavyeler 3 tuştan fazlasını kilitleyebilir. Klavyenizin 'Anti-Ghosting' özelliğini buradan test edin.",
+    "h2_technique": "Drag Click Tekniği Nedir?",
+    "p_technique": "Drag Click, parmağınızı mouse yüzeyinde sürterek sürtünme yoluyla saniyede yüzlerce tıklama oluşturmaktır. Bunu yapmak için mat yüzeyli bir mouse ve elektrik bandı (Grip Tape) gerekir."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "CPS Testi - Tıklama Hızını Ölç",
+      "description": "Ne kadar hızlısın? 10 saniyelik testi yap. Arkadaşlarına meydan oku ve E-spor turnuvaları için antrenman yap."
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "TIKLAMA HIZI TESTİ (CPS)"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "1 Saniye CPS Testi - Anlık Hız",
+      "description": "1 saniyedeki maksimum hızını ölç. Drag Click ve Knockback tepkisini ölçmek için ideal."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "ANLIK HIZ TESTİ (1 SANİYE)"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
-      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "5 Saniye CPS Testi - Kısa Sprint",
+      "description": "Oyuncular için standart test. 5 saniyede kaç tık? Pro ortalaması 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "5 SANİYE TESTİ"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "60 Saniye Maraton - Dayanıklılık Testi",
+      "description": "En zorlu dayanıklılık testi. Kolun yorulmadan 1 dakika boyunca hızı koruyabilir mi?"
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "60 SANİYE MEYDAN OKUMASI"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "Jitter Click Eğitimi - Titreme Tekniği",
+      "description": "Jitter Click yapmayı öğren. Kolunu titreterek 14+ CPS'e ulaş. Rehber ve güvenli test."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "JITTER CLICK EĞİTİMİ"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
-      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "Butterfly Click Testi - Çift Parmak",
+      "description": "Butterfly Click hızını test et. İki parmakla CPS'i ikiye katla. SonOyuncu Bedwars için şart."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "BUTTERFLY CLICK TESTİ"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
-      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "Drag Click Testi - Sürtünme ve Hız",
+      "description": "Drag Click performansını ölç. Sürtünme kuvvetiyle saniyeler içinde yüzlerce tık yap."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "DRAG CLICK TESTİ"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
-      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "Minecraft PvP Click Test - Kombo Eğitimi",
+      "description": "Minecraft PvP'ye özel tıklama testi. Aim geliştir ve Knockback azalt."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "MINECRAFT PVP EĞİTİMİ"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Reaksiyon Testi - İnsan Refleks Ölçümü",
+      "description": "Görsel refleks süreni milisaniye (ms) cinsinden ölç. Ortalama 250ms. Sen 150ms altına inebilir misin?"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
+    "h1": "REAKSİYON SÜRESİ TESTİ",
+    "wait": "Yeşili Bekle...",
+    "click": "ŞİMDİ TIKLA!",
+    "too_soon": "Çok erken! Tahmin etme.",
     "result": "{time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Klavye Hız Testi - 10 Parmak Yazma",
+      "description": "Ücretsiz 1 dakikalık yazma testi. Dakikadaki Kelime Sayısını (DKS/WPM) ve doğruluğunu ölç."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "KLAVYE YAZMA HIZI (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Klavye Testi Online - Tuşları Kontrol Et",
+      "description": "Klavyendeki her tuşu test et. Ghosting, basmayan tuşlar ve bozuk switchleri bul."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "KLAVYE DONANIM TESTİ"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Jitter click nasıl yapılır?",
-        "answer": "Answer regarding Jitter click nasıl yapılır for TR users."
+        "question": "Normal mouse ile Drag Click yapılır mı?",
+        "answer": "Ofis mouse'larında zordur. Mat/pürüzlü yüzeyli ve 'Debounce Time' engeli olmayan bir oyuncu mouse'una ihtiyacınız var. Elektrik bandı (Grip Tape) yapıştırmak çok işe yarar."
       },
       "q2": {
-        "question": "Question 2 about Makro testi?",
-        "answer": "Answer regarding Makro testi for TR users."
+        "question": "Valorant'ta Aim nasıl geliştirilir?",
+        "answer": "Sadece hızlı tıklamak yetmez. DPI ayarını rahat bir seviyeye (400-800) getirin, Windows'ta 'İşaretçi hassasiyetini artır'ı kapatın ve Crosshair Placement (Nişangah yerleştirme) çalışın."
       },
       "q3": {
-        "question": "Question 3 about Refleks testi oyunu?",
-        "answer": "Answer regarding Refleks testi oyunu for TR users."
+        "question": "Klavyem mekanik mi nasıl anlarım?",
+        "answer": "Bir tuş kapağını (keycap) çıkarın. Artı şeklinde bir anahtar (mavi, kırmızı, kahverengi) görüyorsanız mekaniktir. Plastik bir kubbe görüyorsanız membran (normal) klavyedir."
       },
       "q4": {
-        "question": "Question 4 about Klavye tuş testi çalışmıyor?",
-        "answer": "Answer regarding Klavye tuş testi çalışmıyor for TR users."
+        "question": "Jitter Click ele zarar verir mi?",
+        "answer": "Yanlış yapılırsa evet. Aşırı gerginlik karpal tünel sendromuna yol açabilir. Isınma hareketleri yapın ve ağrı hissederseniz durun."
       },
       "q5": {
-        "question": "Question 5 about En hızlı tıklama rekoru?",
-        "answer": "Answer regarding En hızlı tıklama rekoru for TR users."
+        "question": "Butterfly Click için en iyi mouse hangisi?",
+        "answer": "Glorious Model O, Logitech G Pro X ve Bloody serisi popülerdir çünkü çift tıklamaya izin veren düşük 'Debounce Time' ayarına sahiptirler."
       },
       "q6": {
-        "question": "Question 6 about Valorant aim geliştirme?",
-        "answer": "Answer regarding Valorant aim geliştirme for TR users."
+        "question": "Polling Rate (Hz) nedir?",
+        "answer": "Mouse'un bilgisayara ne sıklıkla rapor verdiğidir. Oyun için 1000Hz (1ms) standarttır. 125Hz'de mouse takılarak hareket eder."
       },
       "q7": {
-        "question": "Question 7 about Mouse tıklama ömrü testi?",
-        "answer": "Answer regarding Mouse tıklama ömrü testi for TR users."
+        "question": "Mouse imleci neden titriyor veya takılıyor?",
+        "answer": "Genellikle sensördeki toz veya kirli bir mousepad yüzünden olur. Sensörü kulak çubuğuyla nazikçe temizleyin."
       },
       "q8": {
-        "question": "Question 8 about Jitter click nasıl yapılır?",
-        "answer": "Answer regarding Jitter click nasıl yapılır for TR users."
+        "question": "Mouse Double Click sorunu nasıl test edilir?",
+        "answer": "'Mouse Testi' aracımızı kullanın. Yavaşça 100 kez tek tıklayın. Sayaç 102 veya daha fazla gösterirse switch bozulmuştur."
       },
       "q9": {
-        "question": "Question 9 about Makro testi?",
-        "answer": "Answer regarding Makro testi for TR users."
+        "question": "Ortalama bir insanın CPS'i kaçtır?",
+        "answer": "Normal bir kullanıcı 6-7 CPS yapar. Oyuncular 8-10 CPS. Minecraft profesyonelleri özel tekniklerle 15 CPS üzerine çıkar."
       },
       "q10": {
-        "question": "Question 10 about Refleks testi oyunu?",
-        "answer": "Answer regarding Refleks testi oyunu for TR users."
+        "question": "FPS oyunları için hangi DPI kullanılmalı?",
+        "answer": "Düşük DPI (400-800) daha hassas nişan almanızı sağlar. Yüksek DPI (1600+) MOBA oyunları içindir. Mouse ivmesini mutlaka kapatın."
       },
       "q11": {
-        "question": "Question 11 about Klavye tuş testi çalışmıyor?",
-        "answer": "Answer regarding Klavye tuş testi çalışmıyor for TR users."
+        "question": "Mekanik klavye oyunda avantaj sağlar mı?",
+        "answer": "Evet, tuşun algılama noktası daha kısadır, bu da strafe (sağa-sola hareket) yaparken daha hızlı tepki vermenizi sağlar."
       },
       "q12": {
-        "question": "Question 12 about En hızlı tıklama rekoru?",
-        "answer": "Answer regarding En hızlı tıklama rekoru for TR users."
+        "question": "Gamepad Analog Drift sorunu nasıl çözülür?",
+        "answer": "Drift, sensöre toz girmesinden olur. Basınçlı hava ile temizlemeyi deneyin. Düzelmezse parçanın değişmesi gerekir."
       },
       "q13": {
-        "question": "Question 13 about Valorant aim geliştirme?",
-        "answer": "Answer regarding Valorant aim geliştirme for TR users."
+        "question": "İnternetim hızlı ama pingim neden yüksek?",
+        "answer": "İndirme hızı ile gecikme (Ping) farklıdır. Ping dalgalanmalarını ve paket kaybını önlemek için Wi-Fi yerine Ethernet kablosu kullanın."
       },
       "q14": {
-        "question": "Question 14 about Mouse tıklama ömrü testi?",
-        "answer": "Answer regarding Mouse tıklama ömrü testi for TR users."
+        "question": "Klavye Ghosting nedir?",
+        "answer": "Aynı anda birçok tuşa bastığınızda (örn: W + Shift + Boşluk) bazılarının algılanmamasıdır. İyi klavyelerde 'N-Key Rollover' bulunur."
       },
       "q15": {
-        "question": "Question 15 about Jitter click nasıl yapılır?",
-        "answer": "Answer regarding Jitter click nasıl yapılır for TR users."
+        "question": "Mikrofonumun cızırtılı olup olmadığını nasıl anlarım?",
+        "answer": "Mikrofon Testi aracımızı açın. Siz suskunken dalga çizgisi hala hareket ediyorsa, dip ses veya elektriksel gürültü vardır."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Reaksiyon süresi nedir?",
+        "answer": "Beyninizin görüntüyü işleyip parmağınıza 'tıkla' komutunu göndermesi için geçen süredir."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "İyi bir reaksiyon süresi kaçtır?",
+        "answer": "Ortalama 250ms'dir. 200ms altı çok iyidir. F1 pilotları ve E-sporcular 150ms civarındadır."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Refleksler geliştirilebilir mi?",
+        "answer": "Evet. Hızlı FPS oyunları oynayın, iyi uyuyun (uyku çok önemlidir) ve her gün Aim Trainer veya testimizi kullanın."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Yaş ilerledikçe refleksler yavaşlar mı?",
+        "answer": "Evet, zirve 24 yaş civarıdır. Ancak oyun bilgisi (Game Sense) hız kaybını telafi edebilir."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "144Hz monitör işe yarar mı?",
+        "answer": "Kesinlikle! Görüntü daha sık yenilenir, düşmanı 60Hz kullanan birinden milisaniyeler önce görürsünüz."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "Görsel mi işitsel refleks daha hızlı?",
+        "answer": "Beyin sesi (170ms), ışıktan (250ms) daha hızlı işler. Bu yüzden iyi bir kulaklık ses kasmak için hayati önem taşır."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "Enerji içecekleri işe yarar mı?",
+        "answer": "Kısa süreli odaklanma sağlar ama fazlası el titremesine (jitter) yol açarak aim'inizi bozar."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "Kablosuz mouse gecikme yapar mı?",
+        "answer": "Yeni nesil oyuncu mouse'ları (Logitech Lightspeed, Razer) kablolu kadar, hatta daha hızlıdır. Gecikme tarih oldu."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "Input Lag nedir?",
+        "answer": "Tıklama ile ekrandaki hareket arasındaki gecikmedir. V-Sync açmak veya eski monitör kullanmak Input Lag'i artırır."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "İsabet oranımı (Accuracy) nasıl ölçerim?",
+        "answer": "Küçük ve hızlı kaybolan hedeflere tıkladığınız 'Accuracy Test' araçlarını kullanın."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "WPM/DKS nedir?",
+        "answer": "Words Per Minute (Dakikadaki Kelime Sayısı). Yazma hızının dünya standartlarında ölçüm birimidir."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Nasıl daha hızlı yazarım?",
+        "answer": "10 parmak yazmayı (On Parmak) öğrenin. Klavyeye bakmayın. Önce doğruluğa, sonra hıza odaklanın."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Kaç WPM iyidir?",
+        "answer": "40 WPM ortalamadır. 60-70 WPM ofis işleri için iyidir. 100 WPM üzeri profesyonel seviyedir."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Klavyeye bakmadan yazmak daha mı iyi?",
+        "answer": "Evet, kas hafızası devreye girer. Ekrana odaklanabilir ve hataları anında düzeltebilirsiniz."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "Yazı yazmak için Mavi mi Kırmızı Switch mi?",
+        "answer": "Mavi (Blue) sesli klik sesi verir, yazarlar sever. Kırmızı (Red) sessiz ve düzdür, oyuncular tercih eder."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "Laptop klavyesi kötü mü?",
+        "answer": "Tuş mesafesi kısadır. Harici bir mekanik klavye uzun yazılarda daha ergonomik ve hızlıdır."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "Nasıl pratik yapabilirim?",
+        "answer": "Palmtweets'i her gün kullanın. Kitaplardan rastgele paragraflar yazarak kelime hazinenizi zorlayın."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "Doğruluk (Accuracy) nedir?",
+        "answer": "Doğru basılan tuş yüzdesidir. %80 doğrulukla 100 WPM yazmak anlamsızdır çünkü silip düzeltmek zaman alır."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "Bilek ağrısı nasıl önlenir?",
+        "answer": "Bileklerinizi düz tutun (masanın kenarına dayamayın). Bir bilek desteği (Wrist Rest) kullanın."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "F Klavye mi Q Klavye mi daha hızlı?",
+        "answer": "Türkçe için F Klavye bilimsel olarak daha hızlıdır çünkü en çok kullanılan harfler orta sıradadır. Ancak Q Klavye daha yaygındır."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Ghosting nedir?",
+        "answer": "Aynı anda çok fazla tuşa basıldığında klavyenin bazılarını algılamamasıdır."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "NKRO nedir?",
+        "answer": "N-Key Rollover. Tüm tuşlara aynı anda basabilirsiniz ve hepsi algılanır. Oyuncular için şarttır."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Bozuk tuşu nasıl bulurum?",
+        "answer": "Klavye Testi aracımızı açın. Şüphelendiğiniz tuşa basın. Yeşil yanmıyorsa switch veya devre bozuktur."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Membran ve Mekanik farkı nedir?",
+        "answer": "Membran lastik kullanır (ucuz, hissiz). Mekanik yaylı anahtar kullanır (hassas, dayanıklı)."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "Tuş kapağı nasıl çıkarılır?",
+        "answer": "Tuş sökme aparatı (Keycap Puller) kullanın. Bıçakla kanırtmayın, switch'i kırabilirsiniz."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "Optik Switch nedir?",
+        "answer": "İletişim için metal yerine ışık kullanır. Teorik olarak en hızlı ve en dayanıklı switch türüdür."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "Boşluk tuşum neden ses çıkarıyor?",
+        "answer": "Dengeleyici teller (stabilizer) kurumuş olabilir. Kenarlarına biraz yağ (Lube) sürmek sesi keser."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "TKL klavye daha mı iyi?",
+        "answer": "Numara takımı olmadığı (Tenkeyless) için daha az yer kaplar. Mouse'u hareket ettirmek için daha fazla alan kalır."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "Chattering nedir?",
+        "answer": "Bir tuşa bir kez basınca 'aa' veya 'aaa' yazmasıdır. Kirli mekanik klavyelerin kronik sorunudur."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "Klavyeyi yıkayabilir miyim?",
+        "answer": "HAYIR (su geçirmez sertifikası yoksa). Sadece basınçlı hava ve izopropil alkol ile temizleyin."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "SÜRE",
+    "score": "PUAN",
+    "start": "BAŞLA",
+    "active": "HIZLI OL!",
+    "try_again": "TEKRAR",
+    "share": "PAYLAŞ",
+    "result_msg": "Mükemmel! Ninja gibi reflekslerin var. Rekorunu kırmayı dene!",
+    "slow": "🐢 Kaplumbağa",
+    "fast": "⚡ Şimşek",
+    "superhuman": "👑 Efsane"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "Araç Hakkında",
+    "how_to": "Nasıl Kullanılır",
+    "rank_up": "Nasıl Gelişirim?",
+    "faq": "Sıkça Sorulan Sorular",
+    "related": "Benzer Araçlar",
+    "step1": "'Başla' butonuna veya gri alana tıkla.",
+    "step2": "Süre bitene kadar olabildiğince hızlı tıkla.",
+    "step3": "Sıralamanı gör ve arkadaşlarınla paylaş.",
+    "rank_turtle": "Rütbe Kaplumbağa (0-5 CPS):",
+    "rank_turtle_desc": "Çok yavaş! Kol kaslarını sıkmayı dene.",
+    "rank_pro": "Rütbe Pro (5-10 CPS):",
+    "rank_pro_desc": "Ortalama bir oyuncu hızı.",
+    "rank_god": "Rütbe Efsane (10+ CPS):",
+    "rank_god_desc": "Jitter veya Butterfly Click tekniklerinde ustasın."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Ölü Piksel Testi (Monitör)",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Monitör veya telefon ekranında ölü piksel (Dead Pixel), sıkışmış piksel veya ışık sızması var mı kontrol et."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (TR)",
+    "h1": "Dokunmatik Ekran Testi Online",
     "seo": {
-      "title": "Touch Screen Test Online (TR)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Dokunmatik Testi - Ghost Touch Kontrolü",
+      "description": "Telefon ekranını test et. Ölü bölgeleri, Ghost Touch sorununu ve çoklu dokunmatiği kontrol et."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (TR)",
-      "p_hook": "Localized intro for TR. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for TR.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for TR.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for TR.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in TR."
+      "h2_hook": "Telefonun Kendi Kendine mi Basıyor? (Ghost Touch)",
+      "p_hook": "Oyunun ortasında ekran kendi kendine hareket ediyorsa 'Ghost Touch' sorunu var demektir. Bu araçla sorunun ekranda mı yoksa kirden mi kaynaklandığını anla.",
+      "h2_science": "Test nasıl çalışır?",
+      "p_science": "Ekranda bir ızgara gösteriyoruz. Parmağını her yere sür. Yeşil olmayan kare kalırsa, orası ölü bölgedir (Dead Zone).",
+      "h2_gaming": "Çoklu Dokunma (4 Parmak PUBG)",
+      "p_gaming": "Mobil oyuncular genelde 4 parmak (Claw) oynar. Tüm parmaklarını ekrana koy. Aracımız telefonunun aynı anda kaç parmağı algıladığını gösterir.",
+      "h2_hardware": "Yazılım mı Donanım mı?",
+      "p_hardware": "Yaygın sebep: Yan sanayi şarj aleti (elektrik kaçağı) veya kalın ekran koruyucu. Sadece şarjdayken oluyorsa kabloyu değiştir.",
+      "h2_technique": "Hızlı Çözüm",
+      "p_technique": "Ekranı sil (yağ/ter). Mıknatıslı kılıfı çıkar. Telefonu yeniden başlat."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (TR)",
+    "h1": "Mikrofon Testi Online",
     "seo": {
-      "title": "Microphone Test Online (TR)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Mikrofon Test Et - Cızırtı ve Ses Seviyesi",
+      "description": "Mikrofon ve kulaklığını test et. Ses dalgalarını gör, ses seviyesini ve yankıyı (eko) kontrol et."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (TR)",
-      "p_hook": "Localized intro for TR. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for TR.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for TR.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for TR.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in TR."
+      "h2_hook": "Discord'da sesin kötü mü gidiyor?",
+      "p_hook": "Maça girmeden sesini kontrol et. Cızırtı, yankı veya robot ses iletişimi bozar. Mikrofonunu burada ücretsiz ve kurulumsuz test et.",
+      "h2_science": "Ses Dalgası",
+      "p_science": "Bu araç sesini canlı grafiğe döker. Sen konuşurken çizgi düz kalıyorsa, mikrofon sessizdedir veya Windows ayarları yanlıştır.",
+      "h2_gaming": "Stereo Test (Sol / Sağ)",
+      "p_gaming": "Kulaklıkta ayak sesinin sağdan mı soldan mı geldiğini duymak hayati önem taşır. Kanal testimiz kulaklığı ters takıp takmadığını gösterir.",
+      "h2_hardware": "Tüm cihazlarla uyumlu",
+      "p_hardware": "Yaka mikrofonu, USB kulaklık, webcam ve stüdyo mikrofonlarını test eder. Tarayıcının mikrofon iznini 'İzin Ver' yapmayı unutma.",
+      "h2_technique": "Cızırtıyı Önleme",
+      "p_technique": "Windows ses ayarlarından 'Mikrofon Bası'nı (Boost) düşür. Statik cızırtı genellikle topraklama eksikliğinden olur."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (TR)",
+    "h1": "Gamepad Testi (Analog Drift)",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (TR)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Oyun Kolu Testi PS4/PS5/Xbox - Drift Kontrolü",
+      "description": "Gamepad tuşlarını ve analoglarını test et. Stick Drift ve titreşim motorlarını PC'de kontrol et."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (TR)",
-      "p_hook": "Localized intro for TR. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for TR.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for TR.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for TR.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in TR."
+      "h2_hook": "Karakter kendi kendine mi yürüyor? (Stick Drift)",
+      "p_hook": "DualSense ve Xbox kollarının en büyük belası 'Drift'tir. Analog çubuğun gerçekten merkezde durup durmadığını eksen grafiğimizle gör.",
+      "h2_science": "Eksen Değerleri (Axis)",
+      "p_science": "X ve Y değerlerini gösteriyoruz. Sağlam bir kol 0.00'da durur. Dokunmadan sayılar oynuyorsa drift var demektir.",
+      "h2_gaming": "Uyumluluk",
+      "p_gaming": "DualShock 4, DualSense (PS5), Xbox One/Series ve yan sanayi kollarla çalışır. USB veya Bluetooth ile bağlaman yeterli.",
+      "h2_hardware": "Titreşim ve Tetik Testi",
+      "p_hardware": "'Titreşim' butonuna basarak motorları dene. L2/R2 tetiklerinin %0'dan %100'e kadar hassas çalışıp çalışmadığını da gör.",
+      "h2_technique": "Drift Nasıl Çözülür?",
+      "p_technique": "Analog içine basınçlı hava sıkmayı dene. Veya oyun ayarlarından 'Ölü Bölge'yi (Deadzone) artırarak hafif oynamaları yok say."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (TR)",
+    "h1": "Paket Kaybı ve Ping Testi",
     "seo": {
-      "title": "Packet Loss & Ping Test (TR)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Packet Loss Testi - Lag ve Jitter Kontrolü",
+      "description": "İnternet hızlı ama oyun donuyor mu? Paket kaybı (Packet Loss), Jitter ve gerçek ping değerini ölç."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (TR)",
-      "p_hook": "Localized intro for TR. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for TR.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for TR.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for TR.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in TR."
+      "h2_hook": "Ping düşük ama ışınlanıyor musun (Lag)?",
+      "p_hook": "Bu 'Packet Loss' sorunudur. Oyun verileri yolda kayboluyor. Hız testi sadece indirme hızını ölçer, biz bağlantının KARARLILIĞINI ölçüyoruz.",
+      "h2_science": "Jitter Nedir?",
+      "p_science": "Jitter, pingin dalgalanmasıdır. Sabit 50ms, sürekli 20ms ile 100ms arasında gidip gelen pingden daha iyidir. Yüksek jitter lag yapar.",
+      "h2_gaming": "Wi-Fi vs Kablo",
+      "p_gaming": "Altın Kural: WI-FI İLE OYUN OYNAMA. Kablosuz bağlantı kararsızdır. %0 paket kaybı için Ethernet kablosu (LAN) kullan.",
+      "h2_hardware": "Ağ Teşhisi",
+      "p_hardware": "Kayıp varsa modemi kapatıp aç. Devam ederse sorun servis sağlayıcıdadır (TTNet, Superonline). Bu testi kanıt olarak kullan.",
+      "h2_technique": "Ping Düşürme",
+      "p_technique": "Arka plandaki indirmeleri kapat (Steam, Windows Update), telefonların Wi-Fi bağlantısını kes ve Türkiye'ye yakın sunucuları (Frankfurt gibi) seç."
     }
   }
 }
