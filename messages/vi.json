@@ -1,479 +1,479 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPS Test - Kiểm tra tốc độ click chuột | Palmtweets",
+    "description": "Bạn click chuột nhanh cỡ nào? Thử ngay bài test CPS 10 giây. Luyện tập Jitter Click và Butterfly Click cho Minecraft PvP. Miễn phí."
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Bắt đầu",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "Điểm",
-    "timer": "Thời gian",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "Chia sẻ",
-    "start": "START CLICKING",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "h1": "Kiểm Tra Tốc Độ Click Chuột (CPS)",
+    "description": "Đo số lần Click mỗi giây (CPS) cực chuẩn. Công cụ luyện tập phản xạ cho game thủ Minecraft, Liên Minh Huyền Thoại và FPS.",
+    "start_btn": "BẮT ĐẦU TEST",
+    "modes": "Chế độ luyện tập",
+    "rank_noob": "🐢 Rank: Gà Mờ",
+    "rank_pro": "⚡ Rank: Cao Thủ",
+    "rank_god": "👑 Rank: THÁCH ĐẤU (Godlike)",
+    "share_txt": "Tôi vừa đạt {score} CPS trên Palmtweets. Solo không?",
+    "score": "ĐIỂM",
+    "timer": "THỜI GIAN",
+    "active": "CLICK NHANH!",
+    "try_again": "THỬ LẠI",
+    "share": "CHIA SẺ",
+    "start": "BẮT ĐẦU",
+    "result_msg": "Tốc độ tay của bạn quá nhanh! Liệu bạn có thể phá kỷ lục của chính mình?",
+    "slow": "🐢 Chậm",
+    "fast": "⚡ Nhanh",
+    "superhuman": "👑 Siêu Phàm"
   },
   "nav": {
     "home": "Trang chủ",
-    "cps": "Kiểm tra Click",
+    "cps": "Test Click",
     "reaction": "Phản xạ",
     "typing": "Gõ phím",
-    "keyboard": "Keyboard",
+    "keyboard": "Test Bàn phím",
     "privacy": "Riêng tư"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "Phần cứng",
-    "game_challenges": "Trò chơi",
-    "click_modes": "Chế độ nhấp",
-    "time_modes": "Chế độ thời gian",
+    "cps_cluster": "Kiểm tra CPS",
+    "typing_cluster": "Tốc độ gõ phím",
+    "reaction_cluster": "Test Phản xạ",
+    "keyboard_cluster": "Test Phần cứng",
+    "cps_1s": "Test 1 Giây (Burst)",
+    "cps_5s": "Test 5 Giây",
+    "cps_60s": "Thử thách 60 Giây",
+    "jitter": "Luyện Jitter Click",
+    "butterfly": "Luyện Butterfly Click",
+    "drag": "Luyện Drag Click",
+    "reaction": "Thời gian phản xạ (ms)",
+    "typing": "Tốc độ đánh máy (WPM)",
+    "keyboard": "Kiểm tra phím (Key Test)",
+    "minecraft": "Minecraft PvP CPS",
+    "pubg": "Luyện Aim PUBG",
+    "roblox": "Clicker cho Roblox",
+    "valorant": "Phản xạ Valorant",
+    "fortnite": "Tốc độ Edit Fortnite",
+    "hardware_tests": "Kiểm tra Thiết bị",
+    "game_challenges": "Thử thách Game thủ",
+    "click_modes": "Kỹ thuật Click",
+    "time_modes": "Thời gian",
     "community": "Cộng đồng",
-    "touch_test": "Touch Screen Test (VI)",
-    "mic_test": "Mic Test (VI)",
-    "gamepad_test": "Gamepad Tester (VI)",
-    "packet_loss": "Packet Loss Test (VI)"
+    "touch_test": "Test Cảm ứng (Màn hình)",
+    "mic_test": "Test Mic (Âm thanh)",
+    "gamepad_test": "Test Tay cầm (Drift)",
+    "packet_loss": "Test Ping & Mạng"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "Nền tảng kiểm tra phản xạ và phần cứng gaming số 1 thế giới."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "title": "Chính sách bảo mật",
+    "intro": "Tại Palmtweets, chúng tôi tôn trọng quyền riêng tư của bạn.",
     "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
-    "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "cookies_text": "Chúng tôi sử dụng cookie để cải thiện trải nghiệm và phân tích lưu lượng truy cập ẩn danh.",
+    "data_title": "Thu thập dữ liệu",
+    "data_text": "Chúng tôi không thu thập thông tin cá nhân. Điểm số của bạn được lưu cục bộ trên trình duyệt.",
+    "contact_title": "Liên hệ",
+    "contact_text": "Câu hỏi? Gửi email tới support@palmtweets.com."
   },
   "seo_content": {
-    "h2_improve": "Cách cải thiện tốc độ nhấp chuột",
-    "p_improve": "Cần luyện tập và phần cứng tốt. Thư giãn tay.",
-    "h2_styles": "Butterfly vs Jitter",
-    "p_styles": "Jitter là rung tay. Butterfly dùng hai ngón.",
-    "h2_record": "Kỷ lục thế giới là gì?",
-    "p_record": "Hơn 30 CPS trong 1 giây.",
-    "h2_useful": "Có hữu ích không?",
-    "p_useful": "Có, rất quan trọng trong Minecraft PvP.",
-    "h2_hardware": "Section 4 (VI)",
-    "p_hardware": "Localized content for VI focusing on Phần mềm auto click nhẹ nhất. Detailed analysis of click speed and hardware performance.",
-    "h2_games": "CPS in Competitive Gaming",
-    "p_games": "In Minecraft 1.8 PvP, high CPS helps with 'taking less knockback' and starting combos. In shooters like CS2 or Valorant, reaction time is often more critical than raw CPS, but click consistency ensures your shots land when intended.",
-    "h2_hook": "Section 1 (VI)",
-    "p_hook": "Localized content for VI focusing on Test chuột double click, Kiểm tra bàn phím online. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (VI)",
-    "p_science": "Localized content for VI focusing on Cách jitter click hiệu quả, Test tốc độ gõ phím. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (VI)",
-    "p_gaming": "Localized content for VI focusing on Luyện phản xạ Liên Minh Huyền Thoại, Chuột bị liệt nút click. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (VI)",
-    "p_technique": "Localized content for VI focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "Làm sao để tăng tốc độ click chuột (CPS)?",
+    "p_improve": "CPS cao không chỉ dựa vào sức mạnh mà là kỹ thuật. Hãy thả lỏng cổ tay để tránh chấn thương. Sử dụng chuột gaming có switch nảy tốt (như Logitech hoặc Fuhlen). Luyện tập 15 phút mỗi ngày để tạo phản xạ cơ bắp (muscle memory).",
+    "h2_styles": "Butterfly Click vs Jitter Click: Cái nào ngon hơn?",
+    "p_styles": "**Jitter Click** dùng độ rung của cánh tay để đạt 12-14 CPS, rất tốt để ghìm tâm (recoil control). **Butterfly Click** dùng hai ngón tay gõ luân phiên để đạt 20+ CPS, tuyệt vời để xây cầu (Bridging) trong Minecraft Bedwars. Lưu ý: Butterfly cần chuột hỗ trợ Double Click.",
+    "h2_record": "Kỷ lục thế giới CPS là bao nhiêu?",
+    "p_record": "Kỷ lục hợp lệ trong 10 giây là khoảng 22-24 CPS. Tuy nhiên, với kỹ thuật **Drag Click**, một số game thủ có thể đạt tới 30+ CPS trong tích tắc (Burst click).",
+    "h2_useful": "Tại sao CPS quan trọng trong Minecraft và FPS?",
+    "p_useful": "Trong Minecraft 1.8 PvP, CPS cao giúp giảm độ giật lùi (Knockback) khi bị đánh và tăng khả năng combo. Trong game FPS như CS2 hay Valorant, click nhanh giúp bắn súng lục hoặc súng trường bán tự động (tap fire) hiệu quả hơn.",
+    "h2_hardware": "Chuột của bạn có bị Double Click không?",
+    "p_hardware": "Nếu bạn click một lần mà máy tính nhận hai lần, switch chuột của bạn đã bị hỏng (lỗi Double Click). Dùng công cụ test của chúng tôi để xác định lỗi phần cứng trước khi mang đi bảo hành hoặc mua chuột mới.",
+    "h2_games": "Cải thiện kỹ năng Aim và Phản xạ",
+    "p_games": "Click nhanh vô dụng nếu bạn bắn trượt. Hãy dùng bài **Test Phản Xạ** để giảm độ trễ giữa mắt và tay. Game thủ chuyên nghiệp thường phản xạ dưới 180ms.",
+    "h2_hook": "Điện thoại bị loạn cảm ứng? (Ghost Touch)",
+    "p_hook": "Đang chơi Liên Quân hay PUBG Mobile mà nút di chuyển tự chạy? Đó là 'Ghost Touch'. Dùng bài Test Cảm Ứng của chúng tôi để tìm điểm chết trên màn hình điện thoại trước khi tốn tiền sửa.",
+    "h2_science": "Mạng 4 chữ nhưng vẫn lag? (Packet Loss)",
+    "p_science": "Ping thấp nhưng nhân vật bị giật cục? Đó là **Mất Gói Tin** (Packet Loss). Speedtest chỉ đo tốc độ tải, còn chúng tôi đo độ ỔN ĐỊNH của mạng (VNPT, Viettel, FPT) khi chơi game thực tế.",
+    "h2_gaming": "Bàn phím bị Ghosting là gì?",
+    "p_gaming": "Bạn không thể vừa chạy, vừa nhảy và ném bom cùng lúc? Đó là lỗi 'Ghosting'. Bàn phím thường chỉ nhận tối đa 3 phím. Kiểm tra xem bàn phím của bạn có hỗ trợ Anti-Ghosting hay không tại đây.",
+    "h2_technique": "Bí kíp Drag Click",
+    "p_technique": "Drag Click là kỹ thuật miết ngón tay lên bề mặt chuột nhám để tạo ma sát, giúp tạo ra hàng trăm cú click trong vài giây. Cần có băng dính chuột (Grip Tape) và chuột có bề mặt nhám mới làm được."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "CPS Test - Kiểm tra tốc độ Click Chuột",
+      "description": "Bạn nhanh tay cỡ nào? Làm bài test 10 giây. Thách đấu bạn bè và luyện tập cho các giải đấu eSports."
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "KIỂM TRA TỐC ĐỘ CLICK"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "Test CPS 1 Giây - Tốc độ tức thời",
+      "description": "Kiểm tra tốc độ tối đa trong 1 giây. Lý tưởng để đo Drag Click và khả năng giảm Knockback."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "TEST SIÊU TỐC (1 GIÂY)"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
-      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "Test CPS 5 Giây - Chạy nước rút",
+      "description": "Tiêu chuẩn của game thủ. Bạn click được bao nhiêu trong 5 giây? Mức trung bình của Pro là 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "TEST 5 GIÂY"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "Marathon 60 Giây - Kiểm tra độ bền",
+      "description": "Bài test sức bền tối thượng. Bạn có thể giữ vững phong độ trong suốt 1 phút không?"
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "THỬ THÁCH 60 GIÂY"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "Luyện Jitter Click - Kỹ thuật rung tay",
+      "description": "Học cách Jitter Click. Rung cơ tay để đạt 14+ CPS. Hướng dẫn và bài tập an toàn."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "LUYỆN TẬP JITTER CLICK"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
-      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "Test Butterfly Click - Click ngón kép",
+      "description": "Kiểm tra Butterfly Click. Dùng hai ngón tay để nhân đôi CPS. Kỹ năng bắt buộc cho Bedwars."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "TEST BUTTERFLY CLICK"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
-      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "Test Drag Click - Ma sát & Tốc độ",
+      "description": "Thử nghiệm Drag Click. Dùng ma sát để tạo ra hàng trăm cú click trong vài giây."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "TEST DRAG CLICK"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
-      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "Minecraft PvP Click Test - Luyện Combo",
+      "description": "Luyện click dành riêng cho Minecraft PvP. Cải thiện khả năng Aim và giảm Knockback."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "LUYỆN TẬP MINECRAFT PVP"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Test Thời Gian Phản Xạ - Human Benchmark Việt Nam",
+      "description": "Đo phản xạ thị giác bằng mili giây. Người bình thường là 250ms. Bạn có thể đạt dưới 150ms không?"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
+    "h1": "TEST THỜI GIAN PHẢN XẠ",
+    "wait": "Đợi màu xanh...",
+    "click": "BẤM NGAY!",
+    "too_soon": "Sớm quá! Đừng đoán mò.",
     "result": "{time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Kiểm tra Tốc độ Đánh máy - Đo WPM",
+      "description": "Bài test gõ phím 1 phút miễn phí. Tính số Từ Mỗi Phút (WPM) và độ chính xác của bạn."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "TỐC ĐỘ GÕ PHÍM (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Test Bàn Phím Online - Kiểm tra phím liệt",
+      "description": "Kiểm tra từng phím trên bàn phím. Phát hiện Ghosting, phím bị kẹt và switch hỏng."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "CHẨN ĐOÁN BÀN PHÍM"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Kiểm tra bàn phím online?",
-        "answer": "Answer regarding Kiểm tra bàn phím online for VI users."
+        "question": "Làm sao để Drag Click trên chuột thường?",
+        "answer": "Rất khó trên chuột văn phòng. Bạn cần chuột có bề mặt nhám (matte) và switch không chặn 'Debounce Time'. Dán băng dính điện (Grip Tape) sẽ giúp ích rất nhiều."
       },
       "q2": {
-        "question": "Question 2 about Cách jitter click hiệu quả?",
-        "answer": "Answer regarding Cách jitter click hiệu quả for VI users."
+        "question": "Cách cải thiện Aim trong Valorant hay CS2?",
+        "answer": "Click nhanh chưa đủ. Hãy chỉnh DPI về mức thoải mái (400-800), tắt 'Gia tốc chuột' trong Windows và luyện đặt tâm (Crosshair placement) ngang đầu địch."
       },
       "q3": {
-        "question": "Question 3 about Test tốc độ gõ phím?",
-        "answer": "Answer regarding Test tốc độ gõ phím for VI users."
+        "question": "Làm sao biết bàn phím là cơ hay thường?",
+        "answer": "Tháo một nút (keycap) ra. Nếu thấy công tắc hình dấu cộng (xanh, đỏ, nâu) thì là phím cơ. Nếu thấy núm cao su thì là phím thường (giả cơ)."
       },
       "q4": {
-        "question": "Question 4 about Luyện phản xạ Liên Minh Huyền Thoại?",
-        "answer": "Answer regarding Luyện phản xạ Liên Minh Huyền Thoại for VI users."
+        "question": "Jitter Click có hại tay không?",
+        "answer": "Nếu làm sai kỹ thuật thì có. Nó có thể gây đau cổ tay hoặc hội chứng ống cổ tay. Hãy khởi động kỹ và nghỉ ngơi nếu thấy đau."
       },
       "q5": {
-        "question": "Question 5 about Chuột bị liệt nút click?",
-        "answer": "Answer regarding Chuột bị liệt nút click for VI users."
+        "question": "Chuột nào tốt nhất để Butterfly Click?",
+        "answer": "Glorious Model O, Logitech G Pro X và Fuhlen G90 là những lựa chọn phổ biến vì có thể chỉnh 'Debounce Time' thấp để dễ double click."
       },
       "q6": {
-        "question": "Question 6 about Phần mềm auto click nhẹ nhất?",
-        "answer": "Answer regarding Phần mềm auto click nhẹ nhất for VI users."
+        "question": "Polling Rate (Hz) là gì?",
+        "answer": "Là tần số chuột báo cáo vị trí cho máy tính. Chơi game nên để 1000Hz (1ms). Nếu để 125Hz, chuột sẽ di chuyển giật cục."
       },
       "q7": {
-        "question": "Question 7 about Test chuột double click?",
-        "answer": "Answer regarding Test chuột double click for VI users."
+        "question": "Tại sao chuột bị khựng (Spin out)?",
+        "answer": "Thường do mắt đọc bị dính bụi hoặc pad chuột quá bẩn. Dùng tăm bông vệ sinh nhẹ nhàng mắt đọc xem sao."
       },
       "q8": {
-        "question": "Question 8 about Kiểm tra bàn phím online?",
-        "answer": "Answer regarding Kiểm tra bàn phím online for VI users."
+        "question": "Cách test lỗi Double Click?",
+        "answer": "Dùng công cụ 'Test Chuột' của chúng tôi. Click chậm 100 lần. Nếu bộ đếm hiện 102 trở lên, switch chuột của bạn đã bị hỏng."
       },
       "q9": {
-        "question": "Question 9 about Cách jitter click hiệu quả?",
-        "answer": "Answer regarding Cách jitter click hiệu quả for VI users."
+        "question": "CPS trung bình của người Việt là bao nhiêu?",
+        "answer": "Người bình thường khoảng 6-7 CPS. Game thủ hay chơi nét khoảng 8-10. Dân Minecraft chuyên nghiệp có thể lên tới 15+."
       },
       "q10": {
-        "question": "Question 10 about Test tốc độ gõ phím?",
-        "answer": "Answer regarding Test tốc độ gõ phím for VI users."
+        "question": "Nên để DPI bao nhiêu để bắn súng?",
+        "answer": "DPI thấp (400-800) giúp aim chuẩn hơn. DPI cao (1600+) hợp với game MOBA như Liên Minh. Quan trọng là tắt gia tốc chuột."
       },
       "q11": {
-        "question": "Question 11 about Luyện phản xạ Liên Minh Huyền Thoại?",
-        "answer": "Answer regarding Luyện phản xạ Liên Minh Huyền Thoại for VI users."
+        "question": "Bàn phím cơ có giúp phản xạ nhanh hơn không?",
+        "answer": "Có, điểm kích hoạt (actuation point) của phím cơ ngắn và nhạy hơn, giúp bạn tung chiêu hoặc di chuyển nhanh hơn phím cao su."
       },
       "q12": {
-        "question": "Question 12 about Chuột bị liệt nút click?",
-        "answer": "Answer regarding Chuột bị liệt nút click for VI users."
+        "question": "Cách sửa lỗi trôi cần analog (Drift)?",
+        "answer": "Drift thường do bụi bẩn lọt vào cảm biến. Thử dùng bình xịt khí nén thổi vào khe analog. Nếu không hết thì phải thay linh kiện."
       },
       "q13": {
-        "question": "Question 13 about Phần mềm auto click nhẹ nhất?",
-        "answer": "Answer regarding Phần mềm auto click nhẹ nhất for VI users."
+        "question": "Tại sao mạng cáp quang mà ping vẫn cao?",
+        "answer": "Tốc độ tải xuống không phải là độ trễ (Ping). Hãy cắm dây mạng (LAN) thay vì dùng WiFi để giảm Ping và tránh mất gói tin (Packet Loss)."
       },
       "q14": {
-        "question": "Question 14 about Test chuột double click?",
-        "answer": "Answer regarding Test chuột double click for VI users."
+        "question": "Lỗi Ghosting bàn phím là gì?",
+        "answer": "Là khi bạn nhấn nhiều phím cùng lúc (VD: W + Shift + Space) mà một phím không nhận lệnh. Bàn phím xịn sẽ có tính năng N-Key Rollover để chống lỗi này."
       },
       "q15": {
-        "question": "Question 15 about Kiểm tra bàn phím online?",
-        "answer": "Answer regarding Kiểm tra bàn phím online for VI users."
+        "question": "Làm sao biết mic có bị rè không?",
+        "answer": "Dùng bài Test Mic của chúng tôi. Nếu sóng âm dao động mạnh dù bạn đang im lặng, mic của bạn đang bị nhiễu hoặc nhiễm điện."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Thời gian phản xạ là gì?",
+        "answer": "Là thời gian não bộ xử lý hình ảnh nhìn thấy và ra lệnh cho ngón tay bấm chuột."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Phản xạ bao nhiêu là tốt?",
+        "answer": "Trung bình là 250ms. Dưới 200ms là rất tốt. Tuyển thủ chuyên nghiệp như Faker hay s1mple thường đạt khoảng 150ms."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Có luyện phản xạ được không?",
+        "answer": "Được. Chơi game bắn súng, ngủ đủ giấc (rất quan trọng) và dùng các phần mềm Aim Trainer hoặc bài test của chúng tôi hàng ngày."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Tuổi tác có ảnh hưởng phản xạ không?",
+        "answer": "Có, đỉnh cao là khoảng 24 tuổi, sau đó sẽ chậm dần. Nhưng kinh nghiệm (Game Sense) có thể bù đắp cho tốc độ."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Màn hình 144Hz có giúp ích không?",
+        "answer": "Rất nhiều! Hình ảnh mượt hơn giúp bạn nhìn thấy địch sớm hơn vài mili giây so với màn 60Hz. Đây là lợi thế lớn."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "Phản xạ mắt hay tai nhanh hơn?",
+        "answer": "Não xử lý âm thanh (170ms) nhanh hơn hình ảnh (250ms). Đó là lý do tại sao tai nghe xịn rất quan trọng để nghe tiếng bước chân (Footstep)."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "Uống bò húc/cà phê có giúp không?",
+        "answer": "Giúp tỉnh táo tạm thời, nhưng uống nhiều sẽ gây run tay (jitter), làm giảm độ chính xác khi aim."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "Chuột không dây có bị trễ (delay) không?",
+        "answer": "Chuột xịn đời mới (Logitech Lightspeed, Razer) nhanh ngang ngửa hoặc hơn chuột dây. Độ trễ gần như bằng không."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "Input Lag là gì?",
+        "answer": "Là độ trễ từ lúc bạn click chuột đến lúc súng bắn trên màn hình. Máy yếu hoặc màn hình cũ sẽ làm tăng Input Lag."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "Làm sao để test độ chính xác?",
+        "answer": "Dùng bài 'Accuracy Test', bạn phải click vào các mục tiêu nhỏ xuất hiện ngẫu nhiên thật nhanh."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "WPM là gì?",
+        "answer": "Words Per Minute (Từ mỗi phút). Đây là đơn vị chuẩn quốc tế để đo tốc độ gõ phím."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Làm sao để gõ 10 ngón?",
+        "answer": "Học gõ không nhìn phím (Touch Typing). Đặt tay đúng vị trí (phím F và J có gờ). Đừng nhìn xuống bàn phím. Ban đầu chậm nhưng sau sẽ rất nhanh."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "WPM bao nhiêu là ổn?",
+        "answer": "40 WPM là trung bình. 60-70 WPM là tốt cho dân văn phòng. Trên 100 WPM là mức thượng thừa."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Gõ không nhìn phím có tốt hơn không?",
+        "answer": "Có, vì bạn nhìn thẳng vào màn hình để sửa lỗi sai ngay lập tức, tiết kiệm rất nhiều thời gian."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "Switch Blue hay Red để gõ văn bản?",
+        "answer": "Blue có tiếng 'tách tách' vui tai, nhiều người thích để gõ. Red thì êm và nhẹ, thích hợp chơi game hoặc gõ đêm khuya."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "Bàn phím laptop gõ có sướng không?",
+        "answer": "Hành trình phím nông nên gõ lâu sẽ mỏi. Bàn phím cơ rời cho cảm giác nảy tốt hơn và ít mỏi tay hơn."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "Cách luyện gõ nhanh?",
+        "answer": "Dùng Palmtweets mỗi ngày. Thử gõ lại các đoạn văn trong sách báo để làm quen với nhiều từ vựng khác nhau."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "Độ chính xác (Accuracy) là gì?",
+        "answer": "Là tỷ lệ gõ đúng. Gõ 100 WPM mà sai 20% thì vô dụng vì tốn thời gian sửa lỗi (Backspace)."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "Làm sao để không đau cổ tay?",
+        "answer": "Để cổ tay thẳng (đừng tì mạnh vào cạnh bàn). Dùng kê tay (Wrist rest) đệm su hoặc gỗ."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "Kiểu gõ TELEX hay VNI nhanh hơn?",
+        "answer": "Tùy thói quen, nhưng TELEX phổ biến hơn vì các phím dấu nằm ngay trong khu vực chữ cái, giúp ngón tay di chuyển ít hơn."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Lỗi Ghosting là gì?",
+        "answer": "Khi bạn nhấn nhiều phím cùng lúc mà máy không nhận hết. Thường gặp ở bàn phím rẻ tiền."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "NKRO là gì?",
+        "answer": "N-Key Rollover. Bạn có thể nhấn TOÀN BỘ phím cùng lúc và máy tính vẫn nhận đủ. Tính năng bắt buộc cho game thủ."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Cách tìm phím bị liệt?",
+        "answer": "Mở công cụ Test Bàn Phím của chúng tôi. Nhấn phím nghi ngờ. Nếu nó không sáng màu xanh nghĩa là switch hoặc mạch đã hỏng."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Khác nhau giữa phím Cơ và phím Thường?",
+        "answer": "Phím thường dùng núm cao su (rẻ, cảm giác dính). Phím cơ dùng lò xo và lẫy kim loại (bền, nảy, sướng tay)."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "Cách tháo nút bàn phím?",
+        "answer": "Dùng cây nhổ phím (Keycap Puller). Đừng dùng dao hay tua vít cạy, dễ làm gãy chân switch."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "Switch quang học (Optical) là gì?",
+        "answer": "Dùng ánh sáng để kích hoạt thay vì kim loại. Nó bền hơn và phản hồi nhanh hơn switch cơ truyền thống."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "Tại sao phím Space nghe lọc cọc?",
+        "answer": "Do thanh cân bằng (stabilizer) bị khô dầu. Tra một chút mỡ bôi trơn (Lube) vào hai đầu sẽ êm ngay."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "Bàn phím TKL là gì?",
+        "answer": "Tenkeyless (lược bỏ phần phím số bên phải). Giúp bàn phím gọn hơn, có nhiều chỗ để di chuột hơn."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "Lỗi Chattering là gì?",
+        "answer": "Gõ 1 chữ 'a' mà nó ra 'aa' hoặc 'aaa'. Bệnh chung của bàn phím cơ bị bụi bẩn."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "Có rửa bàn phím bằng nước được không?",
+        "answer": "TUYỆT ĐỐI KHÔNG (trừ loại chống nước). Chỉ dùng khí nén thổi bụi và cồn 90 độ lau bề mặt."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "THỜI GIAN",
+    "score": "ĐIỂM",
+    "start": "BẮT ĐẦU",
+    "active": "NHANH LÊN!",
+    "try_again": "CHƠI LẠI",
+    "share": "CHIA SẺ",
+    "result_msg": "Tuyệt vời! Phản xạ của bạn như Ninja vậy. Thử phá kỷ lục xem nào!",
+    "slow": "🐢 Rùa bò",
+    "fast": "⚡ Tia chớp",
+    "superhuman": "👑 Thần thánh"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "Về công cụ này",
+    "how_to": "Cách chơi",
+    "rank_up": "Cách leo Rank",
+    "faq": "Câu hỏi thường gặp",
+    "related": "Công cụ liên quan",
+    "step1": "Nhấn nút 'Bắt đầu' hoặc vùng màu xám.",
+    "step2": "Thực hiện hành động nhanh nhất có thể.",
+    "step3": "Xem hạng của bạn và chia sẻ lên Facebook.",
+    "rank_turtle": "Hạng Rùa (0-5 CPS):",
+    "rank_turtle_desc": "Chậm quá! Thử gồng tay lên xem nào.",
+    "rank_pro": "Hạng Cao Thủ (5-10 CPS):",
+    "rank_pro_desc": "Tốc độ trung bình của game thủ Việt.",
+    "rank_god": "Hạng Thách Đấu (10+ CPS):",
+    "rank_god_desc": "Kinh khủng! Bạn đã làm chủ Jitter hoặc Butterfly Click."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Kiểm tra Điểm chết màn hình (Dead Pixel)",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Kiểm tra màn hình máy tính hoặc điện thoại xem có điểm chết, điểm kẹt màu hay hở sáng không."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (VI)",
+    "h1": "Test Cảm ứng Màn hình Online",
     "seo": {
-      "title": "Touch Screen Test Online (VI)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Test Cảm ứng Điện thoại - Kiểm tra loạn cảm ứng",
+      "description": "Kiểm tra màn hình smartphone. Tìm điểm chết, lỗi loạn cảm ứng (Ghost Touch) và đa điểm."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (VI)",
-      "p_hook": "Localized intro for VI. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for VI.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for VI.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for VI.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in VI."
+      "h2_hook": "Điện thoại tự bấm lung tung? (Loạn cảm ứng)",
+      "p_hook": "Nếu tâm súng trong PUBG tự trôi, bạn bị 'Ghost Touch' rồi. Rất ức chế khi leo rank. Dùng công cụ này để kiểm tra xem do màn hình hỏng hay do tay bẩn.",
+      "h2_science": "Cách test hoạt động thế nào?",
+      "p_science": "Chúng tôi hiện một lưới ô vuông. Bạn vuốt tay khắp màn hình. Ô nào không chuyển sang màu xanh lá cây thì chỗ đó bị chết cảm ứng (Dead Zone).",
+      "h2_gaming": "Test Đa điểm (Vuốt 4 ngón)",
+      "p_gaming": "Game thủ mobile hay chơi 4 ngón (Claw). Đặt hết các ngón tay lên màn hình. Công cụ sẽ báo điện thoại bạn nhận được bao nhiêu ngón cùng lúc.",
+      "h2_hardware": "Lỗi phần cứng hay sạc lô?",
+      "p_hardware": "Nguyên nhân phổ biến: Sạc lô rẻ tiền (dòng điện không ổn định) hoặc cường lực quá dày. Nếu chỉ bị loạn khi cắm sạc, hãy thay dây cáp xịn.",
+      "h2_technique": "Cách khắc phục nhanh",
+      "p_technique": "Lau sạch màn hình (mồ hôi/dầu). Tháo ốp lưng có nam châm. Khởi động lại máy."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (VI)",
+    "h1": "Test Micro Online (Ghi âm & Loa)",
     "seo": {
-      "title": "Microphone Test Online (VI)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Kiểm tra Micro - Test tiếng rè và âm lượng",
+      "description": "Test mic và tai nghe. Biểu đồ sóng âm giúp phát hiện tiếng ồn, tiếng vang (echo) và âm lượng nhỏ."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (VI)",
-      "p_hook": "Localized intro for VI. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for VI.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for VI.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for VI.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in VI."
+      "h2_hook": "Đồng đội bảo mic bạn bị bé?",
+      "p_hook": "Trước khi vào game, hãy check mic. Tiếng rè hay vọng âm (echo) sẽ làm đồng đội khó chịu. Test mic tại đây miễn phí không cần cài đặt.",
+      "h2_science": "Biểu đồ sóng âm",
+      "p_science": "Công cụ này hiển thị giọng nói của bạn theo thời gian thực. Nếu bạn nói mà đường kẻ vẫn thẳng băng, mic đang bị tắt hoặc cài đặt sai trong Windows.",
+      "h2_gaming": "Test Tai nghe (Trái / Phải)",
+      "p_gaming": "Đeo tai nghe ngược là thảm họa trong FPS. Bài test kênh âm thanh (Stereo) sẽ giúp bạn biết bên nào là trái, bên nào là phải.",
+      "h2_hardware": "Hỗ trợ mọi thiết bị",
+      "p_hardware": "Test được mic cài áo, tai nghe USB, webcam và cả mic thu âm. Nhớ chọn 'Cho phép' khi trình duyệt hỏi quyền truy cập mic.",
+      "h2_technique": "Khử tiếng ồn (Noise)",
+      "p_technique": "Giảm 'Microphone Boost' trong cài đặt Sound của Windows. Tiếng rè (è è) thường do dây cắm lỏng hoặc thiếu tiếp đất (nối đất) cho case máy tính."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (VI)",
+    "h1": "Test Tay cầm Gamepad (Trôi cần Analog)",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (VI)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Test Tay cầm PS4, PS5, Xbox - Kiểm tra Drift",
+      "description": "Công cụ kiểm tra nút bấm và cần analog. Check lỗi Stick Drift và motor rung trên PC/Mobile."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (VI)",
-      "p_hook": "Localized intro for VI. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for VI.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for VI.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for VI.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in VI."
+      "h2_hook": "Nhân vật tự đi? (Stick Drift)",
+      "p_hook": "Bệnh kinh điển của tay cầm PS4/PS5 là 'Drift'. Cần analog bị trôi dù không chạm vào. Dùng biểu đồ trục của chúng tôi để xem cần có đứng yên ở tâm không.",
+      "h2_science": "Thông số Trục (Axis)",
+      "p_science": "Chúng tôi hiển thị tọa độ X và Y. Tay cầm ngon sẽ báo 0.00 khi nghỉ. Nếu số nhảy loạn xạ, tay cầm bạn bị drift rồi.",
+      "h2_gaming": "Tương thích",
+      "p_gaming": "Hoạt động với DualShock 4, DualSense (PS5), tay cầm Xbox và cả tay cầm Tàu giá rẻ. Kết nối qua dây USB hoặc Bluetooth.",
+      "h2_hardware": "Test Rung và Cò (Trigger)",
+      "p_hardware": "Bấm 'Rung' để test mô-tơ. Kiểm tra xem cò L2/R2 có nhận lực nhấn từ nhẹ đến mạnh (0% đến 100%) mượt mà không.",
+      "h2_technique": "Sửa lỗi Drift",
+      "p_technique": "Thổi mạnh vào khe analog hoặc dùng bình khí nén. Hoặc tăng 'Deadzone' (Vùng chết) trong cài đặt game để bỏ qua các chuyển động nhỏ."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (VI)",
+    "h1": "Test Packet Loss & Ping (Mạng Lag)",
     "seo": {
-      "title": "Packet Loss & Ping Test (VI)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Test Packet Loss - Kiểm tra Lag và Jitter",
+      "description": "Mạng nhanh nhưng chơi game vẫn lag? Kiểm tra mất gói tin (Packet Loss), Jitter và Ping thực tế."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (VI)",
-      "p_hook": "Localized intro for VI. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for VI.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for VI.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for VI.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in VI."
+      "h2_hook": "Ping xanh nhưng vẫn giật lagg?",
+      "p_hook": "Đó là 'Packet Loss'. Dữ liệu game bị rơi rớt dọc đường. Speedtest chỉ đo tốc độ tải phim, chúng tôi đo độ ỔN ĐỊNH để leo rank.",
+      "h2_science": "Jitter là gì?",
+      "p_science": "Jitter là độ biến động của ping. Ping 50ms ổn định còn ngon hơn ping 20ms mà nhảy lên 100ms liên tục. Jitter cao gây ra hiện tượng 'teleport'.",
+      "h2_gaming": "WiFi vs Dây LAN",
+      "p_gaming": "Luật bất thành văn: KHÔNG CHƠI GAME BẰNG WIFI. Sóng vô tuyến không ổn định. Cắm dây LAN vào để giảm Packet Loss xuống 0%.",
+      "h2_hardware": "Chẩn đoán mạng",
+      "p_hardware": "Nếu bị Loss, thử tắt bật modem. Nếu vẫn bị, do nhà mạng (VNPT, Viettel, FPT) đang 'bóp' hoặc đứt cáp quang biển. Dùng kết quả này để khiếu nại.",
+      "h2_technique": "Cách giảm Ping",
+      "p_technique": "Tắt tải game ẩn (Steam, Update Windows), ngắt WiFi điện thoại và chọn server game gần Việt Nam nhất (Singapore hoặc Hong Kong)."
     }
   }
 }
