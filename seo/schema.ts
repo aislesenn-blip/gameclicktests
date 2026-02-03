@@ -1,16 +1,9 @@
-// SEO Utilities for Palmtweets - OPTIMIZED VERSION
-
-// 1. ORGANIZATION SCHEMA (Hii inajenga Trust kwa Google)
+// 1. ORGANIZATION SCHEMA (Minimal & Safe)
 export const ORGANIZATION_SCHEMA = () => ({
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Palmtweets",
-  "url": "https://palmtweets.com",
-  "logo": "https://palmtweets.com/logo.png", // HAKIKISHA UNA LOGO HAPA
-  "sameAs": [
-    "https://twitter.com/palmtweets", // Weka social links zako
-    "https://facebook.com/palmtweets"
-  ]
+  "url": "https://palmtweets.com"
 });
 
 export const WEBSITE_SCHEMA = (locale: string) => ({
@@ -25,35 +18,24 @@ export const WEBSITE_SCHEMA = (locale: string) => ({
   }
 });
 
-// 2. SOFTWARE SCHEMA (Imezidishiwa Nguvu)
-export const SOFTWARE_APPLICATION_SCHEMA = (
-  name: string, 
-  description: string, 
-  ratingVal: string = "4.8", 
-  ratingCount: string = "15420"
-) => ({
+// 2. SOFTWARE SCHEMA (No Fake Ratings - 100% Google Compliant)
+export const SOFTWARE_APPLICATION_SCHEMA = (name: string, description: string) => ({
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": name,
   "description": description,
   "operatingSystem": "Web Browser, Windows, macOS, Android, iOS",
-  "applicationCategory": "UtilityApplication", // 'Utility' ni bora kuliko 'Game' kwa Tools
+  "applicationCategory": "UtilityApplication",
   "offers": {
     "@type": "Offer",
     "price": "0",
-    "priceCurrency": "USD"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": ratingVal,
-    "ratingCount": ratingCount,
-    "bestRating": "5",
-    "worstRating": "1"
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
   },
   "featureList": "Check Click Speed, Test Mouse Buttons, Measure Reaction Time, Free Online Tool"
 });
 
-// 3. GAME SCHEMA (Kwa Page za Game haswa)
+// 3. GAME SCHEMA
 export const GAME_SCHEMA = (name: string, description: string) => ({
   "@context": "https://schema.org",
   "@type": "VideoGame",
@@ -65,7 +47,7 @@ export const GAME_SCHEMA = (name: string, description: string) => ({
   "operatingSystem": "Web Browser"
 });
 
-// 4. HOWTO SCHEMA (Hii inakupa nafasi kubwa kwenye Search Results)
+// 4. HOWTO SCHEMA
 export const HOWTO_SCHEMA = (name: string, steps: ({ title: string; text: string } | string)[]) => ({
   "@context": "https://schema.org",
   "@type": "HowTo",
@@ -81,7 +63,7 @@ export const HOWTO_SCHEMA = (name: string, steps: ({ title: string; text: string
   }))
 });
 
-// 5. FAQ SCHEMA (Hii inakupa nafasi kubwa kwenye Search Results)
+// 5. FAQ SCHEMA
 export const FAQ_SCHEMA = (questions: { question: string; answer: string }[]) => ({
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -95,7 +77,7 @@ export const FAQ_SCHEMA = (questions: { question: string; answer: string }[]) =>
   }))
 });
 
-// 6. BREADCRUMB SCHEMA (Navigation)
+// 6. BREADCRUMB SCHEMA
 export const BREADCRUMB_SCHEMA = (items: { name: string; url: string }[]) => ({
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
