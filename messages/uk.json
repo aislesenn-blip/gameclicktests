@@ -1,477 +1,479 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "КПС Тест - Перевірка швидкості кліку | Palmtweets",
+    "description": "Як швидко ти клікаєш? Пройди тест КПС за 10 секунд. Тренуй Джиттер та Батерфляй клік для Minecraft. Перевір мишку на дабл-клік."
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start CPS Test",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "SCORE",
-    "timer": "TIMER",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "start": "START CLICKING",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "h1": "Перевір Швидкість Кліку Миттєво",
+    "description": "Виміряй свої Кліки за Секунду (КПС) за допомогою нашого точного інструменту. Створено для гравців Minecraft, CS2 та кіберспортсменів з України.",
+    "start_btn": "ПОЧАТИ ТЕСТ",
+    "modes": "Режими тренування",
+    "rank_noob": "🐢 Ранг: Равлик",
+    "rank_pro": "⚡ Ранг: Про Геймер",
+    "rank_god": "👑 Ранг: БОГ (Godlike)",
+    "share_txt": "Я набрав {score} CPS на Palmtweets. Зможеш побити мій рекорд?",
+    "score": "РАХУНОК",
+    "timer": "ЧАС",
+    "active": "КЛІКАЙ ШВИДШЕ!",
+    "try_again": "ЩЕ РАЗ",
+    "share": "ПОДІЛИТИСЯ",
+    "start": "СТАРТ",
+    "result_msg": "Твоя швидкість вища за середню. Зможеш побити власний рекорд?",
+    "slow": "🐢 Повільно",
+    "fast": "⚡ Швидко",
+    "superhuman": "👑 Легенда"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "home": "Головна",
+    "cps": "КПС Тест",
+    "reaction": "Реакція",
+    "typing": "Друк",
+    "keyboard": "Клавіатура",
+    "privacy": "Приватність"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "Обладнання",
-    "game_challenges": "Ігри",
+    "cps_cluster": "КПС та Клік Тести",
+    "typing_cluster": "Швидкість Друку",
+    "reaction_cluster": "Реакція та Рефлекси",
+    "keyboard_cluster": "Діагностика ПК",
+    "cps_1s": "Тест 1 Секунда (Берст)",
+    "cps_5s": "Тест 5 Секунд",
+    "cps_60s": "Марафон 60 Секунд",
+    "jitter": "Тренування Джиттер Клік",
+    "butterfly": "Тренування Батерфляй",
+    "drag": "Тренування Драг Клік",
+    "reaction": "Час Реакції (мс)",
+    "typing": "Швидкість Друку (WPM)",
+    "keyboard": "Тест Клавіатури",
+    "minecraft": "Minecraft PvP CPS",
+    "pubg": "Тренування Аіму PUBG",
+    "roblox": "Клікер для Roblox",
+    "valorant": "Рефлекси Valorant",
+    "fortnite": "Швидкість Редагування",
+    "hardware_tests": "Тест Заліза",
+    "game_challenges": "Челенджі",
     "click_modes": "Режими Кліку",
-    "time_modes": "Режими Часу",
+    "time_modes": "Таймери",
     "community": "Спільнота",
-    "touch_test": "Touch Screen Test (UK)",
-    "mic_test": "Mic Test (UK)",
-    "gamepad_test": "Gamepad Tester (UK)",
-    "packet_loss": "Packet Loss Test (UK)"
+    "touch_test": "Тест Тачскріну",
+    "mic_test": "Перевірка Мікрофону",
+    "gamepad_test": "Тест Геймпада (Дрифт)",
+    "packet_loss": "Пінг та Втрата Пакетів"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "Найшвидша платформа для тестування рефлексів та ігрового обладнання."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
-    "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
-    "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "title": "Політика конфіденційності",
+    "intro": "Palmtweets поважає вашу приватність.",
+    "cookies_title": "Файли Cookie",
+    "cookies_text": "Ми використовуємо кукі для покращення досвіду та анонімного аналізу трафіку.",
+    "data_title": "Збір даних",
+    "data_text": "Ми не збираємо персональні дані. Ваші результати зберігаються локально у браузері.",
+    "contact_title": "Контакти",
+    "contact_text": "Є питання? Пишіть на support@palmtweets.com."
   },
   "seo_content": {
-    "h2_improve": "Tips to Improve Clicking (UK)",
-    "p_improve": "Practice daily and use a good mouse.",
-    "h2_styles": "Clicking Styles",
-    "p_styles": "Learn Jitter and Butterfly clicking.",
-    "h2_record": "World Records",
-    "p_record": "Aim for 10+ CPS.",
-    "h2_useful": "Gaming Utility",
-    "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Section 4 (UK)",
-    "p_hardware": "Localized content for UK focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_hook": "Section 1 (UK)",
-    "p_hook": "Localized content for UK focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (UK)",
-    "p_science": "Localized content for UK focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (UK)",
-    "p_gaming": "Localized content for UK focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (UK)",
-    "p_technique": "Localized content for UK focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "Як підняти свій КПС (Кліки за секунду)?",
+    "p_improve": "Високий КПС — це техніка, а не сила. Розслаб руку, щоб уникнути тунельного синдрому. Використовуй ігрову мишу зі швидкими свічами (наприклад, Logitech або Razer). Розминайся по 10 хвилин щодня.",
+    "h2_styles": "Jitter Click чи Butterfly Click: Що краще?",
+    "p_styles": "**Джиттер Клік** використовує вібрацію передпліччя для 12-14 CPS, це дає стабільний аім. **Батерфляй Клік** використовує два пальці почергово для 20+ CPS, що ідеально для будівництва мостів (Bridging) у Minecraft Bedwars. Примітка: Батерфляй вимагає мишку, яка підтримує подвійний клік.",
+    "h2_record": "Який світовий рекорд КПС?",
+    "p_record": "Легітимний рекорд за 10 секунд — близько 22-24 CPS. Однак з технікою **Драг Клік** (Drag Click) деякі гравці видають понад 30 CPS за секунду.",
+    "h2_useful": "Навіщо потрібен високий CPS в іграх?",
+    "p_useful": "У Minecraft 1.8 PvP високий КПС зменшує відкидання (Knockback) і допомагає у комбо. У шутерах, як CS2 або Valorant, швидкий клік допомагає стріляти з пістолетів та напівавтоматичних гвинтівок.",
+    "h2_hardware": "Мишка робить подвійний клік сама?",
+    "p_hardware": "Якщо ти клікаєш один раз, а ПК реєструє два — це поломка свіча (Double Click Issue). Використовуй наш інструмент 'Тест Миші', щоб підтвердити несправність перед покупкою нової.",
+    "h2_games": "Покращи Аім та Реакцію",
+    "p_games": "Швидкий клік марний, якщо ти не влучаєш. Використовуй наш **Тест Реакції**, щоб зменшити візуальну затримку. Професійні гравці Na'Vi мають реакцію близько 150-160 мс.",
+    "h2_hook": "Екран телефону живе своїм життям? (Ghost Touch)",
+    "p_hook": "У PUBG Mobile приціл зривається сам? Це 'Фантомні натискання' (Ghost Touch). Використовуй наш Тест Тачскріну, щоб перевірити, чи це екран пошкоджений, чи просто брудний.",
+    "h2_science": "Інтернет швидкий, але лагає? (Packet Loss)",
+    "p_science": "Це часто **Втрата Пакетів** (Packet Loss). Дані гри губляться дорогою. Спідтест міряє лише швидкість завантаження, ми міряємо СТАБІЛЬНІСТЬ з'єднання (Київстар, Воля, Ланет) для геймінгу.",
+    "h2_gaming": "Гостінг Клавіатури та NKRO",
+    "p_gaming": "Не можеш бігти, стрибати і перезаряджатись одночасно? Це 'Гостінг'. Дешеві клавіатури блокуються при натисканні 3 клавіш. Перевір тут, чи підтримує твоя клавіатура NKRO.",
+    "h2_technique": "Мистецтво Драг Кліку",
+    "p_technique": "Драг Клік — це ковзання пальцем по шорсткій поверхні миші для створення тертя, що генерує сотні кліків за секунди. Потрібно: Спеціальна стрічка (Grip Tape) і матова миша."
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "КПС Тест - Виміряй швидкість кліку",
+      "description": "Як швидко ти клікаєш? Пройди тест на 10 секунд. Змагайся з друзями та тренуйся до турнірів."
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "ТЕСТ ШВИДКОСТІ КЛІКУ (CPS)"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "КПС Тест 1 Секунда - Вибухова швидкість",
+      "description": "Перевір свій максимум за секунду. Ідеально для заміру Drag Click та Knockback."
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "ШВИДКИЙ ТЕСТ (1 СЕКУНДА)"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
-      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "КПС Тест 5 Секунд - Короткий спринт",
+      "description": "Стандарт для геймерів. Скільки кліків за 5 секунд? Середній рівень про-гравця — 12+ CPS."
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "ТЕСТ 5 СЕКУНД"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "Марафон 60 Секунд - Витривалість",
+      "description": "Тест на витривалість. Чи зможеш ти тримати темп цілу хвилину без втоми?"
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "ЧЕЛЕНДЖ 60 СЕКУНД"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "Тренування Джиттер Клік - Техніка вібрації",
+      "description": "Вчися Джиттер Кліку. Напруж руку для досягнення 14+ CPS. Гайд та безпечний тест."
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "ТРЕНУВАННЯ JITTER CLICK"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
-      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "Батерфляй Клік Тест - Подвійний клік",
+      "description": "Перевір швидкість Butterfly. Використовуй два пальці для подвоєння CPS. Обов'язково для Bedwars."
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "ТЕСТ BUTTERFLY CLICK"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
-      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "Драг Клік Тест - Тертя та Швидкість",
+      "description": "Перевір Drag Click. Використовуй тертя для реєстрації сотень кліків за секунди."
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "ТЕСТ DRAG CLICK"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
-      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "Minecraft PvP Клік Тест - Тренування Комбо",
+      "description": "Клік-тренування спеціально для Minecraft PvP. Покращ аім та зменш відкидання."
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "ТРЕНУВАННЯ MINECRAFT PVP"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "Тест на Реакцію - Human Benchmark Україна",
+      "description": "Виміряй візуальні рефлекси в мілісекундах. Середній результат — 250 мс. Зможеш вибити 150 мс?"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
-    "result": "{time} ms"
+    "h1": "ТЕСТ ЧАСУ РЕАКЦІЇ",
+    "wait": "Чекай Зелений...",
+    "click": "ТИСНИ ЗАРАЗ!",
+    "too_soon": "Рано! Не вгадуй.",
+    "result": "{time} мс"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "Тест Швидкості Друку - Перевір WPM",
+      "description": "Безкоштовний тест друку на 1 хвилину. Розрахуй Слова за Хвилину (WPM) та точність."
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "ШВИДКІСТЬ ДРУКУ (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "Тест Клавіатури Онлайн - Перевірка клавіш",
+      "description": "Перевір кожну клавішу. Знайди залипання, гостінг та зламані свічі."
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "ДІАГНОСТИКА КЛАВІАТУРИ"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for UK users."
+        "question": "Як робити Драг Клік на звичайній мишці?",
+        "answer": "На офісних мишках це важко. Потрібна миша з матовим покриттям і свічі, що не блокують 'Debounce Time'. Ізострічка (Grip Tape) дуже допомагає."
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for UK users."
+        "question": "Як покращити Аім у Valorant?",
+        "answer": "Швидко клікати замало. Постав низький DPI (400-800), вимкни 'Акселерацію миші' у Windows і тренуй тримання прицілу на рівні голови."
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for UK users."
+        "question": "Як дізнатися, чи механічна моя клавіатура?",
+        "answer": "Зніми кейкап (ковпачок). Якщо бачиш хрестоподібний перемикач (синій, червоний) — це механіка. Якщо гумову мембрану — звичайна."
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for UK users."
+        "question": "Чи шкідливий Джиттер Клік для рук?",
+        "answer": "Якщо робити неправильно — так. Може викликати тунельний синдром через напругу. Роби розминку і перерви."
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for UK users."
+        "question": "Яка миша найкраща для Батерфляй Кліку?",
+        "answer": "Glorious Model O, Logitech G Pro X та Roccat Kain популярні, бо дозволяють налаштувати Debounce Time для легкого проходження подвійних кліків."
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for UK users."
+        "question": "Що таке Герцовка (Polling Rate)?",
+        "answer": "Частота опитування сенсора. Для ігор став 1000Hz (1 мс). На 125Hz курсор рухається ривками."
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for UK users."
+        "question": "Чому курсор миші стрибає?",
+        "answer": "Зазвичай це пил на сенсорі або брудний килимок. Обережно почисти сенсор ватною паличкою."
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for UK users."
+        "question": "Як перевірити мишу на Дабл-клік?",
+        "answer": "Використай наш інструмент 'Тест Миші'. Зроби 100 повільних кліків. Якщо лічильник покаже 102 або більше — свіч вмирає."
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for UK users."
+        "question": "Який середній КПС у людини?",
+        "answer": "Середній — 6-7 CPS. Геймери видають 8-10. Профі Minecraft з драг кліком досягають 15+."
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for UK users."
+        "question": "Який DPI краще для шутерів?",
+        "answer": "Низький DPI (400-800) дає точність. Високий (1600+) зручний для MOBA. Головне: вимкни акселерацію."
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for UK users."
+        "question": "Чи дає механіка перевагу?",
+        "answer": "Так, точка спрацьовування точніша, що дозволяє швидше стрейфитися (ADAD) в іграх."
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for UK users."
+        "question": "Як полагодити дрифт стіка на геймпаді?",
+        "answer": "Дрифт часто викликаний пилом. Спробуй продути стік стисненим повітрям. Якщо не допомогло — треба міняти модуль."
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for UK users."
+        "question": "Чому високий пінг при швидкому інтернеті?",
+        "answer": "Швидкість завантаження не дорівнює якості з'єднання. Використовуй кабель (Ethernet) замість Wi-Fi, щоб прибрати втрату пакетів."
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for UK users."
+        "question": "Що таке Гостінг клавіш?",
+        "answer": "Коли ти натискаєш багато клавіш одночасно (наприклад W + Shift + Space), і одна не спрацьовує. Потрібна клавіатура з NKRO."
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for UK users."
+        "question": "Як перевірити мікрофон на шум?",
+        "answer": "У нашому Тесті Мікрофону подивись на графік тиші. Якщо лінія скаче, коли ти мовчиш — у тебе фоновий шум."
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "Що таке час реакції?",
+        "answer": "Час, за який мозок обробляє візуальний сигнал і відправляє команду пальцю натиснути кнопку."
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "Яка реакція вважається хорошою?",
+        "answer": "250 мс — норма. Нижче 200 мс — чудово. Кіберспортсмени (s1mple) видають близько 150 мс."
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "Чи можна тренувати рефлекси?",
+        "answer": "Так. Грай у динамічні шутери, спи достатньо і використовуй Aim Lab або наш тест щодня."
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "Чи впливає вік на реакцію?",
+        "answer": "Так, пік реакції — 24 роки. Але досвід (Game Sense) може компенсувати швидкість."
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "Чи допомагає монітор 144 Гц?",
+        "answer": "Дуже! Картинка оновлюється частіше, ти бачиш ворога раніше, ніж гравець з 60 Гц."
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "Зорова чи слухова реакція швидша?",
+        "answer": "Мозок обробляє звук (170 мс) швидше за світло (250 мс). Тому хороші навушники — це легальний чит."
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "Енергетики допомагають?",
+        "answer": "Тимчасово підвищують фокус, але надмірне вживання викликає тремор (jitter), що вбиває точність."
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "Чи є затримка у бездротових мишок?",
+        "answer": "Сучасні (Logitech Lightspeed, Razer) такі ж швидкі, як і дротові. Затримки немає."
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "Що таке Інпут Лаг (Input Lag)?",
+        "answer": "Затримка між твоїм кліком і дією на екрані. V-Sync та старі монітори збільшують її."
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "Як перевірити точність?",
+        "answer": "Використовуй 'Accuracy Test', де треба клікати по маленьких цілях, що зникають."
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "Що таке WPM?",
+        "answer": "Words Per Minute (Слів за хвилину). Стандарт вимірювання швидкості друку."
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "Як друкувати швидше?",
+        "answer": "Вивчи сліпий метод друку (10 пальців). Не дивись на клавіатуру. Фокусуйся на точності, а не швидкості."
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "Який WPM хороший?",
+        "answer": "40 WPM — середній. 60-70 WPM — добре для роботи. Понад 100 WPM — рівень змагань."
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "Сліпий друк кращий?",
+        "answer": "Так, м'язова пам'ять бере гору. Ти дивишся на екран і виправляєш помилки миттєво."
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "Сині чи Червоні свічі для тексту?",
+        "answer": "Сині (Blue) клацають — приємно для тексту. Червоні (Red) тихі й лінійні — топ для ігор."
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "Клавіатура ноутбука погана?",
+        "answer": "Вона має малий хід клавіш. Зовнішня механіка завжди швидша і приємніша для довгих текстів."
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "Як тренуватись?",
+        "answer": "Використовуй Palmtweets щодня. Спробуй передруковувати сторінки з книг."
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "Що таке Точність (Accuracy)?",
+        "answer": "Відсоток правильних натискань. 100 WPM з 80% точністю — це погано, бо ти витрачаєш час на виправлення."
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "Як уникнути болю в зап'ястях?",
+        "answer": "Тримай руки рівно (не спирай на край столу). Використовуй підставку під зап'ястя."
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "Чи важлива розкладка?",
+        "answer": "В Україні стандарт — QWERTY (йцукен). Переконайся, що в Windows стоїть правильна українська розкладка (і, ї, є)."
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "Що таке Гостінг (Ghosting)?",
+        "answer": "Коли клавіатура не реєструє натискання через те, що затиснуто забагато клавіш одночасно."
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "Що таке NKRO?",
+        "answer": "N-Key Rollover. Можна натиснути хоч УСІ клавіші одразу, і ПК їх побачить. Мастхев для геймерів."
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "Як знайти зламану кнопку?",
+        "answer": "Відкрий наш Тест Клавіатури. Натисни підозрілу кнопку. Якщо не світиться зеленим — свіч мертвий."
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "Мембрана чи Механіка?",
+        "answer": "Мембрана — гума (дешево, м'яко). Механіка — пружина (чітко, довговічно)."
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "Як зняти клавішу?",
+        "answer": "Використовуй пулер (знімач). Не колупай ножем, зламаєш кріплення свіча."
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "Що таке Оптичні свічі?",
+        "answer": "Працюють від переривання променя світла. Найшвидші на сьогодні."
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "Чому пробіл гримить?",
+        "answer": "Стабілізатори (залізяки збоку) сухі. Мастило (Lube) прибере цей звук."
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "TKL клавіатура — це що?",
+        "answer": "Tenkeyless. Без цифрового блоку праворуч. Залишає більше місця для мишки."
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "Що таке Дабл-тайпінг (Chattering)?",
+        "answer": "Тицяєш букву один раз, а друкується 'ппривіт'. Хвороба брудної механіки."
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "Можна мити клавіатуру?",
+        "answer": "НІ (хіба що вона водонепроникна). Протирай спиртом і продувай повітрям."
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "ТАЙМЕР",
+    "score": "РАХУНОК",
+    "start": "СТАРТ",
+    "active": "ТИСНИ!",
+    "try_again": "ЗНОВУ",
+    "share": "ПОДІЛИТИСЯ",
+    "result_msg": "Супер! У тебе реакція ніндзя. Спробуй побити рекорд!",
+    "slow": "🐢 Рак",
+    "fast": "⚡ Блискавка",
+    "superhuman": "👑 Легенда"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "Про інструмент",
+    "how_to": "Як користуватись",
+    "rank_up": "Як підняти ранг?",
+    "faq": "Часті питання",
+    "related": "Схожі інструменти",
+    "step1": "Натисни кнопку 'Старт' або сіру зону.",
+    "step2": "Виконуй дію максимально швидко.",
+    "step3": "Дізнайся свій ранг і поділися результатом.",
+    "rank_turtle": "Ранг Черепаха (0-5 CPS):",
+    "rank_turtle_desc": "Надто повільно! Напруж м'язи руки.",
+    "rank_pro": "Ранг Профі (5-10 CPS):",
+    "rank_pro_desc": "Середня швидкість геймера.",
+    "rank_god": "Ранг Бог (10+ CPS):",
+    "rank_god_desc": "Ти освоїв Джиттер або Батерфляй клік."
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "Перевірка Битих Пікселів",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "Перевір монітор або екран телефону на биті пікселі, засвіти та гостінг."
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (UK)",
+    "h1": "Тест Тачскріну Онлайн",
     "seo": {
-      "title": "Touch Screen Test Online (UK)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "Тест Тачскріну - Перевірка на мертві зони",
+      "description": "Перевір екран телефону. Знайди мертві зони, фантомні натискання та перевір мультитач."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (UK)",
-      "p_hook": "Localized intro for UK. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for UK.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for UK.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for UK.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in UK."
+      "h2_hook": "Сенсор зриває в іграх? (Ghost Touch)",
+      "p_hook": "Якщо в PUBG Mobile приціл смикається сам, це 'Фантомні натискання'. Це часта проблема. Перевір тачскрін тут, щоб зрозуміти: глюк софту чи смерть екрану.",
+      "h2_science": "Як працює тест?",
+      "p_science": "Ми створюємо сітку. Води пальцем по всьому екрану. Якщо квадрат не фарбується — там мертва зона (Dead Zone).",
+      "h2_gaming": "Тест Мультитачу (Гра в 4 пальці)",
+      "p_gaming": "Граєш у 'Коготь' (Claw)? Поклади 4-5 пальців на екран. Тест покаже, скільки дотиків тримає телефон одночасно.",
+      "h2_hardware": "Софт чи Залізо?",
+      "p_hardware": "Часта причина — дешева зарядка (пробиває струм) або захисне скло. Якщо лагає тільки на зарядці — міняй кабель.",
+      "h2_technique": "Швидке рішення",
+      "p_technique": "Протри екран спиртовою серветкою. Зніми чохол з магнітами. Перезавантаж телефон."
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (UK)",
+    "h1": "Тест Мікрофону Онлайн",
     "seo": {
-      "title": "Microphone Test Online (UK)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "Перевірка Мікрофону - Тест звуку та шумів",
+      "description": "Перевір мікрофон та навушники. Візуалізація звукової хвилі, тест стерео та відлуння."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (UK)",
-      "p_hook": "Localized intro for UK. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for UK.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for UK.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for UK.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in UK."
+      "h2_hook": "Тебе погано чути в Діскорді?",
+      "p_hook": "Перед каткою перевір мікро. Шуми або відлуння псують комунікацію. Протестуй звук тут без реєстрації.",
+      "h2_science": "Візуалізатор хвиль",
+      "p_science": "Дивись на графік. Якщо ти говориш, а лінія пряма — мікрофон вимкнено у Windows або зламано.",
+      "h2_gaming": "Тест Стерео (Ліво / Право)",
+      "p_gaming": "Для навушників життєво важливо чути кроки зліва і справа. Наш тест каналів покаже, чи не переплутані 'вуха'.",
+      "h2_hardware": "Підтримка пристроїв",
+      "p_hardware": "Тестуємо петлички, USB-мікрофони, вебки та студійні мікрофони. Не забудь натиснути 'Дозволити' у браузері.",
+      "h2_technique": "Як прибрати шум?",
+      "p_technique": "Зменш 'Посилення' (Gain) у налаштуваннях Windows. Статичний шум — це часто поганий кабель або відсутність заземлення."
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (UK)",
+    "h1": "Тест Геймпада (Дрифт Стіка)",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (UK)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "Тест Геймпада PS4, PS5, Xbox - Перевірка Дрифту",
+      "description": "Інструмент для перевірки кнопок та стіків. Знайди дрифт аналогів та перевір вібрацію."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (UK)",
-      "p_hook": "Localized intro for UK. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for UK.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for UK.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for UK.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in UK."
+      "h2_hook": "Персонаж йде сам? (Stick Drift)",
+      "p_hook": "Головна хвороба DualSense та Xbox — дрифт стіків. Використовуй наш графік осей, щоб побачити, чи стоїть стік рівно в центрі.",
+      "h2_science": "Графік Осей (Axis)",
+      "p_science": "Ми показуємо координати X та Y. Ідеальний геймпад показує 0.00 у спокої. Якщо цифри бігають — у тебе дрифт.",
+      "h2_gaming": "Сумісність",
+      "p_gaming": "Працює з DualShock 4, DualSense (PS5), Xbox One/Series та Switch Pro. Підключи по кабелю або Bluetooth.",
+      "h2_hardware": "Тест Вібрації та Курків",
+      "p_hardware": "Тисни 'Vibrate', щоб перевірити мотори. Також перевір плавність натискання курків L2/R2 (від 0% до 100%).",
+      "h2_technique": "Лікування Дрифту",
+      "p_technique": "Продуй стік стисненим повітрям. Або збільш 'Мертву зону' (Deadzone) у налаштуваннях гри, щоб ігнорувати дрібний дрифт."
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (UK)",
+    "h1": "Тест Втрати Пакетів та Пінгу",
     "seo": {
-      "title": "Packet Loss & Ping Test (UK)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "Тест Packet Loss - Перевірка лагів та джиттеру",
+      "description": "Інтернет швидкий, а гра лагає? Перевір втрату пакетів (Packet Loss), джиттер та реальний пінг."
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (UK)",
-      "p_hook": "Localized intro for UK. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for UK.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for UK.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for UK.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in UK."
+      "h2_hook": "Пінг низький, а телепорти є?",
+      "p_hook": "Це 'Packet Loss'. Дані гри губляться дорогою. Спідтест міряє швидкість завантаження, ми міряємо СТАБІЛЬНІСТЬ з'єднання.",
+      "h2_science": "Що таке Джиттер?",
+      "p_science": "Джиттер — це стрибки пінгу. Стабільні 50 мс краще, ніж стрибки від 20 до 100 мс. Високий джиттер — причина лагів.",
+      "h2_gaming": "Starlink / Wi-Fi проти Кабелю",
+      "p_gaming": "Золоте правило: НЕ ГРАЙ ПО WI-FI. Бездротовий сигнал нестабільний. Підключи кабель (Ethernet), щоб отримати 0% втрат.",
+      "h2_hardware": "Діагностика мережі",
+      "p_hardware": "Є втрати? Перезавантаж роутер. Якщо не допомогло — проблема у провайдера. Покажи їм цей тест як доказ.",
+      "h2_technique": "Як покращити пінг",
+      "p_technique": "Закрий торенти і браузер. Відключи телефон від Wi-Fi. Обирай сервери ближче до свого регіону (наприклад, Frankfurt або Warsaw)."
     }
   }
 }
