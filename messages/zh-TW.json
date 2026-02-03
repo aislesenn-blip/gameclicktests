@@ -1,477 +1,479 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "CPS Test - 連點測試 & 滑鼠檢測工具 | Palmtweets",
+    "description": "你的手速有多快？進行 10 秒 CPS 測試。練習 Jitter Click 和 Butterfly Click 技巧，專為 Minecraft PvP 和 LoL 走A 設計。滑鼠連點檢測。"
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start CPS Test",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "SCORE",
-    "timer": "TIMER",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "start": "START CLICKING",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "h1": "立即測試你的點擊速度 (CPS)",
+    "description": "使用我們超精準的工具測量每秒點擊次數 (CPS)。專為 Minecraft、英雄聯盟 (LoL) 和 FPS 競技玩家打造的反應訓練神器。",
+    "start_btn": "開始測試",
+    "modes": "訓練模式",
+    "rank_noob": "🐢 等級：菜鳥 (Noob)",
+    "rank_pro": "⚡ 等級：電競選手 (Pro)",
+    "rank_god": "👑 等級：跟鬼一樣 (GODLIKE)",
+    "share_txt": "我在 Palmtweets 測出了 {score} CPS 的手速。你能贏過我嗎？",
+    "score": "分數",
+    "timer": "時間",
+    "active": "拼命點！",
+    "try_again": "再測一次",
+    "share": "分享成績",
+    "start": "開始",
+    "result_msg": "你的手速超越了平均水準。要挑戰打破自己的紀錄嗎？",
+    "slow": "🐢 慢",
+    "fast": "⚡ 快",
+    "superhuman": "👑 神人"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "home": "首頁",
+    "cps": "連點測試",
+    "reaction": "反應速度",
+    "typing": "打字測試",
+    "keyboard": "鍵盤測試",
+    "privacy": "隱私權"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "硬體測試",
-    "game_challenges": "遊戲挑戰",
-    "click_modes": "點擊模式",
+    "cps_cluster": "CPS & 連點測試",
+    "typing_cluster": "打字速度 (WPM)",
+    "reaction_cluster": "反應與反射",
+    "keyboard_cluster": "電腦硬體檢測",
+    "cps_1s": "1 秒爆發測試",
+    "cps_5s": "5 秒衝刺測試",
+    "cps_60s": "60 秒耐力挑戰",
+    "jitter": "Jitter Click (抖動點擊)",
+    "butterfly": "Butterfly Click (蝴蝶點擊)",
+    "drag": "Drag Click (拖曳點擊)",
+    "reaction": "反應時間 (ms)",
+    "typing": "中英打字速度測試",
+    "keyboard": "鍵盤防鬼鍵測試",
+    "minecraft": "Minecraft PvP 連點",
+    "pubg": "PUBG 壓槍練習",
+    "roblox": "Roblox 連點器",
+    "valorant": "特戰英豪反應測試",
+    "fortnite": "Fortnite 編輯速度",
+    "hardware_tests": "硬體檢測工具",
+    "game_challenges": "玩家挑戰",
+    "click_modes": "點擊技巧",
     "time_modes": "時間模式",
     "community": "社群",
-    "touch_test": "Touch Screen Test (ZH-TW)",
-    "mic_test": "Mic Test (ZH-TW)",
-    "gamepad_test": "Gamepad Tester (ZH-TW)",
-    "packet_loss": "Packet Loss Test (ZH-TW)"
+    "touch_test": "螢幕觸控測試",
+    "mic_test": "麥克風測試",
+    "gamepad_test": "手把搖桿測試 (漂移)",
+    "packet_loss": "Ping 與 掉封包測試"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "全球最快的反應速度與電競硬體測試平台。"
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
+    "title": "隱私權政策",
+    "intro": "Palmtweets 非常重視您的隱私。",
     "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
-    "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "cookies_text": "我們使用 Cookies 來改善體驗並進行匿名流量分析。",
+    "data_title": "資料收集",
+    "data_text": "我們不收集個人識別資料 (PII)。您的遊戲分數僅儲存於您的瀏覽器中。",
+    "contact_title": "聯絡我們",
+    "contact_text": "有問題嗎？請來信 support@palmtweets.com"
   },
   "seo_content": {
-    "h2_improve": "Tips to Improve Clicking (ZH-TW)",
-    "p_improve": "Practice daily and use a good mouse.",
-    "h2_styles": "Clicking Styles",
-    "p_styles": "Learn Jitter and Butterfly clicking.",
-    "h2_record": "World Records",
-    "p_record": "Aim for 10+ CPS.",
-    "h2_useful": "Gaming Utility",
-    "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Section 4 (ZH-TW)",
-    "p_hardware": "Localized content for ZH-TW focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_hook": "Section 1 (ZH-TW)",
-    "p_hook": "Localized content for ZH-TW focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (ZH-TW)",
-    "p_science": "Localized content for ZH-TW focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (ZH-TW)",
-    "p_gaming": "Localized content for ZH-TW focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (ZH-TW)",
-    "p_technique": "Localized content for ZH-TW focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "如何提升 CPS (每秒點擊次數)？",
+    "p_improve": "高 CPS 不僅靠蠻力，更靠技巧。放鬆手腕以避免腕隧道症候群。使用微動開關回彈快的電競滑鼠（如 Logitech 或 Razer）。每天練習 10 分鐘以建立肌肉記憶。",
+    "h2_styles": "蝴蝶點擊 (Butterfly) vs 抖動點擊 (Jitter)：哪個好？",
+    "p_styles": "**Jitter Click** 利用手臂肌肉震動來達到 12-14 CPS，瞄準較穩。**Butterfly Click** 使用兩根手指交替敲擊，可達 20+ CPS，是 Minecraft Bedwars 搭橋 (Bridging) 的必備技能。注意：Butterfly 需要滑鼠支援雙擊 (Double Click)。",
+    "h2_record": "CPS 世界紀錄是多少？",
+    "p_record": "10 秒測試的常規紀錄約為 22-24 CPS。但如果使用 **Drag Click** 技巧，部分玩家可以在一秒內達到 30 CPS 以上的爆發速度。",
+    "h2_useful": "為什麼 CPS 對遊戲很重要？",
+    "p_useful": "在 Minecraft 1.8 PvP 中，高 CPS 可以減少受到的擊退 (Knockback) 並更容易接 Combo。在《特戰英豪》或 CS2 中，快速點擊有助於手槍或半自動步槍的精準連發。",
+    "h2_hardware": "你的滑鼠會自動連點 (Double Click) 嗎？",
+    "p_hardware": "如果你只按一下，電腦卻判定兩下，代表滑鼠微動開關壞了（連點災情）。在購買新滑鼠之前，請使用我們的「滑鼠測試」工具確認是否為硬體故障。",
+    "h2_games": "提升瞄準 (Aim) 和反應時間",
+    "p_games": "如果打不中，點再快也沒用。使用我們的 **反應時間測試** 來降低視覺延遲。職業電競選手的平均反應時間通常低於 150ms。",
+    "h2_hook": "手機螢幕亂跳？(鬼手/Ghost Touch)",
+    "p_hook": "玩《傳說對決》或 PUBG M 時，角色自己亂走？這就是「鬼手」(Ghost Touch)。使用我們的觸控螢幕測試，檢查是螢幕壞點還是單純螢幕太髒。",
+    "h2_science": "Ping 很低為什麼還會頓？(掉封包)",
+    "p_science": "這通常是 **掉封包 (Packet Loss)** 造成的。遊戲數據在傳輸過程中遺失。Speedtest 只測下載速度，我們的工具能檢測網路的「穩定性」(中華電信、台灣大寬頻等)，這對爬分至關重要。",
+    "h2_gaming": "鍵盤鬼鍵 (Ghosting) 與 NKRO",
+    "p_gaming": "無法同時奔跑、跳躍和換彈？這是「鬼鍵」。便宜的鍵盤同時按下 3 個鍵就會卡住。在這裡檢查你的鍵盤是否支援防鬼鍵 (Anti-Ghosting) 或全鍵無衝突 (NKRO)。",
+    "h2_technique": "Drag Click 是什麼？",
+    "p_technique": "Drag Click 是手指在粗糙的滑鼠表面拖曳，利用摩擦力在短時間內產生數百次點擊的技巧。必須搭配防滑貼 (Grip Tape) 和霧面滑鼠才能成功。"
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "CPS 測試 - 測量你的點擊速度",
+      "description": "你的手速有多快？進行 10 秒測試。挑戰朋友並為電競比賽做準備。"
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "點擊速度測試 (CPS)"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "1 秒 CPS 測試 - 爆發力測試",
+      "description": "測試你在 1 秒內的最大速度。適合測量 Drag Click 峰值和擊退減免效果。"
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "極速測試 (1 秒)"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
-      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "5 秒 CPS 測試 - 短距衝刺",
+      "description": "玩家標準測試。5 秒內能點多少下？職業選手平均為 12+ CPS。"
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "5 秒測試"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "60 秒馬拉松 - 耐力測試",
+      "description": "終極耐力挑戰。你能維持高 CPS 一分鐘而不手酸嗎？"
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "60 秒極限挑戰"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "Jitter Click 練習 - 震動點擊技巧",
+      "description": "學習 Jitter Click。利用手臂震動達到 14+ CPS。附教學與安全練習工具。"
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "JITTER CLICK 訓練"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
-      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "Butterfly Click 測試 - 雙指點擊",
+      "description": "測試 Butterfly Click 速度。使用雙指交替點擊讓 CPS 翻倍。Bedwars 必備。"
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "BUTTERFLY CLICK 測試"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
-      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "Drag Click 測試 - 摩擦與速度",
+      "description": "測試 Drag Click。利用摩擦力在幾秒鐘內註冊數百次點擊。"
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "DRAG CLICK 測試"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
-      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "Minecraft PvP 連點測試 - Combo 訓練",
+      "description": "專為 Minecraft PvP 設計的連點訓練。改善準心追蹤並減少擊退。"
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "MINECRAFT PVP 訓練"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "反應時間測試 - Human Benchmark 台灣版",
+      "description": "以毫秒為單位測量視覺反射神經。平均值為 250ms。你能低於 150ms 嗎？"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
+    "h1": "反應時間測試",
+    "wait": "等待變綠...",
+    "click": "點擊！",
+    "too_soon": "太早了！不要預判。",
     "result": "{time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "打字速度測試 - 測量 WPM",
+      "description": "免費 1 分鐘打字測試。計算每分鐘字數 (WPM) 和準確率。練習盲打。"
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "打字速度 (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "線上鍵盤測試 - 按鍵檢測",
+      "description": "檢查鍵盤上的每個按鍵。找出鬼鍵 (Ghosting)、卡鍵和損壞的軸體。"
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "鍵盤診斷工具"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for ZH-TW users."
+        "question": "普通滑鼠可以用 Drag Click 嗎？",
+        "answer": "辦公用滑鼠很難。你需要表面粗糙（霧面）且微動開關沒有「防抖延遲」(Debounce Time) 限制的滑鼠。貼電火布 (Grip Tape) 會很有幫助。"
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for ZH-TW users."
+        "question": "如何提升《特戰英豪》(Valorant) 的瞄準？",
+        "answer": "光點得快不夠。將 DPI 設定在舒適的低範圍 (400-800)，在 Windows 中關閉「增加指標準確性」，並練習預瞄 (Crosshair Placement)。"
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for ZH-TW users."
+        "question": "怎麼知道我的鍵盤是不是機械式？",
+        "answer": "拔掉鍵帽。如果你看到十字形的開關（青軸、紅軸、茶軸），就是機械式。如果看到橡膠帽，就是薄膜式。"
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for ZH-TW users."
+        "question": "Jitter Click 會傷手嗎？",
+        "answer": "如果姿勢不正確，會。長期緊繃可能導致腕隧道症候群。請多做手腕伸展，感到疼痛時立即停止。"
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for ZH-TW users."
+        "question": "Butterfly Click 推薦哪種滑鼠？",
+        "answer": "Glorious Model O、羅技 G Pro X 和 Roccat Kain 很受歡迎，因為它們可以調低「Debounce Time」以允許雙擊。"
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for ZH-TW users."
+        "question": "輪詢率 (Polling Rate) 是什麼？",
+        "answer": "滑鼠向電腦回報位置的頻率。遊戲建議用 1000Hz (1ms)。如果用 125Hz，滑鼠會感覺頓頓的。"
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for ZH-TW users."
+        "question": "為什麼我的滑鼠會飄移或卡頓？",
+        "answer": "通常是感應器有灰塵或滑鼠墊太髒。用棉花棒輕輕清潔感應器即可。"
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for ZH-TW users."
+        "question": "如何檢測滑鼠連點 (Double Click)？",
+        "answer": "使用我們的「滑鼠測試」工具。慢速單點 100 次。如果計數器顯示 102 次或更多，代表微動開關壞了。"
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for ZH-TW users."
+        "question": "一般人的平均 CPS 是多少？",
+        "answer": "平均約為 6-7 CPS。遊戲玩家約 8-10。Minecraft 高手使用特殊技巧可達 15+。"
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for ZH-TW users."
+        "question": "FPS 遊戲推薦多少 DPI？",
+        "answer": "低 DPI (400-800) 提供精準度。高 DPI (1600+) 適合 MOBA。重點：一定要關閉滑鼠加速。"
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for ZH-TW users."
+        "question": "機械鍵盤能讓你反應更快嗎？",
+        "answer": "可以，觸發點 (Actuation point) 更精確，在急停 (Counter-strafing) 時反應會比薄膜鍵盤快。"
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for ZH-TW users."
+        "question": "如何修復手把搖桿漂移 (Drift)？",
+        "answer": "漂移通常是感應器進灰塵。試著用壓縮空氣吹搖桿底部。如果無效，可能需要更換模組。"
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for ZH-TW users."
+        "question": "網路很快為什麼 Ping 還是很高？",
+        "answer": "下載速度不等於延遲 (Latency)。請使用網路線 (Ethernet) 代替 WiFi，以消除 Ping 值波動和掉封包。"
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for ZH-TW users."
+        "question": "什麼是鍵盤鬼鍵 (Ghosting)？",
+        "answer": "當你同時按下多個鍵（例如 W + Shift + 空白鍵）時，其中一個鍵沒反應。好的電競鍵盤有「全鍵無衝突」(NKRO) 功能。"
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for ZH-TW users."
+        "question": "如何測試麥克風是否有雜音？",
+        "answer": "使用我們的麥克風測試。如果你不說話時波形還在動，代表有背景雜音或電流聲。"
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "什麼是反應時間？",
+        "answer": "大腦處理視覺訊號並傳送指令給手指點擊所需的時間。"
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "多少反應時間算好？",
+        "answer": "平均是 250ms。低於 200ms 很優秀。F1 賽車手和職業電競選手通常在 150ms 左右。"
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "反應速度可以訓練嗎？",
+        "answer": "可以。多玩快節奏射擊遊戲、睡眠充足（非常重要），並每天使用 Aim Trainer 或我們的測試工具。"
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "年齡會影響反應速度嗎？",
+        "answer": "會，大約在 24 歲達到巔峰，之後會緩慢下降。但遊戲經驗 (Game Sense) 可以彌補速度的不足。"
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "144Hz 螢幕有幫助嗎？",
+        "answer": "非常有幫助！畫面刷新率更高，讓你比用 60Hz 的人早幾毫秒看到敵人。"
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "視覺反應快還是聽覺快？",
+        "answer": "大腦處理聲音 (170ms) 比光線 (250ms) 快。這就是為什麼好的耳機對於「聽音辨位」至關重要。"
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "喝咖啡/能量飲料有用嗎？",
+        "answer": "可以暫時提高警覺性，但喝太多會導致手抖 (Jitter)，反而破壞瞄準精準度。"
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "無線滑鼠會有延遲嗎？",
+        "answer": "現代的高階無線滑鼠（如 Logitech Lightspeed）速度已與有線相當甚至更快。延遲已是過去式。"
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "什麼是輸入延遲 (Input Lag)？",
+        "answer": "從你點擊滑鼠到螢幕上出現動作的延遲。開啟垂直同步 (V-Sync) 或使用舊螢幕會增加延遲。"
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "如何測試準確度？",
+        "answer": "使用「精準度測試」(Accuracy Test)，你必須點擊快速消失的小目標。"
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "WPM 是什麼意思？",
+        "answer": "Words Per Minute (每分鐘字數)。這是衡量打字速度的全球標準。"
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "如何打字更快？",
+        "answer": "學習盲打 (Touch Typing)，使用 10 根手指。不要看鍵盤。先求準確，再求速度。"
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "多少 WPM 算好？",
+        "answer": "40 WPM 是平均值。60-70 WPM 適合文書工作。超過 100 WPM 屬於高手等級。"
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "盲打真的比較好嗎？",
+        "answer": "是的，肌肉記憶接管後，你可以專注於螢幕並立即修正錯誤，效率翻倍。"
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "打字選青軸還是紅軸？",
+        "answer": "青軸 (Blue) 有清脆的喀塔聲，打字很有感。紅軸 (Red) 安靜直上直下，遊戲玩家偏愛。"
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "筆電鍵盤很爛嗎？",
+        "answer": "筆電鍵程短。外接機械鍵盤更符合人體工學，適合長時間打字。"
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "如何練習？",
+        "answer": "每天使用 Palmtweets。嘗試重新輸入書本內容以擴充詞彙量。"
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "準確率 (Accuracy) 重要嗎？",
+        "answer": "比速度更重要。100 WPM 但只有 80% 準確率沒意義，因為刪除修改很花時間。"
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "如何預防手腕疼痛？",
+        "answer": "保持手腕平直（不要靠在桌緣）。使用手腕靠墊 (Wrist Rest)。"
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "注音輸入法有差嗎？",
+        "answer": "台灣標準是注音。如果能學會「無蝦米」或「倉頡」，打字速度上限會比注音更高，但學習曲線較陡。"
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "什麼是鬼鍵 (Ghosting)？",
+        "answer": "同時按下太多鍵時，鍵盤無法註冊某些按鍵訊號。"
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "什麼是 NKRO？",
+        "answer": "N-Key Rollover (全鍵無衝突)。你可以同時按下所有按鍵，電腦都能接收到。這是電競鍵盤的標配。"
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "如何找出壞掉的按鍵？",
+        "answer": "打開我們的鍵盤測試工具。按下可疑的按鍵。如果沒有變綠色，代表軸體或電路壞了。"
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "薄膜 vs 機械式？",
+        "answer": "薄膜使用橡膠（便宜、手感黏）。機械使用彈簧/開關（精準、耐用）。"
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "如何拔鍵帽？",
+        "answer": "使用拔鍵器 (Keycap Puller)。不要用刀子撬，可能會弄斷軸心。"
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "什麼是光軸 (Optical Switch)？",
+        "answer": "使用光束感應觸發，而非金屬接觸。理論上速度更快且壽命更長。"
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "為什麼空白鍵有雜音？",
+        "answer": "衛星軸 (Stabilizers) 太乾了。塗一點潤滑脂 (Lube) 可以消除雜音。"
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "TKL 鍵盤比較好嗎？",
+        "answer": "80% 鍵盤（無數字鍵區）節省桌面空間。讓滑鼠有更多移動空間，適合 FPS 玩家。"
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "什麼是連點 (Chattering)？",
+        "answer": "按一下卻出現 'aa' 或 'aaa'。這是機械鍵盤進灰塵常見的故障。"
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "鍵盤可以水洗嗎？",
+        "answer": "絕對不行（除非有防水認證）。請使用壓縮空氣和異丙醇清潔。"
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "時間",
+    "score": "分數",
+    "start": "開始",
+    "active": "快！",
+    "try_again": "重試",
+    "share": "分享",
+    "result_msg": "太棒了！你有忍者的反應速度。試著打破紀錄吧！",
+    "slow": "🐢 烏龜",
+    "fast": "⚡ 閃電",
+    "superhuman": "👑 傳奇"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "關於工具",
+    "how_to": "使用說明",
+    "rank_up": "如何變強？",
+    "faq": "常見問題",
+    "related": "相關工具",
+    "step1": "點擊「開始」按鈕或灰色區域。",
+    "step2": "盡可能快速地進行點擊。",
+    "step3": "查看你的等級並分享結果。",
+    "rank_turtle": "烏龜級 (0-5 CPS)：",
+    "rank_turtle_desc": "太慢了！試著繃緊手臂肌肉。",
+    "rank_pro": "高手級 (5-10 CPS)：",
+    "rank_pro_desc": "一般遊戲玩家的速度。",
+    "rank_god": "神級 (10+ CPS)：",
+    "rank_god_desc": "你已經精通了 Jitter 或 Butterfly Click。"
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "螢幕亮點/壞點檢測 (Dead Pixel)",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "檢查你的螢幕或手機是否有死點、亮點或漏光情形。"
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (ZH-TW)",
+    "h1": "手機觸控測試線上版",
     "seo": {
-      "title": "Touch Screen Test Online (ZH-TW)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "觸控測試 - 檢查鬼手 (Ghost Touch)",
+      "description": "測試手機螢幕。找出觸控死區、鬼手亂跳以及檢查多點觸控支援。"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (ZH-TW)",
-      "p_hook": "Localized intro for ZH-TW. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for ZH-TW.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for ZH-TW.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for ZH-TW.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in ZH-TW."
+      "h2_hook": "手機會自己亂點嗎？(鬼手/Ghost Touch)",
+      "p_hook": "如果在玩吃雞手遊時準心自己飄移，你可能遇到了「鬼手」。這非常煩人且會輸掉比賽。使用此工具檢查是螢幕壞了還是單純太髒。",
+      "h2_science": "測試原理",
+      "p_science": "我們會顯示一個網格。用手指劃過整個螢幕。如果有方塊沒有變綠，那個區域就是死區 (Dead Zone)。",
+      "h2_gaming": "多點觸控測試 (四指操作)",
+      "p_gaming": "手遊玩家常使用四指 (Claw)。把所有手指放在螢幕上。我們的工具會顯示手機同時支援幾個觸控點。",
+      "h2_hardware": "軟體還是硬體問題？",
+      "p_hardware": "常見原因：廉價充電器（電流不穩）或保護貼太厚。如果只在充電時發生，請更換傳輸線。",
+      "h2_technique": "快速修復",
+      "p_technique": "清潔螢幕（油漬/汗水）。移除有磁性的手機殼。重新啟動手機。"
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (ZH-TW)",
+    "h1": "線上麥克風測試",
     "seo": {
-      "title": "Microphone Test Online (ZH-TW)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "測試麥克風 - 檢查雜音與音量",
+      "description": "測試麥克風和耳機。視覺化聲波圖，檢查背景噪音、回音 (Echo) 和音量。"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (ZH-TW)",
-      "p_hook": "Localized intro for ZH-TW. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for ZH-TW.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for ZH-TW.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for ZH-TW.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in ZH-TW."
+      "h2_hook": "Discord 隊友說你聲音很小？",
+      "p_hook": "比賽前先檢查音訊。雜音或回音會破壞團隊溝通。在此免費測試麥克風，無需安裝軟體。",
+      "h2_science": "聲波視覺化",
+      "p_science": "此工具會即時顯示你的聲音波形。如果你說話但線條是平的，代表麥克風靜音或 Windows 設定錯誤。",
+      "h2_gaming": "立體聲測試 (左/右)",
+      "p_gaming": "對於耳機來說，分辨聲音來自左邊還是右邊至關重要。我們的聲道測試可以告訴你耳機是否戴反了。",
+      "h2_hardware": "相容性",
+      "p_hardware": "我們支援領夾式麥克風、USB 耳機、網路攝影機和錄音室麥克風。記得在瀏覽器權限點擊「允許」。",
+      "h2_technique": "消除雜音",
+      "p_technique": "在 Windows 聲音設定中降低「麥克風增量」(Boost)。電流聲 (嗡嗡聲) 通常是接地不良或線材鬆脫造成的。"
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (ZH-TW)",
+    "h1": "手把搖桿測試 (類比飄移)",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (ZH-TW)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "測試手把 PS4/PS5/Xbox - 檢查漂移",
+      "description": "測試按鈕和搖桿的工具。在電腦上檢查 Stick Drift 和震動馬達。"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (ZH-TW)",
-      "p_hook": "Localized intro for ZH-TW. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for ZH-TW.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for ZH-TW.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for ZH-TW.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in ZH-TW."
+      "h2_hook": "角色自己亂走？(Stick Drift)",
+      "p_hook": "DualSense 和 Xbox 手把的通病是「漂移」。使用我們的軸向視覺化工具，查看搖桿在靜止時是否真的置中。",
+      "h2_science": "軸向數據 (Axis)",
+      "p_science": "我們顯示 X 和 Y 值。完美的手把在靜止時應為 0.00。如果沒碰卻數字亂跳，就是有漂移。",
+      "h2_gaming": "相容性",
+      "p_gaming": "支援 DualShock 4、DualSense (PS5)、Xbox One/Series 和 Switch Pro 手把。只需透過 USB 或藍牙連接。",
+      "h2_hardware": "震動與板機鍵測試",
+      "p_hardware": "點擊「震動」測試馬達。同時檢查 L2/R2 板機鍵是否能平滑感應按壓力度 (0% 到 100%)。",
+      "h2_technique": "修復漂移",
+      "p_technique": "嘗試用壓縮空氣吹搖桿底部。或者在遊戲設定中增加「死區」(Deadzone) 以忽略細微的抖動。"
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (ZH-TW)",
+    "h1": "掉封包 (Packet Loss) 與 Ping 測試",
     "seo": {
-      "title": "Packet Loss & Ping Test (ZH-TW)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "掉封包測試 - 檢查延遲與抖動",
+      "description": "網路很快但遊戲會頓？檢查封包遺失率 (Packet Loss)、抖動 (Jitter) 和真實 Ping 值。"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (ZH-TW)",
-      "p_hook": "Localized intro for ZH-TW. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for ZH-TW.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for ZH-TW.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for ZH-TW.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in ZH-TW."
+      "h2_hook": "Ping 很低但瞬移 (橡皮筋效應)？",
+      "p_hook": "這就是「掉封包」。遊戲數據在半路遺失。Speedtest 只測下載速度，我們測量的是連線的「穩定性」。",
+      "h2_science": "什麼是抖動 (Jitter)？",
+      "p_science": "Jitter 是 Ping 值的波動程度。穩定的 50ms 比從 20ms 跳到 100ms 好得多。高 Jitter 會導致瞬移。",
+      "h2_gaming": "WiFi vs 網路線",
+      "p_gaming": "黃金法則：不要用 WiFi 打競技遊戲。無線訊號不穩定。使用乙太網路線 (LAN) 以確保 0% 掉封包。",
+      "h2_hardware": "網路診斷",
+      "p_hardware": "如果有封包遺失，請重啟路由器。如果持續發生，這是你的 ISP (中華電信/第四台) 的問題。使用此測試作為證據。",
+      "h2_technique": "降低 Ping",
+      "p_technique": "關閉背景下載 (Steam、Windows 更新)，斷開手機 WiFi，並選擇靠近台灣的伺服器 (如香港或東京)。"
     }
   }
 }
