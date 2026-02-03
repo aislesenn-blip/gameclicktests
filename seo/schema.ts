@@ -13,6 +13,18 @@ export const ORGANIZATION_SCHEMA = () => ({
   ]
 });
 
+export const WEBSITE_SCHEMA = (locale: string) => ({
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Palmtweets",
+  "url": `https://palmtweets.com/${locale}`,
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": `https://palmtweets.com/${locale}/search?q={search_term_string}`,
+    "query-input": "required name=search_term_string"
+  }
+});
+
 // 2. SOFTWARE SCHEMA (Imezidishiwa Nguvu)
 export const SOFTWARE_APPLICATION_SCHEMA = (
   name: string, 
@@ -53,18 +65,18 @@ export const GAME_SCHEMA = (name: string, description: string) => ({
   "operatingSystem": "Web Browser"
 });
 
-// 4. HOWTO SCHEMA (Hii ni nzuri kwa 'How to Click Faster')
-export const HOWTO_SCHEMA = (name: string, steps: { title: string; text: string }[]) => ({
+// 4. HOWTO SCHEMA (Hii inakupa nafasi kubwa kwenye Search Results)
+export const HOWTO_SCHEMA = (name: string, steps: ({ title: string; text: string } | string)[]) => ({
   "@context": "https://schema.org",
   "@type": "HowTo",
   "name": name,
   "step": steps.map((step, i) => ({
     "@type": "HowToStep",
     "position": i + 1,
-    "name": step.title,
+    "name": typeof step === 'string' ? `Step ${i + 1}` : step.title,
     "itemListElement": {
       "@type": "HowToDirection",
-      "text": step.text
+      "text": typeof step === 'string' ? step : step.text
     }
   }))
 });
