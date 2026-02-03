@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
+import { locales as LOCALES } from '@/config/locales';
 
 const BASE_URL = 'https://palmtweets.com';
-const LOCALES = ['en', 'pt', 'id', 'es', 'ru'];
 const PATHS = [
   '',
   '/cps',

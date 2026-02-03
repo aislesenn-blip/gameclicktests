@@ -10,7 +10,7 @@ export async function getToolMetadata(locale: string, toolKey: string) {
     return { title: 'Palmtweets', description: 'Global CPS Test' };
   }
 
-  const { canonical, languages } = generateAlternates(toolKey === 'home' ? '' : `/${toolKey}`);
+  const { canonical, languages } = generateAlternates(locale, toolKey === 'home' ? '' : `/${toolKey}`);
 
   return {
     title: seo.title,

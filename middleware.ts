@@ -13,5 +13,5 @@ export const config = {
   // Match only internationalized pathnames
   // We need to dynamically generate the matcher regex or hardcode it.
   // Hardcoding for clarity and stability with the known list.
-  matcher: ['/', '/(en|pt|es|ru|id|de|fr|it|nl|pl|tr|vi|th|sv|da|fi|ro|cs|hu|uk|ja|ko|zh-TW|ms|ar)/:path*']
+  matcher: ['/', '/(en|ar|cs|da|de|el|es|fi|fr|he|hi|hu|id|it|ja|ko|nl|no|pl|pt|ro|ru|sv|th|tr|uk|vi|zh)/:path*']
 };

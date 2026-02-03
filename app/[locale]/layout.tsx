@@ -65,7 +65,7 @@ export default async function LocaleLayout({
   const tf = (messages as any).footer;
   const currentYear = new Date().getFullYear();
 
-  const dir = locale === 'ar' ? 'rtl' : 'ltr';
+  const dir = ['ar', 'he'].includes(locale) ? 'rtl' : 'ltr';
 
   // Extract menu items for client component to prevent raw keys if hook hydration is slow
   const menuLabels = {
