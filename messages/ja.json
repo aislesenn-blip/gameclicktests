@@ -1,477 +1,479 @@
 {
   "seo": {
-    "title": "CPS Test - Check Your Click Speed",
-    "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record. Jitter & Butterfly click modes enabled."
+    "title": "連打測定 (CPSテスト) - クリック速度を測ろう | Palmtweets",
+    "description": "あなたの連打力は？10秒間のクリック測定テスト。マインクラフトやFPSのためのジッタークリック、バタフライクリック練習。世界ランキング対応。"
   },
   "ui": {
-    "h1": "Test Your Click Speed Instantly",
-    "description": "Measure your Clicks Per Second (CPS) with our ultra-fast reflex testing tool. Built for gamers, speed runners, and competitive players worldwide.",
-    "start_btn": "Start CPS Test",
-    "modes": "Testing Modes",
-    "rank_noob": "🐢 Rank: Snail",
-    "rank_pro": "⚡ Rank: Pro Gamer",
-    "rank_god": "👑 Rank: GODLIKE",
-    "share_txt": "I just hit {score} CPS on Palmtweets. Can you beat me?",
-    "score": "SCORE",
-    "timer": "TIMER",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "start": "START CLICKING",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "h1": "クリック連打速度測定 (CPS)",
+    "description": "1秒間に何回クリックできるか (CPS) を正確に測定します。APEX、Valorant、Minecraftプレイヤーのための反射神経トレーニングツール。",
+    "start_btn": "測定スタート",
+    "modes": "トレーニングモード",
+    "rank_noob": "🐢 ランク：初心者 (Noob)",
+    "rank_pro": "⚡ ランク：プロゲーマー",
+    "rank_god": "👑 ランク：神 (GODLIKE)",
+    "share_txt": "Palmtweetsで {score} CPSを記録しました。私に勝てますか？",
+    "score": "スコア",
+    "timer": "残り時間",
+    "active": "連打して！",
+    "try_again": "もう一度",
+    "share": "結果をシェア",
+    "start": "スタート",
+    "result_msg": "素晴らしい連打速度です！自己ベスト更新を目指しましょう。",
+    "slow": "🐢 遅い",
+    "fast": "⚡ 速い",
+    "superhuman": "👑 神速"
   },
   "nav": {
-    "home": "Home",
-    "cps": "CPS Test",
-    "reaction": "Reaction",
-    "typing": "Typing",
-    "keyboard": "Keyboard",
-    "privacy": "Privacy"
+    "home": "ホーム",
+    "cps": "連打測定",
+    "reaction": "反射神経",
+    "typing": "タイピング",
+    "keyboard": "キーボード",
+    "privacy": "プライバシー"
   },
   "mobile_nav": {
-    "cps_cluster": "CPS Tests",
-    "typing_cluster": "Typing Tests",
-    "reaction_cluster": "Reaction Tests",
-    "keyboard_cluster": "Keyboard Tools",
-    "cps_1s": "1 Second",
-    "cps_5s": "5 Seconds",
-    "cps_60s": "60 Seconds",
-    "jitter": "Jitter Click",
-    "butterfly": "Butterfly Click",
-    "drag": "Drag Click",
-    "reaction": "Reaction Time",
-    "typing": "Typing Speed",
-    "keyboard": "Keyboard Test",
-    "minecraft": "Minecraft CPS",
-    "pubg": "PUBG Aim Test",
-    "roblox": "Roblox Clicker",
-    "valorant": "Valorant Reflex",
-    "fortnite": "Fortnite Speed",
-    "hardware_tests": "ハードウェア",
-    "game_challenges": "ゲーム",
-    "click_modes": "クリックモード",
-    "time_modes": "時間モード",
+    "cps_cluster": "連打・CPS測定",
+    "typing_cluster": "タイピング速度",
+    "reaction_cluster": "反射神経テスト",
+    "keyboard_cluster": "デバイス診断",
+    "cps_1s": "1秒 連打測定",
+    "cps_5s": "5秒 連打測定",
+    "cps_60s": "60秒 耐久連打",
+    "jitter": "ジッタークリック練習",
+    "butterfly": "バタフライクリック練習",
+    "drag": "ドラッグクリック練習",
+    "reaction": "反射神経テスト (ms)",
+    "typing": "WPM タイピング測定",
+    "keyboard": "キーボード反応テスト",
+    "minecraft": "マイクラ PvP連打",
+    "pubg": "PUBG エイム練習",
+    "roblox": "Roblox クリッカー",
+    "valorant": "Valorant 反応速度",
+    "fortnite": "フォートナイト 編集",
+    "hardware_tests": "ハードウェア診断",
+    "game_challenges": "チャレンジ",
+    "click_modes": "クリック戦法",
+    "time_modes": "時間制限モード",
     "community": "コミュニティ",
-    "touch_test": "Touch Screen Test (JA)",
-    "mic_test": "Mic Test (JA)",
-    "gamepad_test": "Gamepad Tester (JA)",
-    "packet_loss": "Packet Loss Test (JA)"
+    "touch_test": "タッチ切れ・感度テスト",
+    "mic_test": "マイク・音量テスト",
+    "gamepad_test": "コントローラー (ドリフト診断)",
+    "packet_loss": "パケットロス・回線テスト"
   },
   "footer": {
-    "tagline": "The world’s fastest reflex & speed testing platform."
+    "tagline": "世界最速のゲーミングデバイス診断・反射神経テストプラットフォーム。"
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "intro": "At Palmtweets, we value your privacy. This policy explains how we handle your data.",
-    "cookies_title": "Cookies",
-    "cookies_text": "We use cookies to improve your experience and analyze traffic. We do not store personal data.",
-    "data_title": "Data Collection",
-    "data_text": "We do not collect personal identifiable information. Game scores are stored locally.",
-    "contact_title": "Contact",
-    "contact_text": "For questions, contact support@palmtweets.com."
+    "title": "プライバシーポリシー",
+    "intro": "Palmtweetsでは、お客様のプライバシーを尊重します。",
+    "cookies_title": "Cookieについて",
+    "cookies_text": "当サイトではユーザー体験向上のためにCookieを使用しますが、個人情報は保存しません。",
+    "data_title": "データ収集",
+    "data_text": "個人を特定する情報は収集しません。スコアデータはお使いのブラウザにのみ保存されます。",
+    "contact_title": "お問い合わせ",
+    "contact_text": "ご質問は support@palmtweets.com までご連絡ください。"
   },
   "seo_content": {
-    "h2_improve": "Tips to Improve Clicking (JA)",
-    "p_improve": "Practice daily and use a good mouse.",
-    "h2_styles": "Clicking Styles",
-    "p_styles": "Learn Jitter and Butterfly clicking.",
-    "h2_record": "World Records",
-    "p_record": "Aim for 10+ CPS.",
-    "h2_useful": "Gaming Utility",
-    "p_useful": "Crucial for PvP games.",
-    "h2_hardware": "Section 4 (JA)",
-    "p_hardware": "Localized content for JA focusing on Best mouse for jitter clicking, Chromebook touchpad click test. Detailed analysis of click speed and hardware performance.",
-    "h2_hook": "Section 1 (JA)",
-    "p_hook": "Localized content for JA focusing on Unblocked CPS test at school, Mouse double click test. Detailed analysis of click speed and hardware performance.",
-    "h2_science": "Section 2 (JA)",
-    "p_science": "Localized content for JA focusing on Spacebar counter 60 seconds, Polling rate checker 1000hz. Detailed analysis of click speed and hardware performance.",
-    "h2_gaming": "Section 3 (JA)",
-    "p_gaming": "Localized content for JA focusing on Input lag test for Valorant, How to drag click on Model O. Detailed analysis of click speed and hardware performance.",
-    "h2_technique": "Section 5 (JA)",
-    "p_technique": "Localized content for JA focusing on CPS. Detailed analysis of click speed and hardware performance."
+    "h2_improve": "CPS (1秒間のクリック数) を上げる方法",
+    "p_improve": "連打速度を上げるには「脱力」が重要です。手首を固めず、指の反動を利用しましょう。また、LogicoolやRazerなどのゲーミングマウスを使うことで、スイッチの反応速度が向上します。",
+    "h2_styles": "ジッタークリック vs バタフライクリック",
+    "p_styles": "**ジッタークリック**は腕を痙攣させるように振動させて12CPS以上を出します。**バタフライクリック**は2本の指を交互に使って20CPS以上を目指す、マイクラの建築（ブリッジ）に必須のテクニックです。",
+    "h2_record": "連打の世界記録は？",
+    "p_record": "10秒間のテストにおける正規の世界記録は約22-24 CPSです。**ドラッグクリック**という特殊な摩擦テクニックを使えば、瞬間的に30 CPS以上を出すことも可能です。",
+    "h2_useful": "なぜFPSやマイクラでCPSが重要なの？",
+    "p_useful": "Minecraft (1.8 PvP) では、CPSが高いと敵からのノックバック（衝撃）を軽減できます。APEXやValorantなどのFPSでは、単発撃ち（タップ撃ち）の精度と速度が勝敗を分けます。",
+    "h2_hardware": "マウスの「チャタリング」現象とは？",
+    "p_hardware": "1回クリックしたのに「ダブルクリック」されてしまう現象を**チャタリング**と呼びます。これはマウスのスイッチ故障です。当サイトの診断ツールで、買い替えが必要かチェックできます。",
+    "h2_games": "エイム力と反射神経の関係",
+    "p_games": "敵を見つけてから撃つまでの時間（TTK）を縮めるには、反射神経が命です。プロゲーマーの反応速度は平均160ms（0.16秒）です。当サイトのテストであなたの「脳の処理速度」を測りましょう。",
+    "h2_hook": "スマホの「ゴーストタッチ」に悩んでいませんか？",
+    "p_hook": "荒野行動やPUBGモバイルで勝手に視点が動く現象、それがゴーストタッチです。修理に出す前に、当サイトのタッチスクリーンテストで画面の「不感帯（デッドゾーン）」を特定しましょう。",
+    "h2_science": "「ラグい！」の原因はパケロスかも？",
+    "p_science": "回線速度が速くても、データが届かない「パケットロス」があると敵がワープします。通常のスピードテストでは分からない回線の「安定性」をここで診断できます。",
+    "h2_gaming": "キーボードの同時押し（Nキーロールオーバー）",
+    "p_gaming": "移動しながらスキルを使えない？それは安いキーボードの限界（ゴースト現象）かもしれません。ゲーミングキーボードが正しく全キー認識しているか、ここでチェックしましょう。",
+    "h2_technique": "ドラッグクリックのやり方",
+    "p_technique": "ドラッグクリックは「クリック」ではなく「摩擦」です。マウスの表面に専用のグリップテープを貼り、指を滑らせて振動を起こすことで、超高速連打が可能になります。"
   },
   "cps_default": {
     "seo": {
-      "title": "CPS Test - Check Your Click Speed",
-      "description": "How fast can you click? Take the 10-second CPS Test. Challenge your friends and beat the World Record."
+      "title": "連打測定 - CPSテスト (クリック速度)",
+      "description": "あなたの連打力は？10秒間で何回クリックできるか測定します。友達とスコアを競おう。"
     },
-    "h1": "Test Your Click Speed Instantly"
+    "h1": "連打速度測定 (CPS)"
   },
   "cps_1s": {
     "seo": {
-      "title": "1 Second CPS Test - Instant Click Speed Check",
-      "description": "Test your burst click speed in 1 second. Perfect for drag clicking and jitter clicking benchmarks."
+      "title": "1秒 連打測定 - 瞬間火力テスト",
+      "description": "1秒間の瞬間クリック速度を測定。ドラッグクリックや瞬発力の確認に最適。"
     },
-    "h1": "1 SECOND CPS TEST"
+    "h1": "1秒 連打テスト"
   },
   "cps_5s": {
     "seo": {
-      "title": "5 Second CPS Test - Short Sprint Speed Test",
-      "description": "The standard short sprint click test. How many clicks in 5 seconds? Professional gamers average 12+ CPS."
+      "title": "5秒 連打測定 - ショートスプリント",
+      "description": "ゲーマー標準の5秒テスト。プロゲーマーの平均は12CPS以上です。"
     },
-    "h1": "5 SECOND CPS TEST"
+    "h1": "5秒 連打テスト"
   },
   "cps_60s": {
     "seo": {
-      "title": "60 Second CPS Test - Endurance Clicking Challenge",
-      "description": "The ultimate finger endurance test. Can you maintain high CPS for a full minute? Warning: Hand fatigue probable."
+      "title": "60秒 連打測定 - 指の体力測定",
+      "description": "1分間連打し続ける耐久テスト。指の持久力を測ります。"
     },
-    "h1": "60 SECOND MARATHON"
+    "h1": "60秒 耐久マラソン"
   },
   "jitter": {
     "seo": {
-      "title": "Jitter Click Test - Master the Vibration Technique",
-      "description": "Practice Jitter Clicking safely. vibrate your arm muscles to achieve 14+ CPS. Tutorial and test included."
+      "title": "ジッタークリック練習 - 痙攣連打",
+      "description": "ジッタークリック（Jitter Click）の練習ツール。腕を振動させて14CPSを目指そう。"
     },
-    "h1": "JITTER CLICK TRAINING"
+    "h1": "ジッタークリック練習"
   },
   "butterfly": {
     "seo": {
-      "title": "Butterfly Click Test - Double Click Speed",
-      "description": "Test your Butterfly Clicking speed. Use two fingers to double your CPS. Essential for Minecraft PvP."
+      "title": "バタフライクリック練習 - ダブルクリック",
+      "description": "2本指を使うバタフライクリックの測定。マイクラのPvPや建築に必須のスキル。"
     },
-    "h1": "BUTTERFLY CLICK TEST"
+    "h1": "バタフライクリック練習"
   },
   "drag": {
     "seo": {
-      "title": "Drag Click Test - Mouse Friction Speed",
-      "description": "Test your Drag Clicking speed. Use friction to register hundreds of clicks."
+      "title": "ドラッグクリック練習 - 摩擦連打",
+      "description": "ドラッグクリック（Drag Click）の測定。摩擦を利用して秒間30クリックを目指す。"
     },
-    "h1": "DRAG CLICK TEST"
+    "h1": "ドラッグクリック練習"
   },
   "minecraft": {
     "seo": {
-      "title": "Minecraft CPS Test - PvP Practice",
-      "description": "Practice your clicking for Minecraft PvP. Improve your combo accuracy."
+      "title": "マイクラ PvP連打テスト - コンボ練習",
+      "description": "Minecraft PvPに特化した連打テスト。ノックバック軽減とエイムを鍛えよう。"
     },
-    "h1": "MINECRAFT PVP CLICK TEST"
+    "h1": "マイクラ PvP連打"
   },
   "reaction": {
     "seo": {
-      "title": "Reaction Time Test - Human Benchmark",
-      "description": "Measure your visual reflex speed in milliseconds. The average human reaction time is 250ms. Can you hit 150ms?"
+      "title": "反射神経テスト - 日本平均と比較",
+      "description": "視覚的な反応速度をミリ秒(ms)で測定。日本人の平均は250ms。あなたは150msを出せますか？"
     },
-    "h1": "REACTION TIME TEST",
-    "wait": "Wait for Green...",
-    "click": "CLICK NOW!",
-    "too_soon": "Too Soon! Don't anticipate.",
+    "h1": "反射神経テスト",
+    "wait": "緑になるまで待って...",
+    "click": "今だ！クリック！",
+    "too_soon": "早すぎます！お手付き。",
     "result": "{time} ms"
   },
   "typing": {
     "seo": {
-      "title": "Typing Speed Test - Check Your WPM",
-      "description": "Free 1-minute typing test. Calculate your Words Per Minute (WPM) and accuracy. Improve your touch typing speed."
+      "title": "タイピング速度測定 - WPMチェック",
+      "description": "1分間の無料タイピングテスト。WPM（1分あたりの単語数）と正確性を測定します。"
     },
-    "h1": "WPM TYPING TEST"
+    "h1": "タイピング速度測定 (WPM)"
   },
   "keyboard": {
     "seo": {
-      "title": "Keyboard Tester - Check All Keys Online",
-      "description": "Test every key on your keyboard. Check for ghosting, key rollover, and broken switches. Works with mechanical keyboards."
+      "title": "キーボード反応テスト - 全キー動作確認",
+      "description": "キーボードの故障診断。チャタリング、反応しないキー、同時押し対応(NKRO)をチェック。"
     },
-    "h1": "KEYBOARD SWITCH TESTER"
+    "h1": "キーボード動作テスト"
   },
   "faq": {
     "cps": {
       "q1": {
-        "question": "Question 1 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for JA users."
+        "question": "普通の マウスでドラッグクリックはできますか？",
+        "answer": "事務用マウスでは難しいです。表面がザラザラした（マット加工）ゲーミングマウスが必要です。また、スイッチのデバウンスタイム調整ができないと反応しません。"
       },
       "q2": {
-        "question": "Question 2 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for JA users."
+        "question": "Valorantでエイムが合いません。感度設定は？",
+        "answer": "エイムが合わないのはDPIが高すぎる可能性があります。プロの多くはDPI 400〜800、ゲーム内感度低めでプレイしています。「マウス加速」は必ずオフにしましょう。"
       },
       "q3": {
-        "question": "Question 3 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for JA users."
+        "question": "メカニカルキーボードの見分け方は？",
+        "answer": "キーキャップを外して、十字型のスイッチ（青軸、赤軸など）が見えればメカニカルです。ゴムのシートが見えたらメンブレンです。"
       },
       "q4": {
-        "question": "Question 4 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for JA users."
+        "question": "ジッタークリックは手に悪いですか？",
+        "answer": "無理な力を入れると腱鞘炎になるリスクがあります。腕全体を振動させるコツを掴み、痛みを感じたらすぐに休憩してください。"
       },
       "q5": {
-        "question": "Question 5 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for JA users."
+        "question": "バタフライクリックにおすすめのマウスは？",
+        "answer": "Glorious Model O、Roccat Kain、Logicool G Proなどが人気です。これらはクリックの反応幅が広く、ダブルクリックが出やすい設定にできます。"
       },
       "q6": {
-        "question": "Question 6 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for JA users."
+        "question": "ポーリングレートとは何ですか？",
+        "answer": "マウスがPCに情報を送る頻度です。ゲーミングなら1000Hz (1ms) が標準です。125Hzだとカーソルがカクカクしてエイムが飛びます。"
       },
       "q7": {
-        "question": "Question 7 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for JA users."
+        "question": "マウスカーソルが勝手に動きます。",
+        "answer": "センサーにゴミが入っているか、マウスパッドが汚れている可能性があります。センサー部分を綿棒で掃除してみてください。"
       },
       "q8": {
-        "question": "Question 8 about Unblocked CPS test at school?",
-        "answer": "Answer regarding Unblocked CPS test at school for JA users."
+        "question": "チャタリング（ダブルクリック病）の確認方法は？",
+        "answer": "当サイトの「マウステスト」を使ってください。100回ゆっくりクリックして、カウントが100を超えたら故障（チャタリング）です。"
       },
       "q9": {
-        "question": "Question 9 about Mouse double click test?",
-        "answer": "Answer regarding Mouse double click test for JA users."
+        "question": "日本人の平均CPSはどれくらい？",
+        "answer": "一般の人は6〜7 CPSです。ゲーマーは8〜10 CPS。マイクラのPvP勢は15 CPS以上を出すこともあります。"
       },
       "q10": {
-        "question": "Question 10 about Spacebar counter 60 seconds?",
-        "answer": "Answer regarding Spacebar counter 60 seconds for JA users."
+        "question": "FPSにはどのDPIが良いですか？",
+        "answer": "精密なエイムが必要なFPSでは、400または800 DPIが主流です。DPIが高すぎると、わずかな手の震えも拾ってしまいエイムが定まりません。"
       },
       "q11": {
-        "question": "Question 11 about Polling rate checker 1000hz?",
-        "answer": "Answer regarding Polling rate checker 1000hz for JA users."
+        "question": "メカニカルキーボードは有利ですか？",
+        "answer": "はい。キーの反応点（アクチュエーションポイント）が浅いため、ストッピングやスキル発動がコンマ数秒速くなります。"
       },
       "q12": {
-        "question": "Question 12 about Input lag test for Valorant?",
-        "answer": "Answer regarding Input lag test for Valorant for JA users."
+        "question": "コントローラーのドリフト現象の治し方は？",
+        "answer": "スティックの根元にエアダスターを吹きかけてゴミを飛ばしてください。それでも治らない場合は「接点復活剤」を使うか、修理が必要です。"
       },
       "q13": {
-        "question": "Question 13 about How to drag click on Model O?",
-        "answer": "Answer regarding How to drag click on Model O for JA users."
+        "question": "回線は速いのにラグいのはなぜ？",
+        "answer": "「パケットロス」が原因かもしれません。Wi-Fiを使っている場合は、有線LANケーブル（Cat6以上）に変えるだけで劇的に改善します。"
       },
       "q14": {
-        "question": "Question 14 about Best mouse for jitter clicking?",
-        "answer": "Answer regarding Best mouse for jitter clicking for JA users."
+        "question": "キーボードのゴースト現象とは？",
+        "answer": "複数のキーを同時に押したときに、反応しないキーが出ることです。ゲーミングキーボードは「Nキーロールオーバー」対応でこれを防ぎます。"
       },
       "q15": {
-        "question": "Question 15 about Chromebook touchpad click test?",
-        "answer": "Answer regarding Chromebook touchpad click test for JA users."
+        "question": "マイクのノイズがひどいです。",
+        "answer": "Windowsのサウンド設定で「マイクブースト」を下げてください。また、Discordのノイズ抑制機能（Krisp）を使うとクリアになります。"
       }
     },
     "reaction": {
       "q1": {
-        "question": "What is reaction time?",
-        "answer": "The time it takes for your brain to process a visual signal and respond."
+        "question": "反応速度（反射神経）とは？",
+        "answer": "目で見てから脳が判断し、指を動かすまでの時間です。"
       },
       "q2": {
-        "question": "What is a good reaction time?",
-        "answer": "Average is 250ms. Below 200ms is excellent. Pro gamers often hit 150ms."
+        "question": "反応速度の平均は？",
+        "answer": "平均は0.25秒（250ms）です。0.2秒（200ms）を切れば優秀。プロゲーマーは0.15秒台を出します。"
       },
       "q3": {
-        "question": "How to improve reflexes?",
-        "answer": "Practice regularly, get enough sleep, stay hydrated, and play fast-paced games like FPS."
+        "question": "反射神経は鍛えられますか？",
+        "answer": "はい。FPSをプレイする、十分な睡眠をとる、そしてAim Labなどのソフトで毎日トレーニングすることで向上します。"
       },
       "q4": {
-        "question": "Does age affect reaction time?",
-        "answer": "Yes, reaction time tends to peak in your 20s and gradually slows down with age."
+        "question": "年齢で衰えますか？",
+        "answer": "20代前半がピークと言われますが、経験と予測（立ち回り）でカバーできます。"
       },
       "q5": {
-        "question": "Does monitor Hz affect reaction?",
-        "answer": "Yes, a 144Hz or 240Hz monitor reduces input lag significantly compared to 60Hz."
+        "question": "144Hzモニターは効果ありますか？",
+        "answer": "絶大です。60Hzよりも敵が速く表示されるため、撃ち合いの勝率が明らかに上がります。"
       },
       "q6": {
-        "question": "What is visual reaction time?",
-        "answer": "Response time to a visual stimulus."
+        "question": "視覚と聴覚、どっちが速い？",
+        "answer": "聴覚（音）への反応の方が速いです。だからFPSでは「足音」を聞くために良いヘッドセットが重要なのです。"
       },
       "q7": {
-        "question": "What is auditory reaction time?",
-        "answer": "Response time to sound, usually faster than visual."
+        "question": "エナジードリンクは効きますか？",
+        "answer": "カフェインで一時的に集中力は上がりますが、飲みすぎると手が震えてエイムが悪くなります。"
       },
       "q8": {
-        "question": "Can caffeine improve reaction?",
-        "answer": "Yes, in moderate amounts it can increase alertness."
+        "question": "ワイヤレスマウスは遅延がありますか？",
+        "answer": "最近のゲーミングマウス（LogicoolやRazer）は、有線よりも速い無線技術を使っているため、遅延は全くありません。"
       },
       "q9": {
-        "question": "Do pro gamers use special gear?",
-        "answer": "Yes, high refresh rate monitors and low latency mice."
+        "question": "インプットラグとは？",
+        "answer": "マウスを動かしてから画面が動くまでの遅延です。PCのスペック不足や、テレビでゲームをすると発生しやすいです。"
       },
       "q10": {
-        "question": "How to test accuracy?",
-        "answer": "Use our precision test tools."
+        "question": "エイムの正確さを測るには？",
+        "answer": "当サイトの「クリックスピード」だけでなく「正確性テスト」を試してください。"
       }
     },
     "typing": {
       "q1": {
-        "question": "What is WPM?",
-        "answer": "Words Per Minute measures typing speed."
+        "question": "WPMとは何ですか？",
+        "answer": "Words Per Minute（1分間に入力できる単語数）です。タイピング速度の世界的な基準です。"
       },
       "q2": {
-        "question": "How to type faster?",
-        "answer": "Practice touch typing, maintain good posture, and avoid looking at the keyboard."
+        "question": "タッチタイピングのコツは？",
+        "answer": "ホームポジション（FとJ）を守り、絶対にキーボードを見ないことです。最初は遅くても、画面だけを見て打つ練習をしましょう。"
       },
       "q3": {
-        "question": "What is a good WPM?",
-        "answer": "Average is 40 WPM. Professional typists reach 100+ WPM."
+        "question": "プログラマーに必要な速度は？",
+        "answer": "40〜50 WPMあれば十分です。プログラミングは入力速度より「考える速度」の方が重要です。"
       },
       "q4": {
-        "question": "Is touch typing better?",
-        "answer": "Yes, it allows you to type without looking at keys, drastically increasing speed."
+        "question": "キーボードを見ない方が速い？",
+        "answer": "圧倒的に速いです。視線移動がなくなるため、疲れにくくミスも減ります。"
       },
       "q5": {
-        "question": "What is a mechanical keyboard?",
-        "answer": "A keyboard with physical switches for each key."
+        "question": "青軸と赤軸、どっちが良い？",
+        "answer": "カチカチ音が好きなら青軸。静かで軽いタッチが好きなら赤軸。ゲームには赤軸や銀軸が人気です。"
       },
       "q6": {
-        "question": "Does keyboard affect typing speed?",
-        "answer": "Yes, tactile feedback helps maintain rhythm."
+        "question": "ノートPCのキーボードは不利？",
+        "answer": "キーが浅いため、長時間の入力やゲームには不向きです。外付けキーボードを使うと作業効率が上がります。"
       },
       "q7": {
-        "question": "How to learn touch typing?",
-        "answer": "Start with home row exercises and practice daily."
+        "question": "練習におすすめのサイトは？",
+        "answer": "当サイトのPalmtweetsや、日本では「寿司打」が有名です。"
       },
       "q8": {
-        "question": "What is the average WPM?",
-        "answer": "Around 40 WPM for casual users."
+        "question": "日本人の平均入力速度は？",
+        "answer": "ローマ字入力で1分間に約200〜250打鍵程度と言われています。"
       },
       "q9": {
-        "question": "What is 100% accuracy?",
-        "answer": "Typing without any errors or backspaces."
+        "question": "正確性と速度、どっちが大事？",
+        "answer": "正確性です。BackSpaceで修正する時間は大きなロスになります。ゆっくりでもノーミスを目指しましょう。"
       },
       "q10": {
-        "question": "How to reduce typing fatigue?",
-        "answer": "Use a wrist rest and keep good posture."
+        "question": "手首が痛くなります。",
+        "answer": "パームレスト（手首置き）を使いましょう。また、椅子を高くして手首が反らないようにすると楽になります。"
       }
     },
     "keyboard": {
       "q1": {
-        "question": "What is Ghosting?",
-        "answer": "When a keyboard fails to register multiple simultaneous key presses."
+        "question": "ゴースト現象とは？",
+        "answer": "3つ以上のキーを同時に押したとき、認識されないキーが出ることです。安価なキーボードによくあります。"
       },
       "q2": {
-        "question": "What is Key Rollover?",
-        "answer": "The maximum number of keys that can be pressed at once."
+        "question": "NKRO (Nキーロールオーバー) とは？",
+        "answer": "全てのキーを同時に押しても、全て認識される機能です。ゲーミングキーボードには必須の機能です。"
       },
       "q3": {
-        "question": "How do I test my keys?",
-        "answer": "Press every key on your keyboard and ensure it lights up green on the screen."
+        "question": "壊れたキーの探し方は？",
+        "answer": "当サイトの「キーボードテスター」を開き、全てのキーを押してみてください。色が反応しないキーが故障しています。"
       },
       "q4": {
-        "question": "How to test mechanical switches?",
-        "answer": "Press keys gently to check actuation point vs bottoming out."
+        "question": "メンブレンとメカニカルの違いは？",
+        "answer": "メンブレンはゴム製で安価。メカニカルはバネと金属接点を使い、耐久性が高く打鍵感が良いです。"
       },
       "q5": {
-        "question": "What is N-Key Rollover?",
-        "answer": "Ability to register all keys pressed simultaneously."
+        "question": "キーキャップの外し方は？",
+        "answer": "専用の「キープラー」を使って引き抜きます。指で無理やり外すと軸が折れるので注意してください。"
       },
       "q6": {
-        "question": "What are Cherry MX switches?",
-        "answer": "Popular mechanical switches with different feels."
+        "question": "光学式（オプティカル）スイッチとは？",
+        "answer": "光の遮断で入力を検知する最新スイッチです。金属接点がないため、チャタリングが起きず超高速です。"
       },
       "q7": {
-        "question": "How to clean a keyboard?",
-        "answer": "Use compressed air and remove keycaps."
+        "question": "スペースキーがカチャカチャうるさい。",
+        "answer": "スタビライザー（針金）の油切れです。専用のルブ（潤滑剤）を塗ると静かになります。"
       },
       "q8": {
-        "question": "Why is my key sticking?",
-        "answer": "It might be dirty or the switch is broken."
+        "question": "テンキーレス (TKL) のメリットは？",
+        "answer": "右側の数字キーがない分、マウスを動かすスペースが広くなります。FPSゲーマーに最適です。"
       },
       "q9": {
-        "question": "What is a membrane keyboard?",
-        "answer": "A keyboard using pressure pads, usually cheaper."
+        "question": "チャタリングとは？",
+        "answer": "「あ」と打ったのに「ああ」と入力される現象です。接点の汚れや故障が原因です。"
       },
       "q10": {
-        "question": "Can I replace laptop keys?",
-        "answer": "Yes, but it is delicate work."
+        "question": "キーボードは水洗いできますか？",
+        "answer": "絶対にダメです（防水仕様を除く）。掃除はエアダスターと無水エタノールで行ってください。"
       }
     }
   },
   "game": {
-    "timer": "TIMER",
-    "score": "SCORE",
-    "start": "START CLICKING",
-    "active": "CLICK FAST!",
-    "try_again": "TRY AGAIN",
-    "share": "SHARE",
-    "result_msg": "Your speed is above average. Can you beat your personal best?",
-    "slow": "🐢 Snail",
-    "fast": "⚡ Pro",
-    "superhuman": "👑 GODLIKE"
+    "timer": "タイマー",
+    "score": "スコア",
+    "start": "スタート",
+    "active": "急げ！",
+    "try_again": "リトライ",
+    "share": "シェア",
+    "result_msg": "すごい！忍者のような反射神経です。記録更新を狙いましょう！",
+    "slow": "🐢 カメ",
+    "fast": "⚡ プロ",
+    "superhuman": "👑 神"
   },
   "tool_layout": {
-    "about": "About",
-    "how_to": "How to Use",
-    "rank_up": "How to Rank Up?",
-    "faq": "Frequently Asked Questions",
-    "related": "Related Tools",
-    "step1": "Click the start button or the designated area.",
-    "step2": "Perform the action as quickly/accurately as possible.",
-    "step3": "View your result and share with friends.",
-    "rank_turtle": "Turtle (0-5 CPS):",
-    "rank_turtle_desc": "You are clicking too slow! Try to tense your arm muscles.",
-    "rank_pro": "Pro (5-10 CPS):",
-    "rank_pro_desc": "The average gamer speed. Good for casual play.",
-    "rank_god": "Godlike (10+ CPS):",
-    "rank_god_desc": "You are mastering advanced techniques like Jitter or Butterfly clicking."
+    "about": "このツールについて",
+    "how_to": "使い方",
+    "rank_up": "ランクを上げるには？",
+    "faq": "よくある質問 (FAQ)",
+    "related": "関連ツール",
+    "step1": "「スタート」ボタンまたはグレーのエリアをクリックします。",
+    "step2": "制限時間内にできるだけ速くクリックしてください。",
+    "step3": "ランクを確認して、結果をSNSでシェアしましょう。",
+    "rank_turtle": "カメ級 (0-5 CPS):",
+    "rank_turtle_desc": "遅すぎます！腕に力を入れすぎかもしれません。",
+    "rank_pro": "プロ級 (5-10 CPS):",
+    "rank_pro_desc": "一般的なゲーマーの速度です。",
+    "rank_god": "神級 (10+ CPS):",
+    "rank_god_desc": "ジッタークリックやバタフライクリックを極めています。"
   },
   "dead_pixel": {
-    "h1": "Dead Pixel Checker",
+    "h1": "ドット抜けチェッカー",
     "seo": {
-      "description": "Check screen for dead pixels."
+      "description": "モニターやスマホ画面のドット抜け（デッドピクセル）、色ムラ、焼き付きを確認します。"
     }
   },
   "touch_test": {
-    "h1": "Touch Screen Test Online (JA)",
+    "h1": "タッチスクリーンテスト (スマホ画面診断)",
     "seo": {
-      "title": "Touch Screen Test Online (JA)",
-      "description": "[Localized] Check your phone or tablet screen for dead zones and ghost touches."
+      "title": "タッチ切れ・ゴーストタッチ確認 - スマホ画面テスト",
+      "description": "スマホのタッチパネル診断。反応しない場所（不感帯）や勝手に動くゴーストタッチをチェック。マルチタッチ対応。"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (JA)",
-      "p_hook": "Localized intro for JA. Topics: Touch screen test online, Phone screen dead zone check, Ghost touch tester.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for JA.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for JA.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for JA.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in JA."
+      "h2_hook": "スマホの画面が勝手に動く？(ゴーストタッチ)",
+      "p_hook": "ゲーム中に視点が勝手に動いたり、タップが反応しなかったりしませんか？それは「ゴーストタッチ」や「タッチ切れ」かもしれません。修理に出す前に、このツールで画面の故障箇所を特定しましょう。",
+      "h2_science": "診断方法",
+      "p_science": "画面全体にマス目を表示します。指でなぞって緑色に変えてください。もし色が着かない場所があれば、そこはタッチセンサーが死んでいる「デッドゾーン」です。",
+      "h2_gaming": "マルチタッチテスト (4本指操作)",
+      "p_gaming": "荒野行動やPUBG、音ゲーでは3本指・4本指操作が必須です。画面に複数の指を置いてみてください。このツールは同時に何本の指を認識できるかを表示します。",
+      "h2_hardware": "原因は充電器かも？",
+      "p_hardware": "充電中にタッチがおかしくなる場合、純正ではない充電器からのノイズが原因です。また、分厚すぎるガラスフィルムも感度低下の原因になります。",
+      "h2_technique": "対処法",
+      "p_technique": "画面の皮脂汚れを拭き取りましょう。また、スマホケースが画面端に干渉していないか確認してください。"
     }
   },
   "mic_test": {
-    "h1": "Microphone Test Online (JA)",
+    "h1": "マイクテスト・音質確認",
     "seo": {
-      "title": "Microphone Test Online (JA)",
-      "description": "[Localized] Test your mic and speakers. Check left/right stereo channels."
+      "title": "マイクテストオンライン - ノイズと音量チェック",
+      "description": "マイクやヘッドセットの動作確認。波形で音量を可視化し、ノイズやミュート状態をチェック。"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (JA)",
-      "p_hook": "Localized intro for JA. Topics: Mic test online, Stereo sound test left right, Zoom mic test.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for JA.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for JA.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for JA.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in JA."
+      "h2_hook": "Discordで「声が小さい」と言われませんか？",
+      "p_hook": "ゲームやZoom会議の前に、マイクが正しく動いているか確認しましょう。ノイズがひどかったり、ロボット声になっていないか、ここでチェックできます。",
+      "h2_science": "音声波形ビジュアライザー",
+      "p_science": "あなたの声をリアルタイムで波形として表示します。喋っているのに線が平らなままであれば、マイクがミュートになっているか、Windowsの設定が間違っています。",
+      "h2_gaming": "ステレオテスト (左右の音)",
+      "p_gaming": "ヘッドセットの左右（L/R）が逆になっていませんか？FPSで敵の足音を聞き分けるには、ステレオ出力が正常であることが不可欠です。",
+      "h2_hardware": "対応デバイス",
+      "p_hardware": "内蔵マイク、USBヘッドセット、Bluetoothイヤホン、Webカメラのマイクなど全てに対応しています。ブラウザのマイク許可を「許可」にしてください。",
+      "h2_technique": "ノイズを消す方法",
+      "p_technique": "Windowsの設定でマイクレベルを調整し、「マイクブースト」を下げてください。サーッというホワイトノイズが減ります。"
     }
   },
   "gamepad_test": {
-    "h1": "Gamepad Tester & Drift Check (JA)",
+    "h1": "コントローラー・ゲームパッド診断 (ドリフト)",
     "seo": {
-      "title": "Gamepad Tester & Drift Check (JA)",
-      "description": "[Localized] Test Xbox, PS5, and Switch controllers for drift and button faults."
+      "title": "コントローラーテスト - PS4/PS5/Switch ドリフト確認",
+      "description": "ゲームパッドの動作確認ツール。アナログスティックのドリフト現象、ボタンの反応、振動機能をチェック。"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (JA)",
-      "p_hook": "Localized intro for JA. Topics: Gamepad tester, Controller drift test, PS5 controller test PC.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for JA.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for JA.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for JA.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in JA."
+      "h2_hook": "勝手にキャラが歩き出す？(ドリフト現象)",
+      "p_hook": "PS4、PS5、Switchのコントローラーで最も多い故障が「ドリフト」です。スティックに触れていないのに信号が入力されてしまいます。このツールで数値を見て確認しましょう。",
+      "h2_science": "軸 (Axis) の数値確認",
+      "p_science": "スティックの傾きを数値（X軸、Y軸）で表示します。正常なら、触れていない時は「0.00」付近で止まります。数値が勝手に動いていればドリフトしています。",
+      "h2_gaming": "対応コントローラー",
+      "p_gaming": "DualShock 4, DualSense (PS5), Xboxコントローラー, Switchプロコンに対応。USBケーブルまたはBluetoothでPC/スマホに接続してください。",
+      "h2_hardware": "振動とトリガーのテスト",
+      "p_hardware": "「振動テスト」ボタンでモーターの動作を確認できます。また、L2/R2トリガーが0%から100%まで滑らかに反応するかもチェックできます。",
+      "h2_technique": "ドリフトの応急処置",
+      "p_technique": "スティックの根元にエアダスターを吹いてゴミを飛ばします。または、ゲーム設定で「デッドゾーン（遊び）」を広げることで、軽度のドリフトは無視できます。"
     }
   },
   "packet_loss": {
-    "h1": "Packet Loss & Ping Test (JA)",
+    "h1": "パケットロス・Ping回線テスト",
     "seo": {
-      "title": "Packet Loss & Ping Test (JA)",
-      "description": "[Localized] Check your internet stability, jitter, and packet loss for gaming."
+      "title": "パケットロス・Pingテスト - ラグの原因を特定",
+      "description": "回線速度は速いのにラグい？パケットロス、Jitter（揺らぎ）、Ping値を測定して、FPSのラグの原因を診断。"
     },
     "content": {
-      "h2_hook": "Why Use This Tool? (JA)",
-      "p_hook": "Localized intro for JA. Topics: Packet loss test, Gaming ping test, Valorant lag fix.",
-      "h2_science": "Technical Details",
-      "p_science": "How it works explanation for JA.",
-      "h2_gaming": "Gaming Applications",
-      "p_gaming": "Usage in games for JA.",
-      "h2_hardware": "Hardware Analysis",
-      "p_hardware": "Hardware specific details for JA.",
-      "h2_technique": "Troubleshooting",
-      "p_technique": "How to fix issues in JA."
+      "h2_hook": "Pingは低いのにカクつく？(ラグ)",
+      "p_hook": "それは「パケットロス」です。ゲームのデータが途中で消えてしまっています。スピードテストだけでは分からない、回線の「品質」と「安定性」を測定します。",
+      "h2_science": "Jitter (ジッター) とは？",
+      "p_science": "Ping値の「揺らぎ」のことです。常に20msの人より、10msと100msを行き来する人の方がラグを感じます。Jitterが高いと敵がワープして見えます。",
+      "h2_gaming": "Wi-Fi vs 有線LAN",
+      "p_gaming": "FPSゲーマーの鉄則：**Wi-Fiでゲームをするな**。無線は電子レンジや壁の影響を受けます。LANケーブル（Cat6a以上）を使うだけで、パケロスはほぼ0になります。",
+      "h2_hardware": "回線診断",
+      "p_hardware": "パケットロスがある場合、ルーターを再起動してください。それでも直らない場合は、プロバイダ（NURO, Auひかり等）側の障害の可能性があります。",
+      "h2_technique": "ラグを減らす方法",
+      "p_technique": "裏で動いているSteamのダウンロードやYouTubeを閉じましょう。Wi-Fiの場合は、5GHz帯を使うと2.4GHz帯より安定します。"
     }
   }
 }
