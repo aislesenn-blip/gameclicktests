@@ -38,6 +38,7 @@
     "keyboard_cluster": "PC/Mobile Check",
     "cps_1s": "1 Second (Burst)",
     "cps_5s": "5 Second Test",
+    "cps_10s": "10 Second Test",
     "cps_60s": "60 Second Challenge",
     "jitter": "Jitter Click Training",
     "butterfly": "Butterfly Click Test",
@@ -115,6 +116,13 @@
       "description": "Gamer standard. 5 second mein kitne clicks? Pro players ka average 12+ CPS hai."
     },
     "h1": "5 SECOND TEST"
+  },
+  "cps_10s": {
+    "seo": {
+      "title": "10 Second CPS Test - Standard Speed Check",
+      "description": "Minecraft aur PvP gaming ke liye standard 10 second test. Apni consistency check karein."
+    },
+    "h1": "10 SECOND TEST"
   },
   "cps_60s": {
     "seo": {
